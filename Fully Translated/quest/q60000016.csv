@@ -1,112 +1,112 @@
-"Jp","En"
-"【ヒント：クラフトの手順】","【Hint: Crafting steps】"
-"①ソニアとの会話メニューから《クラフト》を選択","①Select 《Craft》 from the 
-conversation menu with Sonia"
-"②クラフトメニューで《アイテム生産》を選択","②Select 《Craft Item》 
-in the Crafting Menu"
+Jp,En,speaker
+【ヒント：クラフトの手順】,【Hint: Crafting steps】,Sonia
+①ソニアとの会話メニューから《クラフト》を選択,"①Select 《Craft》 from the 
+conversation menu with Sonia",Sonia
+②クラフトメニューで《アイテム生産》を選択,"②Select 《Craft Item》 
+in the Crafting Menu",Sonia
 "③製作アイテムを選択：そよかぜのリング
 《防具》カテゴリー　→《ジュエリー》
 ※クラフトを行うメインポーンと素材、Ｇが必要","③Select the item to craft: Zephyr Ring
 《Defensive Equipment》Category → 《Jewelry》
-※Requires Main Pawns, materials, and G for crafting"
+※Requires Main Pawns, materials, and G for crafting",Sonia
 "お？　クラフトを引き受けてくれるんだ
 じゃあ、もう一度簡単に説明するよ？","Oh? You're doing crafting then?
-Okay, I'll explain it again, real quick."
+Okay, I'll explain it again, real quick.",Iris
 "知り合いの女の子から《そよかぜのリング》――
 まあ、指輪だけど、それを作って欲しいって
 頼まれてさ","A girl I know wants a Zephyr Ring— 
 you know, it's just a ring, but she
-asked me to craft it for her."
-"ポーンだけがクラフトできる特別な逸品なんだ","It's a special item only Pawns can craft."
+asked me to craft it for her.",Iris
+ポーンだけがクラフトできる特別な逸品なんだ,It's a special item only Pawns can craft.,Iris
 "作り方やなんかの詳しいことはソニアから
 聞いてくれる？","Ask Sonia for details on how to make it,
-okay? She's got all the info."
+okay? She's got all the info.",Iris
 "大階段を下りた広場に
 《クラフトルーム》の入り口があってね――","At the plaza, down the grand staircase,
-there’s the entrance to the Craft Room―"
+there’s the entrance to the Craft Room―",Iris
 "ソニアはそこにいるよ
 じゃ、あとはよろしく！","Sonia will be there.
-Okay, I'll leave the rest to you! Thanks!"
-"まずソニアのところへ行って欲しいんだ","First, I need you to go to Sonia."
+Okay, I'll leave the rest to you! Thanks!",Iris
+まずソニアのところへ行って欲しいんだ,"First, I need you to go to Sonia.",Iris
 "広場の階段の下に《クラフトルーム》の
 入り口があって、ソニアはそこにいるからさ
 クラフトの説明は彼女から聞いてよ","Down the plaza stairs, you'll find the
 Craft Room entrance. Sonia's inside,
-so ask her about crafting, okay?"
+so ask her about crafting, okay?",Iris
 "ようこそ覚者さま
 ここは創造と精錬の《クラフトルーム》です","Welcome, Master Arisen. 
 This is the Craft Room, 
-a place of creation and refinement."
+a place of creation and refinement.",Sonia
 "アイテム、武器防具、そしてアクセサリー
 あなたが必要とする品々を
 わたしたちポーンが製作いたしましょう","Items, weapons, armor, and accessories.
-We, the Pawns, shall craft whatever you require."
-"さあ、何がご入り用ですか？","Now, what do you need?"
+We, the Pawns, shall craft whatever you require.",Sonia
+さあ、何がご入り用ですか？,"Now, what do you need?",Sonia
 "《そよかぜのリング》――
 それは防具のジュエリーですね","《Zephyr Ring》—
-That’s a piece of jewelry under defensive equipment."
+That’s a piece of jewelry under defensive equipment.",Sonia
 "素材のことを知りたい時は
 わたしに話しかけて――
 《クラフトメニュー》の中の
 《アイテム生産》でご確認ください","If you wish to know about the materials,
 speak to me—
-Check under 《Craft Item》 in the 《Craft Menu》"
+Check under 《Craft Item》 in the 《Craft Menu》",Sonia
 "必要な素材はここで手に入りますから
 奥にいるギリアムにご相談ください","You can get the required materials here,
-so please consult with Gilliam in the back."
-"素材が揃ったら、また声をかけてくださいね","Once you have all the materials, 
-speak to me again."
-"《そよかぜのリング》は防具のジュエリーです","《Zephyr Ring》 is a piece of jewelry, 
-under defensive equipment."
+so please consult with Gilliam in the back.",Sonia
+素材が揃ったら、また声をかけてくださいね,"Once you have all the materials, 
+speak to me again.",Sonia
+《そよかぜのリング》は防具のジュエリーです,"《Zephyr Ring》 is a piece of jewelry, 
+under defensive equipment.",Sonia
 "クラフトに必要な素材のことを知りたい時は
 わたしに話しかけて――
 《クラフトメニュー》の中の
 《アイテム生産》で確認できます","If you wish to know the materials needed for crafting,
 speak to me—
 You can check under 《Craft Item》 
-in the 《Crafting Menu.》"
+in the 《Crafting Menu.》",Sonia
 "必要な素材がわかったら
 奥にいるギリアムとマコーミックに
 ご相談ください","Once you know the required materials,
 consult with Gilliam and McCormick
-in the back."
-"素材がすべて揃ったら、また声をかけてくださいね","Once you have all the materials,
-speak to me again."
+in the back.",Sonia
+素材がすべて揃ったら、また声をかけてくださいね,"Once you have all the materials,
+speak to me again.",Sonia
 "あぁ、新顔の覚者様ですね
 おれは素材屋のギリアム
 末永くよろしく頼みますよ","Oh, you must be a new Arisen.
 I'm Gilliam, the material seller.
-Hope we do business for a long time!"
+Hope we do business for a long time!",Gilliam
 "さて――
 《そよかぜのリング》に必要な素材なら
 《青銅鉱》と《ベビーハーブ》ですね","Now then—
 For the Zephyr Ring, you'll need
-Bronze Ore and Baby Herbs."
-"もちろん扱ってますんで、ぜひ買ってくださいね","Of course we carry them, so please buy some."
+Bronze Ore and Baby Herbs.",Gilliam
+もちろん扱ってますんで、ぜひ買ってくださいね,"Of course we carry them, so please buy some.",Gilliam
 "さて――
 《そよかぜのリング》に必要な素材なら
 《青銅鉱》と《ベビーハーブ》ですね","Now then—
 For the Zephyr Ring, you'll need
-Bronze Ore and Baby Herbs."
-"もちろん扱ってますんで、ぜひ買ってくださいね","Of course we carry them, so please buy some."
-"お近づきのしるしにひとつ情報を差し上げましょう","As a token of our new relationship,
-let me share some information."
+Bronze Ore and Baby Herbs.",Gilliam
+もちろん扱ってますんで、ぜひ買ってくださいね,"Of course we carry them, so please buy some.",Gilliam
+お近づきのしるしにひとつ情報を差し上げましょう,"As a token of our new relationship,
+let me share some information.",Gilliam
 "クラフトしたものはそれで終わりではなくて
 どんどん価値を高めることができます","What you craft doesn't end there;
-you can keep increasing its value."
+you can keep increasing its value.",Gilliam
 "もちろん追加で素材が必要になりますが
 そん時はうちの店をよろしく！","Of course, you'll need additional materials.
-When that happens, come to our shop!"
+When that happens, come to our shop!",Gilliam
 "おっと、覚者さん！
 ついに来てくださいましたね
 私はバザー担当のマコーミックです","Oh, Ser Arisen! 
 You have finally come. 
-I am McCormick, in charge of the Bazaar."
-"では一つ助言を――","Let me give you one piece of advice—"
+I am McCormick, in charge of the Bazaar.",McCormick
+では一つ助言を――,Let me give you one piece of advice—,McCormick
 "クラフトでは素材からのアイテム生産以外にも
 いろいろな加工ができますよ","In addition to producing items from materials, 
 crafting allows you to do
-a variety of other processes!"
+a variety of other processes!",McCormick
 "例えば性能を上げる《装備の強化》や
 特殊効果を装備に与える《クレスト装着》、
 他には《カラー変更》なんかもありますね
@@ -114,12 +114,12 @@ a variety of other processes!"
 《Enhance Equipment》 to improve stats,
 《Mount Crest》 to add special effects,
 or even 《Change Color》.
-Do give them a try."
-"では一つ助言を――","Let me give you one piece of advice—"
+Do give them a try.",McCormick
+では一つ助言を――,Let me give you one piece of advice—,McCormick
 "クラフトでは素材からのアイテム生産以外にも
 いろいろな加工ができますよ","In addition to producing items from materials, 
 crafting allows you to do
-a variety of other processes!"
+a variety of other processes!",McCormick
 "例えば性能を上げる《装備の強化》や
 特殊効果を装備に与える《クレスト装着》、
 他には《カラー変更》なんかもありますね
@@ -127,146 +127,146 @@ a variety of other processes!"
 《Enhance Equipment》 to improve stats,
 《Mount Crest》 to add special effects,
 or even 《Change Color》.
-Do give them a try."
+Do give them a try.",McCormick
 "素材が集まったようですね
 では、わたしに話しかけ直して
 《クラフトメニュー》を選んで――","It seems you've gathered the materials.
 Now, speak to me again and select the
-Craft Menu..."
+Craft Menu...",Sonia
 "《クラフト画面》で《アイテム生産》を選んだら
 メインポーンをリーダーに指名して
 生産を始めてみましょう","In the Crafting Screen, select Craft Item,
 then assign a Main Pawn as leader
-to begin production."
+to begin production.",Sonia
 "作業完了までには少し時間がかかります
 もし完了時間が知りたい場合は
 わたしに話しかけ直していただいて
 《クラフトメニュー》を選んで――","It will take some time to finish crafting.
 If you want to know the remaining time,
 please talk to me again and
-select Craft Menu―"
+select Craft Menu―",Sonia
 "その中から《アイテム作成状況》を
 選んでください
 そうすればクラフトが完了する時間が
 わかります","Then choose 《Production Status》.
-This will show you when the crafting will be done."
+This will show you when the crafting will be done.",Sonia
 "完成したアイテムの受け渡しは
 ここでしますから、忘れないでくださいね","Completed items will be handed over
-here, so please don't forget."
+here, so please don't forget.",Sonia
 "いらっしゃいませ、覚者さま
 素晴らしい《そよかぜのリング》が
 完成していますよ","Welcome, Master Arisen. 
-A wonderful Zephyr Ring has been completed."
+A wonderful Zephyr Ring has been completed.",Sonia
 "漏れ聞いたところによると
 この《そよかぜのリング》は
 メイリーフの依頼で作ったのだとか――","I heard that this Zephyr Ring
-was made at Mayleaf's request―"
+was made at Mayleaf's request―",Sonia
 "そういうことであれば
 覚者さまが直々にお届けしてはいかがです？
 きっと喜びますよ","In that case, why not deliver it
-yourself, Master Arisen? She'll be delighted."
+yourself, Master Arisen? She'll be delighted.",Sonia
 "メイリーフをご存知ありませんか？
 商店区で暮らす女の子です","Do you know Mayleaf?
-She's a girl who lives in the Shopping District."
+She's a girl who lives in the Shopping District.",Sonia
 "騎士団の旗のある家ですから
 すぐにわかると思います","It's the house with the Knight's Order flag,
-so you should recognize it right away."
-"メイリーフは商店区で暮らす女の子です","Mayleaf is a girl who lives in
-the Shopping District."
+so you should recognize it right away.",Sonia
+メイリーフは商店区で暮らす女の子です,"Mayleaf is a girl who lives in
+the Shopping District.",Sonia
 "騎士団の旗のある家ですから
 すぐにわかると思います","It's the house with the Knight's Order flag,
-so you should recognize it right away."
+so you should recognize it right away.",Sonia
 "へえ――
 すっごくいいクラフトになったじゃない？
 わたしが欲しいくらい","Wow—this turned out really well,
-didn't it? I almost want it for myself."
+didn't it? I almost want it for myself.",Iris
 "これね、メイリーフって女の子から
 作って欲しいって頼まれたんだ","This was requested by a girl
-named Mayleaf."
+named Mayleaf.",Iris
 "あんた、届けてあげてよ
 メイリーフは商店区にいるから","Hey, why not deliver it to her?
-Mayleaf is in the Shopping District."
+Mayleaf is in the Shopping District.",Iris
 "商店区の、騎士団の旗のある家だから
 きっと、すぐわかるよ","It's the house with the Knight's Order flag,
 in the Shopping District. 
-You can't miss it."
+You can't miss it.",Iris
 "はい――わたしがメイリーフです
 あなたは、どなたですか？","Yes—I'm Mayleaf.
-May I ask who you are?"
+May I ask who you are?",Mayleaf
 "あ！　もしかして《そよかぜのリング》を
 持ってきてくれたんですか？
 あなたのポーンさんが作ったんですね","Oh! Did you bring the Zephyr Ring?
-Your Pawn made it, right?"
+Your Pawn made it, right?",Mayleaf
 "覚者さん、ポーンさん、ありがとうございます
 だけどあの――もう大丈夫だったんです
 なくしていた自分のを見つけたから
 伝えるのが遅れてごめんなさい","Thanks, Ser Arisen, Ser Pawn! 
 But, actually— it’s alright now. 
-I found mine! Sorry for not telling you sooner."
+I found mine! Sorry for not telling you sooner.",Mayleaf
 "だから、それはあなたが使ってください
 わざわざわたしのために作ってくれた――
 そのお気持ちだけでとっても嬉しいです！","So, please use it yourself.
 You went out of your way to make it for me—
-just that thought alone makes me so happy!"
+just that thought alone makes me so happy!",Mayleaf
 "この指輪、つけてると少し元気がでるんです
 覚者さんも身につけてみてくださいね
 きっと似合うとおもいます","This ring gives you a 
 bit of energy when you wear it.
 You should try it on, Ser Arisen. 
-I'm sure it'll suit you."
+I'm sure it'll suit you.",Mayleaf
 "あの――そういえば、覚者さんはイリスと
 仲良しなんですか？
 わたしはとっても仲良しなんです","Um... now that I think about it, Ser Arisen,
 are you friends with Iris? 
-I'm very close with her."
+I'm very close with her.",Mayleaf
 "だから、わたしたちも仲良くできるかも？
 覚者さん、これからもよろしくお願いします","So maybe we can be friends too?
-If you would be so kind, Ser Arisen."
-"わたしたちお友だちになれますよね？","We can be friends, right?"
+If you would be so kind, Ser Arisen.",Mayleaf
+わたしたちお友だちになれますよね？,"We can be friends, right?",Mayleaf
 "わたしはあまり出歩いたら騎士団の方々や
 ジョゼフ様に叱られちゃうんです
 だから覚者さん――","If I wander around too much, the
 Knights or Master Joseph will scold me.
-So..."
+So...",Mayleaf
 "なるべく、会いに来てくださいね
 わたし、楽しみにしちゃいますから","So, please come see me if you can.
-I'll be looking forward to it."
+I'll be looking forward to it.",Mayleaf
 "わざわざありがとうございました、覚者さま
 これを機会にメイリーフと仲良くしてやって
 くださいね","Thank you for taking the time 
 to do this, Master Arisen.
-Please use this opportunity to befriend Mayleaf."
+Please use this opportunity to befriend Mayleaf.",Pamela
 "あ、いろいろありがとうね
 メイリーフは喜んでいた？","Ah, thanks for everything.
-Was Mayleaf happy?"
+Was Mayleaf happy?",Iris
 "――え？　あの子、もうリングを持ってたんだ
 ごめんごめん！　知らなかったよ
 でもほら、クラフトのいい経験になったでしょ？","Huh? She already had the ring?
 Sorry, I didn't know! But hey,
-it was good crafting practice, right?"
+it was good crafting practice, right?",Iris
 "そういえば、またレオがあんたを探してたっけ
 じゃ、わたしは調査に戻るから
 またね","Come to think of it, 
 Leo was looking for you again.
 Well, I'm heading back to my research.
-See you later."
+See you later.",Iris
 "今の装備じゃあ――たしかに不安ね
 これから装備を強化していくには
 クラフト技術を学ぶ必要があるわ","Your current equipment... yeah, it's
 certainly not great. 
 If you want stronger equipment, you'll
-have to learn crafting skills now."
+have to learn crafting skills now.",Iris
 "ただし――技術を学ぶより
 先にクラフトするための物資が必要なの
 そのためにもセネカからワールドクエストにおける
 覚者の基本的なお勤めを学んでね","But first, you'll need materials.
 Complete the World Quest from Seneka
-to learn the Arisen's basic duties."
-"覚者として強くなるための第一歩よ――頑張ってね","This is your first step to becoming
-a stronger Arisen—do your best."
-"【ヒント：覚者のさらなる成長について】","【Hint: Further Growth of the Arisen】"
-"メインポーンが編成可能となり戦力が強化されました","The main pawn can now be summoned, 
-and its power strengthened."
-"覚者のさらなる成長をイリスやセネカから学び<COL ff7575>メインクエスト＜紅の結晶＞</COL>を進めましょう","Learn about the Arisen's growth from 
+to learn the Arisen's basic duties.",Iris
+覚者として強くなるための第一歩よ――頑張ってね,"This is your first step to becoming
+a stronger Arisen—do your best.",Iris
+【ヒント：覚者のさらなる成長について】,【Hint: Further Growth of the Arisen】,Iris
+メインポーンが編成可能となり戦力が強化されました,"The main pawn can now be summoned, 
+and its power strengthened.",Iris
+覚者のさらなる成長をイリスやセネカから学び<COL ff7575>メインクエスト＜紅の結晶＞</COL>を進めましょう,"Learn about the Arisen's growth from 
 Iris and Seneka. Then, proceed with the 
-<COL ff7575>Main Quest <Crimson Crystal>.</COL>"
+<COL ff7575>Main Quest <Crimson Crystal>.</COL>",Iris

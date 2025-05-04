@@ -1,11 +1,11 @@
-"Jp","En"
+Jp,En,speaker
 "よう、その後どうだ？
 ダンジョンの探索は続けてるか？","Hey, how’s it going?
-Still exploring dungeons?"
+Still exploring dungeons?",Isaac
 "またお前に新たな調査の依頼があるんだが――
 そうだ、やることは一緒だ
 お前のことだ、引き受けてくれるんだろう？","I’ve got another investigation request for you—
-Same as before. You’ll take it, right?"
+Same as before. You’ll take it, right?",Isaac
 "今回の調査地候補は
 魔赤島にある《橋向かいの坑道》
 バートランド北部にある《ガルドノック廃水廊》
@@ -14,26 +14,26 @@ Same as before. You’ll take it, right?"
 Bloodbane Isle's The Tunnel across the Bridge,
 Gardnox Wastewater Tunnel in north Betland,
 and Mysterious Mausoleum in Eastern Zandora.
-Pick one of these."
+Pick one of these.",Isaac
 "今回も、エリアマスターのご機嫌を取らなければ
 入れない場所があるようだな
 各地のエリアランクを上げておくのを忘れずにな","As usual, some places require you to
 get on the Area Master’s good side.
-Don’t forget to raise the area ranks first."
+Don’t forget to raise the area ranks first.",Isaac
 "もう３度目だからわかっているだろうが
 ３ヶ所全てを調査する必要はない
 どこか１ヶ所で、最奥の宝箱を調査したら
 俺に報告するんだ、いいな","You know the drill by now—third time’s the charm.
 No need to investigate all three.
 Report back after checking the deepest chest
-in any one location. Got it?"
+in any one location. Got it?",Isaac
 "いいか、もう一度説明するぞ
 これから言う調査地に潜り
 最奥の宝箱を調査する
 ――お前がやるのはこれだけだ","Listen up, I'll explain one more time.
 Infiltrate a site I'm about to name
 and investigate the deepest treasure chest.
-That's all you have to do."
+That's all you have to do.",Isaac
 "今回の調査地候補は
 魔赤島にある《橋向かいの坑道》
 バートランド北部にある《ガルドノック廃水廊》
@@ -42,40 +42,40 @@ That's all you have to do."
 Bloodbane Isle's The Tunnel across the Bridge,
 Gardnox Wastewater Tunnel in north Betland,
 and Mysterious Mausoleum in Eastern Zandora.
-Pick one of these."
+Pick one of these.",Isaac
 "各地のエリアマスターのご機嫌をとっておくのを
 忘れないようにな","Don’t forget to stay on the Area Masters’
-good side in each region."
+good side in each region.",Isaac
 "毎度のことだが、３ヶ所全てを調査する必要はない
 どこか１ヶ所で、最奥の宝箱を調査したら
 俺に報告するんだ、いいな","Same as always—no need to check all three.
 Just investigate the deepest chest in one spot
-then report back. Understand?"
-"よし、今回もつつがなく調査を終えたようだな","Good, you’ve wrapped up this investigation
-without a hitch."
+then report back. Understand?",Isaac
+よし、今回もつつがなく調査を終えたようだな,"Good, you’ve wrapped up this investigation
+without a hitch.",Isaac
 "次回はさらに難易度の高い調査地の依頼が来るだろう
 困難を乗り越える者の眼前には
 より高い壁が打ち立てられるのが常だ","Next time, you'll receive requests for 
 survey sites with even higher difficulty. 
 It's always the way that those who overcome 
 hardships will find even greater obstacles 
-erected before their eyes."
+erected before their eyes.",Isaac
 "何せ神殿がそれを望んでるんだ――
 もしくはお前自身が望んでいるのかも知れないが――
 俺はとにかく手筈を整えるだけだ","The temple wills it—
 or perhaps you yourself desire it—
-I merely set the stage."
+I merely set the stage.",Isaac
 "それと、前にも言ったかもしれないが
 《スポット情報》を見れば
 どのダンジョンにどの素材があるか
 確認をすることが出来るから覚えておくんだな","Also, I might have said this before,
 but check Spot Info to see which
 dungeons have which materials.
-Remember that."
+Remember that.",Isaac
 "宝箱を調査して集めた素材で作った装備品は
 今後必ず役に立つ時が来る
 何度も調査を繰り返して素材を集め、武器を強化しろ
 ――未来は過去の積み重ねだ","Gear crafted from treasure chest materials
 will prove its worth when needed.
 Keep gathering, keep improving—
-the future is built piece by piece."
+the future is built piece by piece.",Isaac

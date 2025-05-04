@@ -1,191 +1,191 @@
-"Jp","En"
-"【ヒント：ワールドクエスト情報の見方】","【Hint: How to read World Quest Info】"
-"①エリアマスターに話し、《エリア情報》を選択","①Talk to the Area Master and select 《Area Information》"
-"②メニューから《ワールドクエスト情報》を選択","②Select 《World Quest Info》 from the Menu"
+Jp,En,speaker
+【ヒント：ワールドクエスト情報の見方】,【Hint: How to read World Quest Info】,Alfred
+①エリアマスターに話し、《エリア情報》を選択,①Talk to the Area Master and select 《Area Information》,Alfred
+②メニューから《ワールドクエスト情報》を選択,②Select 《World Quest Info》 from the Menu,Alfred
 "③リストから見たいクエストの詳細を確認
 ※《未公開クエスト》は情報料が必要ですが
 　報酬にボーナスが得られます","③Check the details of the quest from the list.
 ※《Undiscovered Quests》 require a fee but
-grant bonus rewards."
+grant bonus rewards.",Alfred
 "いよいよワールドクエストに挑めますね！
 あらためて、私、セネカと申します
 各地のエリアマスターからの目撃情報を
 ニュースの中で紹介させてもらってます！","You're finally ready to take on World Quests!
 Let me introduce myself again, I'm Seneka.
 I share eyewitness reports from Area Masters
-across the land in my news segments!"
+across the land in my news segments!",Seneka
 "魔物の討伐、物品の調達――
 いろんな問題を抱えた人たちが
 世界のあちこちで助けを待っています","Monster subjugation, item procurement...
 People with all sorts of problems
-are waiting for help all over the world."
+are waiting for help all over the world.",Seneka
 "世界でどんな事件や問題が起こって
 いるかは、私が扱っている
 《レスタニアニュース》をご覧ください","To learn about events and issues happening
 around the world, check out my
-《Lestania News》 articles."
+《Lestania News》 articles.",Seneka
 "レスタニアニュースは私との会話はもちろん
 覚者さまのお手元、《ゲームメニュー》の
 クエストからいつでも確認できますよ","You can check Lestania News by talking to me
 or anytime from the 《Game Menu》
-under Quests, Master Arisen."
+under Quests, Master Arisen.",Seneka
 "では、さっそくニュースを開いて
 どんな情報が載っているか見てみてください！","Now, open the news and see
-what information is available!"
+what information is available!",Seneka
 "《レスタニアニュース》は私との会話はもちろん
 覚者さまのお手元、《ゲームメニュー》の
 クエストからいつでも確認できますよ","《Lestania News》 can be checked by talking to me
 or anytime from the 《Game Menu》
-under Quests, Master Arisen."
+under Quests, Master Arisen.",Seneka
 "では、さっそくニュースを開いて
 どんな情報が載っているか見てみてください！","Now, open the news and see
-what information is available!"
+what information is available!",Seneka
 "そうそう、詳しい情報は各地のエリアマスターから
 購入する事で得られるはずですよ！
 まずはテル村のアルフレド――
 もう会ったことありますよね","Oh yes, detailed info can be obtained by
 purchasing it from Area Masters!
 Start with Alfred in Tel Village...
-you've met him already, right?"
+you've met him already, right?",Seneka
 "私の方からワールドクエスト情報の
 扱いについて教示をお願いしておいたので
 一度、おたずねくださいませ","I've asked them to explain how to handle
 World Quest Info, so please
-go and ask them about it."
+go and ask them about it.",Seneka
 "最新情報を確認して依頼を受け、解決する――
 一連のお仕事の流れが
 よくお分かりになると思います
 私の情報の正確さも、解っていただけますしね","Check the latest info, accept requests,
 and solve them—I'm sure you understand
 the workflow by now. You can also trust
-the accuracy of my information."
+the accuracy of my information.",Seneka
 "各地から集まった目撃情報を
 ニュースで把握したら
 現地のエリアマスターを訪ねて
 確認してみてください","When you learn about sightings from
 various areas in the news, visit the
-local Area Master to verify them."
+local Area Master to verify them.",Seneka
 "そこで起きている問題はさまざまです
 一人ではかなわない強敵がいることもあるでしょう","The problems there vary. Some foes 
-might be too strong to face alone."
+might be too strong to face alone.",Seneka
 "そんな時は冒険仲介人であるエミリアさんに
 相談すると他の覚者さまを仲介してもらえます！
 覚者さま同士でも、礼儀は大切に！","In such cases, 
 consult Emilia, the adventure broker, 
 and she can arrange for another Arisen to
 assist you! 
-Remember to be polite, even with fellow Arisen!"
+Remember to be polite, even with fellow Arisen!",Seneka
 "こんにちは覚者さま
 私は冒険の仲間を仲介して覚者様を
 サポートするエミリアと申します","Hello, Master Arisen. 
 I am Emilia, here to support the Arisen by 
-brokering companions for your adventures."
+brokering companions for your adventures.",Emilia
 "どんな強敵や問題でも、共に闘う者がいれば
 乗り越える事ができるはずです","No matter how strong the enemy or how
 tough the problem, having allies
-by your side will help you overcome it."
+by your side will help you overcome it.",Emilia
 "そんな時は各拠点にいる冒険仲介係の
 私たちに話しかけて――
 会話選択の中から《パーティー編成》を
 選んで仲間を雇ってください","In such cases, talk to us, the Adventure Brokers
 at each location. 
 From the conversation options,
-select 《Party Creation》 to hire companions."
-"素敵な仲間と出会える事を願っていますわ","I hope you find wonderful companions."
+select 《Party Creation》 to hire companions.",Emilia
+素敵な仲間と出会える事を願っていますわ,I hope you find wonderful companions.,Emilia
 "素敵な仲間との冒険はできていますか？
 問題解決ができたならきっとそうなのでしょう","Are you adventuring with great companions?
-If you've solved problems, then surely so."
+If you've solved problems, then surely so.",Emilia
 "ちなみに《パーティー編成》は
 《ゲームメニュー》からも
 いつでもできちゃうんですけど――","By the way, you can do 《Party Creation》
 from the 《Game Menu》 anytime,
-though――"
+though――",Emilia
 "覚者さまに素敵な仲間を仲介できるように
 これからもサポートしますので
 いつでも話しかけてくださいね","I'll continue to support you so you can
 find great companions, Master Arisen.
-Feel free to talk to me anytime."
+Feel free to talk to me anytime.",Emilia
 "ああ、貴君か
 また何か用かな？","Ah, it's you.
-Something else you require?"
+Something else you require?",Alfred
 "――なるほど、セネカからの件か
 ではいよいよワールドクエストに
 挑むことになるのだな、頼もしい限りだ","--I see, it's about the matter from Seneka.
 So, you will finally be challenging the 
-World Quest, then. Most commendable."
+World Quest, then. Most commendable.",Alfred
 "我々エリアマスターが提供する
 《ワールドクエスト情報》を利用するといい
 ニュースで公開されているクエスト情報を
 より詳しく確認できるのだ","Consider using the《World Quest Info》
 that we, the Area Masters provide.
 It lets you get a more in-depth look at
-the quest details shared in the news."
+the quest details shared in the news.",Alfred
 "まずは公開済みのクエスト情報を
 確認するのがいいだろう
 起きている場所、報酬について知ることができる","First, it would be good to check the published
 quest information. You can learn about
-where it is taking place and the rewards."
+where it is taking place and the rewards.",Alfred
 "ただし、あくまで我々が扱うのは情報のみだ
 実際に受注するには、貴君自身が現地へ向かう
 必要がある――まぁ、見てもらうのが早いな","Just remember, we're only 
 providing information here.
 You'll have to go to the actual 
 location yourself to take on the quest.
---But, you know, it's easier to just show you."
+--But, you know, it's easier to just show you.",Alfred
 "わたしとの会話選択で《エリア情報》を選び
 知りたい《ワールドクエスト情報》を
 確認してみてくれ","Select 《Area Information》 when you talk to me,
 then select the 《World Quest Info》 you want.
-Please take a look."
+Please take a look.",Alfred
 "わたしとの会話選択で
 《エリア情報》の中の《ワールドクエスト情報》
 から知りたい情報を確認してみてくれ","Select 《Area Information》 in our conversation,
 then choose 《World Quest Info》
-to check the details you need."
+to check the details you need.",Alfred
 "今このエリアでどんなワールドクエストが
 起こっているか、多くの情報が得られるはずだ","You should be able to find out what kinds of
-World Quests are currently in this area."
+World Quests are currently in this area.",Alfred
 "《ワールドクエスト情報》は確認できたか？
 各拠点で発生するワールドクエストは
 違うからぜひ挑んでみてくれ","Did you check the World Quest Info?
 Each location has different World Quests,
-so I hope you'll give them a try."
+so I hope you'll give them a try.",Alfred
 "それともうひとつ
 《未公開クエスト情報》には情報料が必要だが
 解決すれば、得られる報酬もより良くなるのだ","And one more thing:
 《Undiscovered Quests Information》 requires 
 you to pay an information fee, 
-but solving them yields better rewards."
+but solving them yields better rewards.",Alfred
 "情報購入は利用せず
 貴君が足を使って探しだすのも結構だ","You don't have to buy info.
-Finding things out on your own is fine too."
+Finding things out on your own is fine too.",Alfred
 "貴君がエリアの問題を解決し《名声》を
 上げたなら
 わたしからもさらなる支援と協力を約束しよう","Once you've solved the issues in the area and 
 increased your reputation, I'll pledge further 
-aid and assistance from my side."
+aid and assistance from my side.",Alfred
 "説明は以上だ
 ではさっそく、ハイデル平原のワールドクエストを
 どれか一つ解決してみてくれ","That's all for the explanation.
 Now, go ahead and solve one of the
-World Quests in Hidell Plains."
+World Quests in Hidell Plains.",Alfred
 "解決が難しい場合は――
 情報を買った上で、挑みやすそうな
 クエストを選んで向かうか
 仲間を変えて向かうか――だろうな","If you find it too challenging—
 Try getting info first, then either pick
 an easier-looking quest or rearrange
-your party and try again."
+your party and try again.",Alfred
 "我々テルの組合にも
 ナサニエルという冒険仲介係が下にいる
 必要なら、彼と話し仲間を募るといい","At our inn in Tel, we have an adventure
 broker named Nathaniel working for us. If
-needed, talk to him to recruit companions."
+needed, talk to him to recruit companions.",Alfred
 "クエスト別の推奨レベルが
 自分のジョブレベル、装備のレベルと同等なら
 そこそこやれるはずだ――目安にしてみてくれ","If a quest's Recommended Level matches
 your Job Level and Equipment Level, you should
-be able to handle it. Use that as a guide."
+be able to handle it. Use that as a guide.",Alfred
 "ただし推奨レベルが同等だからといって
 一人では厳しいだろう
 そこは自力の力だけで解決しようとせず
@@ -193,70 +193,70 @@ be able to handle it. Use that as a guide."
 matches yours, going alone will likely
 be challenging. Rather than trying to
 solve it just by yourself, 
-seek help from allies or pawns."
+seek help from allies or pawns.",Alfred
 "ワールドクエストへの挑戦
 お疲れ様です
 私はテル村での冒険仲介係の
 ナサニエルと申します","Good work taking on the World Quest.
 I'm Nathaniel, the Adventure Broker
-here in Tel Village."
+here in Tel Village.",Nathaniel
 "ここでも仲間を雇う事ができますので
 いつでもご相談ください
 ポーンを雇いたい場合は
 リムストーンからも簡単に雇えますよ","You can hire allies here any time.
 To hire Pawns, you can also easily do it 
-from Riftstones."
+from Riftstones.",Nathaniel
 "他の拠点でも、冒険仲介係がいる時は
 ぜひ探してご利用くださいませ
 では良きご活躍を、覚者さま","Other locations have Adventure Brokers too,
-so seek them out. Good luck, Master Arisen."
+so seek them out. Good luck, Master Arisen.",Nathaniel
 "おお！！　さすがは貴君だ
 ワールドクエストを無事解決したようだな
 クエストはニュースに掲載されてる間であれば
 何度でも挑戦できるのだ","Oh!! As expected of you. You've successfully
 completed the World Quest. You can attempt
 the quest as many times as you want while
-it's still featured in the news."
+it's still featured in the news.",Alfred
 "もらえる報酬はクリアするたびに変わる上
 エリアでの名声も上がるばかり
 貴君にとってはいいことずくめだろう","The rewards you get will change with each
 clear, and your area reputation only goes up.
-It's all upside for someone like you, I'd say."
+It's all upside for someone like you, I'd say.",Alfred
 "ワールドクエストをクリアし
 名声が上がればわたしを訪ねてくれ
 エリアランクに応じた支援を約束する","Clear the World Quest and come see me
 when your reputation rises. I promise
-support according to your Area Rank."
+support according to your Area Rank.",Alfred
 "では、セネカにもよろしく伝えておいてくれ
 今度、一度また食事でも――と
 ――ん、イリスには内密に頼む","Give Seneka my best, alright? 
 And tell her I was thinking we should
 get dinner again sometime. 
-But, uh, keep it quiet from Iris."
+But, uh, keep it quiet from Iris.",Alfred
 "もらえる報酬はクリアするたびに変わるうえ
 エリアでの名声も上がるばかり
 貴君にとってはいいことずくめだろう","Rewards change each time you clear,
 and your reputation in the area keeps rising.
-It's all good for you."
+It's all good for you.",Alfred
 "今の貴君の手にはあまるだろうが
 このテルとハイデルの問題についても
 時がくれば詳しく話そう","I know it's too much for you right now,
 but we'll talk more about the issues
-with Tel and Hidell when the time comes."
+with Tel and Hidell when the time comes.",Alfred
 "では、セネカにもよろしく伝えておいてくれ
 今度、一度また食事でも――と
 ――ん、イリスには内密に頼む","Give Seneka my best, alright? 
 And tell her I was thinking we should
 get dinner again sometime. 
-But, uh, keep it quiet from Iris."
+But, uh, keep it quiet from Iris.",Alfred
 "無事に問題解決できたようですね！
 私の情報が正しいことが解ってもらえて
 よかったです！","Seems the problem's solved! Great work!
-I'm pleased my information was helpful!"
+I'm pleased my information was helpful!",Seneka
 "各拠点で発生するワールドクエストを
 クリアする事で、エリアでの名声度があがり
 エリアランクも上がっていきます","Clearing World Quests in each location
-raises your Reputation and Area Rank."
+raises your Reputation and Area Rank.",Seneka
 "また一度クリアしたクエストも
 ニュースに掲載されている間は――
 何度もクリアする事で
@@ -264,21 +264,21 @@ raises your Reputation and Area Rank."
 can be replayed while they're featured
 in the news. Clearing them multiple times
 lets you earn different rewards each time,
-so it's a great deal!"
+so it's a great deal!",Seneka
 "さらに！
 他の覚者が誰もクリアしてない
 未公開のクエストを解決したら
 報酬も多めにもらえます！","Also! If you solve an undiscovered quest
 no other Arisen has cleared yet,
-you'll get bigger rewards!"
+you'll get bigger rewards!",Seneka
 "レスタニアで起こる――これらの最新情報を
 お届けできるようサポートいたします
 これからも、よろしくお願いします！","I'll support you by delivering the latest
 news about what's happening in Lestania.
-Looking forward to working with you!"
+Looking forward to working with you!",Seneka
 "では、さっきは邪魔しちゃったみたいなんで
 イリスさんにもよろしくお伝えください！","Well, I guess I interrupted you earlier.
-Please give my best wishes to Iris!"
+Please give my best wishes to Iris!",Seneka
 "何か、覚者さまに別の用事が
 あるみたいですよ","It seems someone else has some business
-for you, Master Arisen."
+for you, Master Arisen.",Seneka

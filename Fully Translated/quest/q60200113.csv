@@ -1,84 +1,84 @@
-"Jp","En"
+Jp,En,speaker
 "ほう、白竜様からの力は受け取っておる
 今回もお前さんにこの技を伝えるかどうか
 わしに品定めしろということじゃな","Indeed, the White Dragon's might flows through me.
 Now I must assess whether you
-are ready to inherit this art."
+are ready to inherit this art.",Rudolfo
 "どれほど護り、鍛えてきたか――
 実戦で見せてもらうことにしようかの
 試練の場で落ち合おうぞ","How much you have protected and trained—
 Let me see it in actual combat.
-Let us meet at the trial grounds."
+Let us meet at the trial grounds.",Rudolfo
 "――試練の場である＜<STG 581>＞じゃが
 <AREA 8>のエリアランクが
 足りないと入れんからの
 出発前に確認しておくのじゃぞ","--This is the trial ground <<STG 581>>,
 but if your Rank in <AREA 8> is not
 high enough, you cannot enter.
-Check before departing."
+Check before departing.",Rudolfo
 "どれほど護り、鍛えてきたか――
 実戦で見せてもらうことにしようかの
 試練の場で落ち合おうぞ","How much you have protected and trained—
 Let me see it in actual combat.
-Let us meet at the trial grounds."
+Let us meet at the trial grounds.",Rudolfo
 "――試練の場である＜<STG 581>＞じゃが
 <AREA 8>のエリアランクが
 足りないと入れんからの
 出発前に確認しておくのじゃぞ","--This is the trial ground <<STG 581>>,
 but if your Rank in <AREA 8> is not
 high enough, you cannot enter.
-Check before departing."
+Check before departing.",Rudolfo
 "来たか
 今回もワシが共に戦場を駆けるとしよう
 さらに近くで見定めさせてもらうぞ","You have come.
 Once more, I shall join you on the battlefield.
-I will observe you closely this time."
+I will observe you closely this time.",Rudolfo
 "お前さんの積み重ねてきた“砦”
-見せてもらおうかの","Let me see how good a ""shield"" you truly are."
-"ほれ、最初の試練が出たぞ","Look, the first trial is here."
+見せてもらおうかの","Let me see how good a ""shield"" you truly are.",Rudolfo
+ほれ、最初の試練が出たぞ,"Look, the first trial is here.",Rudolfo
 "その調子じゃ
 次は第二の試練の場所へ向かうぞ","Good.
-Let us proceed to the second trial."
-"見つけたか、これが第二の試練じゃ","You've located it... the second trial awaits."
-"よしよし、次が最後の試練じゃ","Good, good.
-The next one is the final trial."
-"これが最後の試練じゃぞ！","This is your last test!"
+Let us proceed to the second trial.",Rudolfo
+見つけたか、これが第二の試練じゃ,You've located it... the second trial awaits.,Rudolfo
+よしよし、次が最後の試練じゃ,"Good, good.
+The next one is the final trial.",Rudolfo
+これが最後の試練じゃぞ！,This is your last test!,Rudolfo
 "お前さんの戦いぶり、その精神力
 しかと見届けた！
 新たな技の継承の儀式は灯台に戻って行おうかの","Your battle prowess and indomitable will -
 I've seen them with my own eyes!
 Now to the lighthouse we return,
-for the rite of the technique."
+for the rite of the technique.",Rudolfo
 "お前さんの戦いぶり、その精神力
 しかと見届けた！","Your battle prowess and indomitable will -
-I've seen them with my own eyes!"
+I've seen them with my own eyes!",Rudolfo
 "新たな技の継承の儀式は灯台に戻って行おうかの
 ――さて、帰るとするか","Let us return to the lighthouse for the rite
-of inheriting the new technique."
+of inheriting the new technique.",Rudolfo
 "精神力でもって敵の力すら利用し
 己自身を盾として皆を守る者
 ――そんなシールドセージに
 お前さんは確かに近づいておるようじゃ","Using willpower to turn enemy force against itself,
 standing as a living shield for others -
 you're growing ever nearer
-to becoming a true Shield Sage."
+to becoming a true Shield Sage.",Rudolfo
 "白竜様から賜りしこの技を使うにふさわしい
 これからもよく護り、よく鍛えるようにな","You are worthy to wield this technique granted
 by Lord White Dragon. 
-Continue to protect and hone your skills."
-"シールドセージはみなの砦であり灯台でもあるぞ","A Shield Sage is both a fortress 
-and a beacon for all."
-"敵の攻撃を受け止め、反撃の力とするのじゃ","Let the enemy's blow be caught
-and become your returning might."
-"敵の弱点属性を見極めることが大事じゃぞ","It's important to identify the enemy's weaknesses."
-"味方がいるなら、その能力も把握しておくんじゃ","If you have allies, be sure to understand
-their abilities as well."
-"属性を見極めた者が戦いを制するのじゃ","Those who discern these attributes 
-will control the battle."
-"敵の弱点属性は把握しておるか？","Have you grasped the enemy's weaknesses?"
-"攻守の切替は自分にあった間合いをとるのじゃ","Switching between offense and defense requires
-finding your own optimal distance."
-"状態異常を与えるタイミングも大事じゃな","Timing to inflict status ailments is also important."
-"攻撃を防御してフォースバーストが基本じゃ","Defending attacks to build 
-Force Burst is fundamental."
-"敵の動きを見極めることが肝心じゃ","It's crucial to read the enemy's movements."
+Continue to protect and hone your skills.",Rudolfo
+シールドセージはみなの砦であり灯台でもあるぞ,"A Shield Sage is both a fortress 
+and a beacon for all.",Rudolfo
+敵の攻撃を受け止め、反撃の力とするのじゃ,"Let the enemy's blow be caught
+and become your returning might.",Rudolfo
+敵の弱点属性を見極めることが大事じゃぞ,It's important to identify the enemy's weaknesses.,Rudolfo
+味方がいるなら、その能力も把握しておくんじゃ,"If you have allies, be sure to understand
+their abilities as well.",Rudolfo
+属性を見極めた者が戦いを制するのじゃ,"Those who discern these attributes 
+will control the battle.",Rudolfo
+敵の弱点属性は把握しておるか？,Have you grasped the enemy's weaknesses?,Rudolfo
+攻守の切替は自分にあった間合いをとるのじゃ,"Switching between offense and defense requires
+finding your own optimal distance.",Rudolfo
+状態異常を与えるタイミングも大事じゃな,Timing to inflict status ailments is also important.,Rudolfo
+攻撃を防御してフォースバーストが基本じゃ,"Defending attacks to build 
+Force Burst is fundamental.",Rudolfo
+敵の動きを見極めることが肝心じゃ,It's crucial to read the enemy's movements.,Rudolfo

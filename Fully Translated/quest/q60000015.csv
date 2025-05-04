@@ -1,37 +1,37 @@
-"old","new"
+old,new,speaker
 "覚者様、あの――
 このところ、少し気になっていることが
 ございます","Ser Arisen, excuse me...
-There's something that's been on my mind lately."
+There's something that's been on my mind lately.",Ophelia
 "私はこの場所で多くの覚者様を見守っているの
 ですが、何と言いましょうか
 最近、お洒落でハイセンスな着こなし上手の
 覚者様が、多くなったように思うのです","I've watched over many Arisen here,
 but how should I put it...
 Lately, I feel like there are more
-stylish Arisen with a great fashion sense."
+stylish Arisen with a great fashion sense.",Ophelia
 "きっとなにか秘密があるに違いありません
 もし覚者様もお洒落に興味がおありでしたら
 一度お調べになってはいかがでしょうか","There must be some secret to it.
 If you're interested in fashion as well,
-perhaps you should look into it."
+perhaps you should look into it.",Ophelia
 "バザー商のメルが、お洒落アイテムや着こなしに
 明るいと聞いたことがあります
 彼女なら何か知っているかもしれません","I've heard that Mel the Bazaar merchant is
 knowledgeable about fashion items and styling.
-She might know something about it."
-"【ヒント：着飾り装備解放】","【Hint: Unlocking Dress Equipment】"
-"《着飾り装備》解放クエストが受注可能になりました","The quest to unlock 《Dress Equipment》
-is now available."
-"竜の礎付近にいるオフィリアに話しかけましょう","Talk to Ophelia near the Dragon's Portcrystal."
+She might know something about it.",Ophelia
+【ヒント：着飾り装備解放】,【Hint: Unlocking Dress Equipment】,Ophelia
+《着飾り装備》解放クエストが受注可能になりました,"The quest to unlock 《Dress Equipment》
+is now available.",Ophelia
+竜の礎付近にいるオフィリアに話しかけましょう,Talk to Ophelia near the Dragon's Portcrystal.,Ophelia
 "覚者様、もし着こなしに興味がおありでしたら
 バザー商のメルにお話を聞いてみては
 いかがでしょうか","Ser Arisen, if you're interested in fashion,
 perhaps you could ask Mel the Bazaar merchant
-about it."
+about it.",Ophelia
 "あら、何かしら
 覚者さまが私に聞きたいこと？","Oh my, what is it?
-Do you have something to ask me, Ser Arisen?"
+Do you have something to ask me, Ser Arisen?",Mel
 "――お洒落の秘訣ですか
 そうねぇ、やっぱり着合わせや
 流行のアクセサリ―かしら
@@ -39,150 +39,150 @@ Do you have something to ask me, Ser Arisen?"
 Well, I suppose it's about coordination
 and accessories that are in style.
 My kind of fashion revolves around
-small items like sandals and pouches."
+small items like sandals and pouches.",Mel
 "そういえば、最近は性能よりも
 見た目が素敵な装備の材料になる
 素材取引が前より多くなってきたの","Now that I think of it, lately there've been
 more trades for materials that aren't about
-performance but appearance."
+performance but appearance.",Mel
 "そうだわ、もしかしたらクラフトルームの
 ソニアさんがそのあたりの事情について
 詳しいかもしれないわ
 あの人、私よりずっとお洒落だし","Oh, right. Sonia in the Craft Room might
 know more about that sort of thing.
-She's much more stylish than I am."
+She's much more stylish than I am.",Mel
 "お洒落な着合わせのことについて
 クラフトルームのソニアさんに
 聞いてみてはどうかしら","If you're curious about coordinating style,
-perhaps you could ask Sonia in the Craft Room."
+perhaps you could ask Sonia in the Craft Room.",Mel
 "見た目が素敵な装備の人気が出た理由
 あの人なら知ってるかもしれないですよ","She might know the reason behind the
-popularity of visually appealing equipment."
+popularity of visually appealing equipment.",Mel
 "まぁ、覚者さま
 お洒落についての相談、でございますか？","Oh, Master Arisen,
-are you consulting me about fashion?"
+are you consulting me about fashion?",Sonia
 "えっ――！？
 私が神殿でも指折りの美人など
 とんでもないことでございます！","What...!?
 To call me one of the greatest beauties
-in the Temple is preposterous!"
+in the Temple is preposterous!",Sonia
 "ですが、確かにこのところ、大胆な鎧や
 魅力的な装備を製作される覚者さまが
 増えているのは事実です","But it's true that lately, more Arisen have been
-crafting bold armor and charming equipment."
+crafting bold armor and charming equipment.",Sonia
 "しかし残念ですが
 私はその理由までは存知あげません
 ――しかし、そういえば","Unfortunately, I don't know the reason myself.
-...But now that you mention it."
+...But now that you mention it.",Sonia
 "覚者ファビオ様のポーン、コーネリアは
 以前もっと厳めしい鎧をつけていたのです","Fabio's pawn, Cornelia, used to wear
-much sterner armor before."
+much sterner armor before.",Sonia
 "それがいつの間にか
 能力は変わっていないにも関わらず
 あのようなすっきりとした身なりになっておりました","But before I knew it, 
 she had changed into a sleeker outfit,
-despite no change in ability."
+despite no change in ability.",Sonia
 "不思議に思い
 ファビオ様に尋ねたことがあったのですが
 私には教えていただけませんでした","I was curious and asked Fabio about it,
-but he wouldn't tell me."
+but he wouldn't tell me.",Sonia
 "コーネリア本人にその秘密を聞いてみては
 いかがでしょうか？","Perhaps you could ask Cornelia herself
-about the secret."
+about the secret.",Sonia
 "着合わせの秘密についてでしたら
 コーネリアに聞いてみてはいかがでしょうか","If it's about the secrets of styling,
-you might want to ask Cornelia."
+you might want to ask Cornelia.",Sonia
 "おそらく何か方法を知っているはずで
-ございます","She probably knows something about it."
+ございます",She probably knows something about it.,Sonia
 "――む！？
 おまえも着こなしの秘訣を
 聞きにきたのか","Huh!?
-You wanna learn the secret to my style too?"
+You wanna learn the secret to my style too?",Cornelia
 "承知した
 覚者よ、おまえは見る目がある者のようだ
 この術について伝えよう","I shall comply, Arisen.
 Seems you have a good eye for this.
-Allow me to impart this technique to you."
+Allow me to impart this technique to you.",Cornelia
 "ファビオ様は、ある日私に不思議な術で
 鎧の上からこの鎧を“さらに着せた”のだ
 あっという間のことだった――","One day, Master Fabio used a strange technique
 to ""layer"" this armor over my existing one.
-It happened all in an instant..."
+It happened all in an instant...",Cornelia
 "そして、こう言われた
 「こだわりは胸当てと編み上げレギンスだ
 　このセンスが分かる、見る目がある奴には
 　術について教えてやってもいいぞ」と","And then he said,
 ""The key is the chest piece and lace-up leggings.
 If you have the eye to appreciate these things,
-I might teach you the art."""
+I might teach you the art.""",Cornelia
 "この術は《着飾り装備の術》と言うらしい
 もともと魔女達が本来の外見を覆い
 他者を惑わすために編み出した技だそうだ","This art is called 《Dress Equipment Art》
 apparently, witches devised it to conceal
-their true appearances and deceive others."
+their true appearances and deceive others.",Cornelia
 "技の伝授は、ミスリウ森林の奥
 一軒家に住む魔女エメラダから受けられる
 覚者よ、技の習得を望むなら彼女に会いに行くといい","To learn the art, seek the witch Emerada
 in a lone house deep in the Mysree Forest.
-Arisen, if you wish to master it, go to her."
+Arisen, if you wish to master it, go to her.",Cornelia
 "着合わせの技《着飾り装備の術》
 を学びたければ、魔女エメラダを訪ねるといい","If you wish to learn the《Dress Equipment Art》
-then seek the witch Emerada."
+then seek the witch Emerada.",Cornelia
 "彼女の家は、ミスリウ森林の奥
-ひっそりと建つ一軒家だ","Her house stands quietly deep in the Mysree Forest."
+ひっそりと建つ一軒家だ",Her house stands quietly deep in the Mysree Forest.,Cornelia
 "ふふふ、あらどうしたの？
 あたくしに教えてほしいことですって？","Hehehe, my oh my, what brings you here?
-Do you seek forbidden knowledge?"
+Do you seek forbidden knowledge?",Emerada
 "ああ、言わなくても分かるわ
 《着飾り装備の術》についてね
 近頃ちらほら、それを聞きに訪れる覚者がいるのよ","Ahh, you needn't say a word.
 It's about the《Dress Equipment Art 》isn't it?
-Lately, some Arisen have come asking about it."
+Lately, some Arisen have come asking about it.",Emerada
 "いいわよ、教えてあげても
 ――でも、その前に","Very well, I'll teach it you.
-But first..."
+But first...",Emerada
 "ちょうど、魔道書を作るのに足りない
 素材があるの
 それを調達してきてくれるかしら","I'm missing some raw materials
 to make a grimoire.
-Could you gather them for me?"
+Could you gather them for me?",Emerada
 "《魔力のスクロール》を5個よ
 持ってきてくれたら術について
 教えてあげるわ、手とり足とりね","Upon the arrival of 5 《Scrolls of Sorcery》,
 I'll teach you everything about the technique.
-Step by step, hand in hand."
-"よろしくお願いね","I'm counting on you."
+Step by step, hand in hand.",Emerada
+よろしくお願いね,I'm counting on you.,Emerada
 "必要なのは《魔力のスクロール》を5個よ
 それをあたくしに渡してくれたら
 教えてあげるわ","I need you to bring me 5 《Scrolls of Sorcery》.
-Hand them over, and I'll teach you the technique."
+Hand them over, and I'll teach you the technique.",Emerada
 "あなたをより魅力的にする
 《着飾り装備の術》をね","The 《Dress Equipment Art 》
-that will make you more attractive."
+that will make you more attractive.",Emerada
 "あたくしのドレスも、本当の形は
 とんでもない魔道衣なのよ
 そうは見えないでしょう？","Even my dress, in its true form,
 is a fearsome magic robe in disguise.
-Hard to tell, isn't it?"
+Hard to tell, isn't it?",Emerada
 "たしかに、頼んだものに間違いないようね
 ありがとう","Yes, these are exactly what I asked for.
-Thank you."
+Thank you.",Emerada
 "さぁ約束の《着飾り装備の術》を
 伝授してあげるわ","Now, as promised, I'll teach you
-the 《Dress Equipment Art 》."
+the 《Dress Equipment Art 》.",Emerada
 "“汝が手に触れし衣よ、
 　包み重なりてその姿を変えよ――”","""Let the garments thou toucheth,
-Be layered and transformed in appearance..."""
+Be layered and transformed in appearance...""",Emerada
 "――はい、これで伝授は終了
 装備を身に付ける時に、《着飾り装備》
 が選べるようになっているわ","...There, the lesson is complete.
 Now, when equipping gear,
-《Dress Equipment》can now be selected."
+《Dress Equipment》can now be selected.",Emerada
 "本来の装備の上から、見た目のみを
 反映したい装備を重ねて着る技――
 そう理解してくれればいいわ","It's a technique to layer appearances
 over your actual equipment.
-That's all you need to know."
+That's all you need to know.",Emerada
 "これで、美しく着飾って戦いの場に
 向かいなさい、ふふふ","Now go forth into battle, beautifully adorned.
-Stand tall, hehehe."
+Stand tall, hehehe.",Emerada

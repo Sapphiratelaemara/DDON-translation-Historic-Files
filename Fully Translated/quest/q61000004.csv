@@ -1,21 +1,21 @@
-"Jp","En"
+Jp,En,speaker
 "黒呪の迷宮の
 新たな道をご案内する時がきたようです","The time has come to guide you 
 through a new path in the 
-Bitterblack Maze."
+Bitterblack Maze.",Lyka
 "“深淵”――
 より深く、より困難な道となるでしょう
 船着き場から西にある、細い通路を抜けた先に
 入り口が開かれています","The 'Abyss'—
 a deeper, far more treacherous path.
 West of the docks, past a narrow
-passage, lies its entrance."
+passage, lies its entrance.",Lyka
 "そちらでは、リュシアンという男が
 わたしと同じようにご案内いたします
 何なりとお申し付けください","There, a man named Lucien
 will guide you just as I do. 
 Please feel free to ask him 
-for anything you may need."
+for anything you may need.",Lyka
 "もちろん、“深淵”に挑まれるかどうかは
 覚者様のご意思次第
 わたしもリュシアンも
@@ -23,8 +23,8 @@ for anything you may need."
 challenge the ""Abyss"" is entirely 
 up to your will, Ser. Both Lucien 
 and I will simply await your 
-decision―"
+decision―",Lyka
 "ええ、それが覚者様の選択であれば
 わたしはいつでもこの場にて
 お待ちしております","Yes, if that is your choice, Ser.
-I will always be here, waiting for you."
+I will always be here, waiting for you.",Lyka

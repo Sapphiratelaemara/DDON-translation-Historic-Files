@@ -1,87 +1,87 @@
-MsgJp,MsgEn
+MsgJp,MsgEn,speaker
 まずは祠の奥へ向かい、大型敵と対峙するんだ！,"You must first face the large monster
-deep within the chapel!"
-そして<COL ff7575><KCT TOUCH></COL>でヤツにしがみつけ！,Now use <COL ff7575><KCT TOUCH></COL> to climb onto it!
+deep within the chapel!",Arisen Corps Regimental Soldier
+そして<COL ff7575><KCT TOUCH></COL>でヤツにしがみつけ！,Now use <COL ff7575><KCT TOUCH></COL> to climb onto it!,Arisen Corps Regimental Soldier
 その状態で<COL ff7575><KCT ATTACK1></COL>で矢じり斬りだ！,"While clinging, use <COL ff7575><KCT ATTACK1></COL>
-to perform an Arrowhead Strike!"
+to perform an Arrowhead Strike!",Arisen Corps Regimental Soldier
 しがみつき中に黄色いマークが出たら、<COL ff7575><KCT TOUCH>長押し</COL>で耐えろ！成功するまで何度もやってみるんだ,"If a yellow mark appears while climbing,
 hold <COL ff7575><KCT TOUCH></COL> to endure.
-Keep trying until you succeed."
+Keep trying until you succeed.",Arisen Corps Regimental Soldier
 しがみつき中に赤いマークが出たら危険だ！<COL ff7575><KCT JUMP></COL>でジャンプし、すぐ離脱しろ！,"A red mark when climbing means danger!
-Jump with <COL ff7575><KCT JUMP></COL> to retreat quickly!"
+Jump with <COL ff7575><KCT JUMP></COL> to retreat quickly!",Arisen Corps Regimental Soldier
 攻撃し、ヤツを怒らせるんだ。怒った敵は体が赤く輝くぞ！,"As you attack, you'll gain its ire.
-An angry enemy's body glows red!"
-<COL ff7575><KCT TOUCH></COL>でヤツにしがみつき、,Use <COL ff7575><KCT TOUCH></COL> to climb onto the enemy!
+An angry enemy's body glows red!",Arisen Corps Regimental Soldier
+<COL ff7575><KCT TOUCH></COL>でヤツにしがみつき、,Use <COL ff7575><KCT TOUCH></COL> to climb onto the enemy!,Arisen Corps Regimental Soldier
 <COL ff7575><KCT CLIMB_JOLT></COL>で揺さぶり、疲れさせろ！敵スタミナゲージを減らすんだ,"Shake with <COL ff7575><KCT CLIMB_JOLT></COL>
-to reduce its stamina gauge."
+to reduce its stamina gauge.",Arisen Corps Regimental Soldier
 よし、その調子だ。一気に仕留めてしまえ！敵が怒ったら疲れさせ、ダウンを奪うんだ。覚えておけよ！,"Good, that's it! Let's finish it off! 
 When it's angry, exhaust it to knock it down.
-Remember that!"
+Remember that!",Arisen Corps Regimental Soldier
 試練完了、よくやったな！奥にある＜破攻の証＞を受け取り、神殿のレンテンに報告するがいい,"Trial complete well done!
 Take the 'Hunters's Mark' inside
-and report to Renton at the temple."
+and report to Renton at the temple.",Arisen Corps Regimental Soldier
 "おめでとう、覚者よ
 これにて戦術試練は完了だ！","Congratulations, Arisen.
-The tactical trial is now complete!"
+The tactical trial is now complete!",Arisen Corps Regimental Soldier
 "今覚えた大型敵との戦い方を
 振り返りたい時は、《チュートリアルガイド》の
 《冒険の基礎知識》から《大型敵との戦い》
 を確認するんだ","To review how to fight large monsters, find
 'Adventuring Basics' > 'Fighting Large Enemies'
-in the 'Tutorial.'"
+in the 'Tutorial.'",Arisen Corps Regimental Soldier
 "あとは場数をこなして実力をつけるだけだな
 がんばれよ","Now just gain experience through practice.
-Good luck!"
+Good luck!",Arisen Corps Regimental Soldier
 "今度の試練は、強敵に挑むなら
 必ず会得しておきたい基本戦術について、だ","This trial is about basic tactics one must master
-before facing a strong enemy."
+before facing a strong enemy.",Renton
 "大型敵への対処は、狙撃ができる
 ハンターの腕の見せ所だぜ","Dealing with a large enemy is where a Hunter's
-bow skills truly shine!"
+bow skills truly shine!",Renton
 "あんたの想像通り、この試練もまた
 一人で挑まねばならない","As you might expect, this trial must also
-be undertaken alone."
+be undertaken alone.",Renton
 "では《修練の祠》に向かってくれ
 場所はもう、わかるだろう","Now head to the <Training Chapel>.
-I believe you know its location."
+I believe you know its location.",Renton
 "やぁ、うまくやれたみたいだな、おめでとう！
 覚者としてまた一歩前進だな！","Hey looks like you did well! Congratulations!
-Another step forward as an Arisen!"
+Another step forward as an Arisen!",Renton
 "ジョブの試練は、いつでも受け付けているから
 転職したときは挑戦してほしい
 あちこちで噂になる活躍、期待してるぜ！","Job trials can be applied for any time,
 give them a try when you switch jobs.
-I hope to hear tales of your deeds everywhere!"
+I hope to hear tales of your deeds everywhere!",Renton
 "覚者とは試練に臆することなく立ち向かい
 その使命を全うする者のことだ","An Arisen faces a trial without fear
-and fulfills their duty no matter what."
+and fulfills their duty no matter what.",Wilson
 "今度は大型敵との戦いに挑む試練だ
 その大型敵を倒した者のみ
 《破攻の証》を得ることができる――","This trial challenges you to fight a large enemy.
 Only those who defeat it can gain
-the Hunters's Mark..."
+the Hunters's Mark...",Wilson
 "知識として《大型敵との戦い》について教えておく
 やり方がわからなければ確認して臨むといい","I'll teach you about 'Fighting Large Enemies.'
-Review the information before you head out."
+Review the information before you head out.",Wilson
 "共闘の兵とともに行くがいい
 証を手にするのだ、覚者よ！","Go now with your allied soldiers.
-Claim the proof, Arisen!"
+Claim the proof, Arisen!",Wilson
 "今度は大型敵との戦いに挑む試練だ
 その大型敵を倒した者のみ
 《破攻の証》を得ることができる――","This trial challenges you to fight a large enemy.
 Only those who defeat it can gain
-the Hunters's Mark..."
+the Hunters's Mark...",Wilson
 "知識として《大型敵との戦い》について教えておく
 やり方がわからなければ確認して臨むといい","I'll teach you about 'Fighting Large Enemies.'
-Review the information before you head out."
+Review the information before you head out.",Wilson
 "試練は始まっている
 臆せず深部を目指せ、覚者よ！","The trial has begun.
-Go forth without fear, Arisen!"
+Go forth without fear, Arisen!",Wilson
 "《破攻の証》、よくぞ得た！
 強大な敵に怯まぬ戦技、勇気とともに活かすのだ
 神殿に戻りレンテンに報告するがいい、覚者よ！","A well-earned 'Hunters's Mark!'
 Wield these skills against your foes with courage.
-Return to the Temple and report to Renton, Arisen!"
+Return to the Temple and report to Renton, Arisen!",Wilson
 "試練は《修練の祠》で行う
 さあ、向かってくれ","The trial takes place at the 'Training Chapel.'
-Head over there now."
+Head over there now.",Renton

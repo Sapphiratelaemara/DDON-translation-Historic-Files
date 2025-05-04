@@ -1,283 +1,283 @@
-"Jp","En"
+Jp,En,speaker
 "無くした物が見つかるまでは
 私も心配でしょうがありません","Until the lost item is found,
-I'll be worried sick."
+I'll be worried sick.",Barton
 "見つからないようでしたら
 思い切って、他の店で買って
 しまうのもありかもしれませんな","If it cannot be found,
 perhaps you should consider
-buying it from another shop."
+buying it from another shop.",Barton
 "こんにちは、覚者さま
 オーク戦争の影響なのか、物流が不安定で――
 物価もどうなるか心配が絶えません","Greetings, Master Arisen.
 The war with the Orcs disrupted our supply...
-Prices keep fluctuating, it's making me worried."
+Prices keep fluctuating, it's making me worried.",Cameron
 "レオさまも心配されており
 一度状況を調査してほしいとの事です
 神殿内各区にいる商人さん達の状況把握と
 困りごとの相談に乗って頂けませんか？","Leo is also concerned about the situation
 and has requested a survey.
 Could you check on the merchants in each district
-of the Temple and hear their troubles?"
+of the Temple and hear their troubles?",Cameron
 "さっそくですが《商店区》にいる
 防具屋ファーガソンさんを訪ねてみてください","In the 《Shopping District,》
-please visit Ser Ferguson at the Armor Shop."
+please visit Ser Ferguson at the Armor Shop.",Cameron
 "神殿にはいろんな区があります
 《竜の礎》の《リムストーンへ転移》を利用すると
 各区への移動が簡単ですよ","The Temple has many districts.
 Using《Riftstone Warp》at the 《Dragon's Portcrystal》
-makes traveling between them easy."
-"ぜひ利用しながら相談に乗ってあげてください","Please use it to conduct the survey."
-"【ヒント：ＮＰＣへのアイテム納品】","【Hint: Delivering Items to NPCs】"
-"①指定のアイテムを入手","① Obtain the specified item."
-"②指定アイテムを所持した状態で依頼者に会話","② Talk to the requester while
-holding the specified item."
+makes traveling between them easy.",Cameron
+ぜひ利用しながら相談に乗ってあげてください,Please use it to conduct the survey.,Cameron
+【ヒント：ＮＰＣへのアイテム納品】,【Hint: Delivering Items to NPCs】,Barton
+①指定のアイテムを入手,① Obtain the specified item.,Barton
+②指定アイテムを所持した状態で依頼者に会話,"② Talk to the requester while
+holding the specified item.",Barton
 "③納品画面で指定アイテムを納品
 ※アイテムが保管ボックス内の場合、納品できません","③ Deliver the item in the delivery screen.
-※Items in storage cannot be delivered."
+※Items in storage cannot be delivered.",Barton
 "神殿にはいろんな区があります
 《竜の礎》の《リムストーンへ転移》を利用すると
 各区への移動が簡単ですよ","The Temple has many districts.
 Using《Riftstone Warp》at the 《Dragon's Portcrystal》
-makes traveling between them easy."
-"ぜひ利用しながら相談に乗ってあげてください","Please use it to conduct the survey."
+makes traveling between them easy.",Cameron
+ぜひ利用しながら相談に乗ってあげてください,Please use it to conduct the survey.,Cameron
 "ようこそ覚者さま
 この《商店区》は様々な武具や道具の
 取引ができますよ","Welcome, Master Arisen.
 The 《Shopping District》 here
-offers various armaments and tools for trade."
+offers various armaments and tools for trade.",Ferguson
 "しかし、最近は戦闘も激しさを増し
 準備不足で大怪我をして戻って来られる
 覚者さまも多くなりましてね","But with the battles out there getting fiercer,
 more and more under-equipped Arisen
-are returning with serious injuries."
+are returning with serious injuries.",Ferguson
 "あなたも、レベルが上がったからといって
 無暗に強敵に挑むのは危険ですよ
 レベルに見合った装備や道具を揃えないと
 手強い魔物には太刀打ちできませんから","You too, even as your level rises,
 recklessly challenging strong foes is dangerous.
 Without proper gear and items,
-you cannot stand against tough monsters."
+you cannot stand against tough monsters.",Ferguson
 "だからこそ、こまめな装備売買と準備を
 おすすめしているのですが
 この状況下、いつ在庫が切れても
 おかしくない状況です","That's why it's important to purchase
 equipment and provisions reguarly.
 But with how things are now,
-we could run out of stock at any moment."
+we could run out of stock at any moment.",Ferguson
 "ああ、そうだ
 同じ区で素材屋をやってるキトリッジも
 困ってるようなので、一度話を聞いてみて
 くれないでしょうか","Ah, yes. Kittredge, the material vendor
 in this district, seems troubled too.
-Could you speak with him?"
+Could you speak with him?",Ferguson
 "覚者様も、レベルが上がったからといって
 無暗に強敵に挑むのは危険ですよ
 レベルに見合った装備や道具を揃えないと
 手強い魔物には太刀打ちできませんから","Ser Arisen, even if your level rises,
 recklessly challenging strong foes is
 dangerous. Without proper gear and items,
-you cannot stand against tough monsters."
+you cannot stand against tough monsters.",Ferguson
 "定期的に装備やアイテムを
 整えて、万全の状態にしておくことを
 おすすめしますよ","I recommend regularly maintaining
 your equipment and items
-to stay fully prepared."
+to stay fully prepared.",Ferguson
 "同じ区で素材屋をやってるキトリッジも
 何か困ってるようでしたので
 一度話を聞いてやってください","Kittredge, the material vendor here,
 seems troubled too. Could you
-speak with him?"
+speak with him?",Ferguson
 "こんにちは　覚者さん
 ここ素材屋ではいろいろな素材を
 扱っていますよ","Hello, Ser Arisen. This shop
-deals in various raw materials for crafting."
+deals in various raw materials for crafting.",Kittredge
 "最近は覚者さんも増えて活気がでたのは
 いいのですが、オーク戦争のせいで
 取引が不安定だったりもしましてね","It's a good thing that more Arisen have been
 turning up lately, things have been livelier.
-but the War with the Orcs has disrupted trade."
+but the War with the Orcs has disrupted trade.",Kittredge
 "ちょうど今も、素材を発注された
 覚者さんが死んでしまわれたらしく
 この品物をどう処理していいか困ってまして――","Sadly, an Arisen who ordered
 materials has lost their life, leaving me
-unsure how to handle these goods..."
+unsure how to handle these goods...",Kittredge
 "ああ！
 でも覚者の方は、白竜様のご加護があれば
 復活できるのでしたよね、そういえば！","Ah! But Arisen can revive with
-the Lord White Dragon's Divine Protection, right?"
+the Lord White Dragon's Divine Protection, right?",Kittredge
 "覚者さんから、復活力神官のあの方――
 《中央広場》のオフィリアさんに相談して
 くれませんか、この件を――","Could you consult Ophelia,
 the revival priestess in the 《Central Square》
-about this matter?"
+about this matter?",Kittredge
 "今後の商売相手を守ると思って
 どうかよろしくお頼みします","Consider this a way to protect your future
-business partners."
+business partners.",Kittredge
 "どうです？
 例の死んだ覚者さんの件は","How did it go? The matter about
-the deceased Arisen?"
+the deceased Arisen?",Kittredge
 "復活力神官のあの方――
 《中央広場》のオフィリアさんへの相談
 よろしく頼みましたよ！","I asked you to consult Ophelia,
 the revival priestess in the 《Central Square》
-I leave it in your hands!"
+I leave it in your hands!",Kittredge
 "なんなりと、新しき覚者様
 ご用でしょうか？
 私の名はオフィリア","What brings you, my new Arisen friend?
-I am Ophelia."
+I am Ophelia.",Ophelia
 "ログインにて貴方様が神殿を訪れるたび
 白竜様に代わり《復活力》と証たるスタンプを
 与える役割を仰せつかった
 神官にございます","Each time you visit the temple upon login,
 I bestow 《Revival Power》 and the daily login stamp
 on behalf of the Lord White Dragon,
-as an ordained priestess."
+as an ordained priestess.",Ophelia
 "――なるほど
 キトリッジの悩みの件は承知いたしました
 その亡くなった覚者様には、私の方から復活力を
 授けて助けておきましょう","-I see. I understand Kittredge's concern.
 I shall grant 《Revival Power》 to that deceased
-Arisen and save them."
+Arisen and save them.",Ophelia
 "ところで新しき覚者様、貴方様にも
 《復活力》について詳しく説明させていただきます
 これはとても大切なことでございますので","Now, Ser Arisen, let me explain
 《Revival Power》 in detail.
-This is very important."
+This is very important.",Ophelia
 "全ての覚者様には、冒険の途中傷つき倒れたとしても
 三たび立ち上がる力――《復活力》の加護が
 白竜様から公平に与えられています","All Arisen are granted the 《Revival Power》
 by the Lord White Dragon, the power to
-rise again three times when wounded or fallen."
+rise again three times when wounded or fallen.",Ophelia
 "復活力を使いきってしまった時は、私の元を
 訪ねて下さい、新たな加護を授与いたしましょう
 復活力を失うと、貴方様のお体は《弱化》により
 衰弱してしまいます","When you exhaust your 《Revival Power》,
 visit me to receive a new blessing. Without
-it, your body will weaken from Debilitation."
+it, your body will weaken from Debilitation.",Ophelia
 "ご加護は必ずや、覚者様の大きな助けとなりましょう
 私の元には定期的に訪れて下さいませ
 ただし付与できる復活力は、１度に３つまでです
 どうかお忘れなきよう","This blessing will surely aid you greatly.
 Visit me regularly, though I can only grant
-three Revivals at a time. Please remember this."
+three Revivals at a time. Please remember this.",Ophelia
 "――そういえば、さきほど復活力を
 授けた覚者様が《弱化の治療》のため
 宿に行かれたのですが、その方を宿屋の主
 バートンが探しておられるようなのです","Speaking of which, an Arisen I recently
 blessed went to the inn for 《Treat Weakness》
 the innkeeper, Barton, seems to
-be looking for them."
+be looking for them.",Ophelia
 "何かお困りのようでしたので
 一度、《宿場区》にいるバートンのもとを
 訪れてみてください","He appears troubled, so please visit
-Barton in the 《Relay Station District》."
-"申し訳ありませんが、よろしくお願いいたします","My apologies, but I appreciate your help."
+Barton in the 《Relay Station District》.",Ophelia
+申し訳ありませんが、よろしくお願いいたします,"My apologies, but I appreciate your help.",Ophelia
 "いかがでしょう、バートンの悩み
 は解決できそうでしょうか？","How goes it? Can you resolve Barton's
-problem?"
+problem?",Ophelia
 "バートンは《宿場区》にいるので
 訪れてみてください","Barton is in the 《Relay Station District》.
-Please visit him."
+Please visit him.",Ophelia
 "おや、どうしましたかな覚者さま
 ――ふむふむ、オフィリアさまから
 相談にのってあげてほしいと？","Oh, what is it, Master Arisen? Hmm,
-Ophelia asked you to talk to me?"
+Ophelia asked you to talk to me?",Barton
 "わざわざすいません
 実は先ほど、泊まられた覚者さまが
 所持品を無くされたようで
 どこかにないか探してるのです","Sorry to trouble you.
 An Arisen guest lost some belongings earlier. 
-I'm searching but haven't found them yet."
+I'm searching but haven't found them yet.",Barton
 "店の信用にもかかわるので
 わたし自身も探しているのですが――
 といっても、こんなオークたちが暴れてる
 状況でして商売が忙しく、手も回らずで","The inn's reputation could suffer, 
 so I said I would help. But with the
 Orcs running amok, I'm so busy with things here.
-I can't spare the time."
+I can't spare the time.",Barton
 "しかも、肝心の探し物の内容を
 聞き忘れてしまいまして――","What's worse, I forgot to ask what exactly
-was lost..."
+was lost...",Barton
 "その覚者さまはバザーのメルにも相談していたので
 彼女なら何か知っているかもしれません
 もしよろしければ
 探してもらえないでしょうか？","That Arisen also spoke to Mel at the Bazaar.
 She might know something.
-Could you investigate if possible?"
+Could you investigate if possible?",Barton
 "無くした物が見つかるまでは
 私も心配でしょうがありません","Until the lost item is found,
-I'll be worried sick."
+I'll be worried sick.",Barton
 "誰か知ってる人はいないでしょうかね
 困ったもんです","Does anyone know anything?
-I'm at a loss."
+I'm at a loss.",Barton
 "こんにちは、覚者様
 ――宿屋のバートンさんの探し物のことを
 知らないかですって？
 たしか探し物って《ケモノ生肉》ですよね？","Hello, Ser Arisen. 
 Barton's customer's lost item?
-Wasn't it 《Beast-Steak》?"
+Wasn't it 《Beast-Steak》?",Mel
 "うーん、今さら見つからないと思うんです
 ――それなら神殿内の素材屋で買うか
 神殿の外に出て敵を倒して手に入れる方が
 手っ取り早いかなと思います","Hmm, finding it now seems unlikely.
 Buying it from the Material Shop in the temple
-or hunting outside would be faster."
+or hunting outside would be faster.",Mel
 "私なら外に出るのが怖いので
 神殿内の素材屋で調達しますわ","Personally, I'd buy inside. Going
-outside frightens me."
+outside frightens me.",Mel
 "《ケモノ生肉》を手に入れるなら――
 神殿内の素材屋で買うか
 神殿の外に出て敵を倒して手に入れる方が
 手っ取り早いかなと思います","To obtain 《Beast-Steak》, buying from the
 Material Shop inside or hunting outside
-would be fastest."
+would be fastest.",Mel
 "私なら外に出るのが怖いので
 神殿内の素材屋で調達しますわ","Personally, I'd buy inside. Going
-outside frightens me."
+outside frightens me.",Mel
 "――ああ、さっきの覚者さん！
 《ケモノ生肉》ならうちで取り扱ってるよ
 よかったら買ってってくださいよ","Ah, the Arisen from earlier!
 We carry 《Beast-Steak》 here.
-Please buy some if you like."
+Please buy some if you like.",Kittredge
 "おや、覚者さま
-もしかして見つけてくださいましたか","Oh, Master Arisen. Did you find it?"
+もしかして見つけてくださいましたか","Oh, Master Arisen. Did you find it?",Barton
 "――本当に助かりました
 これで一安心です、無くしたその方には
 後でお渡しできそうです","You've been a great help. 
-I can return the item to its owner later."
+I can return the item to its owner later.",Barton
 "わたしら宿屋では、休んでいただく宿泊以外にも
 死亡された覚者さまの《弱化の治療》も
 行っております","Besides lodging, our Inn can also
- 《Treat Weakness》 for fallen Arisen."
+ 《Treat Weakness》 for fallen Arisen.",Barton
 "《弱化の治療》は、回が増すごとに
 治療が難しくなるため、値上がりするのはご容赦を
 日をまたげば元に戻るのですが――","《Treat Weakness》 becomes harder
 and more expensive with each occurrence.
-It resets daily, but..."
+It resets daily, but...",Barton
 "最近は戦争も活発になってきたので
 戦場で倒れる覚者さまも多くなりました
 あなたも十分お体にはお気をつけを
 その時はいつでも利用してくだされ","With the war intensifying, 
 more Arisen are falling in battle.
-Be careful, and visit us if needed."
+Be careful, and visit us if needed.",Barton
 "わたしら宿屋では、宿泊以外にも
 覚者さまが、復活力を失い力尽きた時におこる現象
 《弱化の治療》もおこなっております","Beyond lodging, we 《Treat Weakness》,
 weakness is a condition affecting Arisen
-who exhaust their Revival power."
+who exhaust their Revival power.",Barton
 "体力の低下、その他お体に不調があるときは
 いつでも宿屋をご利用くだされ","Visit us anytime for weakened vitality
-or other debilitations."
+or other debilitations.",Barton
 "無事解決できてよかったですわ！
 バザー取引の方も定期的にご利用
 お願いいたしますわ","Glad it's resolved! 
 Please visit the Bazaar regularly
-to purchase items."
+to purchase items.",Mel
 "うちの店以外にも――
 いろんな商品を取り扱ってる店があるから
 興味があれば見て回るといいですぜ","Other shops here sell various goods...
-Browse through them if interested."
+Browse through them if interested.",Kittredge
 "これで状況把握できましたので
-レオさまに報告させて頂きますね","I'll report this to Leo now."
-"いろいろ相談に乗って頂きありがとうございます！","Thank you for all your advice!"
+レオさまに報告させて頂きますね",I'll report this to Leo now.,Cameron
+いろいろ相談に乗って頂きありがとうございます！,Thank you for all your advice!,Cameron

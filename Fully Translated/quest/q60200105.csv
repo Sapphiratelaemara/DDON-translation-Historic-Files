@@ -1,94 +1,94 @@
-"Jp","En"
+Jp,En,speaker
 "ふむ、白竜様が貴方により深き祈りの技を
 与えようとしていらっしゃるのですね――","Hmm... 
 Lord White Dragon seems to intend to grant
-you deeper prayer techniques."
+you deeper prayer techniques.",Camus
 "わかりました
 今回もまた、この技が貴方に扱い切れるものか
 私が見極めてまいりましょう","Understood. 
 This time as well, I shall discern whether 
-you are capable of wielding this technique."
+you are capable of wielding this technique.",Camus
 "ふさわしい試練の場を用意します
 そちらで落ち合うことにしましょう","I shall prepare a fitting trial ground.
-Let us meet there."
+Let us meet there.",Camus
 "試練の場である＜<STG 731>＞へは
 <AREA 1>のエリアランクが
 十分でないと、入れないかもしれません
 確認してから向かうと良いでしょう","You may not be able to enter <STG 731>,
 the trial grounds, if your <AREA 1> area
 rank is insufficient. It would be wise
-to check before heading there."
+to check before heading there.",Camus
 "ここでは皆さんに迷惑がかかります
 試練の場を用意しますので、そちらで
 落ち合うことにしましょう","This would inconvenience everyone here.
 I shall prepare a trial ground, so let us
-meet there instead."
+meet there instead.",Camus
 "試練の場である＜<STG 731>＞へは
 <AREA 1>のエリアランクが
 十分でないと、入れないかもしれません
 確認してから向かうと良いでしょう","You may not be able to enter <STG 731>,
 the trial grounds, if your <AREA 1> area
 rank is insufficient. It would be wise
-to check before heading there."
+to check before heading there.",Camus
 "ようこそ、ここが試練の場です
 今回も私が共に戦場を駆け
 より近い場で貴方を導こうと思います","Welcome. This is the trial ground.
 This time, I shall join you on the battlefield
-and guide you from a closer vantage."
-"貴方の祈り、見せていただきましょう","Let me see your prayers."
+and guide you from a closer vantage.",Camus
+貴方の祈り、見せていただきましょう,Let me see your prayers.,Camus
 "いましたね、あそこです
 これが最初の試練です","There you are, right there.
-This is the first trial."
+This is the first trial.",Camus
 "その調子です
 試練はまだ続きます、行きましょう","That's the way.
-The trial continues, let's go."
-"第二の試練、その生命力を捉えましたね","The second trial, you've captured its vitality."
-"次が最後の試練ですよ","The next one is the final trial."
+The trial continues, let's go.",Camus
+第二の試練、その生命力を捉えましたね,"The second trial, you've captured its vitality.",Camus
+次が最後の試練ですよ,The next one is the final trial.,Camus
 "さぁ、これが最後の試練です
 行きましょう","Now, this is the final trial.
-Let us proceed."
+Let us proceed.",Camus
 "貴方の中にあるもの、私が見届けました
 では、聖堂に戻り
 正式に戦技を授けることにしましょう","I have witnessed what lies within you.
 Now, let us return to the Holy Temple
-and formally bestow the technique upon you."
+and formally bestow the technique upon you.",Camus
 "貴方の中にある慈しみの心
 そして善き運命への導き手たる自覚――
 私が見届けました","The compassion in your heart,
 and your role guiding fate for the good—
-These I have observed."
+These I have observed.",Camus
 "では、聖堂に戻り
 正式に戦技を授けることにしましょう","Now, let us return to the sanctuary
-and formally bestow the technique upon you."
+and formally bestow the technique upon you.",Camus
 "貴方がこれまで求道の中で得たもの、触れた痛み――
 その全てが今ここにある貴方を作りあげているのです
 この技を継承するにふさわしい貴方を――","All that you have gained in your quest,
 all the pain you have touched—
 They have shaped who you are now.
-You are worthy of inheriting this technique."
+You are worthy of inheriting this technique.",Camus
 "今後も真理を求め、よき癒し手としての
 道を進んでゆくことです
 おのずと貴方の前に、大いなるものの
 導きが示されることでしょう","From now on, you must continue seeking the truth
 and walk the path of a good healer. In time, the
 guidance of something greater will surely be
-revealed before you."
-"貴方の判断が戦況を大きく左右するのです","Your decisions will greatly 
-influence the coming battles."
-"命の真実の姿を見つめる者、それが我々プリーストです","Those who gaze upon the true form of life, 
-that is what we Priests are."
-"人に尽くし、その中で己を活かすことです","To serve others and to make the 
-most of oneself in the process."
-"数多の痛みに触れてこそ、見えるものもあるのです","Only by touching upon much pain
-can certain things be seen."
-"味方がいるなら、その能力や状況も把握すべきです","If you have allies, you should also
-understand their abilities and situations."
-"フィールドシフト中は、敵との間合いに注意しましょう","During field shifts, be mindful
-of the distance to enemies."
-"癒し手である貴方が倒れてしまわないように――","So that you, the healer, do not fall―"
-"味方の状態には常に気を配りましょう","Always be attentive to
-the state of your allies."
-"戦場にて奇跡を起こせるのはプリーストのみです","Only priests can perform
-miracles on the battlefield."
-"敵のシークレットコアを感知するのも、我々の力です","Detecting the enemy's secret core is 
-also within our power."
+revealed before you.",Camus
+貴方の判断が戦況を大きく左右するのです,"Your decisions will greatly 
+influence the coming battles.",Camus
+命の真実の姿を見つめる者、それが我々プリーストです,"Those who gaze upon the true form of life, 
+that is what we Priests are.",Camus
+人に尽くし、その中で己を活かすことです,"To serve others and to make the 
+most of oneself in the process.",Camus
+数多の痛みに触れてこそ、見えるものもあるのです,"Only by touching upon much pain
+can certain things be seen.",Camus
+味方がいるなら、その能力や状況も把握すべきです,"If you have allies, you should also
+understand their abilities and situations.",Camus
+フィールドシフト中は、敵との間合いに注意しましょう,"During field shifts, be mindful
+of the distance to enemies.",Camus
+癒し手である貴方が倒れてしまわないように――,"So that you, the healer, do not fall―",Camus
+味方の状態には常に気を配りましょう,"Always be attentive to
+the state of your allies.",Camus
+戦場にて奇跡を起こせるのはプリーストのみです,"Only priests can perform
+miracles on the battlefield.",Camus
+敵のシークレットコアを感知するのも、我々の力です,"Detecting the enemy's secret core is 
+also within our power.",Camus
