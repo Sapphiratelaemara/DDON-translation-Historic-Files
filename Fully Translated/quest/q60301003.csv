@@ -1,18 +1,18 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "さてさて、恰好がきまったところで
 本格的にクリスマスの支度をはじめようではないか","Well, now that we're all dressed, let's start 
-getting ready for Christmas in earnest!",Nicholas
+getting ready for Christmas in earnest!",Nicholas,,Nicholas,,Nicholas
 "昨年の君たちのおかげで
 このレスタニアにも“クリスマス”が
 定着しそうだと聞いてな","Because of your lot's efforts last year,
 I've heard that this ""Christmas"" thing
-has taken root here in Lestania.",Nicholas
+has taken root here in Lestania.",Nicholas,,Nicholas,,Nicholas
 "皆のクリスマスの準備を手伝いながら
 “流れ星”の情報を持つ者も同時に探してもらいたい
 この地方に落ちたとなれば目撃者もいるはずだ","While helping everyone with the Christmas 
 preparations, I’d like you to search for anyone 
 who has information about the ""shooting star."" 
-If it fell in this region, there must be witnesses.",Nicholas
+If it fell in this region, there must be witnesses.",Nicholas,,Nicholas,,Nicholas
 "クリスマスの準備と一緒に
 “不思議な流れ星”の情報収集も手伝ってもらいたい
 レスタニアの地に落ちたのが本当であれば
@@ -20,22 +20,22 @@ If it fell in this region, there must be witnesses.",Nicholas
 I'd like you to help gather information
 on the ""mysterious shooting star.""
 If it truly fell in Lestania, we might be able
-to learn something from the people here.",Nicholas
+to learn something from the people here.",Nicholas,,Nicholas,,Nicholas
 "ああ、もちろん
 最優先はクリスマスの準備だがな
 ホッホッホ","Ah, of course. 
 The topmost priority is preparing
-for Christmas, though. Ho ho ho.",Nicholas
+for Christmas, though. Ho ho ho.",Nicholas,,Nicholas,,Nicholas
 "こんにちは、隊長さん
 え？　流れ星？
 ――お星さまを探しているの？","Hello, Captain. 
 Huh? A shooting star? 
 
-――So, you're looking for a star?",Mayleaf
+――So, you're looking for a star?",Mayleaf,,Mayleaf,,Mayleaf
 "うーん、そういえば少し前に《リンウッド》で
 光る物が落ちてきたって言うお話を聞いたの","Hmm, come to think of it,
 I heard some talk about glowing thing
-that fell in Lynwood a little while ago.",Mayleaf
+that fell in Lynwood a little while ago.",Mayleaf,,Mayleaf,,Mayleaf
 "でもね、何が落ちたのかを調べようとしても
 そこに迷いエントが出て、邪魔をするんだって
 どうしてそこに急に現れたのかは
@@ -43,62 +43,62 @@ that fell in Lynwood a little while ago.",Mayleaf
 whenever they try to investigate what fell, 
 a Lost Ent shows up and causes trouble. 
 They don't know why it suddenly appeared,
-but something must be done about it.",Mayleaf
+but something must be done about it.",Mayleaf,,Mayleaf,,Mayleaf
 "ねえ隊長さん
 その迷いエントを落ち着かせてあげて
 落ちてきた光る物が何か、調べてみませんか？","Hey, Captain. 
 Could you calm that Lost Ent down? 
 Once that's done, why don't you find out
-what that fallen glowing object is?",Mayleaf
+what that fallen glowing object is?",Mayleaf,,Mayleaf,,Mayleaf
 "不思議な光がお空から落ちてきたのは
 リンウッド近くの《燐光虫の洞窟の》辺りだって
 迷いエントがいるそうだから、気を付けてね","A strange light fell from the sky. 
 It was near the 《Glowworm Cave》,
 close by to Lynwood. There are reports
-of a Lost Ent in the area, so be careful, alright?",Mayleaf
+of a Lost Ent in the area, so be careful, alright?",Mayleaf,,Mayleaf,,Mayleaf
 "迷いエントを落ち着かせてきてくれたんですね！
 よかった、これでまた洞窟の近くで遊べます","You managed to calm the Lost Ent!
 That's great! 
-Now we can play near the cave again.",Mayleaf
+Now we can play near the cave again.",Mayleaf,,Mayleaf,,Mayleaf
 "実は、あの近くで採れるキレイな木の実を
 今年のクリスマスツリーに飾りたくって――","Actually, I want to decorate this year's 
 Christmas tree with the beautiful nuts 
-that grow near that place.",Mayleaf
+that grow near that place.",Mayleaf,,Mayleaf,,Mayleaf
 "あ、でもまた騎士団の人たちに怒られちゃうから
 あの辺りで遊んでるのはナイショ――","Ah, but if I play around there again, 
-the knights will scold me, so it's a secret――",Mayleaf
+the knights will scold me, so it's a secret――",Mayleaf,,Mayleaf,,Mayleaf
 "え？　エントがいなくなった跡に光る欠片？
 うーんなんでしょう
 見たことがない、不思議な感じ
 ――もしかしたら、これが流れ星なんでしょうか？","Huh? Glowing fragments where the Ent used to be? 
 Hmm, what could it be? 
 I've never seen anything like it, strange...
-――Could this be the falling star, perhaps?",Mayleaf
+――Could this be the falling star, perhaps?",Mayleaf,,Mayleaf,,Mayleaf
 "もしこれが流れ星じゃなかったとしても
 わたしは隊長さんにお願い事を叶えてもらったから
 これは隊長さんが持っていてください","Even if this isn't the falling star, 
 I’ve already had my wish granted by the Captain, 
-so you get to keep this.",Mayleaf
+so you get to keep this.",Mayleaf,,Mayleaf,,Mayleaf
 "ふふふ、願いを叶える流れ星
 とっても素敵な言い伝えですね","Hehe, a falling star that grants wishes. 
-What a nice tale.",Mayleaf
+What a nice tale.",Mayleaf,,Mayleaf,,Mayleaf
 "なに、さっそく流れ星の情報を！？
 どれどれ――","What, news of the falling star already!? 
-Let me see――",Nicholas
+Let me see――",Nicholas,,Nicholas,,Nicholas
 "うーむ、実はわしらも
 本物の流れ星を見たことは無いのだ
 だから、それが流れ星の欠片なのかはわからん","Hmm, actually, none of us have ever
 seen a real falling star before.
-So, we can’t say if this is a piece of one.",Nicholas
+So, we can’t say if this is a piece of one.",Nicholas,,Nicholas,,Nicholas
 "しかし、言い伝えにある通り
 見つめていると不思議と幸せな気持ちが湧いてくる
 もう少し調べれば、これが本物かどうか
 わかるかもしれん","However, as the legend says, if you gaze upon it, 
 a strange sense of joy starts to well up inside. 
 If we investigate this a little more,
-we might be able to tell if it's real or not.",Nicholas
+we might be able to tell if it's real or not.",Nicholas,,Nicholas,,Nicholas
 引き続き、調査の手伝いを頼んだぞ,"I trust you'll continue your aid
-with the investigation.",Nicholas
+with the investigation.",Nicholas,,Nicholas,,Nicholas
 "私たちの暮らす地域では有名な話なんです！
 「流れ星をみたら3回願い事を呟く」って
 そうすると、その願いが叶うっていう――
@@ -106,23 +106,23 @@ with the investigation.",Nicholas
 ""When you witness a shooting star, 
 make three wishes upon it.""
 They say those wishes will come true― 
-Isn't it just a wonderful story?",Mia
+Isn't it just a wonderful story?",Mia,,Mia,,Mia
 "覚者さまなら、どんなお願い事をしますか？
 使い切れない程のお金？
 どんな魔物も倒せる武器？
 食べきれないほどのご馳走？","Master Arisen, what would your wish be? 
 Uncountable riches? 
 A weapon capable of slaying any beast? 
-A banquet too large to consume?",Mia
+A banquet too large to consume?",Mia,,Mia,,Mia
 "「ポーンは流れ星を見てお願い事をするのか」
 で、ございますか？","""Do Pawns also make wishes
 upon seeing a shooting star?""
-Is that what you're asking?",Marco
+Is that what you're asking?",Marco,,Marco,,Marco
 "そうですね
 我らには欲というものはありません
 願うとすれば主の幸せ、ただそれだけです","That is correct. 
 We have no desires of our own. 
 If we were to make a wish, it would only 
-be for our Master's happiness, nothing else.",Marco
+be for our Master's happiness, nothing else.",Marco,,Marco,,Marco
 覚者様のポーンもそう思っていることでしょう,"I am certain that Ser Arisen's Pawns 
-feels the same.",Marco
+feels the same.",Marco,,Marco,,Marco

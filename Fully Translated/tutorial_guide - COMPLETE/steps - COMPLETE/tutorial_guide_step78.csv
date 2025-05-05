@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_128","ウォリアーは、鋼の肉体と重い両手武器で敵を
+key,old,new,english,speaker
+TUTORIAL_STEP_128,"ウォリアーは、鋼の肉体と重い両手武器で敵を
 粉砕する闘士です。敵の攻撃に耐えるほど、
 その破壊力は輝きを増します
 
@@ -9,4 +9,4 @@
 
 <Basic Controls/Attacks>
 - [KC ATTACK1]: Hack (Multiple slashes)
-- [KC ATTACK2]: Savage Lash (Hold down to charge the slash)"
+- [KC ATTACK2]: Savage Lash (Hold down to charge the slash)",,

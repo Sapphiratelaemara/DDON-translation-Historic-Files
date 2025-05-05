@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_90","野外やダンジョンを探索すると
+key,old,new,english,speaker
+TUTORIAL_STEP_90,"野外やダンジョンを探索すると
 アイテムを入手することがあります
 
 倒した敵が落とすドロップアイテムや、
@@ -7,8 +7,8 @@
 you may obtain items.
 
 These items can be dropped by defeated enemies,
-or collected by investigating the terrain."
-"TUTORIAL_STEP_89","宝箱、薬草群、鉱脈、倒木、水辺など
+or collected by investigating the terrain.",,
+TUTORIAL_STEP_89,"宝箱、薬草群、鉱脈、倒木、水辺など
 アイテムを採取できるポイントは
 さまざまです
 
@@ -20,8 +20,8 @@ or collected by investigating the terrain."
 
 <COL ffdc78>Some of them can only be collected with specific tools like a Pickaxe, so make sure to always carry one with you.</COL>
 
-You can purchase collection tools at the Item Shop, so be sure to keep them with you at all times."
-"TUTORIAL_STEP_232","一度アイテムを入手した場所であっても
+You can purchase collection tools at the Item Shop, so be sure to keep them with you at all times.",,
+TUTORIAL_STEP_232,"一度アイテムを入手した場所であっても
 白竜神殿や拠点に戻り、もう一度訪れることで
 再び入手が可能になります
 
@@ -31,4 +31,4 @@ you can return to the White Dragon Temple or the base
 and obtain it again by visiting the same place.
 
 Remember where materials can be obtained 
-and visit them again when necessary."
+and visit them again when necessary.",,

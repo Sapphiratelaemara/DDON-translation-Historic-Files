@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_729","アッカーシェランの火山地帯には<COL ffdc78>《マグマ》</COL>があり
+key,old,new,english,speaker
+TUTORIAL_STEP_729,"アッカーシェランの火山地帯には<COL ffdc78>《マグマ》</COL>があり
 触れると一定間隔でダメージを受けてしまいます
 
 深い場所に入るほどダメージ量も増え
@@ -11,4 +11,4 @@
  
 The deeper you go, the greater the amount of damage and the slower the movement speed of the Arisen.
 
-If you go too deep, you will burn out and enter a dead state, and in that case, you will be returned to the last solid ground you were on."
+If you go too deep, you will burn out and enter a dead state, and in that case, you will be returned to the last solid ground you were on.",,

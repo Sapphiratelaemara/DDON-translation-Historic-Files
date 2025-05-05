@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_172,"<COL 78f5ff>《着飾り装備》が解放されました！</COL>
 
 <COL ffdc78>《着飾り装備》</COL>とは、本来の性能の
@@ -7,7 +7,7 @@ TUTORIAL_STEP_172,"<COL 78f5ff>《着飾り装備》が解放されました！<
 
 <COL ffdc78>""Dress Equipment""</COL> this system allows you
 to choose a piece of gear that will appear instead
-of what you have actually equipped."
+of what you have actually equipped.",,
 TUTORIAL_STEP_325,"【<KC UI_GAME_MENU>】ゲームメニュー《キャラクター》の
 <COL ffdc78>《ステータス・装備》</COL>から装備枠で
 【<KC UI_X>】を押すことで、その装備品について
@@ -20,4 +20,4 @@ in <COL ffdc78>""Status and Equipment""</COL> in the Equipment Window
 [<KC UI_X>] You can choose wether a piece of gear
 is the ""Dress"" or the ""Equipment""
 
-Find your own style! Try on various gear!"
+Find your own style! Try on various gear!",,

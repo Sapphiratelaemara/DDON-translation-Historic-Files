@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_35,"<COL 78f5ff>《ワールドクエスト》が解放されました！</COL>
 
 <COL ffdc78>《ワールドクエスト》</COL>は、日々レスタニアを
@@ -14,7 +14,7 @@ Encountering an enemy in the field.
 Be sure to check the recommended level!      
 
 <COL ffdc78>The target enemy of the ""World Quest"" appears
-on your Mini Map as a blue circle."
+on your Mini Map as a blue circle.",,
 TUTORIAL_STEP_300,"各地で起こっているワールドクエストとその報酬は
 <COL ffdc78>《レスタニアニュース》</COL>でいつでも確認できます
 
@@ -31,7 +31,7 @@ Also, each <COL ffdc78>""Area Master"" has ""World Quest information"".</COL>
 You can get detailed information of what the enemy is or where it appears.
 
 Also note that <COL ffdc78>""Public quests"" and ""Hidden Quests""</COL>
-have different rewards and objectives."
+have different rewards and objectives.",,
 TUTORIAL_STEP_36,"＜公開クエスト＞：通常報酬
 　…全てのプレイヤーに発生場所や報酬、敵などが
 　　公開されているクエストです
@@ -46,4 +46,4 @@ can be seen by all players.
 ""Hidden Quests"": gives bonus rewards.
 You need to search for yourself how to complete it,
 you can also pay the ""Area Master"" for hints.
-<COL ffdc78>Know that you can only get the bonus rewards once.</COL>"
+<COL ffdc78>Know that you can only get the bonus rewards once.</COL>",,

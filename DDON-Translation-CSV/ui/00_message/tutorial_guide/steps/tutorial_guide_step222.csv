@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_353","メインポーンには、待機時やクエスト
+key,old,new,english,speaker
+TUTORIAL_STEP_353,"メインポーンには、待機時やクエスト
 成功時などに取らせたいリアクションを
 設定することができます
 
@@ -12,4 +12,4 @@
 
 You can set the <COL ffdc78>Pawn Reaction Settings</COL> from the Main Pawn menu in Riftstone.
 
-Let's use emotes to showcase the pawn's personality, not just their appearance and speech."
+Let's use emotes to showcase the pawn's personality, not just their appearance and speech.",,

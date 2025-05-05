@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_341","ソーサラーは魔法陣を描く《スペリング》
+key,old,new,english,speaker
+TUTORIAL_STEP_341,"ソーサラーは魔法陣を描く《スペリング》
 を行うことで術の威力を高めることができます
 スペリングを駆使し、より優れた術者になりましょう
 
@@ -9,4 +9,4 @@
 
 While chanting a spell that allows for it, use the <KC CHANGE_MODE> to switch to Chanting input, and use the <PADM> right stick <KEYM><ICON MOUSE> to move.</KEYM>
 
-Translation:"
+Translation:",,

@@ -1,13 +1,13 @@
-key,old,new
-BTL_CONTENT_RESET_REPORT,探索結果の報告,Report Search Results
-BTL_CONTENT_RESET_RESET_PROGRESS,進行のリセット,Reset Progress
-BTL_CONTENT_RESET_RESET_PROGRESS_REWARD,進行と報酬のリセット,Reset Rewards and Progress
+key,old,new,english,speaker
+BTL_CONTENT_RESET_REPORT,探索結果の報告,Report Search Results,,
+BTL_CONTENT_RESET_RESET_PROGRESS,進行のリセット,Reset Progress,,
+BTL_CONTENT_RESET_RESET_PROGRESS_REWARD,進行と報酬のリセット,Reset Rewards and Progress,,
 BTL_CONTENT_RESET_CONF_GET_REWARD,"クリア報酬を受け取りますか？
 
 報酬を受け取ると、
 <COL ffdc78>進行のリセット</COL>をするまで再突入できなくなります
 また、<COL ffdc78>進行と報酬のリセット</COL>をするまで
-クリア報酬が発生しなくなります",
+クリア報酬が発生しなくなります",,,
 BTL_CONTENT_RESET_CONF_RESET_NO_COST,"<COL d7b450>進行のリセット</COL>を行いますか？
 下記の項目がリセットされます
 
@@ -36,7 +36,7 @@ The following items will be reset:
 　　　from beginning with friends.
 ※３…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>,
 　　　<COL d7b450><ITEM 21651></COL> are very valuable.
-　　　Please be careful."
+　　　Please be careful.",,
 BTL_CONTENT_RESET_CONF_RESET,"<UNTN KT> %d<UNIT KT>を使用して
 <COL d7b450>進行と報酬のリセット</COL>を行いますか？（残り%d<UNIT KT>）
 下記の内容がリセットされます
@@ -65,7 +65,7 @@ The following contents will be reset:
 　　　Bitterblack Maze.</COL>
 ※３…<COL d7b450><ITEM 21630></COL>, <COL d7b450><ITEM 23364></COL>
 　　　<COL d7b450><ITEM 21651></COL> are very valuable.
-　　　Please be careful."
+　　　Please be careful.",,
 BTL_CONTENT_RESET_CONF_GP,"<UNTN KT>が足りません
 
 代わりに<COL d7b450>黄金石%d個</COL>を使用して
@@ -78,26 +78,26 @@ BTL_CONTENT_RESET_CONF_GP,"<UNTN KT>が足りません
 黄金石リセットにより以下の効果が発動します
 ・初期装備品の性能アップ
 <COL d7b450>・レアアイテムの追加</COL>
-・探索結果の報告のクリア報酬アップ",
+・探索結果の報告のクリア報酬アップ",,,
 BTL_CONTENT_RESET_DISABLE,"<UNTN KT>が足りません
 
 黄金石によるリセットも
 利用回数を満たしているため
 次回のリセット時間までお待ちください
 
-（リセット時間はプレイマニュアルをご覧ください）",
+（リセット時間はプレイマニュアルをご覧ください）",,,
 BTL_CONTENT_RESET_NO_ENOUGH_GP,"黄金石が不足しています
-（所持数：%d）",
-BTL_CONTENT_RESET_ERR_NO_REWARD,報酬がありません,
-BTL_CONTENT_RESET_ERR_NO_REPORT,探索結果の報告を確認してください,
-BTL_CONTENT_RESET_ERR_NO_PROGRESS,進行中のデータが存在しません,
-BTL_CONTENT_RESET_SUCCESS_REWARD,報酬を受け取りました,
-BTL_CONTENT_RESET_SUCCESS_PROGRESS,進行のリセットが完了しました,
-BTL_CONTENT_RESET_SUCCESS_PROGRESS_REWARD,進行と報酬のリセットが完了しました,
-BTL_CONTENT_RESET_SELECT_TITLE,選択してください,Please select
+（所持数：%d）",,,
+BTL_CONTENT_RESET_ERR_NO_REWARD,報酬がありません,,,
+BTL_CONTENT_RESET_ERR_NO_REPORT,探索結果の報告を確認してください,,,
+BTL_CONTENT_RESET_ERR_NO_PROGRESS,進行中のデータが存在しません,,,
+BTL_CONTENT_RESET_SUCCESS_REWARD,報酬を受け取りました,,,
+BTL_CONTENT_RESET_SUCCESS_PROGRESS,進行のリセットが完了しました,,,
+BTL_CONTENT_RESET_SUCCESS_PROGRESS_REWARD,進行と報酬のリセットが完了しました,,,
+BTL_CONTENT_RESET_SELECT_TITLE,選択してください,Please select,,
 BTL_CONTENT_RESET_SUCCESS_PROGRESS_REWARD_EX,"進行と報酬のリセットが完了しました
 
 黄金石リセットにより以下の効果が発動しました
 ・初期装備品の性能アップ
 <COL d7b450>・レアアイテムの追加</COL>
-・探索結果の報告のクリア報酬アップ",
+・探索結果の報告のクリア報酬アップ",,,

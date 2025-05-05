@@ -1,17 +1,17 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "<NPC 691>め――なかなか口の堅い奴だな
-何を言ってもとぼけてやがる",,Mephis
+何を言ってもとぼけてやがる",,Mephis,,Mephis,,Mephis
 "だが、ヤツが<NPC 681>に関係しているのは
 間違いない
-――覚者、引き続き頼むぞ",,Mephis
-感謝する――,,Mephis
-それでは、準備ができたら声をかけてくれ,,Mephis
+――覚者、引き続き頼むぞ",,Mephis,,Mephis,,Mephis
+感謝する――,,Mephis,,Mephis,,Mephis
+それでは、準備ができたら声をかけてくれ,,Mephis,,Mephis,,Mephis
 "さぁ、尋問を始めよう
-準備はいいな？",,Mephis
-はい,Yes,Mephis
-いいえ,No,Mephis
-今日こそ、真実を吐かせてやろうぜ――,,Mephis
+準備はいいな？",,Mephis,,Mephis,,Mephis
+はい,Yes,Mephis,,Mephis,,Mephis
+いいえ,No,Mephis,,Mephis,,Mephis
+今日こそ、真実を吐かせてやろうぜ――,,Mephis,,Mephis,,Mephis
 "心の準備は大切だからな――
-だが、あまりのんびりはしていられないぞ",,Mephis
+だが、あまりのんびりはしていられないぞ",,Mephis,,Mephis,,Mephis
 "よくやった――
-他の任務も、引き続きよろしくな",,Mephis
+他の任務も、引き続きよろしくな",,Mephis,,Mephis,,Mephis

@@ -1,5 +1,5 @@
-"key","old","new"
-"PACKAGE_QUEST_INFO_1","ティネス砦の奪還に成功した解放軍
+key,old,new,english,speaker
+PACKAGE_QUEST_INFO_1,"ティネス砦の奪還に成功した解放軍
 しかし――
 魔軍の占領によって大食堂は瓦礫の山と化し
 かつての姿を完全に失っていた――
@@ -12,5 +12,5 @@
 あるのだろうか――","The Liberation Army successfully recaptured Fort Thines. 
 However, due to the occupation by the Demon Army, the cafeteria had turned into a pile of rubble, completely losing its former appearance. 
 With food running out, the cook ""Carrie"" stood alone in the desolate cafeteria, on the brink of despair. 
-Will there be any way to save her in such a situation?"
-"","ティネス砦の料理番","Fort Thines' Chef"
+Will there be any way to save her in such a situation?",,
+,ティネス砦の料理番,Fort Thines' Chef,,

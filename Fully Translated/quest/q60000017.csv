@@ -1,94 +1,94 @@
-MsgJp,MsgEn,speaker
+MsgJp,MsgEn,speaker,english,speaker,english,speaker
 まずは祠の奥へ向かい、大型敵と対峙するんだ！,"You must first face the large monster
-deep within the chapel!",Arisen Corps Regimental Soldier
-そして<COL ff7575><KCT TOUCH></COL>でヤツにしがみつけ！,Now use <COL ff7575><KCT TOUCH></COL> to climb onto it!,Arisen Corps Regimental Soldier
+deep within the chapel!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
+そして<COL ff7575><KCT TOUCH></COL>でヤツにしがみつけ！,Now use <COL ff7575><KCT TOUCH></COL> to climb onto it!,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 その状態で<COL ff7575><KCT SKILL_NORMAL1></COL>でライドセイントオーラ！再度押すと解除だ,"While clinging, use <COL ff7575><KCT SKILL_NORMAL1></COL> for Ride Holy Aura!
-Press again to deactivate.",Arisen Corps Regimental Soldier
+Press again to deactivate.",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 次にしがみついた状態で<COL ff7575><KCT ATTACK1></COL>でライドヒールオーラ！,"Next, while clinging, use <COL ff7575><KCT ATTACK1></COL>
-for Ride Heal Aura!",Arisen Corps Regimental Soldier
+for Ride Heal Aura!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 しがみつき中に黄色いマークが出たら、<COL ff7575><KCT TOUCH>長押し</COL>で耐えろ！成功するまで何度もやってみるんだ,"If a yellow mark appears while climbing,
 hold <COL ff7575><KCT TOUCH></COL> to endure.
-Keep trying until you succeed.",Arisen Corps Regimental Soldier
+Keep trying until you succeed.",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 しがみつき中に赤いマークが出たら危険だ！<COL ff7575><KCT JUMP></COL>でジャンプし、すぐ離脱しろ！,"A red mark when climbing means danger!
-Jump with <COL ff7575><KCT JUMP></COL> to retreat quickly!",Arisen Corps Regimental Soldier
+Jump with <COL ff7575><KCT JUMP></COL> to retreat quickly!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 攻撃し、ヤツを怒らせるんだ。怒った敵は体が赤く輝くぞ！,"As you attack, you'll gain its ire.
-An angry enemy's body glows red!",Arisen Corps Regimental Soldier
+An angry enemy's body glows red!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 怒り状態の敵に、ヒールオーラかライドヒールオーラを当てるんだ！隠された弱点シークレットコアを暴きだせ！,"Hit an enemy in an enraged state with Heal Aura or Ride Heal Aura! 
-Expose the hidden weak point, the Secret Core!",Arisen Corps Regimental Soldier
-<COL ff7575><KCT TOUCH></COL>でヤツにしがみつき、,Use <COL ff7575><KCT TOUCH></COL> to climb onto the enemy!,Arisen Corps Regimental Soldier
+Expose the hidden weak point, the Secret Core!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
+<COL ff7575><KCT TOUCH></COL>でヤツにしがみつき、,Use <COL ff7575><KCT TOUCH></COL> to climb onto the enemy!,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 <COL ff7575><KCT CLIMB_JOLT></COL>で揺さぶり、疲れさせろ！敵スタミナゲージを減らすんだ,"Shake with <COL ff7575><KCT CLIMB_JOLT></COL>
-to reduce its stamina gauge.",Arisen Corps Regimental Soldier
+to reduce its stamina gauge.",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 揺さぶるかシークレットコアを攻撃してヤツを疲れさせ、一気に仕留めてしまえ！敵が怒ったら疲れさせ、ダウンを奪うんだ。覚えておけよ！,"Shake it or attack the Secret Core to exhaust it,
 then finish it off in one go! When the enemy
 is angry, exhaust it to knock it down.
-Remember that!",Arisen Corps Regimental Soldier
+Remember that!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 試練完了、よくやったな！　奥にある＜破攻の証＞を受け取り、神殿のレンテンに報告するがいい,"Trial complete well done!
 Take the 'Priest's Mark' inside
-and report to Renton at the temple.",Arisen Corps Regimental Soldier
+and report to Renton at the temple.",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 "おめでとう、覚者よ
 これにて戦術試練は完了だ！","Congratulations, Arisen.
-The tactical trial is now complete!",Arisen Corps Regimental Soldier
+The tactical trial is now complete!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 "今覚えた大型敵との戦い方を
 振り返りたい時は、《チュートリアルガイド》の
 《冒険の基礎知識》から《大型敵との戦い》
 を確認するんだ","To review how to fight large monsters, find
 'Adventuring Basics' > 'Fighting Large Enemies'
-in the 'Tutorial.'",Arisen Corps Regimental Soldier
+in the 'Tutorial.'",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 "あとは場数をこなして実力をつけるだけだな
 がんばれよ","Now just gain experience through practice.
-Good luck!",Arisen Corps Regimental Soldier
+Good luck!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 "今度の試練は、強敵に挑むなら
 必ず会得しておきたい基本戦術について、だ","This trial is about basic tactics one must master
-before facing a strong enemy.",Renton
+before facing a strong enemy.",Renton,,Renton,,Renton
 "プリーストのサポートが大型敵攻略の鍵だ
 しっかりここで学んでこないとだぞ","Priest's support is the key 
 to defeating large enemies.
-Make sure to learn this properly here.",Renton
+Make sure to learn this properly here.",Renton,,Renton,,Renton
 "この試練もまた
 一人で挑んでもらうことになるよ
 誰にも手助けしてもらえないからな","This trial must also be undertaken alone.
-No one can help you.",Renton
+No one can help you.",Renton,,Renton,,Renton
 "では《修練の祠》に向かってくれ
 場所はもう、わかるだろう","Now head to the <Training Chapel>.
-I believe you know its location.",Renton
+I believe you know its location.",Renton,,Renton,,Renton
 "おおー、見事試練達成だな！
 覚者としてひとまわり成長したんじゃないか？","Wow, splendid trial completion!
-You must've grown as an Arisen, right?",Renton
+You must've grown as an Arisen, right?",Renton,,Renton,,Renton
 "ジョブの試練は、いつでも受け付けているから
 転職したときは挑戦してくれよ
 最強の覚者になれるよう応援してるぜ！","Job trials can be accepted any time,
 try them out when you switch jobs.
-I'll support you to become the strongest Arisen!",Renton
+I'll support you to become the strongest Arisen!",Renton,,Renton,,Renton
 "試練は《修練の祠》で行う
 さあ、向かってくれ","The trial takes place at the 'Training Chapel.'
-Head over there now.",Renton
+Head over there now.",Renton,,Renton,,Renton
 "覚者とは試練に臆することなく立ち向かい
 その使命を全うする者のことだ","An Arisen faces a trial without fear
-and fulfills their duty no matter what.",Wilson
+and fulfills their duty no matter what.",Wilson,,Wilson,,Wilson
 "今度は大型敵との戦いに挑む試練だ
 その大型敵を倒した者のみ
 《破攻の証》を得ることができる――","This trial challenges you to fight a large enemy.
 Only those who defeat it can gain
-the Priest's Mark...",Wilson
+the Priest's Mark...",Wilson,,Wilson,,Wilson
 "知識として《大型敵との戦い》について教えておく
 やり方がわからなければ確認して臨むといい","I'll teach you about 'Fighting Large Enemies.'
-Review the information before you head out.",Wilson
+Review the information before you head out.",Wilson,,Wilson,,Wilson
 "共闘の兵とともに行くがいい
 証を手にするのだ、覚者よ！","Go now with your allied soldiers.
-Claim the proof, Arisen!",Wilson
+Claim the proof, Arisen!",Wilson,,Wilson,,Wilson
 "今度は大型敵との戦いに挑む試練だ
 その大型敵を倒した者のみ
 《破攻の証》を得ることができる――","This trial challenges you to fight a large enemy.
 Only those who defeat it can gain
-the Priest's Mark...",Wilson
+the Priest's Mark...",Wilson,,Wilson,,Wilson
 "知識として《大型敵との戦い》について教えておく
 やり方がわからなければ確認して臨むといい","I'll teach you about 'Fighting Large Enemies.'
-Review the information before you head out.",Wilson
+Review the information before you head out.",Wilson,,Wilson,,Wilson
 "試練は始まっている
 臆せず深部を目指せ、覚者よ！","The trial has begun.
-Go forth without fear, Arisen!",Wilson
+Go forth without fear, Arisen!",Wilson,,Wilson,,Wilson
 "《破攻の証》、よくぞ得た！
 強大な敵に怯まぬ戦技、勇気とともに活かすのだ
 神殿に戻りレンテンに報告するがいい、覚者よ！","A well-earned 'Priest's Mark!'
 Wield these skills against your foes with courage.
-Return to the Temple and report to Renton, Arisen!",Wilson
+Return to the Temple and report to Renton, Arisen!",Wilson,,Wilson,,Wilson

@@ -1,38 +1,38 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "先日、<STG 473>から逃げる途中
-捕えた男は覚えているか？",,Mephis
+捕えた男は覚えているか？",,Mephis,,Mephis,,Mephis
 "見た目はよくいるゴロツキだが
 密かに<STG 473>を抜け出した俺たちを
 ヤツは尾行していた――
-<NPC 681>と関係がある可能性はかなり高い",,Mephis
+<NPC 681>と関係がある可能性はかなり高い",,Mephis,,Mephis,,Mephis
 "そこで、尋問を行い
 握っている情報を吐かせるんだ
-お前には、俺と共に尋問を行ってもらいたい",,Mephis
+お前には、俺と共に尋問を行ってもらいたい",,Mephis,,Mephis,,Mephis
 "――心配するな、英雄サマ
-手を下すのは俺だからな",,Mephis
+手を下すのは俺だからな",,Mephis,,Mephis,,Mephis
 "感謝する
 お前のように――街の者からの信頼や知名度
 それから誰もが知る腕っぷしを持つ者の同席は
-尋問においてかなり有利になるんだ",,Mephis
+尋問においてかなり有利になるんだ",,Mephis,,Mephis,,Mephis
 "尋問と言っても、そう難しいもんじゃない
 ――それに、できるだけ
 “あんたらしいやり方”で進めようと思ってる
-詳しくは、実践しながら教えよう",,Mephis
-準備ができたら、声をかけてくれ,,Mephis
+詳しくは、実践しながら教えよう",,Mephis,,Mephis,,Mephis
+準備ができたら、声をかけてくれ,,Mephis,,Mephis,,Mephis
 "さぁ、尋問を始めよう
-準備は良いか？",,Mephis
-はい,Yes,Mephis
-いいえ,No,Mephis
-初めての尋問、だな――,,Mephis
+準備は良いか？",,Mephis,,Mephis,,Mephis
+はい,Yes,Mephis,,Mephis,,Mephis
+いいえ,No,Mephis,,Mephis,,Mephis
+初めての尋問、だな――,,Mephis,,Mephis,,Mephis
 "心の準備は大切だからな――
-だが、あまりのんびりはしていられないぞ",,Mephis
+だが、あまりのんびりはしていられないぞ",,Mephis,,Mephis,,Mephis
 "一通りやってみてもらったが――
-尋問がどんなものかわかったか？",,Mephis
+尋問がどんなものかわかったか？",,Mephis,,Mephis,,Mephis
 "尋問はこの任務の軸となる
 調査に詰まったら、尋問
 尋問に詰まったら、調査――
-そうして徐々に真実に近づいていくものだ",,Mephis
+そうして徐々に真実に近づいていくものだ",,Mephis,,Mephis,,Mephis
 "さてと――
 尋問対象の名前が分かったのは幸先が良いぞ
-名前は、大きな手掛かりとなる",,Mephis
-これからも、この調子で頼むぞ,,Mephis
+名前は、大きな手掛かりとなる",,Mephis,,Mephis,,Mephis
+これからも、この調子で頼むぞ,,Mephis,,Mephis,,Mephis

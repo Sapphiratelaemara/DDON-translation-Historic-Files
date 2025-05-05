@@ -1,7 +1,7 @@
-old,speaker
-クエスト受注前会話,Mayleaf
-クエスト受注後会話,Mayleaf
-当たり敵討伐後会話,Mayleaf
-ハズレ敵討伐後会話,Mayleaf
-クリア後会話,Mayleaf
-プレイヤーが死亡状態になるとハズレ敵がっ,0
+old,speaker,english,speaker,english,speaker
+クエスト受注前会話,Mayleaf,,Mayleaf,,Mayleaf
+クエスト受注後会話,Mayleaf,,Mayleaf,,Mayleaf
+当たり敵討伐後会話,Mayleaf,,Mayleaf,,Mayleaf
+ハズレ敵討伐後会話,Mayleaf,,Mayleaf,,Mayleaf
+クリア後会話,Mayleaf,,Mayleaf,,Mayleaf
+プレイヤーが死亡状態になるとハズレ敵がっ,0,,0,,0

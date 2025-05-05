@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_853","<COL 78f5ff>《リワードミッション》が解放されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_853,"<COL 78f5ff>《リワードミッション》が解放されました！</COL>
 
 <COL ffdc78>《リワードミッション》の内容は、宿場区のリサに
 話しかけることで確認できます</COL>
@@ -14,8 +14,8 @@
 
 Depending on the number of missions you complete, you can earn special rewards. 
 Among them, the <COL 78f5ff>《White Dragon Temple-issued Reward Medal》</COL> can only be obtained through Reward Missions. It is a special item. 
-Lisa will exchange it for various items."
-"TUTORIAL_STEP_858","リワードミッションには
+Lisa will exchange it for various items.",,
+TUTORIAL_STEP_858,"リワードミッションには
 <COL 78f5ff>《毎日更新》</COL>されるミッションや
 <COL 78f5ff>《毎週更新》</COL>されるミッションなどがあります
 
@@ -29,4 +29,4 @@ Lisa will exchange it for various items."
 <COL ffdc78>The rewards are also reset on the day of mission update. </COL>
 Let's challenge daily missions to obtain all rewards.
 
-<COL ffdc78>※ Clearing the The Great Dragon Crystal War does not increase the number of clears for extreme missions.</COL>"
+<COL ffdc78>※ Clearing the The Great Dragon Crystal War does not increase the number of clears for extreme missions.</COL>",,

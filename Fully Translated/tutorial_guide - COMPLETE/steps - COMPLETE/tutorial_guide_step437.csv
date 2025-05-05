@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_839","<COL 78f5ff>《ワイルドハント》</COL>は
+key,old,new,english,speaker
+TUTORIAL_STEP_839,"<COL 78f5ff>《ワイルドハント》</COL>は
 通常では存在しない強さや大きさの魔物の
 討伐依頼を受け、フィールドに出て
 探索・討伐するコンテンツです
@@ -14,8 +14,8 @@ is a content where you accept requests to subdue and defeat monsters that posses
 
 You can receive and accept your desired requests from a list that you can confirm by talking to Lisa, who is in the Relay Station District of the White Dragon Temple.
 
-<COL ffdc78>Although you do not gain experience points through subduing and clearing, you can obtain a large amount of play points.</COL>"
-"TUTORIAL_STEP_840","ワイルドハントには<COL 78f5ff>《ランク》</COL>があり
+<COL ffdc78>Although you do not gain experience points through subduing and clearing, you can obtain a large amount of play points.</COL>",,
+TUTORIAL_STEP_840,"ワイルドハントには<COL 78f5ff>《ランク》</COL>があり
 高いほど難易度が上がりますが
 貰える報酬も多くなります
 
@@ -30,8 +30,8 @@ S Rank: The highest rank
 A Rank: High rank
 B Rank: Normal rank
 
-<COL ffdc78> In particular, S Rank is rarely given unless you clear the Wild Hunt many times and gain Lisa's trust. </COL>"
-"TUTORIAL_STEP_841","ワイルドハントの討伐は
+<COL ffdc78> In particular, S Rank is rarely given unless you clear the Wild Hunt many times and gain Lisa's trust. </COL>",,
+TUTORIAL_STEP_841,"ワイルドハントの討伐は
 フィールドを探索してターゲットを
 探し出すところから始まります
 
@@ -44,8 +44,8 @@ B Rank: Normal rank
 
 There are markers displayed on the mini-map to indicate the range in which the targets can be found, so let's carefully search the surroundings. 
 
-<COL ffdc78>As the rank increases, it becomes more difficult to locate the markers that are potential candidates.</COL>"
-"TUTORIAL_STEP_842","＜ボーナスターゲット＞
+<COL ffdc78>As the rank increases, it becomes more difficult to locate the markers that are potential candidates.</COL>",,
+TUTORIAL_STEP_842,"＜ボーナスターゲット＞
 
 マーカーの中には、討伐対象ではない
 強力な魔物が潜んでいることがあります
@@ -60,4 +60,4 @@ Inside the marker, there may be powerful enemies that are not the target of exte
 
 <COL ffdc78>It doesn't affect the progress of the quest if you don't exterminate them, but you can earn play points by defeating them.</COL>
 
-When you encounter a bonus target, blue text will be displayed at the top of the screen."
+When you encounter a bonus target, blue text will be displayed at the top of the screen.",,

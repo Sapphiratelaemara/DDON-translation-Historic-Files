@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_42","夜間や洞窟内は、暗く見通しが悪くなります
+key,old,new,english,speaker
+TUTORIAL_STEP_42,"夜間や洞窟内は、暗く見通しが悪くなります
 <COL ffdc78>暗闇では《ランタン》を使いましょう</COL>
 
 【<KC UI_GAME_MENU>】ゲームメニュー《キャラクター》の
@@ -13,4 +13,4 @@
 【<KC UI_GAME_MENU>】In the game menu, go to <COL ffdc78>Item Bag</COL> and use the consumable item 
 <COL ffdc78>Lantern Kindling</COL> to illuminate the player's surroundings for a certain period of time.
 
-Always carry several <COL ffdc78>Lantern Kindling</COL> with you."
+Always carry several <COL ffdc78>Lantern Kindling</COL> with you.",,

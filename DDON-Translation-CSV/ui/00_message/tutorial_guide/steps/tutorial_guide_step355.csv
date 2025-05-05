@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_616","<COL 78f5ff>《魔物集結スポット》が追加されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_616,"<COL 78f5ff>《魔物集結スポット》が追加されました！</COL>
 
 《魔物集結スポット》には日数が経過するごとに
 魔物が集まり、魔軍の拠点が発展していきます
@@ -9,8 +9,8 @@
 
 In the ""Monster Gathering Spots,"" enemies gather and the Demon Army's bases develop as the days pass.
 
-As the Demon Army's bases develop, stronger enemies will start to appear."
-"TUTORIAL_STEP_617","魔軍拠点が最大限まで発展すると
+As the Demon Army's bases develop, stronger enemies will start to appear.",,
+TUTORIAL_STEP_617,"魔軍拠点が最大限まで発展すると
 <COL ffdc78>《スポットボス》</COL>と呼ばれる特殊な敵が出現します
 
 スポットボスを討伐すると、その他の敵よりも
@@ -22,4 +22,4 @@ As the Demon Army's bases develop, stronger enemies will start to appear."
 
 Defeating the Spot Boss allows you to obtain a tremendous amount of experience points compared to other enemies.
 
-Note: If the days pass while the Spot Boss is defeated, the development stage of the Demon Army base will return to its initial state."
+Note: If the days pass while the Spot Boss is defeated, the development stage of the Demon Army base will return to its initial state.",,

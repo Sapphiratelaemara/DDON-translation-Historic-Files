@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_370,"エリアランクが上がると、時として新たな
 強敵が<COL ffdc78>《魔物警戒スポット》</COL>に登場します
 
@@ -9,7 +9,7 @@ TUTORIAL_STEP_370,"エリアランクが上がると、時として新たな
 
 <COL ffdc78>These powerful monsters have unique names.
 And by killing them you can get rare items
-or high grade equipment.</COL>"
+or high grade equipment.</COL>",,
 TUTORIAL_STEP_371,"それらエリアの強敵は、フィールドの
 専用ロケーションや封鎖ダンジョンの奥などで
 待ち構えています
@@ -19,4 +19,4 @@ TUTORIAL_STEP_371,"それらエリアの強敵は、フィールドの
 wait in special areas in the field or in deep dungeons.
 
 Because it's likely to become the target of a quest,
-Always be well prepared to challenge them!"
+Always be well prepared to challenge them!",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_122","ファイターは地上での接近戦に長けた
+key,old,new,english,speaker
+TUTORIAL_STEP_122,"ファイターは地上での接近戦に長けた
 攻撃ジョブの花形です。剣と盾を装備し、
 盾で身を守ることもできます　　
 
@@ -12,4 +12,4 @@ Equipped with a sword and shield, they can also use the shield to defend themsel
 ＜Basic Controls＞
 - Press 【<KC ATTACK1>】for a combo attack with the sword.
 - Hold 【<KC ATTACK2>】for a charged slashing attack.
-- Press 【<KC WEAPON_SUB>】to guard."
+- Press 【<KC WEAPON_SUB>】to guard.",,

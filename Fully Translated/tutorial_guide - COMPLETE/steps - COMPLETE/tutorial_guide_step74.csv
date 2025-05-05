@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_124","プリーストは味方支援の専門家です
+key,old,new,english,speaker
+TUTORIAL_STEP_124,"プリーストは味方支援の専門家です
 回復、能力上昇や敵の弱点探知といった
 サポートに秀でます
 
@@ -11,4 +11,4 @@
 <Basic Operations>
 [<KC ATTACK1>] Heal Aura (Creates a recovery field around oneself)
 [<KC ATTACK2>] Blast Bit (Attack with magic spheres)
-[<KC SKILL_NORMAL1>] Holy Aura (Creates an offensive holy strike field around oneself)"
+[<KC SKILL_NORMAL1>] Holy Aura (Creates an offensive holy strike field around oneself)",,

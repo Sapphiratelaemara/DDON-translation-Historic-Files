@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_459","<COL 78f5ff>侵食の大災 序節：「レスタニアの命運」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_459,"<COL 78f5ff>侵食の大災 序節：「レスタニアの命運」到達！</COL>
 
 　“嵐と共に訪れた異変にも
 　　騎士団と覚者は怯まず
@@ -15,8 +15,8 @@ For the blessing of the White Dragon brought them victory--
 
 Yet the corrupted calamity remains unvanquished,
 The key to the truth lies
-Within the solitary island floating in the vast ocean--"""
-"TUTORIAL_STEP_466","レオの後任としての重責を
+Within the solitary island floating in the vast ocean--""",,
+TUTORIAL_STEP_466,"レオの後任としての重責を
 見事果たしつつあるあなたは
 島の調査に向かうこととなります
 
@@ -32,4 +32,4 @@ Prepare for an adventure into a new land filled with unknowns, and hone your com
 
 You can now accept quests for ""Skill Augmentation"" under the guidance of the White Dragon. 
 
-Please try challenging them with each job, as you will be able to acquire new combat techniques."
+Please try challenging them with each job, as you will be able to acquire new combat techniques.",,

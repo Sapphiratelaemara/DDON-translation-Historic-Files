@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_761","《尋問》とは、特定のNPCと対話しながら
+key,old,new,english,speaker
+TUTORIAL_STEP_761,"《尋問》とは、特定のNPCと対話しながら
 情報を引き出していく任務のことです
 
 <COL ffdc78>1度の尋問では全てを解き明かすことはできません
@@ -8,8 +8,8 @@
 使命の達成度を上げていきましょう</COL>","Interrogation is a mission where you interact with a specific NPC to extract information from them.
 
 <COL ffdc78>You can't find out everything in one interrogation.
-You also have to do ""Undercover"" and ""Intelligence Assessment"" while repeating the quest over and over to increase the completion of your mission.</COL>"
-"TUTORIAL_STEP_777","＜《証拠》について＞
+You also have to do ""Undercover"" and ""Intelligence Assessment"" while repeating the quest over and over to increase the completion of your mission.</COL>",,
+TUTORIAL_STEP_777,"＜《証拠》について＞
 
 尋問は、《証拠》という専用アイテムを突きつけて
 尋問対象を追い詰めていくことで進行します
@@ -20,8 +20,8 @@ You also have to do ""Undercover"" and ""Intelligence Assessment"" while repeati
 
 Interrogations progress by presenting the dedicated item, <<Evidence>>, and cornering the interrogatee.
 
-<<Evidence>> can be obtained within <<Intelligence Assessment>> and the obtained evidence can be confirmed from the Substory Log."
-"TUTORIAL_STEP_785","＜《尋問ゲージ》について＞
+<<Evidence>> can be obtained within <<Intelligence Assessment>> and the obtained evidence can be confirmed from the Substory Log.",,
+TUTORIAL_STEP_785,"＜《尋問ゲージ》について＞
 
 以下の行動を行うと
 《尋問ゲージ》が一定量減少します
@@ -38,4 +38,4 @@ The ""Interrogation Gauge"" will decrease by a certain amount when you do the fo
 ・Chose the wrong answer to a question
 ・Select ""threat""
 
-<COL ffdc78>Note that when the interrogation gauge is all gone the interrogation for that day will be over</COL>"
+<COL ffdc78>Note that when the interrogation gauge is all gone the interrogation for that day will be over</COL>",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_608","<COL 78f5ff>《絶技の継承》が解放されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_608,"<COL 78f5ff>《絶技の継承》が解放されました！</COL>
 
 戦技の継承と同じく
 白竜にブラッドオーブを捧げることで
@@ -12,8 +12,8 @@
 
 Just like the Skill Augmentation, by offering a Blood Orb to the White Dragon, you can further enhance the abilities of each job.
 
-Some abilities can be obtained by meeting the conditions at <COL ffdc78>""Epitaph Road""</COL> in places like Fort Thines and other locations."
-"TUTORIAL_STEP_609","また、絶技の継承では
+Some abilities can be obtained by meeting the conditions at <COL ffdc78>""Epitaph Road""</COL> in places like Fort Thines and other locations.",,
+TUTORIAL_STEP_609,"また、絶技の継承では
 既存のカスタムスキルが強化された
 <COL ffdc78>《カスタムスキルEX》</COL>の習得が可能です
 
@@ -26,4 +26,4 @@ Some abilities can be obtained by meeting the conditions at <COL ffdc78>""Epitap
 
 There are two types of Custom Skill EX: <COL ffdc78>Fortified</COL> and <COL ffdc78>Technique</COL>, and the abilities that are strengthened vary for each type.
 
-Please note that there are equipment requirements for Custom Skill EX. Once the base custom skill reaches LV. 9, Technique can be equipped, and once it reaches LV. 10, Fortified can be equipped."
+Please note that there are equipment requirements for Custom Skill EX. Once the base custom skill reaches LV. 9, Technique can be equipped, and once it reaches LV. 10, Fortified can be equipped.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_168","ファイターは盾による防御を反撃の
+key,old,new,english,speaker
+TUTORIAL_STEP_168,"ファイターは盾による防御を反撃の
 起点として使うことができます
 
 　敵の攻撃に合わせて【<KC WEAPON_SUB>】盾弾き
@@ -12,4 +12,4 @@ Deflect attacks from enemies with <KC WEAPON_SUB>.
 
 They can also use combination techniques to launch their allies into the air.
 
-Perform a <KC CATAPULT> linking throw."
+Perform a <KC CATAPULT> linking throw.",,

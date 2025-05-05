@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_71,"ゲームメニュー《ワールド》の<COL ffdc78>《マップ》</COL>では
 ミニマップより広域のマップを見ることができます
 
@@ -10,7 +10,7 @@ will show a wider view of the world than the mini-map.
 
 To check various information useful to your adventure
 (Party member's current locations, enemies, buildings,
-place names or quest objectives), make sure to use it."
+place names or quest objectives), make sure to use it.",,
 TUTORIAL_STEP_223,"ゲームメニュー《マップ》の操作
 
 ＜地図切替　詳細／フィールド／広域＞
@@ -27,4 +27,4 @@ Display Change:
 　[<KC UI_MAP_ZOOM_IN>/<KC UI_MAP_ZOOM_OUT>] Zoom in/out
 　[<KC UI_Y>] Change transparency
 Free Marker:
-　[<KC UI_MAP_FREEMARKER>] Place/Remove (Hold)"
+　[<KC UI_MAP_FREEMARKER>] Place/Remove (Hold)",,

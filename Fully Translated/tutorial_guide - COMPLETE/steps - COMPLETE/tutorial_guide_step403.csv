@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_748,"黒呪の迷宮は、最深部まで到達しても
 進行をリセットすることで
 ふたたび探索できるようになります
@@ -12,7 +12,7 @@ explore again.
 
 When you reset <COL ffdc78>your items are lost</COL>, so
 bring important items back through
-""Bitterblack Item Takeaway""."
+""Bitterblack Item Takeaway"".",,
 TUTORIAL_STEP_792,"リセットには下記の２種類があります
 
 <COL ffdc78>①《進行のリセット》</COL>
@@ -32,4 +32,4 @@ TUTORIAL_STEP_792,"リセットには下記の２種類があります
 
 <COL ffdc78>②""Reset Rewards and Progress""</COL>
 　Chests and rewards are available again.
-　Necessary to explore Bitterblack Maze again."
+　Necessary to explore Bitterblack Maze again.",,

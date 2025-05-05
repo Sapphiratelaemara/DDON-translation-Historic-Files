@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_127","エレメントアーチャ―は、魔道弓と魔矢により
+key,old,new,english,speaker
+TUTORIAL_STEP_127,"エレメントアーチャ―は、魔道弓と魔矢により
 攻撃と味方支援両方を行い、さらには一度に
 複数の相手を狙える神秘の狙撃手です
 
@@ -17,4 +17,4 @@
 <PADM>Hold [<KC WEAPON_SUB>] + move right stick <KEYM>Hold [<KC HOLD_BOW>] + <ICON MOUSE>move using the mouse</KEYM>
 Magick Eye: Seeker (Locks onto multiple enemies)
 While in stance, press [<KC SHOOT>] to shoot Seeker Arrow.
-Press [<KC ATTACK1>] for a Front Kick."
+Press [<KC ATTACK1>] for a Front Kick.",,

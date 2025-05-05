@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_630","<COL 78f5ff>《マンドラゴラ・ガーデニング》が解放されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_630,"<COL 78f5ff>《マンドラゴラ・ガーデニング》が解放されました！</COL>
 
 自室にマンドラゴラを住まわせ、
 パートナーポーンのように触れ合ったり
@@ -12,8 +12,8 @@
 You can have Mandragoras reside in your room and interact with them like partner Pawns. 
 You can also nurture them by providing items as fertilizer.
 
-After clearing the unlocking quest and receiving the reward planter, let's cultivate them through your partner Pawns or the Mandragoras."
-"TUTORIAL_STEP_631","＜マンドラゴラの育成＞
+After clearing the unlocking quest and receiving the reward planter, let's cultivate them through your partner Pawns or the Mandragoras.",,
+TUTORIAL_STEP_631,"＜マンドラゴラの育成＞
 
 マンドラゴラの育成を行うと
 《ボーナスダンジョンチケット》などの
@@ -26,8 +26,8 @@ After clearing the unlocking quest and receiving the reward planter, let's culti
 By cultivating Mandragoras, you can create items such as ""Bonus Dungeon Tickets"".
 
 To cultivate Mandragoras, you need to choose the ""Crafting item"" and ""Fertilizer"". 
-It takes 18 hours to complete the cultivation."
-"TUTORIAL_STEP_632","＜マンドラゴラの進化＞
+It takes 18 hours to complete the cultivation.",,
+TUTORIAL_STEP_632,"＜マンドラゴラの進化＞
 
 マンドラゴラを育成する際に
 選択する《肥料》の内容によって
@@ -41,8 +41,8 @@ It takes 18 hours to complete the cultivation."
 When nurturing a Mandragora, the type of fertilizer selected can cause the Mandragora to evolve and change its appearance.
 
 Additionally, the current type of Mandragora can be changed to any previously discovered type.
-However, the choice of ""which type to nurture from"" can affect its evolution, so please be cautious when nurturing."
-"TUTORIAL_STEP_633","＜マンドラゴラ生態図鑑＞
+However, the choice of ""which type to nurture from"" can affect its evolution, so please be cautious when nurturing.",,
+TUTORIAL_STEP_633,"＜マンドラゴラ生態図鑑＞
 
 新種を発見した場合は
 《マンドラゴラ図鑑》に情報が収められていきます
@@ -58,4 +58,4 @@ When a new species is discovered, the information will be recorded in the ""Mand
 There are also rare types that even Professor Aidas, an expert on Mandragoras, has not discovered. 
 <COL ffdc78>If a rarity R or MR type is found, the player character's name will be recorded in the journal.</COL>
 
-Let's try various fertilizers and discover new species."
+Let's try various fertilizers and discover new species.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_722","敵から魔力を吸収すると、<COL ffdc78>《魔力ゲージ》</COL>が溜まり
+key,old,new,english,speaker
+TUTORIAL_STEP_722,"敵から魔力を吸収すると、<COL ffdc78>《魔力ゲージ》</COL>が溜まり
 １本ゲージが溜まるごとに<COL ffdc78>《魔力スタック》</COL>が
 １つ増加します
 
@@ -10,8 +10,8 @@ For each filled gauge, your <COL ffdc78>""Magick Stack""</COL> increases by one.
 
 You can use the accumulated magic power to cast two types of magic:
 <COL ffdc78>""Pure Magic""</COL>: A high-power magic that consumes Magick Stacks.
-<COL ffdc78>""Support Magic""</COL>: A support magic that consumes Magick Gauge."
-"TUTORIAL_STEP_732","【<KC OVER_BRADE>】ルイン・ブレード
+<COL ffdc78>""Support Magic""</COL>: A support magic that consumes Magick Gauge.",,
+TUTORIAL_STEP_732,"【<KC OVER_BRADE>】ルイン・ブレード
 　　　　　　　（魔力を込めた剣を放つ純魔法）
 【<KC SKILL_NORMAL1>】 バック・リープ
 　　　　　　　（後方に高速で移動する補助魔法）
@@ -26,7 +26,7 @@ You can use the accumulated magic power to cast two types of magic:
 [<KC SKILL_NORMAL1>] Return Shift
 (approaches the enemy at high speed)
 
-*Back Leap activates when used while in close contact with the enemy, then switches to Return Shift."
-"TUTORIAL_STEP_794","補助魔法を使い、敵との間合いを近距離と遠距離で
+*Back Leap activates when used while in close contact with the enemy, then switches to Return Shift.",,
+TUTORIAL_STEP_794,"補助魔法を使い、敵との間合いを近距離と遠距離で
 即座に切り替えられる点も
-ハイセプターの強みと言えるでしょう","The ability to use auxiliary magic and switch between close and far range with the enemy instantly is also a strength of the high scepter!"
+ハイセプターの強みと言えるでしょう",The ability to use auxiliary magic and switch between close and far range with the enemy instantly is also a strength of the high scepter!,,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_329","フィールドや洞窟など、旅先から白竜神殿に
+key,old,new,english,speaker
+TUTORIAL_STEP_329,"フィールドや洞窟など、旅先から白竜神殿に
 帰還する時は、《リム転移》が便利です
 
 【<KC UI_GAME_MENU>】ゲームメニュー内
@@ -11,7 +11,7 @@ the White Dragon Temple, the ""Rift Teleport"" is convenient.
 
 Choose ""Rift Teleport"" in the<KC UI_GAME_MENU>game menu under ""World."" 
 
-You can instantly return to the White Dragon Temple without paying the Rift Crystal to the White Dragon Temple."
-"TUTORIAL_STEP_330","また、各地の拠点を《マイ拠点》として
+You can instantly return to the White Dragon Temple without paying the Rift Crystal to the White Dragon Temple.",,
+TUTORIAL_STEP_330,"また、各地の拠点を《マイ拠点》として
 登録している場合、リムを支払えば
-どこからでもマイ拠点へ瞬時に移動できます","If you have registered various places as ""Favorites"" in different locations, you can instantly move to ""Favorites"" from anywhere by paying Rift Crystal."
+どこからでもマイ拠点へ瞬時に移動できます","If you have registered various places as ""Favorites"" in different locations, you can instantly move to ""Favorites"" from anywhere by paying Rift Crystal.",,

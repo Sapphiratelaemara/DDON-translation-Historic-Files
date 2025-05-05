@@ -1,102 +1,102 @@
-MsgJp,MsgEn,speaker
-<COL ff7575><KCT HOLD_BOW>で弓構え、<KCT SHOOT></COL>で弓射ちだ！,"<COL ff7575><KCT HOLD_BOW> to draw your bow, <KCT SHOOT></COL> to fire!",Hunter
+MsgJp,MsgEn,speaker,english,speaker,english,speaker
+<COL ff7575><KCT HOLD_BOW>で弓構え、<KCT SHOOT></COL>で弓射ちだ！,"<COL ff7575><KCT HOLD_BOW> to draw your bow, <KCT SHOOT></COL> to fire!",Hunter,,Hunter,,Hunter
 狙撃照準にオレンジのラインがあるだろう。それが中央にくる、射撃の最適距離から矢を放て！,"See the orange line in your aim? 
 That's the optimal range. 
-Fire when it's centered!",Hunter
-<COL ff7575><PADM><KCT WEAPON_MAIN>で爆矢構え、その状態で<KCT SHOOT><KEYM>初期設定の場合、弓構えから、マウスホイール後ろで爆矢構え、<KCT SHOOT></KEYM></COL>で仕込み爆矢射ちだ！,"Use <COL ff7575><PADM><KCT WEAPON_MAIN> to ready an explosive arrow, then <KCT SHOOT><KEYM> Hold bow, scroll mouse wheel back to ready explosive arrow, then<KCT SHOOT></KEYM></COL> to fire!",Hunter
+Fire when it's centered!",Hunter,,Hunter,,Hunter
+<COL ff7575><PADM><KCT WEAPON_MAIN>で爆矢構え、その状態で<KCT SHOOT><KEYM>初期設定の場合、弓構えから、マウスホイール後ろで爆矢構え、<KCT SHOOT></KEYM></COL>で仕込み爆矢射ちだ！,"Use <COL ff7575><PADM><KCT WEAPON_MAIN> to ready an explosive arrow, then <KCT SHOOT><KEYM> Hold bow, scroll mouse wheel back to ready explosive arrow, then<KCT SHOOT></KEYM></COL> to fire!",Hunter,,Hunter,,Hunter
 爆矢構え中は<COL ff7575><PADM><KEYN R_STICK><KEYM>マウス</KEYM></COL>で着弾地点の操作もできるぞ！,"While aiming an explosive arrow, <COL ff7575><PADM><KEYN R_STICK><KEYM>mouse</KEYM></COL> 
-adjusts the landing point!",Hunter
+adjusts the landing point!",Hunter,,Hunter,,Hunter
 爆矢に攻撃し、起爆させるんだ。自然爆発よりずっと威力が上がるぞ！,"Attack the explosive arrow to detonate it. 
-It's much stronger than letting it explode naturally!",Hunter
+It's much stronger than letting it explode naturally!",Hunter,,Hunter,,Hunter
 <COL ff7575><KCT ATTACK1></COL>で前蹴りだ！敵を蹴って距離をとれ！,"Use <COL ff7575><KCT ATTACK1></COL> for Front Kick!
-Create distance by kicking foes!",Hunter
-<COL ff7575><KCT RELOAD></COL>で矢の装填だ！,Use <COL ff7575><KCT RELOAD></COL> to reload arrows!,Hunter
+Create distance by kicking foes!",Hunter,,Hunter,,Hunter
+<COL ff7575><KCT RELOAD></COL>で矢の装填だ！,Use <COL ff7575><KCT RELOAD></COL> to reload arrows!,Hunter,,Hunter,,Hunter
 青色のタイミングで<COL ff7575><PADM><KCT TOUCH><KEYM><KCT RELOAD></KEYM></COL>を押せば、スキが短く装填できるぞ！,"Press <COL ff7575><PADM><KCT TOUCH><KEYM><KCT RELOAD></KEYM></COL> when the colour turns 
-blue for a faster reload!",Hunter
+blue for a faster reload!",Hunter,,Hunter,,Hunter
 よし、最後の仕上げだ。祠の奥へ向かい、そこにいる敵を弓射ちや爆矢射ちで倒すんだ！前蹴りも忘れるなよ,"Alright, time for the final touch. 
 Head to the back of the shrine and take down the 
 enemies there with bow shots or explosive arrows!
-Don't forget to use front kicks either.",Hunter
+Don't forget to use front kicks either.",Hunter,,Hunter,,Hunter
 試練完了、よくやったな！奥にある＜狙弓の証＞を受け取り、神殿のレンテンに報告するがいい,"Trial complete, well done! 
 Take the <Hunter's Mark> in the back 
-and report to Renton at the temple.",Hunter
+and report to Renton at the temple.",Hunter,,Hunter,,Hunter
 "おめでとう、覚者よ
 これにて戦術試練は完了だ！","Congratulations, Arisen.
-The tactical trial is now complete!",Hunter
+The tactical trial is now complete!",Hunter,,Hunter,,Hunter
 "今覚えたハンターの戦い方を
 振り返りたい時は、《チュートリアルガイド》の
 《ジョブの操作と役割》からハンターの戦法や
 戦術的役割を確認するんだ","To review the Hunter's combat style
 you just learned, check 《Tutorial》→
-《Job Roles》for tactics and duties.",Hunter
+《Job Roles》for tactics and duties.",Hunter,,Hunter,,Hunter
 "お前なら、より巨大な魔物へ挑むための
 試練も達成できるだろう
-さらなる挑戦を待っているぞ",You might even conquer trials to challenge larger fiends. Greater trials await,Hunter
+さらなる挑戦を待っているぞ",You might even conquer trials to challenge larger fiends. Greater trials await,Hunter,,Hunter,,Hunter
 お、訓練希望だな？　あらためてよろしくな！,"Oh, here for training? 
-Good to see you again!",Renton
+Good to see you again!",Renton,,Renton,,Renton
 "ハンターの戦術試練を案内するよ
 基本ってのは、くどいようだが大事なことだぞ","I'll guide you through the Hunter Tactics trial.
-The basics may seem tedious, but they're important.",Renton
+The basics may seem tedious, but they're important.",Renton,,Renton,,Renton
 "あんたにはこれに、一人で挑んでもらう
 でなきゃ、ジョブの特性は理解できないからな","You're going to have to take this one on alone,
-or you won't understand the nature of the job.",Renton
+or you won't understand the nature of the job.",Renton,,Renton,,Renton
 "《修練の祠》は知ってるかい？
 神殿を出て左手、崖沿いに進むんだ
 案内人の騎士団員がいるから話を聞いてくれ","Know the Training Chapel?
 From the temple exit, head left
 along the cliffside. Talk to
-the knight guide there.",Renton
+the knight guide there.",Renton,,Renton,,Renton
 "訓練希望者だな
 《修練の祠》は崖の上だ
 ここから登って行け","Here for training? 
 The <Training Chapel> is atop the cliff. 
-Climb up from here",White Knight
+Climb up from here",White Knight,,White Knight,,White Knight
 "なかなか見どころがあるらしいな、あんた
 お手並み拝見させてもらおう","You show promise. 
-Let's see what you've got.",White Knight
+Let's see what you've got.",White Knight,,White Knight,,White Knight
 "どうだった？　試練、うまくいったか！
 ジョブによって、戦い方は全然違うんだ――
 俺もまぁ修行中だけど","How'd it go? Trial went well?
 Every job's combat style's
 unique ― not that I'm
-an expert yet either!",Renton
+an expert yet either!",Renton,,Renton,,Renton
 "また転職したら、いつでも来いよ
 挑んで損はないはずだぜ","Come back anytime you
 change jobs again! It's
 always worth testing
-your new skills!",Renton
+your new skills!",Renton,,Renton,,Renton
 "《修練の祠》は崖の上だ
 がんばるんだぞ","The Training Chapel is atop the cliff. 
-Give it your all.",White Knight
+Give it your all.",White Knight,,White Knight,,White Knight
 "覚者とは試練に臆することなく立ち向かい
-その使命を全うする者のことだ",An Arisen faces trials without fear and fulfills their duty,Wilson
+その使命を全うする者のことだ",An Arisen faces trials without fear and fulfills their duty,Wilson,,Wilson,,Wilson
 "与えられた試練を全てこなせた者のみ
 《狙弓の証》を得ることができる","Only those who complete all trials
-may obtain the 《Hunter's Mark.》",Wilson
+may obtain the 《Hunter's Mark.》",Wilson,,Wilson,,Wilson
 "各試練のやり方について
 わからなければ、今までに得た知識を
-確認しながら臨むがいい","If unsure about any trial, review the knowledge you've gained so far",Wilson
+確認しながら臨むがいい","If unsure about any trial, review the knowledge you've gained so far",Wilson,,Wilson,,Wilson
 "技や動きの参考のため
 一人、共闘の兵をつけておこう
-課題をこなす中で戦技を身に刻め！","For reference, I'll assign a Pawn to fight alongside you. Master combat skills during the trial!",Wilson
+課題をこなす中で戦技を身に刻め！","For reference, I'll assign a Pawn to fight alongside you. Master combat skills during the trial!",Wilson,,Wilson,,Wilson
 "与えられた試練を全てこなせた者のみ
 《狙弓の証》を得ることができる","Only those who complete all trials
-may obtain the 《Hunter's Mark.》",Wilson
+may obtain the 《Hunter's Mark.》",Wilson,,Wilson,,Wilson
 "各試練のやり方について
 わからなければ今までの得た知識を
-確認しながら臨むがいい","If unsure about any trial, review the knowledge you've gained so far",Wilson
+確認しながら臨むがいい","If unsure about any trial, review the knowledge you've gained so far",Wilson,,Wilson,,Wilson
 "また立ちはだかる魔物が
 課題中にすべていなくなったら
-再度出直してくるがいい","If all fiends in the trial vanish, return and try again later",Wilson
+再度出直してくるがいい","If all fiends in the trial vanish, return and try again later",Wilson,,Wilson,,Wilson
 "さ、《修練の祠》へ行くんだ
 案内人は神殿を出て左手を進めば
 崖の下にいるからさ","Now go to the Training Chapel.
 Your guide is up the cliff -
-leave the temple and head left.",Renton
+leave the temple and head left.",Renton,,Renton,,Renton
 "《狙弓の証》、よくぞ得た！
 ジョブについての理解も、さらに深まったようだな
 神殿に戻りレンテンに報告するがいい、覚者よ！","You've obtained the Hunter's Mark! 
 Your understanding
 of the job has deepened.
 Return to the temple and
-report to Renton, Arisen!",Wilson
+report to Renton, Arisen!",Wilson,,Wilson,,Wilson

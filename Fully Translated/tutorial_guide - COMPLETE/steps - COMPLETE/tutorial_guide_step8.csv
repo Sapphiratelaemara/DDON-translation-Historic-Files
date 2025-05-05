@@ -1,11 +1,11 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_6,"<COL ffdc78>《メインクエスト》</COL>は
 覚者としてあなたが紡ぐ、この地レスタニアと
 そこで生きる人々の物語を体験するクエストです","The <COL ffdc78>""Main Quest""</COL>
 is an adventure where you, the Arisen,
 will experience the story of this
 land Lestania and the people living
-here."
+here.",,
 TUTORIAL_STEP_34,"進行中のクエスト詳細は、いつでも【<KC UI_GAME_MENU>】
 ゲームメニュー《クエスト》の<COL ffdc78>《クエストログ》</COL>
 で見ることができます
@@ -19,7 +19,7 @@ quests in progress under
 If you want to see the quest
 summary, current objective,
 completion reward, etc, you
-can view it here."
+can view it here.",,
 TUTORIAL_STEP_195,"<COL ffdc78>メインクエストで指定の魔物討伐が目的の
 場合、対象敵はミニマップに赤の丸で示されます</COL>
 
@@ -39,4 +39,4 @@ Joseph in the ""Audience Room"".
 
 If you wish to look back on
 previous exploits, give him
-a visit."
+a visit.",,

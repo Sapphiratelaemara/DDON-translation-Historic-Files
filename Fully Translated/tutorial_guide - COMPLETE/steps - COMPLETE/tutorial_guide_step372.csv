@@ -1,13 +1,13 @@
-"key","old","new"
-"TUTORIAL_STEP_658","ドワーフオークは鍛冶の技術に長けた
+key,old,new,english,speaker
+TUTORIAL_STEP_658,"ドワーフオークは鍛冶の技術に長けた
 アッカーシェラン大陸固有のオーク種です
 
 金属の鎧を着こんでいるため
 防御の固い正面側よりも
 背面からの攻撃が有効です","The Dwarf Orc, a unique species native to the Acre Selund continent, excels in the art of blacksmithing.
 
-Wearing metal armor, it is more effective to attack from the back rather than from the heavily defended front."
-"TUTORIAL_STEP_659","ドワーフオークには、
+Wearing metal armor, it is more effective to attack from the back rather than from the heavily defended front.",,
+TUTORIAL_STEP_659,"ドワーフオークには、
 兵種により鎧や武器が異なるという特徴があります
 鎧の違いにより、攻撃の有効部位が大きく異なります
 
@@ -26,15 +26,15 @@ Since they don't wear helmets, attacks to the head are also effective.
 <Heavy Soldier Dwarf Orc and Squad Leader Dwarf Orc>
 Attacks are less effective against the shields they wear.
 
-And so on."
-"TUTORIAL_STEP_660","持っている武器の種類によって
+And so on.",,
+TUTORIAL_STEP_660,"持っている武器の種類によって
 戦闘中の動きも大きく異なります
 
 それぞれのタイプにあった立ち回りを
 こころがけましょう","Depending on the type of weapon you have, your movements in battle will differ greatly.
 
-Let's try to find the right strategy for each type of weapon."
-"TUTORIAL_STEP_661","また、ドワーフオーク兵たちは
+Let's try to find the right strategy for each type of weapon.",,
+TUTORIAL_STEP_661,"また、ドワーフオーク兵たちは
 彼らをまとめるリーダー的存在である
 《隊将ドワーフオーク》に鼓舞されることで
 士気が上がり、一時的に戦闘力が上昇します
@@ -49,4 +49,4 @@ This boosts their morale and temporarily increases their combat power.
 
 On the other hand, by prioritizing the defeat of the Squad Leader Dwarf Orc, you can disrupt their subordinates and weaken their attacks. 
 
-Let's take advantage of the Dwarf Orc's characteristics and proceed with the battle advantageously."
+Let's take advantage of the Dwarf Orc's characteristics and proceed with the battle advantageously.",,

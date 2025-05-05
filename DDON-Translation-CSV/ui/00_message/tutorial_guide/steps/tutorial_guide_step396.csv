@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_738","エリアランク到達により、各地に存在する
+key,old,new,english,speaker
+TUTORIAL_STEP_738,"エリアランク到達により、各地に存在する
 <COL ffdc78>《王家によって封印されていた扉》</COL>が解放されます
 
 扉の先には
@@ -11,4 +11,4 @@
 
 Beyond the door, various trials await, such as valuable treasures and formidable enemies that protect them.
 
-※ The doors are located in inconspicuous places, so let's search carefully."
+※ The doors are located in inconspicuous places, so let's search carefully.",,

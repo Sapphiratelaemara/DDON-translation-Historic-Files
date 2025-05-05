@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_80,"レスタニアには、覚者や住民に襲い来る
 多くの敵が徘徊しています
 巨大なもの、群れを成すもの
@@ -11,7 +11,7 @@ they move in groups and attack everyone indiscriminately.
 And at night or in rain, monsters that use poison or magic appear.
 
 <COL ffdc78>Monsters with higher levels(Lv) are more powerful.</COL>
-Fight against enemies that match your level."
+Fight against enemies that match your level.",,
 TUTORIAL_STEP_79,"敵を倒すとレベルアップに必要な
 <COL ffdc78>経験値（ＸＰ）</COL>が得られます
 時にはアイテムを落とすこともあるため
@@ -28,4 +28,4 @@ Fight monsters aggressively!
 <COL ffdc78>Monsters have attributes and weaknesses
 Each monster is different as are their weaknesses.</COL>
 Know your enemy and target their weak points.
-Doing so will give you an advantage."
+Doing so will give you an advantage.",,

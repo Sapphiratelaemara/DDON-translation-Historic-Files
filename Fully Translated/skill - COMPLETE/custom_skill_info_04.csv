@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 CUSTOM_SKILL_INFO_04_48,"自身を中心に物理攻撃力と魔法攻撃力を
 一時的に強化する魔法エリアを展開する
 フィールドシフトに対応
@@ -7,7 +7,7 @@ LV.６で展開エリアのサイズ拡張</COL>","Emits an aura of Attack and M
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 <COL ffdc78>LV UP: Increases duration after leaving the aura.
-LV.6: Increases the size of the effect.</COL>"
+LV.6: Increases the size of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_49,"自身を中心に物理防御力と魔法防御力を
 一時的に強化する魔法エリアを展開する
 フィールドシフトに対応
@@ -16,14 +16,14 @@ LV.６で展開エリアのサイズ拡張</COL>","Emits an aura of Attack and M
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 <COL ffdc78>LV UP: Increases duration after leaving the aura.
-LV.6: Increases the size of the effect.</COL>"
+LV.6: Increases the size of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_46,"魔力を溜めた後、杖を振って追尾性能を持つ
 聖属性の魔法球を複数放つ
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で魔法球増加（３→５）</COL>","After charging, launch tracking projectiles.
 Fires magick spheres of Holy attribute.
 <COL ffdc78>LV UP: Increases damage.
-LV.6: Increases number of magick spheres (3→5).</COL>"
+LV.6: Increases number of magick spheres (3→5).</COL>",,
 CUSTOM_SKILL_INFO_04_50,"自身を中心に高速に旋回する魔球を生成
 受けた攻撃を魔球の数だけ無効化する
 <COL ffdc78>LV UP毎に持続時間延長
@@ -31,7 +31,7 @@ LV.６で魔球数増加（３→５）</COL>","Generates magick spheres that re
 around oneself. The spheres will each
 nullify one attack.
 <COL ffdc78>LV UP: Increases duration of the effect.
-LV.6: Increases number of magick spheres (3→5).</COL>"
+LV.6: Increases number of magick spheres (3→5).</COL>",,
 CUSTOM_SKILL_INFO_04_44,"急速に体力を回復させる魔法エリアを発現させる
 （最大回復量は治癒上限値）（対不死には攻撃）
 <COL ffdc78>LV UP毎に設置持続時間が延長
@@ -39,7 +39,7 @@ LV.６で展開エリアのサイズ拡張</COL>","Creates a magick area that ra
 (Maximum healing limited to grey health)
 (Inflicts damage to undead)
 <COL ffdc78>LV UP: Increases duration of the effect.
-LV.6: Increases the size of the effect.</COL>"
+LV.6: Increases the size of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_45,"一部の状態異常を瞬時に治療する魔法エリアを
 発現させる（対不死には攻撃）
 <COL ffdc78>LV UP毎に設置持続時間が延長
@@ -47,14 +47,14 @@ LV.６で展開エリアのサイズ拡張</COL>","Creates a magick area that in
 cures debilitations.
 (Inflicts damage to undead)
 <COL ffdc78>LV UP: Increases duration of the effect.
-LV.6: Increases the size of the effect.</COL>"
+LV.6: Increases the size of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_47,"魔力を溜めた後、広範囲に向けて
 聖属性の強い光を放射する魔球を展開する
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大</COL>","After charging, fire a magick sphere that emits
 an intense light of the Holy attribute in a wide area.
 <COL ffdc78>LV UP: Increases damage.
-LV.6: Increases the range of the effect.</COL>"
+LV.6: Increases the range of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_54,"自身の体に魔力を溜め込み、体力が尽きると同時に
 大爆発を起こし、周囲の敵に大ダメージを与える
 <COL ffdc78>LV UP毎に発動中のスタミナ消費減少
@@ -62,7 +62,7 @@ LV.６で攻撃威力の上昇／攻撃範囲拡大</COL>","Charge magick within
 exhausted, create a wide explosion dealing
 large damage to enemies.
 <COL ffdc78>LV UP: Decreases Stamina consumption.
-LV.6: Increases the damage and range of the effect.</COL>"
+LV.6: Increases the damage and range of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_55,"自身を中心に、耐久力を
 一時的に強化する魔法エリアを展開する
 フィールドシフトに対応
@@ -71,21 +71,21 @@ LV.６で展開エリアのサイズ拡張</COL>","Emits an aura of Endurance.
 Applies a temporary increase to nearby allies.
 Can be used with Field Shift.
 <COL ffdc78>LV UP: Increases duration after leaving the aura.
-LV.6: Increases the size of the effect.</COL>"
+LV.6: Increases the size of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_52,"急速にスタミナを回復させる魔法エリアを
 発現させる（対不死には攻撃）
 <COL ffdc78>LV UP毎に設置持続時間が延長
 LV.６で展開エリアのサイズ拡張</COL>","Creates a magick area that rapidly regenerates Stamina.
 (Inflicts damage to undead)
 <COL ffdc78>LV UP: Increases duration of the effect.
-LV.6: Increases the size of the effect.</COL>"
+LV.6: Increases the size of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_53,"自身を中心に聖属性の巨大な魔法エリアを展開し
 侵入してきた敵に攻撃を与える
 <COL ffdc78>LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大</COL>","Creates a wide magick area of the Holy attribute
 centered on yourself, dealing damage to enemies.
 <COL ffdc78>LV UP: Increases damage.
-LV.6: Increases the range of the effect.</COL>"
+LV.6: Increases the range of the effect.</COL>",,
 CUSTOM_SKILL_INFO_04_51,"精神を集中し、自身を中心に味方の技発動時間を
 大幅に短縮する祈りを捧げる
 ゲージが表示される全ての溜め行動、詠唱が対象
@@ -93,7 +93,7 @@ CUSTOM_SKILL_INFO_04_51,"精神を集中し、自身を中心に味方の技発�
 LV.６で展開エリアのサイズ拡張</COL>","Focus a prayer on nearby allies, hastening the
 charging of all their skills that display a charge gauge.
 <COL ffdc78>LV UP: Decreases stamina consumption of the skill.
-LV.6: Increases the range of effect.</COL>"
+LV.6: Increases the range of effect.</COL>",,
 CUSTOM_SKILL_INFO_04_133,"自身を中心に、生命治癒力を
 一時的に上昇させる魔法エリアを展開する
 フィールドシフトに対応
@@ -102,7 +102,7 @@ LV.６で展開エリアのサイズ拡張</COL>","Release a magickal aura aroun
 healing power for nearby allies.
 Can be used with Field Shift.
 <COL ffdc78>LV UP: Extends duration of effect after Field Shifting.
-LV.6: Increases the range of effect.</COL>"
+LV.6: Increases the range of effect.</COL>",,
 CUSTOM_SKILL_INFO_04_134,"自身がブラストビットで放った魔法球と
 同数の魔法球を放つ砲台を一定時間生成する
 <COL ffdc78>LV UP毎に魔法砲台の出現時間延長
@@ -110,16 +110,16 @@ LV.６で魔法球の威力上昇／魔法砲台増加（１→２）</COL>","Ca
 by Blast Bit, will generate additional Blast Bits from itself.
 <COL ffdc78>LV UP: Increases duration of the magickal orb.
 LV.6: Increases the damage of the magickal orb, and the amount
-that are placed (1→2).</COL>"
+that are placed (1→2).</COL>",,
 CUSTOM_SKILL_INFO_04_166,"【ＥＸ追加効果】
 魔法エリア内にいる味方の
 治癒上限値を徐々に回復する","EX Additional Effects:
-Gradually recover the healable limit of allies within the area."
+Gradually recover the healable limit of allies within the area.",,
 CUSTOM_SKILL_INFO_04_167,"【ＥＸ追加効果】
 敵にダメージを与えた時、体力が回復する効果を付与
 離脱後の効果時間大幅延長","EX Additional Effects:
 Recover health when attacking enemies.
-Duration of effect after Field Shift is greatly increased."
+Duration of effect after Field Shift is greatly increased.",,
 CUSTOM_SKILL_INFO_04_168,"【ＥＸ追加効果】
 魔法球増加（５→７）
 ダメージ量と吹き飛ばし力が増加
@@ -128,7 +128,7 @@ CUSTOM_SKILL_INFO_04_168,"【ＥＸ追加効果】
 Increase the number of magick spheres (5→7).
 Increase damage and blow force.
 Increase chance attack and exhaust attack.
-<COL ff7878>Further increase damage against Skeleton/Undead/Cursed/Spirit enemies.</COL>"
+<COL ff7878>Further increase damage against Skeleton/Undead/Cursed/Spirit enemies.</COL>",,
 CUSTOM_SKILL_INFO_04_169,"【ＥＸ追加効果】
 魔法球の発現時間が延長
 体力回復とシークレットコア発現が
@@ -136,26 +136,26 @@ CUSTOM_SKILL_INFO_04_169,"【ＥＸ追加効果】
 <COL ff7878>戦甲を攻撃時、ダメージ量が増加</COL>","EX Additional Effects:
 Extend duration of magick spheres.
 Magick spheres can recover health and reveal secret core.
-<COL ff7878>Further increase damage against War-Ready enemies.</COL>"
+<COL ff7878>Further increase damage against War-Ready enemies.</COL>",,
 CUSTOM_SKILL_INFO_04_218,"【ＥＸ追加効果】
 石化／黄金化／侵食を死亡確定前であれば治療可能になる
 ステータスダウン系の状態異常を治療可能になる
 詠唱時間を短縮","EX Additional Effects:
 Can cure Petrification/Gilded/Infected before death occurs.
 Can cure Status Reduction debilitations.
-Reduce cast time."
+Reduce cast time.",,
 CUSTOM_SKILL_INFO_04_217,"【ＥＸ追加効果】
 魔法エリアに入ると一定時間
 キュアスポットの効果が付与される
 同時に展開できる魔法エリア数が増加（１→２）","EX Additional Effects:
 When enter the magick area, the curing effect
 lingers for an amount of time.
-Increase the number of magick spots you can deploy (1→2)."
+Increase the number of magick spots you can deploy (1→2).",,
 CUSTOM_SKILL_INFO_04_219,"【ＥＸ追加効果】
 フィールドシフト時、
 １度だけ攻撃を無効化する魔球を付与","EX Additional Effects:
 When Field Shifting, grant each ally one magick sphere that
-nullifies one attack."
+nullifies one attack.",,
 CUSTOM_SKILL_INFO_04_220,"【ＥＸ追加効果】
 風圧と地震を無効にする","EX Additional Effects:
-Nullify Wind Pressure and Tremor."
+Nullify Wind Pressure and Tremor.",,

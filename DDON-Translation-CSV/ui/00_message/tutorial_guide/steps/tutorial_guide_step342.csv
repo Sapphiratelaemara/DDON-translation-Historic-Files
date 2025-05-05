@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_548","＜キャリーを護衛する＞
+key,old,new,english,speaker
+TUTORIAL_STEP_548,"＜キャリーを護衛する＞
 
 ティネス砦から、別の村などへ
 キャリーが食料を運ぶのに協力します
@@ -13,8 +13,8 @@ From Fort Thines, we will assist Carrie in transporting food to other villages.
 
 While searching along the way, we will gather food, but a sufficient amount cannot be secured in one transport.
 
-Let's repeat the food transport multiple times to support them!"
-"TUTORIAL_STEP_698","＜ルートの選択について＞
+Let's repeat the food transport multiple times to support them!",,
+TUTORIAL_STEP_698,"＜ルートの選択について＞
 
 特定のクエストでは、<COL ffdc78>ルートの選択</COL>を
 迫られることがあります
@@ -25,4 +25,4 @@ Let's repeat the food transport multiple times to support them!"
 
 In certain quests, you may be forced to make a choice of <COL ffdc78>routes</COL>.
 
-Since the <COL ffdc78>strength of the enemies</COL> and the <COL ffdc78>amount of food discovered</COL> differ depending on the route, it is a very important decision to determine <COL ffdc78>which route to choose</COL>."
+Since the <COL ffdc78>strength of the enemies</COL> and the <COL ffdc78>amount of food discovered</COL> differ depending on the route, it is a very important decision to determine <COL ffdc78>which route to choose</COL>.",,

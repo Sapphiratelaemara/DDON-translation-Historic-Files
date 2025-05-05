@@ -1,12 +1,12 @@
-old,speaker
-<STG 120>にいって一緒に写真を撮りましょう,Partner Pawn
-<STG 120>で一緒に写真を撮ってみたいです,Partner Pawn
-<STG 120>に行きましょう！写真を撮りましょう！,Partner Pawn
+old,speaker,english,speaker,english,speaker
+<STG 120>にいって一緒に写真を撮りましょう,Partner Pawn,,Partner Pawn,,Partner Pawn
+<STG 120>で一緒に写真を撮ってみたいです,Partner Pawn,,Partner Pawn,,Partner Pawn
+<STG 120>に行きましょう！写真を撮りましょう！,Partner Pawn,,Partner Pawn,,Partner Pawn
 "<STG 120>で素晴らしい景色を見つけました
-一緒に行ってみませんか",Partner Pawn
-<STG 120>で一緒に写真を撮ってもいいですよ,Partner Pawn
+一緒に行ってみませんか",Partner Pawn,,Partner Pawn,,Partner Pawn
+<STG 120>で一緒に写真を撮ってもいいですよ,Partner Pawn,,Partner Pawn,,Partner Pawn
 "<STG 120>に行って、一緒に写真を撮りたいです
-いかがですか？",Partner Pawn
-<STG 120>へ今すぐ行こう！記念撮影だ！,Partner Pawn
+いかがですか？",Partner Pawn,,Partner Pawn,,Partner Pawn
+<STG 120>へ今すぐ行こう！記念撮影だ！,Partner Pawn,,Partner Pawn,,Partner Pawn
 "<STG 120>に素敵な場所があるみたいよ
-一緒に行って写真撮影なんてどう？",Partner Pawn
+一緒に行って写真撮影なんてどう？",Partner Pawn,,Partner Pawn,,Partner Pawn

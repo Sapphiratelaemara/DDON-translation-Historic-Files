@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_9,"<COL 78f5ff>《ボードクエスト》が解放されました！</COL>
 
 世界各地の拠点にある<COL ffdc78>《クエストボード》</COL>には
@@ -14,7 +14,7 @@ Residents make their various requests with
 get new requests.
 
 <COL ffdc78>""Elimination Quests""</COL> and <COL ffdc78>""Delivery Quests""</COL>,
-Choose whichever you like."
+Choose whichever you like.",,
 TUTORIAL_STEP_10,"<COL ffdc78>「討伐クエスト」は指定の魔物討伐が目的と
 なり、対象敵はミニマップに緑の丸で示されます</COL>
 
@@ -32,4 +32,4 @@ and deliver them to a ""Delivery Box""</COL>
 
 However, if the time limit for the delivery has passed,
 the quest will automatically fail.
-Please be careful."
+Please be careful.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_667","《兵舎》では、ソネルがテントに細工を行うことで
+key,old,new,english,speaker
+TUTORIAL_STEP_667,"《兵舎》では、ソネルがテントに細工を行うことで
 ゲームが進行しますが
 同時に<COL ffdc78>見張りが巡回にやってきます</COL>
 
@@ -8,8 +8,8 @@
 それらは<COL ffdc78>プレイヤーが話しかける</COL>ことで
 切り替えることができます","In the ""Barracks,"" Sonel progresses the game by tampering with the tent. At the same time, <COL ffdc78>the sentry comes around for patrol.</COL>
 
-Sonel has two states, <COL ffdc78>""Tampering"" </COL>and <COL ffdc78>""Hiding,""</COL> which can be switched by the <COL ffdc78>player talking to him.</COL>"
-"TUTORIAL_STEP_711","＜ソネルの細工状態＞
+Sonel has two states, <COL ffdc78>""Tampering"" </COL>and <COL ffdc78>""Hiding,""</COL> which can be switched by the <COL ffdc78>player talking to him.</COL>",,
+TUTORIAL_STEP_711,"＜ソネルの細工状態＞
 
 <COL ffdc78>テントの外に出ている間</COL>は細工が進行しますが
 その状態では<COL ffdc78>見張りに発見</COL>されてしまいます
@@ -23,8 +23,8 @@ Sonel has two states, <COL ffdc78>""Tampering"" </COL>and <COL ffdc78>""Hiding,"
 
 <Sonel's Hidden Condition>
 
-<COL ffdc78>While inside the tent, he hides himself</COL>, but in that state, <COL ffdc78>the work does not progress.</COL>"
-"TUTORIAL_STEP_712","＜見張りに見つかった場合＞
+<COL ffdc78>While inside the tent, he hides himself</COL>, but in that state, <COL ffdc78>the work does not progress.</COL>",,
+TUTORIAL_STEP_712,"＜見張りに見つかった場合＞
 
 もし、あなたかソネルのどちらかが
 敵に見つかってしまうと<COL ffdc78>戦闘が始まります</COL>
@@ -34,8 +34,8 @@ Sonel has two states, <COL ffdc78>""Tampering"" </COL>and <COL ffdc78>""Hiding,"
 
 If either you or Sonel is discovered by the enemy,<COL ffdc78> combat will begin.</COL>
 
-If you can eliminate the enemy, the infiltration mission will be cancelled at that point, but you can <COL ffdc78>bring back the results up until then.</COL>"
-"TUTORIAL_STEP_713","＜細工任務のポイント＞
+If you can eliminate the enemy, the infiltration mission will be cancelled at that point, but you can <COL ffdc78>bring back the results up until then.</COL>",,
+TUTORIAL_STEP_713,"＜細工任務のポイント＞
 
 ソネルの傍を離れる時は
 見張りが巡回してくるタイミングに注意が必要です
@@ -45,4 +45,4 @@ If you can eliminate the enemy, the infiltration mission will be cancelled at th
 
 When leaving Sonel's side, it is important to be aware of the timing when the lookout comes on patrol.
 
-Successfully carry out the task without being discovered by the enemy by <COL ffdc78>skillfully switching between Sonel's two states.</COL>"
+Successfully carry out the task without being discovered by the enemy by <COL ffdc78>skillfully switching between Sonel's two states.</COL>",,

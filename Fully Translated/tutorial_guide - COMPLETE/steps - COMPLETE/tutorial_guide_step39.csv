@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_33,"画面右上の<COL ffdc78>《ミニマップ》</COL>で
 「プレイヤーの位置」と「敵の位置」が
 すぐに確認できます
@@ -13,7 +13,7 @@ your position and the position of enemies.
 <COL ffdc78>The green circle at the center is your current location,
 and small circles represent enemies</COL>
 
-Use it to decide who to attack."
+Use it to decide who to attack.",,
 TUTORIAL_STEP_32,"ミニマップのサイズや縮尺はいつでも変更できます
 状況に合わせて切替えましょう
 
@@ -30,4 +30,4 @@ Change Size with [<KC UI_MINIMAP>]+[<KC UI_MINIMAP_SCALING>]
 ""Zooming""
 Change Zoom with [<KC UI_MINIMAP>]+[<KC UI_MAP_ZOOM_IN>／<KC UI_MAP_ZOOM_OUT>]
 ""Fixing Position""
-Fix the Mini Map with [<KC UI_MINIMAP>]+[<KC UI_MINIMAP_LOCK>]"
+Fix the Mini Map with [<KC UI_MINIMAP>]+[<KC UI_MINIMAP_LOCK>]",,

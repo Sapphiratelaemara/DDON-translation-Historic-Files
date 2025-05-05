@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_664","大きな広場など、見張りが多数いる場所は
+key,old,new,english,speaker
+TUTORIAL_STEP_664,"大きな広場など、見張りが多数いる場所は
 戦闘で切り抜けるのが困難なため
 <COL ffdc78>一度発見されると潜入任務が失敗</COL>となる
 場合があります
@@ -11,4 +11,4 @@ it can be difficult to navigate through combat,
 <COL ffdc78>and once discovered, the infiltration mission may fail.</COL>
 
 
-If there is a warning from Sonel, pay attention to the <COL ffdc78>positions and movements</COL> of the guards and proceed with caution."
+If there is a warning from Sonel, pay attention to the <COL ffdc78>positions and movements</COL> of the guards and proceed with caution.",,

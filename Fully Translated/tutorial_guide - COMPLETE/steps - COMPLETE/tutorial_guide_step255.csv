@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_424,"<COL ffdc78>《鑑定交換》</COL>では、特定のアイテムを
 特別なアイテムと交換することができます
 
@@ -16,4 +16,4 @@ The items required are often difficult to obtain or craft.
 and often have special effects.</COL>
 
 If you want to get stronger,
-then try to obtain or craft the requested items."
+then try to obtain or craft the requested items.",,

@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_83,"このレスタニアには、覚者であるあなたのほかにも
 多くの人々（ＮＰＣ）が暮らしています
 彼らＮＰＣの中には
@@ -15,7 +15,7 @@ NPCs have different roles, such as:
    Quest clients.
    Area and Job Masters.
 
-Be sure to meet them all!"
+Be sure to meet them all!",,
 TUTORIAL_STEP_82,"彼らに話しかけると、
 会話メニューに項目が表示されます
 
@@ -24,4 +24,4 @@ TUTORIAL_STEP_82,"彼らに話しかけると、
 options appear in the Conversation menu.
 
 So you can choose what you want to talk about.
-Get to know them!"
+Get to know them!",,

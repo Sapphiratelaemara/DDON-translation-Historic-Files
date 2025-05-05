@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_133","プリーストにとって、敵への接近は
+key,old,new,english,speaker
+TUTORIAL_STEP_133,"プリーストにとって、敵への接近は
 あまり有益ではありません
 
 中～遠距離の安全な位置を常に確保して
@@ -7,8 +7,8 @@
 補助攻撃を行うという戦闘スタイルになります","For a Priest, approaching the enemy is not very beneficial.
 
 Their combat style is to always maintain a safe position at medium to long range,
-and perform ally recovery and support through magic, as well as auxiliary attacks."
-"TUTORIAL_STEP_132","回復が最大の役割となるため、自身はもとより
+and perform ally recovery and support through magic, as well as auxiliary attacks.",,
+TUTORIAL_STEP_132,"回復が最大の役割となるため、自身はもとより
 仲間のダメージをいかに適切に癒せるかが
 勝利の鍵となります
 
@@ -20,4 +20,4 @@ and perform ally recovery and support through magic, as well as auxiliary attack
 The ability to efficiently heal oneself and allies is crucial for achieving victory. 
 
 Additionally, utilizing Heal Aura to detect the weak points of large enemies and triggering their ""Secret Core Manifestation"" is a vital responsibility of a Priest.
-It is important to provide the most appropriate support that aligns with the current battle situation in order to effectively support and uplift everyone."
+It is important to provide the most appropriate support that aligns with the current battle situation in order to effectively support and uplift everyone.",,

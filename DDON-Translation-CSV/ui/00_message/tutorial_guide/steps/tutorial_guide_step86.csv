@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_102","この世界の主要通貨は<COL ffdc78>《</COL><ICON G><COL ffdc78>：ゴールド》</COL>です
+key,old,new,english,speaker
+TUTORIAL_STEP_102,"この世界の主要通貨は<COL ffdc78>《</COL><ICON G><COL ffdc78>：ゴールド》</COL>です
 ゴールドを所持していれば、神殿や各地の村
 などにある店でアイテム売買が可能です
 
@@ -15,8 +15,8 @@ If you have gold, you can buy and sell items in stores in temples and villages
 Select ""Shop"" from the store NPC conversation menu
 [<KC UI_START>] Toggle item buy/sell
 [<KC UI_Y>] Toggle item info
-[<KC UI_X>] Toggle equipment try-on"
-"TUTORIAL_STEP_238","また、他にも覚者にとって重要となる
+[<KC UI_X>] Toggle equipment try-on",,
+TUTORIAL_STEP_238,"また、他にも覚者にとって重要となる
 以下２種の通貨があります
 
 ＜<ICON RIM>：リム＞
@@ -30,8 +30,8 @@ Select ""Shop"" from the store NPC conversation menu
 Used for Rift Teleports and hiring Pawns from other dimensions.
 
 <ICON BO>: Blood Orbs
-Can be used to receive the Dragon Force Augmentation from the White Dragon and traded for valuable items."
-"TUTORIAL_STEP_239","それ以外にも特別な取引きに使える
+Can be used to receive the Dragon Force Augmentation from the White Dragon and traded for valuable items.",,
+TUTORIAL_STEP_239,"それ以外にも特別な取引きに使える
 特殊通貨が存在します
 
 ＜<COL ffdc78>黄金石</COL>＞
@@ -46,10 +46,10 @@ Revival, Passport Course, Treasure Lot
 Can be used for various benefits such as beauty salons.
 
 <<COL ffdc78>Silver Ticket</COL>>
-Can be used for Treasure Lot and other purposes."
-"TUTORIAL_STEP_406","ＮＰＣや取引アイテムにより
+Can be used for Treasure Lot and other purposes.",,
+TUTORIAL_STEP_406,"ＮＰＣや取引アイテムにより
 どの通貨がどれくらい必要となるかは
 異なります
 
 いつ誰と何を取引するか
-計画的に利用しましょう","Depending on NPCs and the items you trade, which currency you will need and how much varies."
+計画的に利用しましょう","Depending on NPCs and the items you trade, which currency you will need and how much varies.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_603","<COL ffdc78>《ダクレイム砦奪還戦》</COL>は
+key,old,new,english,speaker
+TUTORIAL_STEP_603,"<COL ffdc78>《ダクレイム砦奪還戦》</COL>は
 最大８人のパーティーを結成して
 悪しき竜軍に占領された砦を
 奪還するウォーミッションです
@@ -12,4 +12,4 @@ is a War Mission where you form a party of up to 8 people to recapture a fortres
 
 Destroy the flags indicating the 5 enemy camps and defeat the leaders in those areas to recapture the enemy camp. 
 
-Once the enemy camp is recaptured, our flag will be placed in that location."
+Once the enemy camp is recaptured, our flag will be placed in that location.",,

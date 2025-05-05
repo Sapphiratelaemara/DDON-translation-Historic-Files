@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_625","クラフトルームにある<COL ffdc78>カスタムメイド工房</COL>は
+key,old,new,english,speaker
+TUTORIAL_STEP_625,"クラフトルームにある<COL ffdc78>カスタムメイド工房</COL>は
 武具の性能をカスタムできる施設です
 
 この施設では、クラフト生産やコンテンツの報酬で
@@ -11,8 +11,8 @@
 
 At this facility, you can bring out the <COL ffdc78>further abilities</COL> of weapons and armor that you have obtained through crafting production and content rewards. 
 
-When you have acquired equipment that meets the conditions for customization, let's visit the facility."
-"TUTORIAL_STEP_626","カスタムメイド工房では、以下のことができます
+When you have acquired equipment that meets the conditions for customization, let's visit the facility.",,
+TUTORIAL_STEP_626,"カスタムメイド工房では、以下のことができます
 
 ＜武具のカスタムメイド＞
 必要な素材を用意し、費用を支払うことで
@@ -28,4 +28,4 @@ When you have acquired equipment that meets the conditions for customization, le
 By preparing the necessary materials and paying the cost, you can unlock the limit and perform ultimate synthesis on weapons and armor strengthened up to ★4, improving their performance and unlocking additional abilities.
 
 <Arms Resource Disassembly>
-You can extract materials that can be used as resources from unwanted weapons and armor."
+You can extract materials that can be used as resources from unwanted weapons and armor.",,

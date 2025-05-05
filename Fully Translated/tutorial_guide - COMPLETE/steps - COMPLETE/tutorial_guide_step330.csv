@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_507","<COL ffdc78>《クランダンジョン》</COL>は
+key,old,new,english,speaker
+TUTORIAL_STEP_507,"<COL ffdc78>《クランダンジョン》</COL>は
 敵を討伐する時間によって
 報酬が変わってゆくダンジョンです
 
@@ -15,8 +15,8 @@ There is no time limit, but <COL ffdc78>defeating the enemy quickly</COL> will a
 
 Also, if you <COL ffdc78>defeat the enemy lurking at the deepest part while having more remaining time, the number of treasure chests that become rewards will increase.</COL>
 
-Cooperation with your allies is essential to obtain the highest rewards."
-"TUTORIAL_STEP_541","ある探検家が記した《手がかり》が
+Cooperation with your allies is essential to obtain the highest rewards.",,
+TUTORIAL_STEP_541,"ある探検家が記した《手がかり》が
 世界中に散らばっており、
 <COL ffdc78>探索できるクランダンジョンは
 見つけた手がかりに対応して増えていきます</COL>
@@ -28,4 +28,4 @@ Cooperation with your allies is essential to obtain the highest rewards."
 他のプレイヤーを募集してください</COL>","A certain explorer left behind ""clues"" scattered all over the world. 
 <COL ffdc78>The number of clan dungeons that can be explored will increase as you find corresponding clues. </COL>
 
-※ In the search for clan dungeons, entry board searching in multiplayer is not possible. <COL ffdc78>Please use the invitation function to recruit other players.</COL>"
+※ In the search for clan dungeons, entry board searching in multiplayer is not possible. <COL ffdc78>Please use the invitation function to recruit other players.</COL>",,

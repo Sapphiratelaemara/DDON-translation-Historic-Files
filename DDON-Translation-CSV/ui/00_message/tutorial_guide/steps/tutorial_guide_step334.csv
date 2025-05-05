@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_528","<COL 78f5ff>アルケミストに新たなカウンター要素
+key,old,new,english,speaker
+TUTORIAL_STEP_528,"<COL 78f5ff>アルケミストに新たなカウンター要素
 《カウンテラ・アウルム》が追加されました！</COL>
 
 <COL ffdc78>《カウンテラ・アウルム》とは、
@@ -11,8 +11,8 @@
 
 <COL ffdc78>Counterra Aurum is a counter element that can be activated by timing your own skills to counter enemy attacks.</COL>
 
-(Note: It cannot be activated by some evasion/defense skills)"
-"TUTORIAL_STEP_529","発動に成功すると
+(Note: It cannot be activated by some evasion/defense skills)",,
+TUTORIAL_STEP_529,"発動に成功すると
 <COL ffdc78>自身の体に金を纏わせて敵の攻撃を防ぎ、
 また攻撃を仕掛けてきた対象に
 錬成物質を付着させることができます</COL>
@@ -25,8 +25,8 @@
 
 However, there is a risk of being directly hit by the enemy's attack if the timing of unleashing the skill is unsuccessful. 
 
-Nevertheless, if activated successfully, the effects obtained can be considered very important."
-"TUTORIAL_STEP_530","この金を纏う効果は一定時間継続します
+Nevertheless, if activated successfully, the effects obtained can be considered very important.",,
+TUTORIAL_STEP_530,"この金を纏う効果は一定時間継続します
 
 <COL ffdc78>効果が継続している間は
 攻撃を受けても、自動的に敵の攻撃が
@@ -37,4 +37,4 @@ Nevertheless, if activated successfully, the effects obtained can be considered 
 発動することができるので
 積極的に発動を狙っていきましょう","This gold-clad effect lasts for a certain amount of time <COL ffdc78>and while the effect lasts enemy attacks are automatically blocked, even if you are attacked directly.</COL>
 
-On the ground, in the air, or while holding on, you can activate ""Counterra Aurum"" from any state, so be proactive and aim to activate it!"
+On the ground, in the air, or while holding on, you can activate ""Counterra Aurum"" from any state, so be proactive and aim to activate it!",,

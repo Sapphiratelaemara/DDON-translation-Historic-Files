@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_121","クラフトルームでは《アイテム生産》のほかに
+key,old,new,english,speaker
+TUTORIAL_STEP_121,"クラフトルームでは《アイテム生産》のほかに
 <COL ffdc78>《装備の強化》や《クレスト装着》、《カラー変更》</COL>
 といった装備品のカスタマイズが可能です
 
@@ -10,8 +10,8 @@ you can customize your equipment using <COL ffdc78>""Enhance Equipment"", ""Moun
 
 By collecting the necessary items and paying for the work,
 you can improve the basic performance and make it more stylish.
-Improve your equipment to your liking!"
-"TUTORIAL_STEP_120","＜装備の強化＞
+Improve your equipment to your liking!",,
+TUTORIAL_STEP_120,"＜装備の強化＞
 　　素材アイテムを装備品に合成し
 　　鍛えることで、グレード（★）を上げます
 　　基本性能が大幅アップします
@@ -26,8 +26,8 @@ and forged to increase their grade (★), greatly increasing their basic perform
 
 ＜Mount Crest＞
 Special material item ""Crest"" can be attached to give various abilities such as performance, attributes and additional effects.
-Attached crests can be removed by destroying them."
-"TUTORIAL_STEP_251","＜カラー変更＞
+Attached crests can be removed by destroying them.",,
+TUTORIAL_STEP_251,"＜カラー変更＞
 　　特殊素材アイテム《染料》を使うことで
 　　グレード（★１以上）の装備を染色できます
 　　染料に対応したカラーにのみ変更可能です
@@ -39,4 +39,4 @@ You can dye equipment of grade ★1 and above using special material items calle
 You can only change the colour to those compatible with the dye. 
 
 <COL ffdc78>※The equipment categories supported by each element may vary.</COL>
-<COL ffdc78>※Some equipment may not be compatible with any elements.</COL>"
+<COL ffdc78>※Some equipment may not be compatible with any elements.</COL>",,

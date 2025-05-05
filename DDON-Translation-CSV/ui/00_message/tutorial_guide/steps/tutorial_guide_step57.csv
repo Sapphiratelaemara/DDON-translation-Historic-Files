@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_141","エレメントアーチャー最大の特徴は
+key,old,new,english,speaker
+TUTORIAL_STEP_141,"エレメントアーチャー最大の特徴は
 魔道弓の構え方により、放たれる矢が
 魔法の刃にも癒しの光にも変化する点です
 
@@ -12,8 +12,8 @@
 
 In addition, by taking aim with the Magick Bow and focusing on the target, it is possible to increase concentration, which is also a key point.
 
-The longer the concentration time, the higher the power of the magic arrows. Furthermore, by releasing the magic arrow at the moment the concentration time is complete, its power increases even more."
-"TUTORIAL_STEP_140","魔矢の種類によっては、複数の敵や味方を
+The longer the concentration time, the higher the power of the magic arrows. Furthermore, by releasing the magic arrow at the moment the concentration time is complete, its power increases even more.",,
+TUTORIAL_STEP_140,"魔矢の種類によっては、複数の敵や味方を
 同時に標的にする、または
 標的と《最適距離》を保つことで
 集中する時間を短縮することができます
@@ -21,4 +21,4 @@ The longer the concentration time, the higher the power of the magic arrows. Fur
 戦況や敵味方の状況に合わせた魔矢を選び、
 的確に射ることが重要となります","Depending on the type of magic arrows, you can simultaneously target multiple enemies or allies, or maintain an optimal distance with the target to shorten the concentration time.
 
-It is important to choose magic arrows that suit the situation and the state of the enemies and allies, and shoot accurately."
+It is important to choose magic arrows that suit the situation and the state of the enemies and allies, and shoot accurately.",,

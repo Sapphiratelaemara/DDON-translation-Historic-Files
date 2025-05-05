@@ -1,12 +1,12 @@
-"key","old","new"
-"TUTORIAL_STEP_725","フィールドには、<COL ffdc78>プレイヤーが操作可能な大砲</COL>が
+key,old,new,english,speaker
+TUTORIAL_STEP_725,"フィールドには、<COL ffdc78>プレイヤーが操作可能な大砲</COL>が
 設置されていることがあります
 
 砲身に<COL ffdc78>《王家の紋章》</COL>が装飾されているので
 見つけた際には積極的に活用しましょう","On the field, there may be an <COL ffdc78>artillery that players can operate</COL>, decorated with the <COL ffdc78>Royal Coat of Arms</COL>. 
 
-When you find it, make sure to use it!"
-"TUTORIAL_STEP_726","大砲では、砲弾による強力な攻撃が可能です
+When you find it, make sure to use it!",,
+TUTORIAL_STEP_726,"大砲では、砲弾による強力な攻撃が可能です
 
 ＜基本操作＞
 【<PADM>右スティック<KEYM>マウス移動</KEYM>】　照準を合わせる
@@ -24,8 +24,8 @@ When you find it, make sure to use it!"
 
 ※After firing, the shells are reloaded automatically
 
-In addition, artillery shell attacks are an effective way to destroy 《War Ready》armor types, destructible doors, and flags in enemy positions."
-"TUTORIAL_STEP_773","大砲には<COL ffdc78>耐久力</COL>があります
+In addition, artillery shell attacks are an effective way to destroy 《War Ready》armor types, destructible doors, and flags in enemy positions.",,
+TUTORIAL_STEP_773,"大砲には<COL ffdc78>耐久力</COL>があります
 耐久力はゲージで表示されています
 
 敵から攻撃を受けることで耐久力が減少し、
@@ -35,4 +35,4 @@ Durability is displayed as a gauge.
 
 Durability decreases when attacked by enemies.
 
-When Durability runs out, the cannon breaks and cannot be used."
+When Durability runs out, the cannon breaks and cannot be used.",,

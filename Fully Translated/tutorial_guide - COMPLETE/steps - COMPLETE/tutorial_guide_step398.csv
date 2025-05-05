@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_741,"<COL ffdc78>《黒呪の迷宮》</COL>は
 探索のたびに、出現する敵や
 入手できるアイテムが変わる
@@ -18,7 +18,7 @@ to reset chests and rewards, allowing you to
 collect them again.
 
 ※""Bitterblack Maze Reset Ticket"" will restock
-　each week after visiting Bitterblack Maze."
+　each week after visiting Bitterblack Maze.",,
 TUTORIAL_STEP_742,"黒呪の迷宮は、隔絶された世界ゆえに
 レスタニアでの容姿とは違う姿で
 冒険することができます
@@ -34,7 +34,7 @@ Your appearance <COL ffdc78>can only be
 changed upon your  first entrance to
 Bitterblack Maze.</COL>
 
-※You cannot change the name of the Arisen."
+※You cannot change the name of the Arisen.",,
 TUTORIAL_STEP_743,"コンテンツの進行状況は
 キャラクターデータとして保存され
 <COL ffdc78>いつでも進行の途中から始めることが可能</COL>です
@@ -46,7 +46,7 @@ progression, <COL ffdc78>so you can resume
 progress at any time</COL>.
 
 <COL ffdc78>Progress is saved when you clear a specific area</COL>,
-so try to reach all the way to the end!"
+so try to reach all the way to the end!",,
 TUTORIAL_STEP_798,"案内人リュカに《探索結果の報告》を行うことで
 《金竜の印》、《銀竜の印》、《赤竜の印》を
 報酬として受け取ることができます
@@ -65,7 +65,7 @@ guide Lyka you will recieve ""Gold Dragon Marks"",
 ・Silver Dragon Marks: <COL ffdc78>maximum amount x150</COL>
 　Can be exchanged for Bitterblack Items.
 ・Red Dragon Marks: <COL ffdc78>maximum amount x99999</COL>
-　Used for ""Bitterblack Maze Effect Seal""."
+　Used for ""Bitterblack Maze Effect Seal"".",,
 TUTORIAL_STEP_788,"黒呪の迷宮については
 チュートリアルガイドのカテゴリ<COL ffdc78>《黒呪の迷宮》</COL>に
 まとまっています
@@ -76,4 +76,4 @@ TUTORIAL_STEP_788,"黒呪の迷宮については
 the ""Bitterblack Maze"" tutorial guide category.
 
 If there is something you don't understand
-consult the tutorial guide."
+consult the tutorial guide.",,

@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_16,"各クエストには、そのクエストがクリア可能かどうかの
 指標となる<COL ffdc78>《推奨レベル》</COL>が設定されています
 
@@ -12,7 +12,7 @@ This will tell you the level of enemies that appear in the quest area.
 <COL ffdc78>Note that the recommended level not only
 means your vocation level but also your equipment level.</COL>
 
-Be sure to challenge quests that match your level."
+Be sure to challenge quests that match your level.",,
 TUTORIAL_STEP_189,"なおワールドクエストやメインクエストにおいては
 仲間やポーンも含め、パーティー４人全員が
 《推奨レベル》に適正である事も重要です
@@ -23,4 +23,4 @@ all party memebers, be them friends or pawns,
 should also clear the ""Recommended Level"".
 
 If your equipment does not match your level, the quest
-difficulty goes up. Be sure to be prepared!"
+difficulty goes up. Be sure to be prepared!",,

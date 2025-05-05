@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_460","<COL 78f5ff>《ポーン遠征隊》が解放されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_460,"<COL 78f5ff>《ポーン遠征隊》が解放されました！</COL>
 
 <COL ffdc78>《ポーン遠征隊》</COL>は、
 クラン拠点から１日１回パートナーポーンを
@@ -15,8 +15,8 @@
 
 The dispatched pawn will not return until the next day, so it is recommended to send them on an adventure at the end of your session.
 
-※ If there are no collectible items at the spot, they will bring back gold."
-"TUTORIAL_STEP_504","ポーン遠征隊に派遣したポーンは、
+※ If there are no collectible items at the spot, they will bring back gold.",,
+TUTORIAL_STEP_504,"ポーン遠征隊に派遣したポーンは、
 《ホットスポット》と呼ばれる
 特殊な状態のスポットを発見することがあります
 
@@ -29,10 +29,10 @@ The dispatched pawn will not return until the next day, so it is recommended to 
 
 This information can be learned from the reports upon the return of the Pawn, and the Hotspots will be registered in the Spot List. 
 
-Hotspots are where you can obtain unknown treasures called ""Excavation Weapons"", so be sure to actively participate."
-"TUTORIAL_STEP_505","※《発掘武器》とは
+Hotspots are where you can obtain unknown treasures called ""Excavation Weapons"", so be sure to actively participate.",,
+TUTORIAL_STEP_505,"※《発掘武器》とは
 ホットスポットで入手する事ができる
 特殊な鑑定素材です
 鑑定することで特殊な武器として生まれ変わります","※""Excavated Weapons"" 
 are special appraisal materials that can be obtained at hotspots. 
-By appraising them, they will be reborn as special weapons."
+By appraising them, they will be reborn as special weapons.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_643","<COL 78f5ff>絶望の大陸 第二節：「展望城の戦い」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_643,"<COL 78f5ff>絶望の大陸 第二節：「展望城の戦い」到達！</COL>
 
 　“数多の命、財、文化、誇り
 　　奪われたものは数知れず
@@ -12,8 +12,8 @@
 
 ""Countless lives, riches, culture, and pride have been taken away. In the land dominated by despair, the symbolic recapture of Lookout Castle has been achieved. 
 
-At that moment, hope, which had taken form, appeared before the eyes of the kingdom's people—"""
-"TUTORIAL_STEP_699","苛烈な戦いの末、あなたの助力により
+At that moment, hope, which had taken form, appeared before the eyes of the kingdom's people—""",,
+TUTORIAL_STEP_699,"苛烈な戦いの末、あなたの助力により
 ついに《展望城》が王家の手に戻ることとなりました
 
 今後さらに猛攻をしかけてくるであろう
@@ -24,4 +24,4 @@ At that moment, hope, which had taken form, appeared before the eyes of the king
 
 In preparation for the upcoming relentless attacks from the Demon Army, let us strengthen our forces. 
 
-Furthermore, the newly retaken Lookout Castle already seems to be filled with voices eagerly awaiting your arrival."
+Furthermore, the newly retaken Lookout Castle already seems to be filled with voices eagerly awaiting your arrival.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_88","野外には、登ること<COL ffdc78>《クライミング》</COL>が
+key,old,new,english,speaker
+TUTORIAL_STEP_88,"野外には、登ること<COL ffdc78>《クライミング》</COL>が
 できる場所があります
 
 はしご、ツタに覆われた岩壁、巨大な樹木
@@ -12,4 +12,4 @@ If you find a ladder, a rock wall covered in vines, or a giant tree, try climbin
 However, be careful of the damage from falling from a high place.
 
 <PADM>During climbing, use the 【left stick】 to move.<KEYM>During climbing, use the 【<KC MOVE_FORWARD><KC MOVE_LEFT><KC MOVE_BACKWARD><KC MOVE_RIGHT>】 to move.</KEYM>
-<PADM>(Pressing 【<KC DASH>】 while moving will make you jump forward) <KEYM>(Pressing the same movement key twice will make you jump forward)</KEYM>"
+<PADM>(Pressing 【<KC DASH>】 while moving will make you jump forward) <KEYM>(Pressing the same movement key twice will make you jump forward)</KEYM>",,

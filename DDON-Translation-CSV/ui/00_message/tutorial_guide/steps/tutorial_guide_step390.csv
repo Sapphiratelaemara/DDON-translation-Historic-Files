@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_723","ハイセプターは、
+key,old,new,english,speaker
+TUTORIAL_STEP_723,"ハイセプターは、
 剣による近距離戦と魔法による遠距離戦の
 両方をこなせるバランスに優れたアタッカーです
 
@@ -10,4 +10,4 @@
 ゲージの管理には気を付けて立ち回りましょう","The High Scepter is an excellent attacker with a balanced ability to handle both close combat with a sword and long-range combat with magic. 
 The pure magic that can be activated by consuming mana is powerful, so use it at the appropriate timing. 
 
-When there is no mana, the performance cannot be fully displayed, so be careful in managing the gauge."
+When there is no mana, the performance cannot be fully displayed, so be careful in managing the gauge.",,

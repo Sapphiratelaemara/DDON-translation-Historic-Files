@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_747,"黒呪の迷宮で手に入れたアイテムは
 リュカに話しかけ、<COL ffdc78>＜黒呪アイテムの持ち帰り＞</COL>から
 選択することでレスタニアに持ち帰ることができます
@@ -18,4 +18,4 @@ Lyka and selecting ""Bitterblack Item Takeaway"".
 　　will not be able to be used inside.
 
 Explore Bitterblack Maze and bring back
-all kinds of items!"
+all kinds of items!",,

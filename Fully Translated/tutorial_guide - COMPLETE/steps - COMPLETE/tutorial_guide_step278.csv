@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_458","<COL ffdc78>《魔赤島の狂宴》</COL>は
+key,old,new,english,speaker
+TUTORIAL_STEP_458,"<COL ffdc78>《魔赤島の狂宴》</COL>は
 最大８人のパーティーを結成して
 《魔赤島・山頂》に現れた脅威と戦う
 エクストリームミッションです
@@ -12,8 +12,8 @@ is an Extreme Mission where you form a party of up to 8 people and fight against
 
 At the start of the mission, party members are divided into two groups.
 
-Let's reunite quickly and turn the tide of battle."
-"TUTORIAL_STEP_480","<COL ffdc78>ミッション開始時のスタート位置は２箇所あり、
+Let's reunite quickly and turn the tide of battle.",,
+TUTORIAL_STEP_480,"<COL ffdc78>ミッション開始時のスタート位置は２箇所あり、
 ランダムでそれぞれ４人ずつに分かれます</COL>
 
 うまく戦力を分散させるため、エントリーボードを
@@ -22,4 +22,4 @@ Let's reunite quickly and turn the tide of battle."
 and each position is divided into four random individuals.</COL>
 
 To effectively distribute our forces, when creating the Entry Board,
-let's consider the jobs and number of people needed and come up with a strategy."
+let's consider the jobs and number of people needed and come up with a strategy.",,

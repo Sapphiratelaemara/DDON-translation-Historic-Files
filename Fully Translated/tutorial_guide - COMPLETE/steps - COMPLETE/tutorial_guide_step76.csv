@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_125","シールドセージは、大盾で受けた敵の力を自身の
+key,old,new,english,speaker
+TUTORIAL_STEP_125,"シールドセージは、大盾で受けた敵の力を自身の
 力に変えて最前線で仲間を守る、パーティーの
 砦役です。属性魔法の使い手でもあります
 
@@ -13,4 +13,4 @@
 - [Shield Lock] (Guard) with <KC WEAPON_SUB>
 - [Shield Blow] (Shield Onslaught) with <KC ATTACK1>
 - [Attract] (Attract enemies) with <KC WEAPON_MAIN>
-※While the sword is sheathed, they automatically guard against combat actions and non-skills."
+※While the sword is sheathed, they automatically guard against combat actions and non-skills.",,

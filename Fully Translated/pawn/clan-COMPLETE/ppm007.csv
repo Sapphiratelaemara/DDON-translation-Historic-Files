@@ -1,89 +1,89 @@
-"old","new"
+old,new,english,speaker
 "覚者様、申し訳ねぇんですが
 クランショップから≪ポーン遠征隊≫を買わねえと
 スポットを探索できるようにならないみてぇで――
 サクッと買っちまいましょうや","Sorry, Master, but
 you have to buy a ""Pawn Expedition"" from the clan store
 or you won't be able to explore the spot--
-let's buy it quickly and easily!"
+let's buy it quickly and easily!",,Clan Member's Pawn_wild
 "おっと、覚者さま――クラフト中のポーンは
 ポーン遠征隊として探索に参加できねぇんです
 何せ我々ポーンの体は一つしか無いもんでして","Oops, Arisen - pawns in crafting cannot participate in the search as a
 pawn expedition.
-We pawns have only one body, after all."
-"さぁ、今日はどこを探索しに行けばいいんですかい？","Now, where should I go to explore today?"
+We pawns have only one body, after all.",,Clan Member's Pawn_wild
+さぁ、今日はどこを探索しに行けばいいんですかい？,"Now, where should I go to explore today?",,Clan Member's Pawn_wild
 "おっと覚者様、
 今日はスポット探索に派遣済みなんで
 探索に参加できねぇようですぜ","Oh, Arisen,
-I've already explored a spot today, so I can't go exploring any more--sorry!"
-"そんじゃ、ちょっくら探索に行くとするか！","Well, let's go exploring for a bit!"
+I've already explored a spot today, so I can't go exploring any more--sorry!",,Clan Member's Pawn_wild
+そんじゃ、ちょっくら探索に行くとするか！,"Well, let's go exploring for a bit!",,Clan Member's Pawn_wild
 "覚者様、手持ちに<VAL>個の空きがねえんじゃ
 この遠征成果は受け取ってもらえませんや","Dear Master, I don't have <VAL> free slots
-on hand, so I won't be able to receive the results of this expedition."
+on hand, so I won't be able to receive the results of this expedition.",,Clan Member's Pawn_wild
 "ご命令通り《<VAL SPOT>》へ
 行ってきましたぜ
 きっちり<VAL EMNAME><VAL>体
 ぶちのめしてきてやりましたよ","I went to<VAL SPOT>
 as you ordered me to
-and beat the shit out of<VAL EMNAME><VAL>"
+and beat the shit out of<VAL EMNAME><VAL>",,Clan Member's Pawn_wild
 "《<VAL SPOT>》へ行ったんですがね
 <VAL EMNAME>の奴ら
 <VAL>体くれぇは討伐できましたぜ
 覚者様、次はもっと期待しててくださいよ","I went to<VAL SPOT>
 and took down a few of them. <VAL><VAL EMNAME>;
-Well, remember, you can expect more next time."
+Well, remember, you can expect more next time.",,Clan Member's Pawn_wild
 "覚者様――《<VAL SPOT>》へ
 探索に行き、なんとか<VAL EMNAME>
 <VAL>体くれぇは討伐してきましたぜ――
 イテテ、ちょっと無理しちまったみたいだ","Dear Master-- I went to [<VAL SPOT>]
 to search and managed to kill<VAL><VAL EMNAME>--
-I think I pushed myself a little too hard."
+I think I pushed myself a little too hard.",,Clan Member's Pawn_wild
 "覚者様、《<VAL SPOT>》の
 探索に行ってきましたぜ
 まぁまぁの成果ってところですね
 で、こっちは探索中に見つけたお宝です","Dear Master, I went to explore
 of 《<VAL SPOT>》
 and got so-so results
-and here are the treasures I found during my exploration!"
+and here are the treasures I found during my exploration!",,Clan Member's Pawn_wild
 "《<VAL SPOT>》の探索から戻りました
 覚者様のために、土産を持ち帰ってきましたぜ
 ま、あんまり期待しないで受け取ってくださいよ","I'm back from exploring<VAL SPOT>
 I brought back some souvenirs for you
-Well, don't expect too much, but please accept them!"
+Well, don't expect too much, but please accept them!",,Clan Member's Pawn_wild
 "《<VAL SPOT>》の探索中に
 お宝を見つけたんで、持ち帰ってきました
 多少の危険はありましたが――
 まぁ、結果良ければってもんです","While searching for<VAL SPOT>
 I found some treasure and brought it back home
 It was a bit risky, but--
-Well, I hope it turned out well."
+Well, I hope it turned out well.",,Clan Member's Pawn_wild
 "それから、《<VAL SPOT>》に
 異変が起きてるみたいですね
 クランメンバーのみなさんで探索してみちゃ
 いかがでしょう？","And there seems to be an
 anomaly in the 《<VAL SPOT>》
 clan members should explore it
-How about it?"
+How about it?",,Clan Member's Pawn_wild
 "覚者様、遠征成果を受け取り忘れないでくださいよ
 ――おっと、俺なんかに
 言われるまでもねぇことですね","Master, please don't forget to receive your expedition results.
 -- oops, I don't need
-to tell you that."
-"よお覚者様、今日もお元気そうで安心しました","Yo, Lord Arisen, I am relieved to see that you are well today."
+to tell you that.",,Clan Member's Pawn_wild
+よお覚者様、今日もお元気そうで安心しました,"Yo, Lord Arisen, I am relieved to see that you are well today.",,Clan Member's Pawn_wild
 "今日も命を大事にな、覚者様
 ――ポーンには覚者が全てって事を、お忘れなく","Cherish your life today, my Master.
--- Remember, the Master is all that matters to the pawns."
+-- Remember, the Master is all that matters to the pawns.",,Clan Member's Pawn_wild
 "――緊張しているように見えますかい？
 戦いには少々自信があるんですが――
 こういう社交の場は
 いかんせん慣れねぇもんで","--Do I look nervous?
 I'm a bit confident in my fighting skills...
 but social occasions like this
-are not something I'm used to."
+are not something I'm used to.",,Clan Member's Pawn_wild
 "ああいう出っ張りなんかを見ると血が騒いじまうのは
 冒険のしすぎってやつですかね？
 こんだけ広いんだ――
 隠し部屋の一つや二つ、ありそうなもんです","I get so excited when I see a protruding thing like that.
 Is it because I'm having too many adventures?
 It's such a big place--
-there should be a hidden room or two!"
+there should be a hidden room or two!",,Clan Member's Pawn_wild

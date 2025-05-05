@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_758","<COL 78f5ff>パートナーポーンが新しい行動を覚えました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_758,"<COL 78f5ff>パートナーポーンが新しい行動を覚えました！</COL>
 
 ①フィールド探索中に珍しい宝箱や採取ポイントを
 　発見するようになりました
@@ -14,4 +14,4 @@
 
 ②<COL ffdc78>By defeating training targets with the Partner Pawn, your training progress will advance faster than usual.</COL>
 
-③They have become able to inform you of nearby enemies' elemental weaknesses and whether they are training targets by voice."
+③They have become able to inform you of nearby enemies' elemental weaknesses and whether they are training targets by voice.",,

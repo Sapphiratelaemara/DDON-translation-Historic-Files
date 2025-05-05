@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_639","アッカーシェラン大陸では、<COL ffdc78>《戦甲》</COL>という
+key,old,new,english,speaker
+TUTORIAL_STEP_639,"アッカーシェラン大陸では、<COL ffdc78>《戦甲》</COL>という
 自己修復機能を持った特殊な鎧で
 武装した魔物が出現します
 
@@ -13,8 +13,8 @@
 War Ready Armor is armor created by Orcs using the protection of the evil dragon. 
 The more it is worn on the body, the better its performance becomes.
  
-In battles against the monsters wearing War Ready Armor called <COL ffdc78>War Ready Species</COL>, the key is to destroy their armor."
-"TUTORIAL_STEP_647","戦甲に攻撃すると表面に<COL ffdc78>赤いヒビ</COL>が入ります
+In battles against the monsters wearing War Ready Armor called <COL ffdc78>War Ready Species</COL>, the key is to destroy their armor.",,
+TUTORIAL_STEP_647,"戦甲に攻撃すると表面に<COL ffdc78>赤いヒビ</COL>が入ります
 この状態では<COL ffdc78>吹き飛ばし力により
 戦甲にダメージを与えることができます</COL>が
 高い防御性能に阻まれ、<COL ffdc78>体力を削ることはできません</COL>
@@ -29,8 +29,8 @@ In this state, you can <COL ffdc78>damage the war-ready armor with the force of 
 
 Additionally, the war-ready armor has self-repair capabilities, so it will be repaired over time.
 
-<COL ffdc78>Red cracks indicate a state with both self-repair capabilities and high defense.</COL>"
-"TUTORIAL_STEP_648","赤いヒビが入った戦甲が自己修復する前に
+<COL ffdc78>Red cracks indicate a state with both self-repair capabilities and high defense.</COL>",,
+TUTORIAL_STEP_648,"赤いヒビが入った戦甲が自己修復する前に
 攻撃を重ねることで、自己修復能力を失った
 <COL ffdc78>白いヒビ</COL>へと拡大させることができます
 
@@ -42,8 +42,8 @@ Additionally, the war-ready armor has self-repair capabilities, so it will be re
 
 Furthermore, in the state of the white crack, <COL ffdc78>the defensive performance decreases, making it possible to reduce the health of the combat armor and War Ready species themselves.</COL>
 
-<COL ffdc78>The white crack represents a state where the self-repair ability is lost and the defensive performance is decreased.</COL>"
-"TUTORIAL_STEP_649","白いヒビが入った戦甲は、さらに攻撃を加え続けると
+<COL ffdc78>The white crack represents a state where the self-repair ability is lost and the defensive performance is decreased.</COL>",,
+TUTORIAL_STEP_649,"白いヒビが入った戦甲は、さらに攻撃を加え続けると
 戦甲を完全に破壊することができます。
 
 戦甲へは<COL ffdc78>吹き飛ばし力が高い攻撃</COL>が特に有効です
@@ -58,4 +58,4 @@ Furthermore, in the state of the white crack, <COL ffdc78>the defensive performa
 In addition,<COL ffdc78>launching concentrated attacks with allies</COL> can also be an effective strategy.
 
 By destroying the war armor, you can expose the weakness hidden under the armor and gain various benefits. 
-Let's actively aim to destroy the war armor."
+Let's actively aim to destroy the war armor.",,

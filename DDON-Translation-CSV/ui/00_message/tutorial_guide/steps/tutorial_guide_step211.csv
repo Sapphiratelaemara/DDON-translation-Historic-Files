@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_340","狙った敵にロープを投げて捉えることで
+key,old,new,english,speaker
+TUTORIAL_STEP_340,"狙った敵にロープを投げて捉えることで
 対象に急接近することができます
 
 　【<KC WEAPON_SUB>】ロープ構え
@@ -14,4 +14,4 @@
 
 Additionally, you can also launch your allies high into the sky.
 
-<KC CATAPULT>【Linking Throw】"
+<KC CATAPULT>【Linking Throw】",,

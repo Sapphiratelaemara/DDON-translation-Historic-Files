@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_436","一部のダンジョンでは
+key,old,new,english,speaker
+TUTORIAL_STEP_436,"一部のダンジョンでは
 広範囲にステータス異常効果を撒き散らす
 <COL ffdc78>《汚染植物》</COL>が存在します
 
@@ -11,4 +11,4 @@
 
 It is important to be cautious as the accumulation of abnormal status values increases when staying within the contaminated area displayed on the mini-map. 
 
-Additionally, attacking these plants can also deactivate them."
+Additionally, attacking these plants can also deactivate them.",,

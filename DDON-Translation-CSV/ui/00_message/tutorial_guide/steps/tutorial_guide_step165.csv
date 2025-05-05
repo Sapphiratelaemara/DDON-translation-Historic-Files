@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_161","この世界レスタニアの状況は
+key,old,new,english,speaker
+TUTORIAL_STEP_161,"この世界レスタニアの状況は
 パーティーリーダーのメインクエスト進行度や
 エリアランクに基づき、変化します
 
@@ -7,8 +7,8 @@
 解放状況などさまざまな要素が
 影響を受けます","The situation in Lestania, this world, changes based on the party leader's main quest progress and the area rank.
 
-Various elements, such as the appearance of enemies, available quests, and the status of restricted areas, are influenced."
-"TUTORIAL_STEP_309","あなたがパーティーリーダーでない場合は
+Various elements, such as the appearance of enemies, available quests, and the status of restricted areas, are influenced.",,
+TUTORIAL_STEP_309,"あなたがパーティーリーダーでない場合は
 自身がリーダーの時と世界の状況が違うことを
 覚えておきましょう
 
@@ -16,8 +16,8 @@ Various elements, such as the appearance of enemies, available quests, and the s
 １回冒険に出るたびに、入手したアイテムや
 倒した敵が再び出現するようになります","If you are not the party leader, remember that the situation is different from when you are the leader.
 
-Also, in this world, every time you go on an adventure as a party, the items you obtain and the enemies you defeat will reappear."
-"TUTORIAL_STEP_310","アイテムの採取や敵の討伐を狙いたい場合は
+Also, in this world, every time you go on an adventure as a party, the items you obtain and the enemies you defeat will reappear.",,
+TUTORIAL_STEP_310,"アイテムの採取や敵の討伐を狙いたい場合は
 一度パーティー全員で神殿や各地の拠点
 （リムストーンのある組合宿など）に帰ることで
 世界状況をリセットすることができます
@@ -28,4 +28,4 @@ Also, in this world, every time you go on an adventure as a party, the items you
 再受注可能になります</COL>","If you want to collect items or defeat enemies, you can reset the world status by returning to the temple or bases in various locations with your entire party (such as the inns with a Riftstone).
 
 Additionally, by resetting, you can discard or re-accept completed world quests and personal quests
-(excluding those related to progress)."
+(excluding those related to progress).",,

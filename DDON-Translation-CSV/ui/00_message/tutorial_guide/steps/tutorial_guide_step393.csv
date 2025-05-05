@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_733,"<COL 78f5ff>《ポーンの特技》が解放されました！</COL>
 
 ポーンの特技とは
@@ -19,7 +19,7 @@ Such as increasing ones own abilities or
 recovering health.
 Occasionally, they can even revive the Arisen!
 Your pawn already has 1 special skill
-learned, so be sure to check that out."
+learned, so be sure to check that out.",,
 TUTORIAL_STEP_735,"特技は、ポーンと共に冒険することで<COL ffdc78>《閃き》</COL>ます
 
 閃いた特技は、自室のベル(※)にてセットが可能です
@@ -36,7 +36,7 @@ The more skills you set, the easier they
 are to activate so be sure to set them.
 
 　※Acquired by completing Personal Quest
-　　""Mysterious Summoning Bell""."
+　　""Mysterious Summoning Bell"".",,
 TUTORIAL_STEP_734,"特技には<COL ffdc78>《特技ランク》</COL>があり
 高いほどより強力な効果で特技が発動しやすくなります
 
@@ -57,7 +57,7 @@ The higher the rank, the stronger the effect.
 When inspired with a skill you have the
 choice to <COL ffdc78>""Acquire""</COL> or <COL ffdc78>""Discard""</COL>.
 If you discard it, the next time they're inspired
-there is a better chance for a higher rank."
+there is a better chance for a higher rank.",,
 TUTORIAL_STEP_736,"《閃き》はサポートポーンの影響を
 受けることもあります
 
@@ -76,4 +76,4 @@ chance of learning their Special Skills.
 
 If there is a specific skill you want,
 go hire a support pawn that has
-already learned it!"
+already learned it!",,

@@ -1,118 +1,118 @@
-Jp,En,speaker
+Jp,En,speaker,english,speaker,english,speaker
 "例の島に出現した魔物の調査を手伝っているが
 かなりの強敵らしい
 まぁ、簡単に倒すことはできないだろうな――","Helping investigate monsters
 on that island, huh? They say
 they're tough. Well, you won't
-bring them down easy—",Isaac
+bring them down easy—",Isaac,,Isaac,,Isaac
 "手始めに、こちらも強敵に対抗するための
 強い武器を作らねばならないようだ","First, we'll need to forge powerful weapons to
-stand a chance against such a strong enemy.",Isaac
+stand a chance against such a strong enemy.",Isaac,,Isaac,,Isaac
 "準備はいいか？
 まず手始めに、最近各地で発見されている
 新たなダンジョンの調査をしてもらいたい","Ready? First, I want you to investigate
 the newly discovered dungeons that have been
-appearing in various regions lately.",Isaac
+appearing in various regions lately.",Isaac,,Isaac,,Isaac
 "これまでの任務で
 もしかしたらすでに見つけているかもな","You might have already found some of them
-during previous missions.",Isaac
+during previous missions.",Isaac,,Isaac,,Isaac
 "ここから最も近い調査地に
 《アーク　裏層》という場所がある
 そこへ行くための詳細はテル村のアルフレドから聞け","The closest investigation site from here
 is a place called The Ark's Lower Level.
 For details on how to go there, 
-ask Alfred in Tel Village.",Isaac
+ask Alfred in Tel Village.",Isaac,,Isaac,,Isaac
 "そして、《アーク　裏層》へ行ったら
 そこの最奥にある宝箱を調査してくるんだ
 わかったな","Once you reach The Ark's Lower Level, 
 investigate the deepest treasure chest.
-Understood?",Isaac
+Understood?",Isaac,,Isaac,,Isaac
 "いいか、目的は《アーク　裏層》へ行って
 そこの最奥にある宝箱を調査する――
 それだけだ、簡単だろう","Go to The Ark's Lower Level.
 Find the treasure chest in the very back.
-Simple task.",Isaac
+Simple task.",Isaac,,Isaac,,Isaac
 "アークの裏層へ行く方法を確認するためには
 まずテル村のアルフレドを訪ねるといいだろう","To learn how to reach the lower levels of The Ark,
-you should first visit Alfred in Tel Village.",Isaac
+you should first visit Alfred in Tel Village.",Isaac,,Isaac,,Isaac
 "ふむ、《アーク　裏層》か――
 成程、確かにこのエリアで
 新たに発見されたダンジョンだ","Hmm, The Ark's Lower Level...
 Indeed, it's a newly discovered dungeon
-in this area.",Alfred
+in this area.",Alfred,,Alfred,,Alfred
 "以前、貴君に調査してきてもらった
 《アーク》の裏側に見つかった新たな入口を
 そう呼んでいるな","After your last investigation at The Ark,
 we found a new, lower entrance on its back side.
-That's why we call it that.",Alfred
+That's why we call it that.",Alfred,,Alfred,,Alfred
 "だが、何らかの罠という可能性もある場所だ――
 よって、一定の実力を持った覚者にのみ
 封鎖を解放することにしているのだ","But it might be a trap― 
 So, we're only releasing the blockade 
-for Arisen with sufficient strength.",Alfred
+for Arisen with sufficient strength.",Alfred,,Alfred,,Alfred
 "もし、貴君のハイデル平原への貢献度が
 ランク13以下であれば、まずはこのエリアでの
 働きで、その力を証明してみて欲しい","If your contribution rank in 
 the Hidell Plains is below 13, 
-prove your worth by working in this area first.",Alfred
+prove your worth by working in this area first.",Alfred,,Alfred,,Alfred
 "ランク13以上であれば
 すでに封鎖は解かれているはずだ
 わたしに遠慮することなく
 いつでも内部を調査してくれて構わない","If you're rank 13 or higher,
 the blockade should be lifted already.
 Don't hesitate on my account -
-feel free to investigate inside anytime.",Alfred
+feel free to investigate inside anytime.",Alfred,,Alfred,,Alfred
 "《アーク　裏層》は
 このハイデル平原への貢献度がランク１３以上の
 実力を持つ覚者にのみ解放しているのだ","The Ark's Lower Level is unlocked only
 for the Arisen who possess the skill to
 achieve Rank 13 or higher in contributing
-to the Hidell Plains.",Alfred
+to the Hidell Plains.",Alfred,,Alfred,,Alfred
 "解放を果たしたら、地図で場所を
 確認して向かうといい
 何らかの罠である可能性もある得体の知れない場所だ
 十分に注意して向かってくれ","Once it's unlocked, check the map
 and head to the location.
 It's an unknown place that might
-have traps. Proceed carefully.",Alfred
+have traps. Proceed carefully.",Alfred,,Alfred,,Alfred
 "ほう、《アーク　裏層》へは無事に行けたのか
 なるほど――
 では、次は最奥の宝箱を目指すんだ","Hah! You got to The Ark's Lower Level?
 Good...
-Now head for the innermost treasure chest.",Isaac
+Now head for the innermost treasure chest.",Isaac,,Isaac,,Isaac
 "宝箱の調査が終わったら
 また俺に声をかけてくれ","Once you finish investigating the chest,
-come back and speak to me again.",Isaac
+come back and speak to me again.",Isaac,,Isaac,,Isaac
 "最奥の宝箱まで辿り着いたのか
 お前、探検家の才能もあるんじゃないか？
 覚者としてやっていく自信がなくなったら
 各地を旅して回るといい","Made it to the innermost chest?
 Perhaps you're a born explorer.
 If being Arisen gets tough,
-consider becoming a traveler.",Isaac
+consider becoming a traveler.",Isaac,,Isaac,,Isaac
 "冗談はおいておくとして
 今後の任務を伝えておこう
 ――簡単に言うと、この調子で
 他のダンジョンの宝箱も調査しろってことだ","Jokes aside, let me brief you
 on your next mission.
 In short: continue like this
-and search more dungeon chests.",Isaac
+and search more dungeon chests.",Isaac,,Isaac,,Isaac
 "そうやって集めた素材で武器を強化すれば
 例の強敵とも互角に戦えるかもしれないってな
 神殿の爺さんが考えそうな地道な策だろ――","If you strengthen your weapons with the materials
 gathered, you might stand a 
 chance against that foe. 
-A fitting plan for the old man at the temple...",Isaac
+A fitting plan for the old man at the temple...",Isaac,,Isaac,,Isaac
 "今回俺が紹介した《アーク　裏層》以外にも
 各地のエリアランクを上げることで
 解放されるダンジョンは多い
 エリア情報のチェックも怠るなよ","Raising area ranks unlocks many
 dungeons beyond The Ark's Lower Level. 
-Always stay updated on Area Information.",Isaac
+Always stay updated on Area Information.",Isaac,,Isaac,,Isaac
 "次回はさらに難易度の高いダンジョンの
 調査依頼が来るだろう
 くれぐれも準備をしっかりとして
 時が来たと思えばまた俺に話しかけてくれ","Next time, you'll likely receive a request to
 investigate an even more difficult dungeon.
 Make absolutely sure you're prepared, and
-when the time comes, talk to me again.",Isaac
+when the time comes, talk to me again.",Isaac,,Isaac,,Isaac

@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_150,"<COL ffdc78>《チャット》</COL>は、ゲームプレイ中に
 他のプレイヤーとコミュニケーションを
 取るための基本ツールです
@@ -18,7 +18,7 @@ This chat gets refreshed constantly during gameplay.
 
 Press [<KC UI_CHAT>] to enter chat mode.
 This will switch to the chat window so you can input
-what you want to say."
+what you want to say.",,
 TUTORIAL_STEP_149,"表示させる情報はフィルタリングできます
 　【<KC UI_LB>／<KC UI_RB>】でチャンネル切替
 　（＋）からチャンネル追加
@@ -33,7 +33,7 @@ with [<KC UI_LB>/<KC UI_RB>] this will switch channels.
 Use (+) to add a channel.
 
 In the input field press [<KC UI_RT>] to enlarge the log
-Use [<KC KEY_UP>/<KC KEY_DOWN>] to scroll through it."
+Use [<KC KEY_UP>/<KC KEY_DOWN>] to scroll through it.",,
 TUTORIAL_STEP_280,"<COL ffdc78>誰に対して発言するかは
 チャット入力欄上の《対象メニュー》で
 切替えられます</COL>
@@ -47,7 +47,7 @@ speak to in the ""Target menu"" in the chat window.</COL>
 
 Use it to when you want to change who you speak to,
 your party memebers, clan members or
-everyone else."
+everyone else.",,
 TUTORIAL_STEP_390,"チャット会話対象タイプは、以下になります
 
 　<COL ffdc78>Say</COL> ：周りのプレイヤー
@@ -64,7 +64,7 @@ TUTORIAL_STEP_390,"チャット会話対象タイプは、以下になります
 　<COL ffdc78>Tell</COL>: Specific player.
 　<COL ffdc78>Clan</COL>: Clan members.
 　<COL ffdc78>Group</COL> Group Chat members.
-　<COL ffdc78>Entry Board</COL>: Entry Board participants."
+　<COL ffdc78>Entry Board</COL>: Entry Board participants.",,
 TUTORIAL_STEP_597,"＜メモ機能＞
 
 宛先を<COL ffdc78>Memo</COL>に合わせて
@@ -82,4 +82,4 @@ saved in the <COL ffdc78>Memo Log</COL>.
 
 The memo log is the leftmost tab in the channel tab.
 Apart from notes you can also save specific messages
-that appear in the chat log into the Memo Log."
+that appear in the chat log into the Memo Log.",,

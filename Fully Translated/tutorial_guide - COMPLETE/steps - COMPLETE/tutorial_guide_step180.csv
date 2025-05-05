@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_176","中～大型の敵には<COL ffdc78>《しがみつき》</COL>が可能です
+key,old,new,english,speaker
+TUTORIAL_STEP_176,"中～大型の敵には<COL ffdc78>《しがみつき》</COL>が可能です
 技や行動も変わるため右下のガイドで確認しましょう
 
 ＜しがみつき＞
@@ -15,4 +15,4 @@ Approach the enemy and【<KC TOUCH>】
 
 ＜Actions from clinging＞
 Actions, such as attacking, while clinging【<KC ATTACK1>】
-Actions, such as shaking, while clinging【<KC CLIMB_JOLT>】.."
+Actions, such as shaking, while clinging【<KC CLIMB_JOLT>】..",,

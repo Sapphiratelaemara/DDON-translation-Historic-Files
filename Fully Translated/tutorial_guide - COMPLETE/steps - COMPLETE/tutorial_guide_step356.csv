@@ -1,11 +1,11 @@
-"key","old","new"
-"TUTORIAL_STEP_618","<COL 78f5ff>《期間解放スポット》が追加されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_618,"<COL 78f5ff>《期間解放スポット》が追加されました！</COL>
 
 《期間解放スポット》は限られた
 一定期間にのみ入場することができるダンジョンです","<COL 78f5ff>《Periodically Unlocked Spots》have been added!</COL>
 
-《Periodically Unlocked Spots》is a dungeon that can only be entered during a limited period of time."
-"TUTORIAL_STEP_619","期間解放スポットに入場可能なタイミングは
+《Periodically Unlocked Spots》is a dungeon that can only be entered during a limited period of time.",,
+TUTORIAL_STEP_619,"期間解放スポットに入場可能なタイミングは
 <COL ffdc78>スポット情報</COL>に記載されています
 
 また、ダンジョンの入り口付近の見た目にも
@@ -16,4 +16,4 @@
 
 Also, pay close attention to the changes in appearance near the entrance of the dungeon.
 
-In the Periodically Unlocked Spots, you can obtain a lot of High Orbs."
+In the Periodically Unlocked Spots, you can obtain a lot of High Orbs.",,

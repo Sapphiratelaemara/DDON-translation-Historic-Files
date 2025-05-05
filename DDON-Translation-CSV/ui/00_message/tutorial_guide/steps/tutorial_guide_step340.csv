@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_544","キャリーを連れてクエストに出ると
+key,old,new,english,speaker
+TUTORIAL_STEP_544,"キャリーを連れてクエストに出ると
 大きな袋と<COL ffdc78>《食料ゲージ》</COL>を持った状態になります
 
 <COL ffdc78>《食料ゲージ》</COL>はキャリーの頭上と
@@ -7,8 +7,8 @@
 キャリーが持っている食料の量を示します","When going on a quest with Carrie, She will have a large bag and <COL ffdc78>""Food Gauge""</COL>.
 
 The <COL ffdc78>""Food Gauge""</COL> is a <COL ffdc78>yellow gauge</COL> displayed above Carrie's head
-and above the quest name on the right side of the screen, indicating the amount of food Carrie is carrying."
-"TUTORIAL_STEP_545","<COL ffdc78>＜食料ゲージの増減＞</COL>
+and above the quest name on the right side of the screen, indicating the amount of food Carrie is carrying.",,
+TUTORIAL_STEP_545,"<COL ffdc78>＜食料ゲージの増減＞</COL>
 
 ＜食料が増える＞
 キャリーは道中、様々な場所を探索して
@@ -20,8 +20,8 @@ and above the quest name on the right side of the screen, indicating the amount 
 ＜Increase in Food＞
 Carrie will explore various locations during the journey and find food.
 
-Food can only increase by <COL ffdc78>picked up directly by Carrie</COL>"
-"TUTORIAL_STEP_693","<COL ffdc78>＜食料ゲージの増減＞</COL>
+Food can only increase by <COL ffdc78>picked up directly by Carrie</COL>",,
+TUTORIAL_STEP_693,"<COL ffdc78>＜食料ゲージの増減＞</COL>
 
 ＜食料が減る＞
 キャリーが魔物などの攻撃でダメージを受けると
@@ -34,8 +34,8 @@ Food can only increase by <COL ffdc78>picked up directly by Carrie</COL>"
 <Food Decrease>
 When Carrie receives damage from enemies or monsters, she will <COL ffdc78>lose food from her bag</COL>.
 
-The higher level the enemy, the more <COL ffdc78>food will be lost at once</COL>, so please be cautious."
-"TUTORIAL_STEP_694","<COL ffdc78>＜食料がなくなると…＞</COL>
+The higher level the enemy, the more <COL ffdc78>food will be lost at once</COL>, so please be cautious.",,
+TUTORIAL_STEP_694,"<COL ffdc78>＜食料がなくなると…＞</COL>
 
 <COL ffdc78>《食料ゲージ》が０になる</COL>と
 そのクエストは失敗となります
@@ -46,8 +46,8 @@ The higher level the enemy, the more <COL ffdc78>food will be lost at once</COL>
 
 <COL ffdc78>If the <Food Gauge> reaches 0</COL>, the quest will fail.
 
-If you fail, <COL ffdc78>you'll have to go back to the cafeteria </COL>, but you can attempt to clear it multiple times."
-"TUTORIAL_STEP_695","<COL ffdc78>＜その他の失敗する要因＞</COL>
+If you fail, <COL ffdc78>you'll have to go back to the cafeteria </COL>, but you can attempt to clear it multiple times.",,
+TUTORIAL_STEP_695,"<COL ffdc78>＜その他の失敗する要因＞</COL>
 
 キャリーから離れ過ぎて見失ってしまう
 リム転移して別の場所へ移動してしまう
@@ -57,4 +57,4 @@ If you fail, <COL ffdc78>you'll have to go back to the cafeteria </COL>, but you
 - Losing sight of Carrie by moving too far away.
 - Teleporting to a different location due to Rift Teleport.
 
-These actions also result in failure, so be careful not to stray too far from Carrie's side."
+These actions also result in failure, so be careful not to stray too far from Carrie's side.",,

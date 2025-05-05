@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_129","ソーサラーは、多彩で強力な攻撃魔法により
+key,old,new,english,speaker
+TUTORIAL_STEP_129,"ソーサラーは、多彩で強力な攻撃魔法により
 敵の弱点属性を突ける、火力と広範囲戦闘に
 優れた術師です
 
@@ -9,4 +9,4 @@
 
 <Basic Controls>
 　【Magick Bolts】<KC ATTACK1> 
-　【Magick Trap】<KC ATTACK2>"
+　【Magick Trap】<KC ATTACK2>",,

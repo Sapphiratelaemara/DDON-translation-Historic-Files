@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_11,"<COL 78f5ff>《パーソナルクエスト》が解放されました！</COL>
 
 緑のアイコンで表される<COL ffdc78>《パーソナルクエスト》</COL>は
@@ -7,7 +7,7 @@ TUTORIAL_STEP_11,"<COL 78f5ff>《パーソナルクエスト》が解放され�
 
 <COL ffdc78>""Personal Quests""</COL> are represented by a green icon.
 You will know and understand more of Lestania doing
-these quests. They are very important!"
+these quests. They are very important!",,
 TUTORIAL_STEP_196,"パーソナルクエストを受注したら<COL ffdc78>《優先クエスト》</COL>に
 設定してみましょう
 
@@ -18,7 +18,7 @@ once accepted.
 
 Even if your destination is far away, it will appear
 on the minimap in the upper-right corner of the screen.
-This will help you reach your objectives."
+This will help you reach your objectives.",,
 TUTORIAL_STEP_12,"優先設定と解除は、【<KC UI_GAME_MENU>】ゲームメニュー
 《クエスト》の<COL ffdc78>《クエストログ》</COL>から行えます
 
@@ -35,4 +35,4 @@ main menu.
 If you are progressing through multiple quests at
 the same time you should switch quest priority
 as needed, so you can easily see the information
-that you need."
+that you need.",,

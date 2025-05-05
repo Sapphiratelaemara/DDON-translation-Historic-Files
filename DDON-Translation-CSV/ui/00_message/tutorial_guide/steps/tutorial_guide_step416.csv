@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_766","＜仲間について＞
+key,old,new,english,speaker
+TUTORIAL_STEP_766,"＜仲間について＞
 
 《証拠》を入手した際に、関わった人物が
 “レジスタンス”の仲間に加わることがあります
@@ -15,11 +15,11 @@ When obtaining ""evidence,"" the people involved may join the ranks of the ""Res
 
 Joined comrades may appear during intelligence activities with hints for evidence events or participate in combat.
 
-When the timing is right to invite comrades, let's actively extend the invitation."
-"TUTORIAL_STEP_797","※仲間に誘えるタイミングは
+When the timing is right to invite comrades, let's actively extend the invitation.",,
+TUTORIAL_STEP_797,"※仲間に誘えるタイミングは
 　人物につき1回のみです
 
 　タイミングを逃すと、もうその人物を
 　誘うことはできなくなるので注意しましょう","Each person can only be invited once.
 
-Be careful, if you miss the timing, you won't be able to invite that person anymore!"
+Be careful, if you miss the timing, you won't be able to invite that person anymore!",,

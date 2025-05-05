@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_598","<COL 78f5ff>《ウォーミッション》へ参加可能になりました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_598,"<COL 78f5ff>《ウォーミッション》へ参加可能になりました！</COL>
 
 <COL ffdc78>《ウォーミッション》は
 期間限定で開催され、
@@ -11,8 +11,8 @@
 
 <COL ffdc78>War Missions"" will be held for a limited time only at, and are large-scale challenges for parties of up to 8 people.</COL>
 
-Check out the ""Lestania News"" to find out when and what will be held."
-"TUTORIAL_STEP_599","これら専用のパーティーを組むコンテンツは、
+Check out the ""Lestania News"" to find out when and what will be held.",,
+TUTORIAL_STEP_599,"これら専用のパーティーを組むコンテンツは、
 担当ＮＰＣに話しかけることで
 <COL ffdc78>《エントリーボード》</COL>から参加申請できます
 
@@ -26,8 +26,8 @@ Check out the ""Lestania News"" to find out when and what will be held."
 
 <COL ffdc78><War Missions party restrictions></COL>
 - When the party is formed, you will need to gather and return to the assigned NPC, and you will not be able to move to open play areas or other locations.
-- After applying, you can still change vocations, but your registered job will be forcibly changed at the time of party formation. (You can still change vocations after that)"
-"TUTORIAL_STEP_600","ウォーミッションに参加すると
+- After applying, you can still change vocations, but your registered job will be forcibly changed at the time of party formation. (You can still change vocations after that)",,
+TUTORIAL_STEP_600,"ウォーミッションに参加すると
 <COL ffdc78>終了時の戦果が、そのままDPショップで使える
 通貨《ドミニオンポイント》として獲得できます</COL>
 
@@ -39,4 +39,4 @@ Check out the ""Lestania News"" to find out when and what will be held."
 
 Also, during the event, special enemies will appear throughout the Acre continent that contribute to the war.
 
-Aim for higher rewards and purchase items in the DP Shop!"
+Aim for higher rewards and purchase items in the DP Shop!",,

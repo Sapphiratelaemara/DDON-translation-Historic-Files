@@ -1,13 +1,13 @@
-"key","old","new"
-"TUTORIAL_STEP_143","ウォリアー最大の特徴は、分厚い両手武器による
+key,old,new,english,speaker
+TUTORIAL_STEP_143,"ウォリアー最大の特徴は、分厚い両手武器による
 圧倒的な物理攻撃力です
 
 機動力に欠けるものの、練り上げられた
 一撃はすさまじい破壊力を誇り、敵を怯ませ
 吹き飛ばし、致命的ダメージを与えるでしょう","The greatest characteristic of a Warrior is their overwhelming physical attack power with thick two-handed weapons.
 
-Although they lack mobility, their refined strikes boast incredible destructive power, intimidating and sending enemies flying, dealing fatal damage."
-"TUTORIAL_STEP_142","ウォリアーは、敵の攻撃に耐えることで
+Although they lack mobility, their refined strikes boast incredible destructive power, intimidating and sending enemies flying, dealing fatal damage.",,
+TUTORIAL_STEP_142,"ウォリアーは、敵の攻撃に耐えることで
 《リベンジゲージ》を溜め、その分量に
 比例して、魔人斬りの攻撃力が上がります
 
@@ -19,4 +19,4 @@ Although they lack mobility, their refined strikes boast incredible destructive 
 
 They can retaliate with a force greater than what they have endured, channeling their determination and power into striking back at the enemy together with Savage Lash.
 
-The unwavering fighting spirit to withstand and unleash explosive power alongside their sword is the Warrior's tactic."
+The unwavering fighting spirit to withstand and unleash explosive power alongside their sword is the Warrior's tactic.",,

@@ -1,4 +1,4 @@
-"old","",""
+old,,,english,speaker
 "壁に文字が刻まれている――
 “高貴なるサマラの指に輝きし光
 我が心を魅了し、支配する光
@@ -8,7 +8,7 @@
 ""On the noble Samara's fingers, a radiant light shines,
 Enchanting and ruling our hearts,
 Though I hide in the tower to escape the radiance,
-My thoughts never stray for a moment.""",""
+My thoughts never stray for a moment.""",,,0
 "床に文字が刻まれている――
 “探究と秘密を愛する者よ
 ここより北の洞窟で待つ
@@ -18,7 +18,7 @@ My thoughts never stray for a moment.""",""
 ""O seeker of exploration and secrets,
 Await in the cave to the north from here,
 Where the radiant light shines on the noble fingers of Samara,
-Return to Samara with a brilliance beyond human eyes.""",""
+Return to Samara with a brilliance beyond human eyes.""",,,0
 "石棺に文字が刻まれている――
 “我が欲望は光に焼かれて人外となる
 探究と秘密を愛する者よ、どうか我が身に平穏を
@@ -28,8 +28,8 @@ Return to Samara with a brilliance beyond human eyes.""",""
 ""My desires are consumed by the light, turning me into something beyond human.
 To the seeker of exploration and secrets, please bring peace to my soul.
 Where the radiant light shines on the noble fingers of Samara,
-Return to Samara with a brilliance beyond human eyes.""",""
+Return to Samara with a brilliance beyond human eyes.""",,,0
 "冒険者の遺したメッセージとは
-関係のない落書きのようだ――","Looks like graffiti that has nothing to do with the message left by the adventurer--",""
-"初代王サマラの指輪を入手した","You have obtained the ring of the first king, Samara.",""
-"火垂れ山への扉が解放されました","Firefall Mountain's door has been unlocked.",""
+関係のない落書きのようだ――",Looks like graffiti that has nothing to do with the message left by the adventurer--,,,0
+初代王サマラの指輪を入手した,"You have obtained the ring of the first king, Samara.",,,0
+火垂れ山への扉が解放されました,Firefall Mountain's door has been unlocked.,,,0

@@ -1,31 +1,31 @@
-old,speaker
+old,speaker,english,speaker,english,speaker
 "<NPC 581>が――
 <SPOT 1031>に仕掛けた罠を
 見に行くって出て行ったんだけれど
-ほんとに大丈夫かな？",Carrie
+ほんとに大丈夫かな？",Carrie,,Carrie,,Carrie
 "ちょっとほっておけないし――
 一緒に様子を見に行ってくれないかな？
-お願いします――",Carrie
+お願いします――",Carrie,,Carrie,,Carrie
 "ああ見えて真面目だし――
 ちゃんと見に行けるか心配なんだ
-<SPOT 1031>で落ち合おう",Carrie
+<SPOT 1031>で落ち合おう",Carrie,,Carrie,,Carrie
 "村の人に聞いてみたけど
-やっぱり―全然戻ってないみたい――",Carrie
+やっぱり―全然戻ってないみたい――",Carrie,,Carrie,,Carrie
 "心配であわてて――
-アタシ何も持たずに来ちゃった",Carrie
+アタシ何も持たずに来ちゃった",Carrie,,Carrie,,Carrie
 "罠のある場所を教えるから
-探しに行ってくれないかな？",Carrie
+探しに行ってくれないかな？",Carrie,,Carrie,,Carrie
 "罠のある場所を教えるから
-探しに行ってくれないかな？",Carrie
+探しに行ってくれないかな？",Carrie,,Carrie,,Carrie
 "心配であわてて――
-アタシ何も持たずに来ちゃった",Carrie
+アタシ何も持たずに来ちゃった",Carrie,,Carrie,,Carrie
 "ゴ！　――フグ！　フゴゴ！！
-（どうやらパニックになっているようだ）",Peco
+（どうやらパニックになっているようだ）",Peco,,Peco,,Peco
 "フガ！　――ゴゴ！！
-（どうやら助かったので喜んでいるようだ）",Peco
+（どうやら助かったので喜んでいるようだ）",Peco,,Peco,,Peco
 "<NPC 581>が――
 無事に見つかってよかった！
-もう少しで敵に連れてかれる所だったんだね",Carrie
+もう少しで敵に連れてかれる所だったんだね",Carrie,,Carrie,,Carrie
 "あとは自分で戻ってこれると
 思うから、アタシ待ってます
-手伝ってくれて、ほんとにありがとう！",Carrie
+手伝ってくれて、ほんとにありがとう！",Carrie,,Carrie,,Carrie

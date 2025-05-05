@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_765","王都メガドでのサブストーリーは
+key,old,new,english,speaker
+TUTORIAL_STEP_765,"王都メガドでのサブストーリーは
 以下の3つのパートで構成されており
 それぞれの任務成果が相互に影響します
 
@@ -13,8 +13,8 @@
 ② Infiltration Investigation 
 ③ Espionage 
 
-Repeat these missions and approach the darkness lurking in the Royal Capital together with the shadowy figure, Mephis."
-"TUTORIAL_STEP_768","<COL ffdc78>※注意
+Repeat these missions and approach the darkness lurking in the Royal Capital together with the shadowy figure, Mephis.",,
+TUTORIAL_STEP_768,"<COL ffdc78>※注意
 
 このサブストーリー内では
 リム転移を使用することができません
@@ -25,8 +25,8 @@ Repeat these missions and approach the darkness lurking in the Royal Capital tog
 
 In this substory, you cannot use Rift Teleport.
 
-If you use Rift Teleport, it will result in either <Failure and progress will be discarded> or <Forced Clear>, so please be wary.</COL>"
-"TUTORIAL_STEP_769","<COL ffdc78>《尋問》</COL>について
+If you use Rift Teleport, it will result in either <Failure and progress will be discarded> or <Forced Clear>, so please be wary.</COL>",,
+TUTORIAL_STEP_769,"<COL ffdc78>《尋問》</COL>について
 
 尋問とは、メフィスと共に
 情報を握った人物と対話することで
@@ -42,8 +42,8 @@ Interrogation is a mission to approach critical information by conversing with i
 
 Interrogation requires <COL ffdc78>《evidence》</COL>, which can be obtained through <COL ffdc78>《Intelligence Assessment》</COL>.
 
-<COL ffdc78>The outcome of the interrogation can also result in changes to the content of《Intelligence Assessment》</COL>."
-"TUTORIAL_STEP_770","<COL ffdc78>《潜入調査》</COL>について
+<COL ffdc78>The outcome of the interrogation can also result in changes to the content of《Intelligence Assessment》</COL>.",,
+TUTORIAL_STEP_770,"<COL ffdc78>《潜入調査》</COL>について
 
 潜入調査とは、<NPC 681>侯爵の元で
 頼まれた任務をこなしながら
@@ -55,8 +55,8 @@ Interrogation requires <COL ffdc78>《evidence》</COL>, which can be obtained t
 
 Undercover investigation refers to a mission where tasks assigned by Marquis <NPC 681> are carried out while collecting information on Marquis <NPC 681>'s actions and information that can be used for interrogation. 
 
-<COL ffdc78>The results of the undercover investigation may also bring changes to the content of ""Intelligence Assessment"".</COL>"
-"TUTORIAL_STEP_779","<COL ffdc78>《諜報活動》</COL>について
+<COL ffdc78>The results of the undercover investigation may also bring changes to the content of ""Intelligence Assessment"".</COL>",,
+TUTORIAL_STEP_779,"<COL ffdc78>《諜報活動》</COL>について
 
 諜報活動とは、
 夜のメガドをメフィスと共に自由に調査し
@@ -70,4 +70,4 @@ Undercover investigation refers to a mission where tasks assigned by Marquis <NP
 Intelligence Assessment
 Investigate the Megado at night with Mephis freely to collect <COL ffdc78>Evidence</COL> for interrogation.
 
-<COL ffdc78>In this mission only, You can end it at any time by talking to Mephis</COL>"
+<COL ffdc78>In this mission only, You can end it at any time by talking to Mephis</COL>",,

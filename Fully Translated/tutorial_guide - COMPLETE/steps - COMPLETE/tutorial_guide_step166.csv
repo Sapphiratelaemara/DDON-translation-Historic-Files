@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_162","<COL ffdc78>《スタンプボーナス》</COL>とは、あなたがログインで
+key,old,new,english,speaker
+TUTORIAL_STEP_162,"<COL ffdc78>《スタンプボーナス》</COL>とは、あなたがログインで
 この世界を訪れるたびに送られる証印です
 
 １日１回、神殿の《復活力／ログインスタンプ》
@@ -11,8 +11,8 @@
 
 Once a day, you can receive rewards such as Rift Crystals and Silver Tickets as a reward along with the proof ""Stamp of Resurrection/ Login Stamp"" from Ophelia, the temple attendant.
 
-Stamps reset daily, allowing you to receive them again."
-"TUTORIAL_STEP_311","スタンプボーナスには２種類あります
+Stamps reset daily, allowing you to receive them again.",,
+TUTORIAL_STEP_311,"スタンプボーナスには２種類あります
 
 ＜連続スタンプボーナス＞
 　　毎日連続ログインすることで得られる証
@@ -29,12 +29,12 @@ The rewards change depending on the consecutive days, and if interrupted, it wil
 
 <Accumulated Stamp Bonus>
 This is a bonus based on the cumulative login days.
-The rewards change depending on the cumulative days."
-"TUTORIAL_STEP_312","スタンプボーナスでもらえる
+The rewards change depending on the cumulative days.",,
+TUTORIAL_STEP_312,"スタンプボーナスでもらえる
 リムやシルバーチケットは冒険で非常に有用です
 
 受け取り忘れてしまった日は、
 日数カウントが抜けてしまうため
 必ず忘れず受け取りましょう","You can receive stamp bonuses. Rift Crystals and Silver Tickets are very useful for adventures.
 
-If you forget to receive them on every day, you will miss out on counting those days. So be sure to always receive them without fail."
+If you forget to receive them on every day, you will miss out on counting those days. So be sure to always receive them without fail.",,

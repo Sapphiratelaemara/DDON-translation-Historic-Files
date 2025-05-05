@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_421","　<COL 78f5ff>レスタニア第二節：「命の行方」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_421,"　<COL 78f5ff>レスタニア第二節：「命の行方」到達！</COL>
 
 　“友の命は尊き煌めきとなりて
 　　おおいなる白竜のもとへと還った
@@ -15,8 +15,8 @@ Meanwhile, another friend, captured by darkness, left the temple--
 
 Although the leader of the Orcs has fallen, the threat has not diminished
 And now, the shadows of those who disrupt order silently seek to engulf the world
-The fate of the continent is at stake."""
-"TUTORIAL_STEP_422","今後あなたの前に現れる敵は
+The fate of the continent is at stake.""",,
+TUTORIAL_STEP_422,"今後あなたの前に現れる敵は
 いっそう強さを増してゆきます
 
 装具を固め、戦技を磨いて
@@ -32,4 +32,4 @@ Prepare for the next battle.
 
 In the shopping district of the White Dragon Temple, the ""Appraisal Exchange"" merchant Gregory sells rare jewelry.
 All of these items are powerful and useful for adventures.
-Please meet him!"
+Please meet him!",,

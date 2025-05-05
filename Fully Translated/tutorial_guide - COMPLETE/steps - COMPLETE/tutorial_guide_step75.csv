@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_123","ハンターは弓による射撃を得意とする
+key,old,new,english,speaker
+TUTORIAL_STEP_123,"ハンターは弓による射撃を得意とする
 遠隔攻撃の名手です。空の敵、大型敵相手の
 弱点狙撃で特に真価を発揮します
 
@@ -13,8 +13,8 @@
 - Hold <KC HOLD_BOW> to ready the bow.
 - While aiming, press <KC SHOOT> to release an arrow.
 - Press <KC RELOAD> to reload arrows.
-- Press <KC ATTACK1> to perform a front kick."
-"TUTORIAL_STEP_256","また、矢の装填ゲージの水色と青の部分は装填の
+- Press <KC ATTACK1> to perform a front kick.",,
+TUTORIAL_STEP_256,"また、矢の装填ゲージの水色と青の部分は装填の
 <COL ffdc78>《ジャストタイミング》</COL>を示しています
 そのタイミングで<PADM>【<ICON STG_TOUCH>ボタン】<KEYM>【<ICON KB_R>】</KEYM>を押すと<COL ffdc78>
 《達人装填》</COL>となりスキが短縮、威力が上昇します
@@ -30,4 +30,4 @@ Blue (Great!!)
 Cooldown reduction, the first arrow splits into 3
 
 Light Blue (Good!)
-Cooldown reduction"
+Cooldown reduction",,

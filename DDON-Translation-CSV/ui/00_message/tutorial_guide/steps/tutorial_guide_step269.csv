@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_438","精霊槍による攻撃を行うことで
+key,old,new,english,speaker
+TUTORIAL_STEP_438,"精霊槍による攻撃を行うことで
 <COL ffdc78>《スピリットゲージ》</COL>が蓄積されます
 最大まで溜めることで、攻撃能力か支援能力の
 どちらかを一時的に強化する事が出来ます
@@ -12,8 +12,8 @@ By filling it up to the maximum, you can temporarily strengthen either your atta
 
 【<KC ELIXIR_CHANGE>】Attack Boost
 【<KC SKILL_NORMAL1>】Heal Boost
-"
-"TUTORIAL_STEP_496","回避行動により、敵の攻撃をかわす事が出来るのも
+",,
+TUTORIAL_STEP_496,"回避行動により、敵の攻撃をかわす事が出来るのも
 スピリットランサーの強みとなります
 また、直前で回避することでスピリットゲージを
 多く蓄積することも可能です
@@ -26,4 +26,4 @@ Additionally, by evading just before an attack, it is also possible to accumulat
 
 【<KC AVOID>】Scáth Move (Evasion Movement)
 
-During Boost activation, the evasion distance is increased, making it easier to maintain distance from allies and enemies."
+During Boost activation, the evasion distance is increased, making it easier to maintain distance from allies and enemies.",,

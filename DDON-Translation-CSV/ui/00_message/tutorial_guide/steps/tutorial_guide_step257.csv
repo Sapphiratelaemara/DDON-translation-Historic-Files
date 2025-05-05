@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_425","　<COL 78f5ff>レスタニア第三節：「白竜よ永遠なれ」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_425,"　<COL 78f5ff>レスタニア第三節：「白竜よ永遠なれ」到達！</COL>
 
 　“３００年前より蘇りし災禍の主は
 　　一人の覚者により討たれ、大いなる白竜は
@@ -15,8 +15,8 @@ was freed from the curse of petrification--
 
 However, it was only a momentary peace.
 Another calamity, the Golden Dragon, dances in a different realm,
-and Lestania remains outside the realm of order--"""
-"TUTORIAL_STEP_426","覚者であるあなたの活躍により
+and Lestania remains outside the realm of order--""",,
+TUTORIAL_STEP_426,"覚者であるあなたの活躍により
 古の錬金術師・ディアマンテスの野望は
 潰えました
 
@@ -29,4 +29,4 @@ and Lestania remains outside the realm of order--"""
 
 However, the true calamity, the Golden Dragon, which battled against the White Dragon and stole its power, still remains somewhere in Lestania. 
 
-Let us gather strength and forge our equipment in preparation for the impending battle against the Golden Dragon."
+Let us gather strength and forge our equipment in preparation for the impending battle against the Golden Dragon.",,

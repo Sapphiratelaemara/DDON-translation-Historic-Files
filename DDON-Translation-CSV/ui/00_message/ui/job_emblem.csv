@@ -1,43 +1,43 @@
-key,old,new
-job_emblem_reset,リセット,Reset
-job_emblem_title,Job Emblem,Vocation Emblem
-job_emblem_sub_title,ジョブエンブレムメニュー,Vocation Emblem
-job_emblem_header_base,ベース,Base
-job_emblem_header_status,ステータス,Status
+key,old,new,english,speaker
+job_emblem_reset,リセット,Reset,,
+job_emblem_title,Job Emblem,Vocation Emblem,,
+job_emblem_sub_title,ジョブエンブレムメニュー,Vocation Emblem,,
+job_emblem_header_base,ベース,Base,,
+job_emblem_header_status,ステータス,Status,,
 job_emblem_not_have_emblem,"対象アイテムを装備していない
 またはアイテムバッグ、保管ボックスにないため
-設定できません",
-job_emblem_point_name,EMBLEM POINTS,EMBLEM POINTS
-job_emblem_update_param,割り振る,Assign
-job_emblem_err_level_max,これ以上レベルアップできません,
-job_emblem_err_pp_shortage,所持<UNIT PP>が不足しています,
+設定できません",,,
+job_emblem_point_name,EMBLEM POINTS,EMBLEM POINTS,,
+job_emblem_update_param,割り振る,Assign,,
+job_emblem_err_level_max,これ以上レベルアップできません,,,
+job_emblem_err_pp_shortage,所持<UNIT PP>が不足しています,,,
 job_emblem_confirm_level_up,"レベルアップします。よろしいですか？
 　消費プレイポイント：<VAL PP>
-　獲得エンブレムポイント：<VAL EP>",
-job_emblem_crest_open_lv,エンブレム<UNIT LV><VAL>で拡張可能,Expansion at Emblem <UNIT LV><VAL>
-job_emblem_empty,空き,Empty
-job_emblem_confirm_update_param,現在のポイント割り振りを適用しますか？,
-job_emblem_notice_update_param,ポイント割り振りを適用しました,
-job_emblem_choice_reset_title,リセット方法を選択してください,
-job_emblem_reset_pp,<UNIT PP>を消費してリセット,
-job_emblem_reset_gs,黄金石を消費してリセット,
+　獲得エンブレムポイント：<VAL EP>",,,
+job_emblem_crest_open_lv,エンブレム<UNIT LV><VAL>で拡張可能,Expansion at Emblem <UNIT LV><VAL>,,
+job_emblem_empty,空き,Empty,,
+job_emblem_confirm_update_param,現在のポイント割り振りを適用しますか？,,,
+job_emblem_notice_update_param,ポイント割り振りを適用しました,,,
+job_emblem_choice_reset_title,リセット方法を選択してください,,,
+job_emblem_reset_pp,<UNIT PP>を消費してリセット,,,
+job_emblem_reset_gs,黄金石を消費してリセット,,,
 job_emblem_confirm_reset_pp,"<COL ffdc78><VAL PP></COL>を消費して
-割り振ったポイントをリセットしますか？",
+割り振ったポイントをリセットしますか？",,,
 job_emblem_err_reset_pp_shortage,"<UNIT PP>が不足しています
-（所持数：<VAL>）",
+（所持数：<VAL>）",,,
 job_emblem_confirm_reset_gs,"<COL ffdc78>黄金石<VAL GS></COL>を消費して
-割り振ったポイントをリセットしますか？",
+割り振ったポイントをリセットしますか？",,,
 job_emblem_err_reset_gs_shortage,"黄金石が不足しています
-（所持数：<VAL>）",
-job_emblem_open_online_shop,オンラインショップを開く,
-job_emblem_notice_reset,割り振ったポイントをリセットしました,
-job_emblem_err_not_release,まだ解放されていません,It has not been unlocked yet
-job_emblem_guide_add,足す,
-job_emblem_guide_sub,減らす,
-job_emblem_item_sel_title,ジュエリーを選択してください,Please choose a jewelry
-job_emblem_crest_select_kind,継承方法を選択してください,Please select your augmentation method
-job_emblem_crest_select_kind_normal,通常継承,Normal augmentation
-job_emblem_crest_select_kind_gs,黄金石継承,Golden Gemstone augmentation
+（所持数：<VAL>）",,,
+job_emblem_open_online_shop,オンラインショップを開く,,,
+job_emblem_notice_reset,割り振ったポイントをリセットしました,,,
+job_emblem_err_not_release,まだ解放されていません,It has not been unlocked yet,,
+job_emblem_guide_add,足す,,,
+job_emblem_guide_sub,減らす,,,
+job_emblem_item_sel_title,ジュエリーを選択してください,Please choose a jewelry,,
+job_emblem_crest_select_kind,継承方法を選択してください,Please select your augmentation method,,
+job_emblem_crest_select_kind_normal,通常継承,Normal augmentation,,
+job_emblem_crest_select_kind_gs,黄金石継承,Golden Gemstone augmentation,,
 job_emblem_crest_confirm_normal,"ジュエリーを破壊して選択したスロットに
 クレストを通常継承しますか？
 
@@ -45,7 +45,7 @@ job_emblem_crest_confirm_normal,"ジュエリーを破壊して選択したス�
 継承成功率：<VAL>％
 継承失敗時：<COL aa1414>失敗するとジュエリーを失います</COL>
 
-以下のいずれかのクレストが継承されます",
+以下のいずれかのクレストが継承されます",,,
 job_emblem_crest_confirm_gs,"ジュエリーを破壊して選択したスロットに
 クレストを<COL ffdc78>黄金石継承</COL>しますか？
 
@@ -55,12 +55,12 @@ job_emblem_crest_confirm_gs,"ジュエリーを破壊して選択したスロッ
 
 <COL ffdc78><UNTN GS> <VAL GS></COL>を消費します（所持数：<HAVE GS>）
 
-以下のいずれかのクレストが継承されます",
-job_emblem_crest_success_notice,継承に成功しました,Augmentation succeeded
-job_emblem_crest_failed_notice,継承に失敗しました,Augmentation failed
+以下のいずれかのクレストが継承されます",,,
+job_emblem_crest_success_notice,継承に成功しました,Augmentation succeeded,,
+job_emblem_crest_failed_notice,継承に失敗しました,Augmentation failed,,
 job_emblem_crest_confirm_retry,"継承に失敗しました
 ジュエリーは失われませんでした
-もう一度、同じジュエリーで継承を試みますか？",
+もう一度、同じジュエリーで継承を試みますか？",,,
 job_emblem_break_confirm,"選択したスロットのクレストを破壊します
-よろしいですか？",
-job_emblem_break_notice,クレストを破壊しました,
+よろしいですか？",,,
+job_emblem_break_notice,クレストを破壊しました,,,

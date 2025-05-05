@@ -1,12 +1,12 @@
-"old","new"
-"――何か？","--What is it?"
-"クラン拠点内、異常なし","All clear in clan base."
+old,new,english,speaker
+――何か？,--What is it?,,Clan Members's Pawn_smart
+クラン拠点内、異常なし,All clear in clan base.,,Clan Members's Pawn_smart
 "我が主のご様子は――
 ――無用な心配であった、失礼","How is my Lord--
--- needless worry, excuse me."
+-- needless worry, excuse me.",,Clan Members's Pawn_smart
 "雇用されれば伴をする――
 他の覚者であろうと、それは変わらない","If you're employed, you'll be accompanied--
-It doesn't matter if you're another Arisen, it's still the same."
+It doesn't matter if you're another Arisen, it's still the same.",,Clan Members's Pawn_smart
 "――クラン拠点内に、
 敵性人物がいないか見張っている","--We are on the lookout for
-hostile individuals in the clan's stronghold."
+hostile individuals in the clan's stronghold.",,Clan Members's Pawn_smart

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_849","<COL 78f5ff>《精霊竜》《火竜》《白竜》《黄金竜》《対黒竜》</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_849,"<COL 78f5ff>《精霊竜》《火竜》《白竜》《黄金竜》《対黒竜》</COL>
 上記のドラゴンアビリティは装備強化により
 <COL ffdc78>防具が★4になった際、性能が上昇します</COL>
 
@@ -13,4 +13,4 @@ The Dragon Abilities mentioned above will have their performance enhanced when <
 
 If the points of the Dragon Abilities attached to the armor are <COL ffdc78>""3 or less""</COL>, the corresponding Dragon Ability points will increase.
 
-If the points of the Dragon Abilities are <COL ffdc78>""4 or above""</COL>, the Ability Points for ""Force"" will increase."
+If the points of the Dragon Abilities are <COL ffdc78>""4 or above""</COL>, the Ability Points for ""Force"" will increase.",,

@@ -1,27 +1,27 @@
-old,speaker
+old,speaker,english,speaker,english,speaker
 "あの――デニスが――
-こわい魔物を見たって――",Adem
+こわい魔物を見たって――",Adem,,Adem,,Adem
 "ここにこわい魔物がきたら
 ママがもっとたいへんになっちゃうでしょ
 だから、やっつけてきて――
-――えっと、おねがいします",Adem
+――えっと、おねがいします",Adem,,Adem,,Adem
 "《<STG 1091>》のほうだって――
-ケガ、しないでね",Adem
+ケガ、しないでね",Adem,,Adem,,Adem
 "あの――
-おねがいって、どうすればいいの――？",Adem
+おねがいって、どうすればいいの――？",Adem,,Adem,,Adem
 "《<STG 1091>》のほうでね――
-デニスが――ここに来るとき見た、って",Adem
+デニスが――ここに来るとき見た、って",Adem,,Adem,,Adem
 "あなたはつよいんでしょ？
 やっつけてきて――
-えっと、ケガしないようにね――",Adem
+えっと、ケガしないようにね――",Adem,,Adem,,Adem
 "あの、ありがとう
-――こわい魔物、たおしてくれて",Adem
+――こわい魔物、たおしてくれて",Adem,,Adem,,Adem
 "ママに、あなたにお礼をしてって
-おねがいしておくね――",Adem
+おねがいしておくね――",Adem,,Adem,,Adem
 "ケガしたの――？
 ぼくのせい？　そうなんでしょ？
-――ごめんね",Adem
+――ごめんね",Adem,,Adem,,Adem
 "こわい魔物、やっつけてくれて
-ありがとう――",Adem
-パーティメンバーが死亡状態になりました,The White Dragon
-依頼者からの報酬が下がります,The White Dragon
+ありがとう――",Adem,,Adem,,Adem
+パーティメンバーが死亡状態になりました,The White Dragon,,The White Dragon,,The White Dragon
+依頼者からの報酬が下がります,The White Dragon,,The White Dragon,,The White Dragon

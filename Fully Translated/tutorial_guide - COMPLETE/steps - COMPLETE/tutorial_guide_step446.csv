@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_855","<COL 78f5ff>絶望の大陸 第五節：「すべての行く末」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_855,"<COL 78f5ff>絶望の大陸 第五節：「すべての行く末」到達！</COL>
 
 　“突如として世界を襲った数々の災い
 
@@ -17,8 +17,8 @@ Protecting order with their companions
 It was not a dragon or a king, but a lone Arisen
 
 The wounded continent
-Now begins to walk towards their respective futures—"""
-"TUTORIAL_STEP_864","すべての元凶であった黒竜を打ちはたし
+Now begins to walk towards their respective futures—""",,
+TUTORIAL_STEP_864,"すべての元凶であった黒竜を打ちはたし
 あなたは理を、世界を護りぬきました
 
 あなたが関わってきた大陸の人々も
@@ -34,4 +34,4 @@ are moving forward, each with their own wounds.
 
 Let us continue to respond to the voices that need you,
 And take a moment of rest, spending time with comrades and Myrmidons,
-Enjoying a peaceful time."
+Enjoying a peaceful time.",,

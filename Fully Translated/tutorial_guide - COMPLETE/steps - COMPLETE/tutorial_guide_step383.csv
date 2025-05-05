@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_683","戦甲を纏った部位で攻撃を放ったタイミングで
+key,old,new,english,speaker
+TUTORIAL_STEP_683,"戦甲を纏った部位で攻撃を放ったタイミングで
 攻撃を接触させるテクニック<COL ffdc78>《カウンター》</COL>も
 戦甲を破壊する上で有効とされる手段です
 
@@ -12,8 +12,8 @@
 
 Please note that when making contact with an attack using Counter, it is limited to <COL ffdc78>""physical attacks""</COL> only.
 
-Counter does not work with ""magic attacks"", so please be aware of this."
-"TUTORIAL_STEP_684","一部のカスタムスキルでは
+Counter does not work with ""magic attacks"", so please be aware of this.",,
+TUTORIAL_STEP_684,"一部のカスタムスキルでは
 戦甲に対してカウンターで攻撃することで
 <COL ffdc78>一撃で戦甲を白ヒビ状態にすることができます</COL>
 
@@ -27,8 +27,8 @@ Counter does not work with ""magic attacks"", so please be aware of this."
 
 The corresponding custom skills are the Hunter's ""Demon Arrow"" and the Warrior's ""Annihilator's Wind Slash,"" which are specialized in high power.
 
-Although limited to some custom skills, the benefits obtained upon successful activation are very significant, so let's proactively aim to trigger them."
-"TUTORIAL_STEP_688","その他、対象となるカスタムスキルは
+Although limited to some custom skills, the benefits obtained upon successful activation are very significant, so let's proactively aim to trigger them.",,
+TUTORIAL_STEP_688,"その他、対象となるカスタムスキルは
 神殿や各拠点の 《戦技補佐》で
 確認できます
 
@@ -38,4 +38,4 @@ Although limited to some custom skills, the benefits obtained upon successful ac
 記載されているスキルが
 対象となるカスタムスキルです","Other Custom Skills that are the applicable can be confirmed in the Arts Support of the temples and various halls.
 
-Select ""Custom Skills"" in the Arts Support screen, and under ""Command"" is a skill described as specialized in countering War Readies, which is the applicable Custom Skill."
+Select ""Custom Skills"" in the Arts Support screen, and under ""Command"" is a skill described as specialized in countering War Readies, which is the applicable Custom Skill.",,

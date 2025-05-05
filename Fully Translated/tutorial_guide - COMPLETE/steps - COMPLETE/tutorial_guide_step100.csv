@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_225","<COL ffdc78>パーティープレイ時は、リーダーが設定した
+key,old,new,english,speaker
+TUTORIAL_STEP_225,"<COL ffdc78>パーティープレイ時は、リーダーが設定した
 優先クエストがメンバー全員にとっての
 優先クエストになり、画面の目的表示も
 切替わります</COL>
@@ -12,8 +12,8 @@
 
 Also, the overall situation of Lestania, including the area rank and progress of the main quest, is aligned with the leader's progress.
 
-Remember these two points."
-"TUTORIAL_STEP_76","パーティーメンバーの情報は
+Remember these two points.",,
+TUTORIAL_STEP_76,"パーティーメンバーの情報は
 画面上のゲージやミニマップで確認できます
 
 パーティーメンバーが倒れた時は
@@ -22,8 +22,8 @@ Remember these two points."
 
 When a party member is defeated, make sure to immediately help them up, and check if they have not been separated and so on.
 
-Also, pay attention to the condition of your allies."
-"TUTORIAL_STEP_75","また、クエスト達成時の獲得経験値、
+Also, pay attention to the condition of your allies.",,
+TUTORIAL_STEP_75,"また、クエスト達成時の獲得経験値、
 クリア報酬アイテムは、パーティーメンバーと
 あなたのレベル差により変化します
 
@@ -32,8 +32,8 @@ Also, pay attention to the condition of your allies."
 強い覚者の協力を仰ぐ場合は留意しましょう","In addition, the experience gained when completing quests and the clear reward items vary depending on the level difference between the party members and you.
 
 The member with the highest level is the standard, and the greater the difference, the greater the reward.
-Keep this in mind when asking for the help of a strong Arisen!"
-"TUTORIAL_STEP_413","もし他のプレイヤーや、そのポーンを含んだ
+Keep this in mind when asking for the help of a strong Arisen!",,
+TUTORIAL_STEP_413,"もし他のプレイヤーや、そのポーンを含んだ
 パーティーを編成している場合は、ポーンの
 召喚／帰還ルールが一部、ソロ時と異なります
 
@@ -47,12 +47,12 @@ Keep this in mind when asking for the help of a strong Arisen!"
 <COL ffdc78>  ●Only the leader can summon a new pawn after party formation
   (only when the party has three or fewer members)</COL>
 
-<COL ffdc78>  ●Only the owner of the pawn can dismiss it.</COL>"
-"TUTORIAL_STEP_407","最後に、パーティープレイ中にパーティー
+<COL ffdc78>  ●Only the owner of the pawn can dismiss it.</COL>",,
+TUTORIAL_STEP_407,"最後に、パーティープレイ中にパーティー
 から離脱した場合は、白竜神殿からの
 再開になります
 
 遠方へ冒険に出ている場合は注意しましょう","Finally, if you leave the party during party play, you will restart from the White Dragon Temple
 
-Be careful if you are adventuring far away!"
-"","",""
+Be careful if you are adventuring far away!",,
+,,,,

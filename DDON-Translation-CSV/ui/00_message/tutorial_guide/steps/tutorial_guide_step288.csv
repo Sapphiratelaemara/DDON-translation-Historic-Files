@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_454","<COL ffdc78>《歪みの執行人》</COL>は最大４人のパーティーで
+key,old,new,english,speaker
+TUTORIAL_STEP_454,"<COL ffdc78>《歪みの執行人》</COL>は最大４人のパーティーで
 魔赤島に現れた新たな敵と戦う
 エクストリームミッションです
 
@@ -10,6 +10,6 @@
 is an Extreme Mission where you fight against new enemies that appear on Bloodbane Isle with a maximum party size of four.
 
 <COL ffdc78>Due to the power of the Keystone of the Other World, one of the party members may be transported to a distant location. </COL>
-The transported member should defeat all the enemies that appear and aim to rejoin the party."
-"TUTORIAL_STEP_481","白竜神殿のアイザックに話しかけ、
-《エクストリームミッション》から参加してください","Speak to Isaac at the White Dragon Temple and join from 'Extreme Missions'."
+The transported member should defeat all the enemies that appear and aim to rejoin the party.",,
+TUTORIAL_STEP_481,"白竜神殿のアイザックに話しかけ、
+《エクストリームミッション》から参加してください",Speak to Isaac at the White Dragon Temple and join from 'Extreme Missions'.,,

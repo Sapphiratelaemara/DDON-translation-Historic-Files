@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_852","竜武具を分解すると
+key,old,new,english,speaker
+TUTORIAL_STEP_852,"竜武具を分解すると
 竜武具の強化に必要な素材の一部が入手できます
 不要な武具は素材に分解し、強化に使いましょう
 
@@ -8,4 +8,4 @@
 
 Disassemble any unnecessary equipment into materials and use them for strengthening. 
 
-Additionally, the materials used for strengthening can also be exchanged for new Dragon Equipment."
+Additionally, the materials used for strengthening can also be exchanged for new Dragon Equipment.",,

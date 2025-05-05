@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_461","拠点以外の場所にもリム転移が可能になる
+key,old,new,english,speaker
+TUTORIAL_STEP_461,"拠点以外の場所にもリム転移が可能になる
 <COL ffdc78>《辺境の礎》</COL>が各所に設置されました
 
 拠点の礎と同じく
@@ -12,8 +12,8 @@
 
 Just like Portcrystals at the Hall, once you touch a Sub Portcrystal and put it into ""Released State"", you will be able to choose it as a destination for Rift Teleport.
 
-In addition, within Lestania, by reaching Area Rank 11 all the Portcrystals in that area will be automatically released."
-"TUTORIAL_STEP_479","辺境の礎は受信専用の子機のようなもので
+In addition, within Lestania, by reaching Area Rank 11 all the Portcrystals in that area will be automatically released.",,
+TUTORIAL_STEP_479,"辺境の礎は受信専用の子機のようなもので
 行き先として選択することしかできません
 
 しかし、今まで行きづらかったところへも
@@ -25,4 +25,4 @@ In addition, within Lestania, by reaching Area Rank 11 all the Portcrystals in t
 
 However, they have the advantage of being able to instantly teleport to previously hard to reach places. 
 
-It is also possible to register them as my favorites, so when you discover a Sub Portcrystal near a place you often visit, make sure to set it to a ""Released State""."
+It is also possible to register them as my favorites, so when you discover a Sub Portcrystal near a place you often visit, make sure to set it to a ""Released State"".",,

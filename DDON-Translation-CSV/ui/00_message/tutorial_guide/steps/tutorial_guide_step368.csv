@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_638","<COL 78f5ff>クラン拠点に家具を設置できるようになりました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_638,"<COL 78f5ff>クラン拠点に家具を設置できるようになりました！</COL>
 
 イベントなどで入手したクラン拠点専用家具は
 クラン執務官に話しかけて
@@ -9,4 +9,4 @@ CPを消費することで設置できるようになります
 
 Furniture obtained from events can be installed by talking to the Clan Steward and spending CP.
 
-Make your clan base more colorful and memorable!"
+Make your clan base more colorful and memorable!",,

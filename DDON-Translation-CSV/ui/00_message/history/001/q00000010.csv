@@ -1,5 +1,5 @@
-"key","old","new"
-"HISTORY_STEP_37","　ゴブリンから手に入れた古文書は智の宝庫、ドリー
+key,old,new,english,speaker
+HISTORY_STEP_37,"　ゴブリンから手に入れた古文書は智の宝庫、ドリー
 ド城から盗み出されたもので、記されていたのは「命
 の器」に関することだった
 
@@ -40,4 +40,4 @@ On the other hand, Klaus paid a great sacrifice to bring back the vessel. The li
 I myself requested the dispatch of the knights because of my affection for the disciples. I cannot help but feel responsible.
 The vessel contained the life that flowed from the bodies of the knights. I have no right to strongly oppose Leo, who dedicates his life to the White Dragon.
 
-If there is any blame for tacitly allowing myself to deviate from the path, I am prepared to accept it."
+If there is any blame for tacitly allowing myself to deviate from the path, I am prepared to accept it.",,Leo

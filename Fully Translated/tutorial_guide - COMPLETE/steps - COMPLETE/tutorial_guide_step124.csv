@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_62","<COL ffdc78>《メインポーン》は覚者であるあなた同様、
+key,old,new,english,speaker
+TUTORIAL_STEP_62,"<COL ffdc78>《メインポーン》は覚者であるあなた同様、
 ともに冒険し経験を積むことで成長します</COL>
 
 <COL ffdc78>《クラフト》</COL>を行うことで
@@ -10,4 +10,4 @@
 
 By <COL ffdc78>""Crafting""</COL>, your item creation abilities will also grow.
 
-You can also learn combat skills and change vocations, so let's assign you a role that suits your goals."
+You can also learn combat skills and change vocations, so let's assign you a role that suits your goals.",,

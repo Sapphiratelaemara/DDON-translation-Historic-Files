@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_498","<COL 78f5ff>《クラン》に成長要素が追加されました</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_498,"<COL 78f5ff>《クラン》に成長要素が追加されました</COL>
 
 <COL ffdc78>《クランレベル》</COL>を一定以上に上げることで
 <COL ffdc78>《クラン拠点》</COL>を利用できるようになります
@@ -14,16 +14,16 @@
 By raising the <COL ffdc78>Clan Level</COL> to a certain level, you will be able to utilize the <COL ffdc78>Clan Hall</COL>.
 
 How to Raise Clan Level
-<COL ffdc78>The Clan Level can be increased by accumulating Clan Points obtained by clearing Clan Quests</COL>."
-"TUTORIAL_STEP_499","<COL ffdc78>《クランクエスト》</COL>について
+<COL ffdc78>The Clan Level can be increased by accumulating Clan Points obtained by clearing Clan Quests</COL>.",,
+TUTORIAL_STEP_499,"<COL ffdc78>《クランクエスト》</COL>について
 
 クランポイントの獲得には制限があります
 様々なクエストをクリアしてクランポイントを
 獲得しましょう","<COL ffdc78>About《Clan Quest》</COL>
 
 There is a limit to how many Clan Points you can earn.
-Complete various quests to earn Clan Points!"
-"TUTORIAL_STEP_500","<COL ffdc78>《クランポイント》</COL>について
+Complete various quests to earn Clan Points!",,
+TUTORIAL_STEP_500,"<COL ffdc78>《クランポイント》</COL>について
 
 クランポイントを集めていくことで
 クランレベルをあげることができます
@@ -35,4 +35,4 @@ Complete various quests to earn Clan Points!"
 
 By collecting Clan Points, you can increase the Clan Level.
 
-Furthermore, after the Clan Hall is unlocked, you can consult with the <COL ffdc78>Clan Officer</COL> to access the facilities and content within the Clan Hall."
+Furthermore, after the Clan Hall is unlocked, you can consult with the <COL ffdc78>Clan Officer</COL> to access the facilities and content within the Clan Hall.",,

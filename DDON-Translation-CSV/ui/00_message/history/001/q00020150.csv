@@ -1,5 +1,5 @@
-"key","old","new"
-"HISTORY_STEP_102","　フィンダムに到着した覚者たちは、早速拠点を定め
+key,old,new,english,speaker
+HISTORY_STEP_102,"　フィンダムに到着した覚者たちは、早速拠点を定め
 活動を開始した
 
 　かの大地と命を育んでいるのは“芯なる樹”を中心
@@ -20,4 +20,4 @@ It seems that this function has been lost, causing polluted Dragon Force to circ
 If we understand the cause, the solution should become clear.
 
 I have dispatched the Arisen I trust the most to Phindym, along with their allies.
-I believe they will bring back results beyond our expectations."
+I believe they will bring back results beyond our expectations.",,Joseph

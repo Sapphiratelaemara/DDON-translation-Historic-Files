@@ -1,18 +1,18 @@
-old,speaker
+old,speaker,english,speaker,english,speaker
 "ベルトランは――元気にしているでしょうか
 以前、親しくしていましてね
 グリッテン砦で素晴らしい戦果を上げていると
-聞いていましたが、今は魔赤島にいるとか",Rocher
+聞いていましたが、今は魔赤島にいるとか",Rocher,,Rocher,,Rocher
 "彼に渡して頂きたいものがあるのです
-どうかお願いできたらと",Rocher
+どうかお願いできたらと",Rocher,,Rocher,,Rocher
 "突然の申し出をお受け下さり
-ありがとうございます――",Rocher
+ありがとうございます――",Rocher,,Rocher,,Rocher
 "彼のことですから、新天地でも
-よくやっているんでしょう",Rocher
-おう、お前か！　調子はどうだ！,Bertrand
-俺に何か用事でもあるのか？,Bertrand
+よくやっているんでしょう",Rocher,,Rocher,,Rocher
+おう、お前か！　調子はどうだ！,Bertrand,,Bertrand,,Bertrand
+俺に何か用事でもあるのか？,Bertrand,,Bertrand,,Bertrand
 "なんだこれは？　そうか、ローシェからの――
 似たところは無いが、不思議と気が合う相手でな
-昔は一晩中話し込んだものだ",Bertrand
+昔は一晩中話し込んだものだ",Bertrand,,Bertrand,,Bertrand
 "うむ！　懐かしいな――！
-今夜は酒でも飲みたい気分だ！",Bertrand
+今夜は酒でも飲みたい気分だ！",Bertrand,,Bertrand,,Bertrand

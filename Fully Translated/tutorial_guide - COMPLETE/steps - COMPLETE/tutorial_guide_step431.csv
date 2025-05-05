@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_821","暗黒の大竜晶破壊戦などでは
+key,old,new,english,speaker
+TUTORIAL_STEP_821,"暗黒の大竜晶破壊戦などでは
 竜の力を帯びた強力な防具<COL ffdc78>《竜防具》</COL>を
 入手することができます
 
@@ -12,8 +12,8 @@
 
 Equipping Dragon Armor enables the activation of <COL ffdc78>Dragon Abilities</COL>, which serve as a means of countering the dark servants in combat.
 
-※ In the main quests, the power of Dragon Armor is bestowed, and Dragon Abilities are automatically activated."
-"TUTORIAL_STEP_822","ドラゴンアビリティは竜防具に付与されている
+※ In the main quests, the power of Dragon Armor is bestowed, and Dragon Abilities are automatically activated.",,
+TUTORIAL_STEP_822,"ドラゴンアビリティは竜防具に付与されている
 理力／精霊竜／火竜／白竜／対黒竜の
 <COL ffdc78>各ポイントが一定値を満たすと発動します</COL>
 発動に必要なポイントは大きく分けて
@@ -33,8 +33,8 @@ The required points for activation are classified into two calculation methods.
 Calculated based on the points of the wearer.
 
 <Spirit Dragon/Fire Dragon/White Dragon/Anti-Black Dragon>
-Calculated based on the total points of party members."
-"TUTORIAL_STEP_823","《理力》によって発動可能なドラゴンアビリティ
+Calculated based on the total points of party members.",,
+TUTORIAL_STEP_823,"《理力》によって発動可能なドラゴンアビリティ
 
 ＜竜の加護＞
 戦闘中、物理攻撃力／魔法攻撃力
@@ -52,8 +52,8 @@ Status enhancement effects increase with each level up.
 
 <Dragon Blessing>
 Increases the rewards obtained from boss battles.
-Rewards increase further with each level up."
-"TUTORIAL_STEP_861","精霊竜／火竜／白竜／対黒竜によって
+Rewards increase further with each level up.",,
+TUTORIAL_STEP_861,"精霊竜／火竜／白竜／対黒竜によって
 発動可能なドラゴンアビリティは、
 <COL ffdc78>特定の闇の眷属との戦いでのみ発動します</COL>
 
@@ -65,4 +65,4 @@ Rewards increase further with each level up."
 
 Dragon abilities that can be activated by force, <COL ffdc78>have their effects activated in battles with all Dark Servants</COL>.
 
-※ The Dragon Armor of the Golden Dragon is only effective for force addition and synthesis."
+※ The Dragon Armor of the Golden Dragon is only effective for force addition and synthesis.",,

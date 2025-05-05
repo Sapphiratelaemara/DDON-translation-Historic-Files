@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_610","カスタムスキルEXを習得すると
+key,old,new,english,speaker
+TUTORIAL_STEP_610,"カスタムスキルEXを習得すると
 元となるスキルに<COL ffdc78>《EXアイコン》</COL>がつきます
 
 戦技補佐画面を開き、
@@ -10,8 +10,8 @@ EXアイコンがついているスキルを選択した状態で
 3種類を切り替えることができます</COL>","When you learn a Custom Skill EX, the original skill will be marked<COL ffdc78>with an ""EX icon""</COL>
 
 Open the Arts Support screen, select the skill with the EX icon, and press [<KC UI_Y>] to switch between<COL ffdc78>[Fortified] and [Technique] as Custom Skill EX, and [Default] to return to normal custom skills.
-You can switch between these three types of custom skills.</COL>"
-"TUTORIAL_STEP_611","切り替え後は、既存のカスタムスキルと同様の
+You can switch between these three types of custom skills.</COL>",,
+TUTORIAL_STEP_611,"切り替え後は、既存のカスタムスキルと同様の
 流れで装備できます
 
 <COL ffdc78>ただし、［剛/技/デフォルト］を
@@ -23,4 +23,4 @@ You can switch between these three types of custom skills.</COL>"
 
 <COL ffdc78>However, you cannot equip [Fortified/Technique/Default] at the same time.
 
-Also, be aware that you cannot equip it unless the original custom skill has reached LV. 9 for Technique and LV. 10 for Fortified.</COL>"
+Also, be aware that you cannot equip it unless the original custom skill has reached LV. 9 for Technique and LV. 10 for Fortified.</COL>",,

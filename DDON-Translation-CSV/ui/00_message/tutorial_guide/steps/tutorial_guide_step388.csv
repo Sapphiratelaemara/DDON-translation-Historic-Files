@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_721","ハイセプターは、魔道剣による攻撃と
+key,old,new,english,speaker
+TUTORIAL_STEP_721,"ハイセプターは、魔道剣による攻撃と
 魔印を付与することで敵から魔力を奪い、
 多彩な魔法へと転換しながら戦う
 剣と魔法の使い手です
@@ -11,8 +11,8 @@ They are skilled users of both sword and magic.
 
 <Basic Controls>
 - <KC ATTACK1>[Quadruple Slash]: Consecutive slashes with the sword.
-- <KC ATTACK2>[Ruin Shot]: Magic bullets."
-"TUTORIAL_STEP_731","<COL ffdc78>ウィル・マーカー</COL>は１体の敵に
+- <KC ATTACK2>[Ruin Shot]: Magic bullets.",,
+TUTORIAL_STEP_731,"<COL ffdc78>ウィル・マーカー</COL>は１体の敵に
 魔印を付与することができます
 
 　【<KC WEAPON_SUB>+<KC MARK_SHOT>】 ウィル・マーカー
@@ -29,8 +29,8 @@ They are skilled users of both sword and magic.
 
 <COL ffdc78>Attacking an enemy with a cursed mark using a Magick Sword will cause the curse to grow, increasing the amount of magical power absorbed.</COL>
 
-Additionally, when the curse reaches its maximum growth, there are also benefits such as an increase in certain skill performance."
-"TUTORIAL_STEP_780","ただし、魔印は継続して攻撃をしていないと
+Additionally, when the curse reaches its maximum growth, there are also benefits such as an increase in certain skill performance.",,
+TUTORIAL_STEP_780,"ただし、魔印は継続して攻撃をしていないと
 徐々に減退し、魔力吸収量も減ってしまいます
 また、ダメージを受けて体勢を崩された際も
 減退しやすい性質を持っています
@@ -41,4 +41,4 @@ Additionally, when the curse reaches its maximum growth, there are also benefits
 積極的に魔印を付与した敵を狙っていきましょう","However, if the curse mark is not continuously used for attack, it will gradually weaken, and the amount of magic absorption will also decrease.
 Additionally, when you are damaged and the posture is disrupted, it is more prone to weakening.
 
-When defeating an enemy with the curse mark applied, you can obtain a lot of magic power and there are also other benefits, so let's actively target enemies with the curse mark while avoiding their attacks."
+When defeating an enemy with the curse mark applied, you can obtain a lot of magic power and there are also other benefits, so let's actively target enemies with the curse mark while avoiding their attacks.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_727","<COL 78f5ff>絶望の大陸 第三節：「王都の決戦」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_727,"<COL 78f5ff>絶望の大陸 第三節：「王都の決戦」到達！</COL>
 
 　“ひととき目覚めた精霊竜の力に支えられ
 　　覚者は黒き刃を退けた
@@ -15,8 +15,8 @@ the Arisen repelled the black blade.
 
 Following the Lookout Castle, they recaptured the Fortress City Megado, the very glory of the royal family.
 
-But to protect all of the huge city, their arms are still too weak and small-- """
-"TUTORIAL_STEP_728","精霊竜セシリー、そしてミシアルの導きにより
+But to protect all of the huge city, their arms are still too weak and small-- """,,
+TUTORIAL_STEP_728,"精霊竜セシリー、そしてミシアルの導きにより
 あなたは黒騎士に奪われた竜力を
 取り戻すことに成功
 
@@ -32,4 +32,4 @@ you succeeded in regaining the Dragon Force stolen by the black knight and even 
 Megado, once a magnificent royal capital, is a large city where even the residents do not know everything,
 and shadows appear even in the dazzling light. 
 
-Even the shades that once were seem to be lurking in the shadows!"
+Even the shades that once were seem to be lurking in the shadows!",,

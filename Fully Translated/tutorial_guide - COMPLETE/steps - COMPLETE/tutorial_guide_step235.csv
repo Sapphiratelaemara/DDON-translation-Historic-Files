@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_373","２人以上で連係し行うアクション
+key,old,new,english,speaker
+TUTORIAL_STEP_373,"２人以上で連係し行うアクション
 <COL ffdc78>《連係投げ》</COL>と<COL ffdc78>《押さえつけ》</COL>を覚えることで
 パーティープレイの幅が広がります
 
@@ -13,8 +13,8 @@
 ""Linking Throw"" is when a close-range attacker becomes a jumping platform and launches a teammate up to high places or above enemies' heads.
 
 - Linking Throw Stance: [<KC CATAPULT>]
-- High Jump: [<KC TOUCH>] on a teammate in throwing stance"
-"TUTORIAL_STEP_94","＜押さえつけ＞
+- High Jump: [<KC TOUCH>] on a teammate in throwing stance",,
+TUTORIAL_STEP_94,"＜押さえつけ＞
 小型の敵がのけぞったりダウンした時に
 行うことで、敵を長時間拘束できます
 拘束された敵へのダメージは大幅アップします
@@ -26,4 +26,4 @@ By performing this action when a small enemy staggers or is knocked down, you ca
 
 Perform 【<KC TOUCH>】 on small enemies while they are staggered/down
 (Release with 【<KC JUMP>】)
-※ Stamina is consumed while restraining the enemy"
+※ Stamina is consumed while restraining the enemy",,

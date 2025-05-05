@@ -1,18 +1,18 @@
-"key","old","new"
-"TUTORIAL_STEP_31","<COL 78f5ff>《エクストリームミッション》が解放されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_31,"<COL 78f5ff>《エクストリームミッション》が解放されました！</COL>
 
 <COL ffdc78>《エクストリームミッション》</COL>は選ばれた
 覚者のみ挑戦できる高難度コンテンツです","<COL 78f5ff>Extreme Missions unlocked!</COL>
 
-<COL ffdc78>Extreme Missions</COL>are high-difficulty content that only chosen Arisen can challenge."
-"TUTORIAL_STEP_202","制限時間内に指定された敵を討伐できればクリアとなり
+<COL ffdc78>Extreme Missions</COL>are high-difficulty content that only chosen Arisen can challenge.",,
+TUTORIAL_STEP_202,"制限時間内に指定された敵を討伐できればクリアとなり
 他では見られない特殊な報酬が入手できます
 
 ただし、時間切れの場合はミッション失敗となり
 報酬は一切得られません","If you can defeat the specified enemies within the time limit, you will clear the mission and receive a special reward that cannot be found elsewhere.
 
-However, if time runs out, the mission will be considered a failure and no rewards will be obtained."
-"TUTORIAL_STEP_442","また、ミッション開始時には
+However, if time runs out, the mission will be considered a failure and no rewards will be obtained.",,
+TUTORIAL_STEP_442,"また、ミッション開始時には
 《ミッション専用アイテム》が
 支給されることがあります
 
@@ -26,8 +26,8 @@ If a ""Mission-exclusive item"" is provided,
 only that item can be used during the mission.
 
 *Any consumable items held prior to this
-will be returned to the Item Bag at the end of the mission."
-"TUTORIAL_STEP_30","エクストリームミッションは、
+will be returned to the Item Bag at the end of the mission.",,
+TUTORIAL_STEP_30,"エクストリームミッションは、
 《エントリーボード》から参加申請可能です
 
 窓口のNPCに話しかけ、
@@ -38,4 +38,4 @@ will be returned to the Item Bag at the end of the mission."
 
 Please talk to the NPC at the counter and participate in the Extreme Missions.
 
-Skilled Arisen should challenge them fully equipped and aim for the powerful enemy that awaits at the end."
+Skilled Arisen should challenge them fully equipped and aim for the powerful enemy that awaits at the end.",,

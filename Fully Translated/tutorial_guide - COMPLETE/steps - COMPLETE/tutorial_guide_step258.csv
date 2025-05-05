@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_427","<COL 78f5ff>≪覚者の自室≫を入手しました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_427,"<COL 78f5ff>≪覚者の自室≫を入手しました！</COL>
 
 <COL ffdc78>≪覚者の自室≫</COL>では、メインポーンを
 <COL ffdc78>≪パートナーポーン≫</COL>に設定することで
@@ -15,8 +15,8 @@ In <COL ffdc78>Arisen's Room,</COL> you can set your main pawn as your <COL ffdc
 
 You can set the Partner Pawn from Main Pawns in the Riftstone.
 
-Also, the Partner Pawn will never be lost."
-"TUTORIAL_STEP_473","パートナーポーンとは一緒に冒険に出かけたり
+Also, the Partner Pawn will never be lost.",,
+TUTORIAL_STEP_473,"パートナーポーンとは一緒に冒険に出かけたり
 クラフトを依頼したり
 自室でご褒美をあげることで
 絆を深める事ができます
@@ -27,4 +27,4 @@ Also, the Partner Pawn will never be lost."
 なるかもしれません","You can go on adventures together with your Partner Pawn, request crafting, and strengthen your bond by giving rewards in your room. 
 
 By deepening your bond, your Partner Pawn may suggest special emotes, hairstyles, and more. 
-They may also respond to your calls in Photo Mode."
+They may also respond to your calls in Photo Mode.",,

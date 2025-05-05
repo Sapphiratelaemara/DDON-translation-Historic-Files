@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_165","アルケミストは、錬成物質による攻撃で
+key,old,new,english,speaker
+TUTORIAL_STEP_165,"アルケミストは、錬成物質による攻撃で
 敵の注目を集め、多彩な状態異常と特殊移動
 で戦況を操る術師です
 
@@ -11,8 +11,8 @@
 <Basic Controls/Attacks>
 - [Alchemy] <KC ATTACK1>
 - [Cluster] <KC ATTACK2>
-* By accumulating ""Stakes"", they can draw stronger attention."
-"TUTORIAL_STEP_344","機動力と回避力に優れており
+* By accumulating ""Stakes"", they can draw stronger attention.",,
+TUTORIAL_STEP_344,"機動力と回避力に優れており
 特殊移動を活かした鋭い立ち回りが可能です
 ただし特殊移動はスタミナを消費するため
 残量には注意しましょう
@@ -26,4 +26,4 @@ However, special moves consume stamina, so be careful of your remaining stamina.
 <Basic Operation/Evasion>
 [<KC AVOID>] Alchem Fuga (Evasion)</KEYM>
 
-You can also learn new special moves through growth."
+You can also learn new special moves through growth.",,

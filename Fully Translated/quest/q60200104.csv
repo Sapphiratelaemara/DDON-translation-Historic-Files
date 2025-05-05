@@ -1,79 +1,79 @@
-Jp,En,speaker
+Jp,En,speaker,english,speaker,english,speaker
 "ふむ、白竜様が貴方により深き祈りの技を
 与えようとしていらっしゃるのですね――","Hmm... 
 Lord White Dragon seems to intend to grant
-you deeper prayer techniques.",Camus
+you deeper prayer techniques.",Camus,,Camus,,Camus
 "わかりました
 この技が貴方に扱い切れるものか
 私が見極めてまいりましょう","Understood. I shall determine whether
 this technique is something you can
-handle.",Camus
+handle.",Camus,,Camus,,Camus
 "ふさわしい試練の場を用意します
 そちらで落ち合うことにしましょう","I shall prepare a fitting trial ground.
-Let us meet there.",Camus
+Let us meet there.",Camus,,Camus,,Camus
 "ここでは皆さんに迷惑がかかります
 試練の場を用意しますので、そちらで
 落ち合うことにしましょう","This would inconvenience everyone here.
 I shall prepare a trial ground, so let us
-meet there instead.",Camus
+meet there instead.",Camus,,Camus,,Camus
 "ようこそ、ここが試練の場です
 今回は私も共に戦場を駆け
 より近い場で貴方を導こうと思います","Welcome. This is the trial grounds.
 This time, I shall join you on the
 battlefield and guide you from a
-closer vantage.",Camus
-貴方の祈り、見せていただきましょう,Let me see your prayers.,Camus
+closer vantage.",Camus,,Camus,,Camus
+貴方の祈り、見せていただきましょう,Let me see your prayers.,Camus,,Camus,,Camus
 "いましたね、あそこです
 これが最初の試練です","There you are, right there.
-This is the first trial.",Camus
+This is the first trial.",Camus,,Camus,,Camus
 "その調子です
 試練はまだ続きます、行きましょう","That's the way.
-The trial continues, let's go.",Camus
-第二の試練、その生命力を捉えましたね,"The second trial, you've captured its vitality.",Camus
-次が最後の試練ですよ,The next one is the final trial.,Camus
+The trial continues, let's go.",Camus,,Camus,,Camus
+第二の試練、その生命力を捉えましたね,"The second trial, you've captured its vitality.",Camus,,Camus,,Camus
+次が最後の試練ですよ,The next one is the final trial.,Camus,,Camus,,Camus
 "さぁ、これが最後の試練です
 行きましょう","Now, this is the final trial.
-Let us proceed.",Camus
+Let us proceed.",Camus,,Camus,,Camus
 "貴方の中にあるもの、私が見届けました
 では、聖堂に戻り
 正式に戦技を授けることにしましょう","I have witnessed what lies within you.
 Now, let us return to the Holy Temple
-and formally bestow the technique upon you.",Camus
+and formally bestow the technique upon you.",Camus,,Camus,,Camus
 "貴方の中にある慈しみの心
 そして善き運命への導き手たる自覚――
 私が見届けました","The compassion in your heart,
 and your role guiding fate for the good—
-These I have observed.",Camus
+These I have observed.",Camus,,Camus,,Camus
 "では、聖堂に戻り
 正式に戦技を授けることにしましょう","Now, let us return to the sanctuary
-and formally bestow the technique upon you.",Camus
+and formally bestow the technique upon you.",Camus,,Camus,,Camus
 "貴方がこれまで求道の中で得たもの、触れた痛み――
 その全てが今ここにある貴方を作りあげているのです
 この技を継承するにふさわしい貴方を――","All that you have gained in your quest,
 all the pain you have touched—
 They have shaped who you are now.
-You are worthy of inheriting this technique.",Camus
+You are worthy of inheriting this technique.",Camus,,Camus,,Camus
 "今後も真理を求め、よき癒し手としての
 道を進んでいこうとするのなら
 私は喜んで力を貸すことを約束しましょう","If you continue to seek the truth and
 walk the path of a skilled healer,
-I gladly promise to lend you my aid.",Camus
+I gladly promise to lend you my aid.",Camus,,Camus,,Camus
 貴方の判断が戦況を大きく左右するのです,"Your decisions will greatly 
-influence the coming battles.",Camus
+influence the coming battles.",Camus,,Camus,,Camus
 命の真実の姿を見つめる者、それが我々プリーストです,"Those who gaze upon the true form of life, 
-that is what we Priests are.",Camus
+that is what we Priests are.",Camus,,Camus,,Camus
 人に尽くし、その中で己を活かすことです,"To serve others and to make the 
-most of oneself in the process.",Camus
+most of oneself in the process.",Camus,,Camus,,Camus
 数多の痛みに触れてこそ、見えるものもあるのです,"Only by touching upon much pain
-can certain things be seen.",Camus
+can certain things be seen.",Camus,,Camus,,Camus
 味方がいるなら、その能力や状況も把握すべきです,"If you have allies, you should also
-understand their abilities and situations.",Camus
+understand their abilities and situations.",Camus,,Camus,,Camus
 フィールドシフト中は、敵との間合いに注意しましょう,"During field shifts, be mindful
-of the distance to enemies.",Camus
-癒し手である貴方が倒れてしまわないように――,"So that you, the healer, do not fall―",Camus
+of the distance to enemies.",Camus,,Camus,,Camus
+癒し手である貴方が倒れてしまわないように――,"So that you, the healer, do not fall―",Camus,,Camus,,Camus
 味方の状態には常に気を配りましょう,"Always be attentive to
-the state of your allies.",Camus
+the state of your allies.",Camus,,Camus,,Camus
 戦場にて奇跡を起こせるのはプリーストのみです,"Only priests can perform
-miracles on the battlefield.",Camus
+miracles on the battlefield.",Camus,,Camus,,Camus
 敵のシークレットコアを感知するのも、我々の力です,"Detecting the enemy's secret core is 
-also within our power.",Camus
+also within our power.",Camus,,Camus,,Camus

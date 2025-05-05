@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_381","これらのゲーム説明は【<KC UI_GAME_MENU>】ゲームメニュー
+key,old,new,english,speaker
+TUTORIAL_STEP_381,"これらのゲーム説明は【<KC UI_GAME_MENU>】ゲームメニュー
 《ワールド》の<COL ffdc78>《チュートリアルガイド》</COL>から
 再確認できます
 
@@ -8,4 +8,4 @@
 迷った時はまず目を通してみましょう","These game explanations can be found in the <KC UI_GAME_MENU> game menu, under the <COL ffdc78>Tutorial Guide</COL> in <World>. 
 
 You can always refer to them again. 
-By checking the various game information categorized, you can easily find the answers when you are unsure."
+By checking the various game information categorized, you can easily find the answers when you are unsure.",,

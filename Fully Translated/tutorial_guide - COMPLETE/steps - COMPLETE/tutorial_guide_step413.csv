@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_763","《諜報活動》とは、メガドの街を自由に探索し
+key,old,new,english,speaker
+TUTORIAL_STEP_763,"《諜報活動》とは、メガドの街を自由に探索し
 尋問に使用するための《証拠》を集める任務です
 
 <COL ffdc78>※諜報活動中は、リム転移の使用ができません
@@ -12,8 +12,8 @@
 <COL ffdc78>*During the Intelligence Assessment, Rift Teleport cannot be used.
 If you teleport to a different location using Rift Teleport, you will be out of the scope of the Intelligence Assessment and the mission will end.</COL>
 
-Furthermore, by speaking to Mephis, who is accompanying you, you can end the mission anytime and return."
-"TUTORIAL_STEP_776","<COL ffdc78>また、1度の《諜報活動》では
+Furthermore, by speaking to Mephis, who is accompanying you, you can end the mission anytime and return.",,
+TUTORIAL_STEP_776,"<COL ffdc78>また、1度の《諜報活動》では
 全ての証拠を入手することはできません</COL>
 
 探索できそうな場所が無くなったら
@@ -25,8 +25,8 @@ Furthermore, by speaking to Mephis, who is accompanying you, you can end the mis
 
 If there are no more places to search, it is a good idea to return and proceed with other missions.
 
-<COL ffdc78>While progressing through ""interrogations"" and ""undercover investigations"", repeat quests multiple times to gather ""evidence""</COL>"
-"TUTORIAL_STEP_787","＜メフィスの呟きについて＞
+<COL ffdc78>While progressing through ""interrogations"" and ""undercover investigations"", repeat quests multiple times to gather ""evidence""</COL>",,
+TUTORIAL_STEP_787,"＜メフィスの呟きについて＞
 
 諜報活動では、メガドの調査を
 自由に進めていくことができますが
@@ -41,4 +41,4 @@ In intelligence assessments, you are free to proceed with the investigation of M
 
 If there are any developments, Mephis may mutter ""hints for advancing the investigation."" 
 
-When there are developments in the investigation and an announcement occurs, please pay attention to the chat log."
+When there are developments in the investigation and an announcement occurs, please pay attention to the chat log.",,

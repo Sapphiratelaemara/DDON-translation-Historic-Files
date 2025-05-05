@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_663","潜入任務中は
+key,old,new,english,speaker
+TUTORIAL_STEP_663,"潜入任務中は
 <COL ffdc78>障害物の影に隠れながら進む</COL>ことが
 基本となりますが、時には<COL ffdc78>見張りをやり過ごさないと
 進めない場所</COL>もあるでしょう
@@ -10,8 +10,8 @@
 
 However, there are also places where you <COL ffdc78>cannot proceed without bypassing the lookouts</COL>. 
 
-In such cases, there may be instructions to have Sonel accompany you and <COL ffdc78>give signals for movement.</COL>"
-"TUTORIAL_STEP_706","＜移動タイミングの合図を出す＞
+In such cases, there may be instructions to have Sonel accompany you and <COL ffdc78>give signals for movement.</COL>",,
+TUTORIAL_STEP_706,"＜移動タイミングの合図を出す＞
 
 　①まず、先にあなたが指定された位置まで
 　　<COL ffdc78>敵に見つからないように</COL>進みます
@@ -25,8 +25,8 @@ In such cases, there may be instructions to have Sonel accompany you and <COL ff
 1. First, proceed to the specified location <COL ffdc78>without being spotted by the enemy</COL>.
 
 Carefully observe the movements of the guards and <COL ffdc78>quickly move</COL> when they have <COL ffdc78>turned their backs and are at a sufficient distance</COL>.
-(The opportunity arises when they have <COL ffdc78>stopped and are facing away</COL> at a distant location)."
-"TUTORIAL_STEP_707","　②指定された位置まで移動したら
+(The opportunity arises when they have <COL ffdc78>stopped and are facing away</COL> at a distant location).",,
+TUTORIAL_STEP_707,"　②指定された位置まで移動したら
 　　<COL ffdc78>《手招き》のエモートでソネルに合図</COL>を出します
 
 　　合図を確認すると<COL ffdc78>ソネルが移動を開始</COL>します
@@ -36,8 +36,8 @@ Carefully observe the movements of the guards and <COL ffdc78>quickly move</COL>
 
 Once Sonel confirms the signal, <COL ffdc78>Sonel will start moving</COL>.
 
-If you can cross the crucial points without being noticed by the enemy, it will be a success."
-"TUTORIAL_STEP_708","＜《手招き》エモートの出し方＞
+If you can cross the crucial points without being noticed by the enemy, it will be a success.",,
+TUTORIAL_STEP_708,"＜《手招き》エモートの出し方＞
 
 　【<KC UI_GAME_MENU>】ゲームメニュー《コミュニケーション》から
 　《エモート》を選択し、左に表示される
@@ -54,4 +54,4 @@ select <Emotes> and choose <Actions 1> from the
 
 When you select <COL ffdc78><Beckon></COL> from the list on the right, it will be your signal.
 
-<COL ffdc78>※ Registering shortcuts is convenient</COL>"
+<COL ffdc78>※ Registering shortcuts is convenient</COL>",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_72","パーティープレイでは、
+key,old,new,english,speaker
+TUTORIAL_STEP_72,"パーティープレイでは、
 戦闘時に自身のジョブがどのような役割を
 担っているかを把握しておくことが重要です
 
@@ -9,8 +9,8 @@
 期待される役割を理解し戦闘に臨みましょう","In party play, it is important to understand the role your job plays during combat.
 
 Jobs have three roles: <COL ffdc78>Attacker, Healer, and Tank.</COL>
-Let's understand the expected roles and approach combat accordingly."
-"TUTORIAL_STEP_74","＜アタッカー＞　：ファイター、ハンターなど
+Let's understand the expected roles and approach combat accordingly.",,
+TUTORIAL_STEP_74,"＜アタッカー＞　：ファイター、ハンターなど
 　　敵にダメージを与えることが主な役割です
 
 ＜ヒーラー＞　　：プリーストなど
@@ -25,8 +25,8 @@ The main role is to inflict damage on enemies.
 The main role is to heal fellow players and support them according to the battle situation.
 
 <Tank>：Shield Sage, etc.
-The main role is to take advantage of high defense to draw attention and attacks of enemies."
-"TUTORIAL_STEP_226","【パーティープレイ時の基本】
+The main role is to take advantage of high defense to draw attention and attacks of enemies.",,
+TUTORIAL_STEP_226,"【パーティープレイ時の基本】
 タンク系ジョブのメンバーを狙っている敵は、
 体力ゲージに<COL ffdc78>《タンクアイコン》</COL>が表示されます
 
@@ -40,8 +40,8 @@ When enemies target tank jobs, the tank icon <COL ffdc78>《tank icon》</COL> w
 
 Attackers and healers can confirm this icon and safely engage the enemies targeting the tank, attacking or providing healing and support.
 
-Tanks can use skills like provoke to attract enemies' attention."
-"TUTORIAL_STEP_73","敵の注目度があがる主な要因は下記です
+Tanks can use skills like provoke to attract enemies' attention.",,
+TUTORIAL_STEP_73,"敵の注目度があがる主な要因は下記です
 
 　・敵に攻撃する、ダメージを与える
 　・回復魔法を使う
@@ -58,4 +58,4 @@ Tanks can use skills like provoke to attract enemies' attention."
 - Clinging to enemies (medium to large enemies)
 - Using provocation skills
 
-Be aware when you don't want enemies to target you or when you want to draw attention to yourself!"
+Be aware when you don't want enemies to target you or when you want to draw attention to yourself!",,

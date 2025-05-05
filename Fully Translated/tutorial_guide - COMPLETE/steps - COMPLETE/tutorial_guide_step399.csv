@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_744,"黒呪の迷宮にある《黒呪の宝箱》からは
 様々な効果の付与されたジュエリーを
 入手することができます
@@ -10,7 +10,7 @@ effects from the ""Bitterblack Chests"" inside
 Bitterblack Maze.
 
 You can also acquire jewelry from appraising
-""Bitterblack Deed Boxes""."
+""Bitterblack Deed Boxes"".",,
 TUTORIAL_STEP_799,"鑑定交換する前に
 《黒呪装具の効果封印》をしておくことで
 <COL ffdc78>自分にとって不要な効果をあらかじめ封印できます</COL>
@@ -23,4 +23,4 @@ unwanted effects</COL>.
 
 If you seal an unwanted effect it will no longer
 show up, <COL ffdc78>so desired effects will become more
-frequent</COL>."
+frequent</COL>.",,

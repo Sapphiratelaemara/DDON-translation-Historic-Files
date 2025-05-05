@@ -1,182 +1,182 @@
-old,new
-レバーがある,There is a lever
-引きますか,Pull the lever?
-引く,Pull
-引かない,Don't Pull
-扉には鍵がかかっている――,The door is locked
-鍵を使いますか,Use the key?
-使う,Use
-使わない,Don't Use
-エリアマスターにより封鎖されている――,It is blocked by the Area Master.
+old,new,english,speaker
+レバーがある,There is a lever,,0
+引きますか,Pull the lever?,,0
+引く,Pull,,0
+引かない,Don't Pull,,0
+扉には鍵がかかっている――,The door is locked,,0
+鍵を使いますか,Use the key?,,0
+使う,Use,,0
+使わない,Don't Use,,0
+エリアマスターにより封鎖されている――,It is blocked by the Area Master.,,0
 "鍵がかかっている――
 開くには<COL ffdc78>《<NAME ITEM>》</COL>が必要だ","It is locked.
-<COL ffdc78>""<NAME ITEM>""</COL> is needed to open."
-こちら側からは開かないようだ,It cannot open from this side.
-不思議な力で封印されている,It is sealed with a mysterious force.
-何かが引っ掛かって開かない,It seems to be caught on something.
-厳重に封印されている――,It has been strongly sealed.
-文字はかすれていて読めない,The characters are faint and cannot be read.
-すでに息絶えている――,Out of breath...
-特に気になるものはない,Nothing of intrest here.
-何か仕掛けがあるようだ,Something feels off here.
+<COL ffdc78>""<NAME ITEM>""</COL> is needed to open.",,0
+こちら側からは開かないようだ,It cannot open from this side.,,0
+不思議な力で封印されている,It is sealed with a mysterious force.,,0
+何かが引っ掛かって開かない,It seems to be caught on something.,,0
+厳重に封印されている――,It has been strongly sealed.,,0
+文字はかすれていて読めない,The characters are faint and cannot be read.,,0
+すでに息絶えている――,Out of breath...,,0
+特に気になるものはない,Nothing of intrest here.,,0
+何か仕掛けがあるようだ,Something feels off here.,,0
 "この先は他の覚者とパーティーを組んだ
 状態では進入できません","You cannot enter alone.
-Make a party with other Arisen."
+Make a party with other Arisen.",,0
 "一人、またはポーンのみを連れて
 訪れてください","Please take only one
-person or pawn."
-行き先選択,Select Destination
-各ステージ名,Name of each stage
-やめる,Quit
-準備完了！　進行マーカーに触れてください,Ready! Please touch the progress marker.
-準備完了！　待機してください,Ready! Please wait.
+person or pawn.",,0
+行き先選択,Select Destination,,0
+各ステージ名,Name of each stage,,0
+やめる,Quit,,0
+準備完了！　進行マーカーに触れてください,Ready! Please touch the progress marker.,,0
+準備完了！　待機してください,Ready! Please wait.,,0
 "パーティー全員が集合するまで
 サークル内で待機してください","Please wait in the circle until
-the entire party is ready, "
-リーダーが進行準備・パーティー招集を行いました,Leader has begun a progress preparation.
+the entire party is ready, ",,0
+リーダーが進行準備・パーティー招集を行いました,Leader has begun a progress preparation.,,0
 "パーティー全員が集まり、準備完了したら
 進行マーカーに触れてください","Gather the party if you are ready.
-Please touch the progress marker."
+Please touch the progress marker.",,0
 "イベントを進行しますか？
 ※パーティー要請中の場合はキャンセルされます","Are you sure you want to proceed with
 the event?
 ※ If there is a party request, it will be
-canceled."
-準備開始（パーティー招集）,Prepare (begin gathering party)
-キャンセル,Cancel
-イベント進行はリーダーのみ可能です,Only the party leader can progress the event.
-イベント進行確認,Confirm Event Progress
-進行する,Proceed
-キャンセル,Cancel
+canceled.",,0
+準備開始（パーティー招集）,Prepare (begin gathering party),,0
+キャンセル,Cancel,,0
+イベント進行はリーダーのみ可能です,Only the party leader can progress the event.,,0
+イベント進行確認,Confirm Event Progress,,0
+進行する,Proceed,,0
+キャンセル,Cancel,,0
 "イベント進行待機に入ります
 準備はよろしいですか？","You will begin waiting to progress the event.
-Are you sure you are ready?"
-はい,Yes
-いいえ,No
-待機を解除しますか？,Are you sure you want to cancel waiting?
-はい,Yes
-いいえ,No
+Are you sure you are ready?",,0
+はい,Yes,,0
+いいえ,No,,0
+待機を解除しますか？,Are you sure you want to cancel waiting?,,0
+はい,Yes,,0
+いいえ,No,,0
 "メンバーが集合するまで
 サークル内で待機してください","Until the party members are ready,
-please wait in the circle."
-イベント進行確認,Confirm Event Progress
-進行する,Proceed
-準備解除（パーティー招集中止）,Disband (stop gathering party)
-キャンセル,Cancel
-イベント進行確認,Confirm Event Progress
-準備完了、待機,Ready and waiting.
-準備解除（パーティー招集中止）,Disband (stop gathering party)
-キャンセル,Cancel
+please wait in the circle.",,0
+イベント進行確認,Confirm Event Progress,,0
+進行する,Proceed,,0
+準備解除（パーティー招集中止）,Disband (stop gathering party),,0
+キャンセル,Cancel,,0
+イベント進行確認,Confirm Event Progress,,0
+準備完了、待機,Ready and waiting.,,0
+準備解除（パーティー招集中止）,Disband (stop gathering party),,0
+キャンセル,Cancel,,0
 "イベント進行確認
 （全メンバーの準備完了を待ちます）","Confirm Event Progress
-(Wait for all party members to be ready)"
-準備解除（パーティー招集中止）,Disband (stop gathering party)
-キャンセル,Cancel
+(Wait for all party members to be ready)",,0
+準備解除（パーティー招集中止）,Disband (stop gathering party),,0
+キャンセル,Cancel,,0
 "門のような意匠がある
 わずかに不思議な気配を感じる――","It seems to have a design similar to a gate.
-It makes you feel slightly strange..."
+It makes you feel slightly strange...",,0
 "――扉は閉ざされている――
 メンバー全員が集まらなければ
 この先へは進めません
 メンバーを招集しますか？","The door is closed.
 You can proceed ahead if you gather the party.
-Do you want to begin gathering party?"
-はい,Yes
-いいえ,No
+Do you want to begin gathering party?",,0
+はい,Yes,,0
+いいえ,No,,0
 "――扉は閉ざされている――
 リーダーアクションがなければ
 この先へは進めません","The door is closed.
-Cannot proceed ahead without the leader."
+Cannot proceed ahead without the leader.",,0
 "扉を開き先へ向かいますか？
 （全メンバーが準備完了しました）","Do you want to go through the door?
-(Party Ready)"
-はい,Yes
-いいえ（パーティー招集中止）,No (stop gathering party)
+(Party Ready)",,0
+はい,Yes,,0
+いいえ（パーティー招集中止）,No (stop gathering party),,0
 "鍵を使用して扉を開きますか？
 （全メンバーが準備完了しました）","Do you want to open the door using the key?
-(Party Ready)"
-はい,Yes
-いいえ,No
+(Party Ready)",,0
+はい,Yes,,0
+いいえ,No,,0
 "扉は固く閉ざされており
 開きそうにない","The door is firmly shut.
-Unlikely to be opened."
+Unlikely to be opened.",,0
 "特定のコンテンツ中は
-この先に移動できません",Cannot skip during certain scenes
-残り時間が追加されました,Remaining time added
+この先に移動できません",Cannot skip during certain scenes,,0
+残り時間が追加されました,Remaining time added,,0
 "鍵がかかっている――
 開くには<COL ffdc78>《未来の装飾鍵》</COL>が必要だ","It is locked.
-<COL ffdc78>""未来の装飾鍵""</COL> is needed to open."
+<COL ffdc78>""未来の装飾鍵""</COL> is needed to open.",,0
 "鍵がかかっている――
 開くには<COL ffdc78>《竜力の鍵》</COL>が必要だ","It is locked.
-<COL ffdc78>""Key of Dragon Force""</COL> is needed to open."
+<COL ffdc78>""Key of Dragon Force""</COL> is needed to open.",,0
 "鍵がかかっている――
 開くには<COL ffdc78>《昌石の鍵》</COL>が必要だ","It is locked.
-<COL ffdc78>""Key of Gemstones""</COL> is needed to open."
+<COL ffdc78>""Key of Gemstones""</COL> is needed to open.",,0
 "鍵がかかっている――
 開くには<COL ffdc78>《財宝の鍵》</COL>が必要だ","It is locked.
-<COL ffdc78>""Key of Treasures""</COL> is needed to open."
+<COL ffdc78>""Key of Treasures""</COL> is needed to open.",,0
 "鍵がかかっている――
 開くには<COL ffdc78>《宝飾の鍵》</COL>が必要だ","It is locked.
-<COL ffdc78>""Key of Jewelry""</COL> is needed to open."
-白竜杯に参加可能になりました,You can now participate in the White Dragon Cup.
+<COL ffdc78>""Key of Jewelry""</COL> is needed to open.",,0
+白竜杯に参加可能になりました,You can now participate in the White Dragon Cup.,,0
 "鍵がかかっている――
 解放には<COL ffdc78>《宝飾の鍵》</COL>が必要だ","It is locked.
-<COL ffdc78>""Key of Jewelry""</COL> is needed to release."
+<COL ffdc78>""Key of Jewelry""</COL> is needed to release.",,0
 "<COL ffdc78>敵との戦闘で一度も死亡状態になりませんでした
-クリア時のボーナス報酬が多くなります</COL>",<COL ffdc78>Never went into a death state in combat! More bonus rewards for clearing</COL>
+クリア時のボーナス報酬が多くなります</COL>",<COL ffdc78>Never went into a death state in combat! More bonus rewards for clearing</COL>,,0
 "<COL ffdc78>パーティーメンバーが死亡状態になりました
-クリア時のボーナス報酬が下がります</COL>",<COL ffdc78>Party member is now dead. Bonus reward for clearing will be lowered</COL>.
+クリア時のボーナス報酬が下がります</COL>",<COL ffdc78>Party member is now dead. Bonus reward for clearing will be lowered</COL>.,,0
 "<COL ffdc78>胞子の広がりを阻止――！
-クリア時のボーナス報酬が追加されます</COL>",<COL ffdc78>Stopped the spread of spores! Additional bonus rewards for clearing the site</COL>
-敵はあわてて逃げ出した！,The enemy panicked and ran away!
-胞子が集まり始めている――,Spores are starting to gather
-汚染植物が出現――！,Infected plants have appeared!
+クリア時のボーナス報酬が追加されます</COL>",<COL ffdc78>Stopped the spread of spores! Additional bonus rewards for clearing the site</COL>,,0
+敵はあわてて逃げ出した！,The enemy panicked and ran away!,,0
+胞子が集まり始めている――,Spores are starting to gather,,0
+汚染植物が出現――！,Infected plants have appeared!,,0
 "胞子の広がりを阻止――
 クリア時のボーナス報酬が追加！","Prevent the spread of spores!
-Bonus reward is added!"
-隠れていた魔物が姿を現した――！,The hidden monster has appeared!
+Bonus reward is added!",,0
+隠れていた魔物が姿を現した――！,The hidden monster has appeared!,,0
 "傷ついた魔物の痕跡は、
 住処へと続いているようだ――","There are traces from the wounded monster
-It seems to lead towards its den."
-救助対象が疲れてきたようだ――,Your rescue target seems to be getting tired...
-救助対象はかなり辛そうだ――,Your rescue target seems to be struggling...
-救助対象が戦線離脱した――,Your rescue target has left the battlefield...
+It seems to lead towards its den.",,0
+救助対象が疲れてきたようだ――,Your rescue target seems to be getting tired...,,0
+救助対象はかなり辛そうだ――,Your rescue target seems to be struggling...,,0
+救助対象が戦線離脱した――,Your rescue target has left the battlefield...,,0
 "<COL ffdc78>迅速な救助に成功しました
 クリア時のボーナス報酬が追加されます</COL>","<COL ffdc78>Quick Rescue successful!
-Bonus Rewards gained!</COL>"
+Bonus Rewards gained!</COL>",,0
 "<COL ffdc78>迅速な救助に失敗しました
 クリア時のボーナス報酬は追加されません</COL>","<COL ffdc78>Quick Rescue has failed!
-Bonus Rewards are lost.</COL>"
+Bonus Rewards are lost.</COL>",,0
 "鍵がかかっている――
 開くには<COL ffdc78>《<NAME ITEM>》</COL>が必要だ","It is locked.
-<COL ffdc78>""<NAME ITEM>""</COL> is needed to open."
-今は転移の力を失っているようだ――,It seems to have lost the power to teleport...
+<COL ffdc78>""<NAME ITEM>""</COL> is needed to open.",,0
+今は転移の力を失っているようだ――,It seems to have lost the power to teleport...,,0
 "イベントを進行しますか？
 ※パーティー要請中の場合はキャンセルされます","Are you sure you want to proceed with
 the event?
 ※ If there is a party request, it will be
-canceled."
-準備開始,Start Preparation
-キャンセル,Cancel
-イベント進行確認,Confirm Event Progress
-進行する,Proceed
-準備解除,Cancel Preparation
-キャンセル,Cancel
-新たな証拠品を手に入れた！,Got a new piece of evidence!
-誰かの話し声が聞こえる――,Someone's voice can be heard――
-憲兵が見張っている――この先には行けなさそうだ,The Military Police are on the lookout-- I don't think we can go any further.
-誰かが襲われている！　助けなければ――,Someone is being attacked!　We have to help--
-遠くから悲鳴が聞こえた――,I heard a scream in the distance--
-どこからか剣戟の音が聞こえる――,I hear the sound of a swordfight coming from somewhere--
-レジスタンスに新たな仲間が加わった！,A new friend joins the resistance!
-諜報活動領域外へ移動したため、クエストを終了しました,Quest terminated due to movement outside the area.
-諜報任務が進行した――,Intelligence mission in progress--
-ハントターゲットを討伐した！,Hunt target subjugated!
-ボーナスターゲットを討伐した！,Bonus target subjugated!
-闇の力によって封じられている,Sealed by the power of darkness.
-ハントターゲットを発見した！,Hunt target found!
-ボーナスターゲットを発見した！,Bonus target found!
-封鎖されたエリアが解放された――,The blocked area was opened up--
+canceled.",,0
+準備開始,Start Preparation,,0
+キャンセル,Cancel,,0
+イベント進行確認,Confirm Event Progress,,0
+進行する,Proceed,,0
+準備解除,Cancel Preparation,,0
+キャンセル,Cancel,,0
+新たな証拠品を手に入れた！,Got a new piece of evidence!,,0
+誰かの話し声が聞こえる――,Someone's voice can be heard――,,0
+憲兵が見張っている――この先には行けなさそうだ,The Military Police are on the lookout-- I don't think we can go any further.,,0
+誰かが襲われている！　助けなければ――,Someone is being attacked!　We have to help--,,0
+遠くから悲鳴が聞こえた――,I heard a scream in the distance--,,0
+どこからか剣戟の音が聞こえる――,I hear the sound of a swordfight coming from somewhere--,,0
+レジスタンスに新たな仲間が加わった！,A new friend joins the resistance!,,0
+諜報活動領域外へ移動したため、クエストを終了しました,Quest terminated due to movement outside the area.,,0
+諜報任務が進行した――,Intelligence mission in progress--,,0
+ハントターゲットを討伐した！,Hunt target subjugated!,,0
+ボーナスターゲットを討伐した！,Bonus target subjugated!,,0
+闇の力によって封じられている,Sealed by the power of darkness.,,0
+ハントターゲットを発見した！,Hunt target found!,,0
+ボーナスターゲットを発見した！,Bonus target found!,,0
+封鎖されたエリアが解放された――,The blocked area was opened up--,,0
 "メインクエストが進行可能になりました
 一度パーティーを解散してからトラバースに話しかけて下さい","The main quest is now ready to proceed.
-Please talk to Travers once you break up the party."
+Please talk to Travers once you break up the party.",,0

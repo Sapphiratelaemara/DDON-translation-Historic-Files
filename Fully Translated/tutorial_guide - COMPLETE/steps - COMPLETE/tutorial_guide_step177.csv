@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_173","弓による攻撃では通常の矢とは別に「爆矢」による
+key,old,new,english,speaker
+TUTORIAL_STEP_173,"弓による攻撃では通常の矢とは別に「爆矢」による
 射撃も行うことができます
 
 <PADM>　【<KC WEAPON_MAIN>】爆矢構え<KEYM>　弓構えから【<ICON MOUSE_WHL_4>前後】構え変更（弓射ち／爆矢構え切替）
@@ -10,8 +10,8 @@
 <KEYM> Aim
 Switch stance from bow stance with​ <ICON MOUSE_WHL_4>​(Switch between Bow shot and Blast Arrow stance)
 (Initial setting) </KEYM>
-From Blast Arrow Ready, perform <KC SHOOT> and shoot Blast Arrows."
-"TUTORIAL_STEP_396","また、射撃の威力は敵との距離で変化します
+From Blast Arrow Ready, perform <KC SHOOT> and shoot Blast Arrows.",,
+TUTORIAL_STEP_396,"また、射撃の威力は敵との距離で変化します
 
 <COL ffdc78>狙撃照準カーソルで敵を捕えた時、
 オレンジ色のラインがカーソル中央に合う距離が
@@ -22,4 +22,4 @@ From Blast Arrow Ready, perform <KC SHOOT> and shoot Blast Arrows."
 
 <COL ffdc78>When the enemy is captured with the sniper sight cursor, the distance where the orange line aligns with the center of the cursor is the ""optimal distance"" for shooting.</COL>
 
-By shooting arrows from that distance, you can inflict the most damage."
+By shooting arrows from that distance, you can inflict the most damage.",,

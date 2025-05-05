@@ -1,676 +1,676 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "<NPC 682>を完全に落とすためには
-まだまだ《証拠》が足りない――",,Mephis
+まだまだ《証拠》が足りない――",,Mephis,,Mephis,,Mephis
 "メガドの中で得られる証拠はまだまだ
 あるはずだ
-さぁ、《諜報活動》にでかけよう",,Mephis
+さぁ、《諜報活動》にでかけよう",,Mephis,,Mephis,,Mephis
 "<COL ff2600>調査できそうな場所が無くなったり
 《諜報活動》を終えたいときは
-俺に声をかけてくれ</COL>",,Mephis
+俺に声をかけてくれ</COL>",,Mephis,,Mephis,,Mephis
 "よし、それじゃあ出発の準備ができたら
-もう一度俺に声をかけてくれ",,Mephis
-それじゃあ、メガドでの《諜報活動》を始めるか？,,Mephis
-はい,Yes,Mephis
-いいえ,No,Mephis
-今日はもう終わりにするか？,,Mephis
-まだ続ける,Continue on,Mephis
-もう終わりにする,,Mephis
+もう一度俺に声をかけてくれ",,Mephis,,Mephis,,Mephis
+それじゃあ、メガドでの《諜報活動》を始めるか？,,Mephis,,Mephis,,Mephis
+はい,Yes,Mephis,,Mephis,,Mephis
+いいえ,No,Mephis,,Mephis,,Mephis
+今日はもう終わりにするか？,,Mephis,,Mephis,,Mephis
+まだ続ける,Continue on,Mephis,,Mephis,,Mephis
+もう終わりにする,,Mephis,,Mephis,,Mephis
 "夜のメガドは危険だ
-しっかり準備していけよ",,Mephis
+しっかり準備していけよ",,Mephis,,Mephis,,Mephis
 "もうすぐ夜が明けるな
-帰るぞ――",,Mephis
-さぁ、今日もやるか,,Mephis
-新しい《証拠》を手に入れたぞ！,,Mephis
+帰るぞ――",,Mephis,,Mephis,,Mephis
+さぁ、今日もやるか,,Mephis,,Mephis,,Mephis
+新しい《証拠》を手に入れたぞ！,,Mephis,,Mephis,,Mephis
 "はぁ、疲れた――ようお二人さん
 よくもまぁ、そこまで勤勉に任務に
-勤しめるよなぁ",,Basit
-たまには息抜きにワイワイ遊んでみたらどうだ？,,Basit
+勤しめるよなぁ",,Basit,,Basit,,Basit
+たまには息抜きにワイワイ遊んでみたらどうだ？,,Basit,,Basit,,Basit
 "――っていうのも、さっき子供に捕まって
 めちゃくちゃ遊ばされてたのさ
 ほら――俺たちが最初に会った時の
-目撃者になった子供たちだよ",,Basit
+目撃者になった子供たちだよ",,Basit,,Basit,,Basit
 "で、お礼にこんなガラクタもらっちまったんだが
 あの子ら、どうやらいろんなモンを
 溜め込んでるみたいだぜ
-ゴミみたいなガラクタから、掘り出し物まで――",,Basit
+ゴミみたいなガラクタから、掘り出し物まで――",,Basit,,Basit,,Basit
 "もしかしたら、意外なお宝を持ってるかもな
 忙しいなら無理にとはいわないけどよ
-子供たちなら、そこの庭園の先にいるぜ",,Basit
+子供たちなら、そこの庭園の先にいるぜ",,Basit,,Basit,,Basit
 "シッ――！
 今、怪しい奴を見かけたから
-張り込み中なんだ",,Jan
+張り込み中なんだ",,Jan,,Jan,,Jan
 "ところで、覚者さん――変な話なんだが
 いつも、この辺りをパトロールしている
-王国兵がいるんだよ",,Jan
+王国兵がいるんだよ",,Jan,,Jan,,Jan
 "そこの路地を往復して、
 見回っていくのが日課なんだ
 俺は顔見知りだから、よくここから
-挨拶する――",,Jan
+挨拶する――",,Jan,,Jan,,Jan
 "だけど、今日はやけに戻ってくるのが
 遅い気がするんだよな
-何か危険な目に遭ってないといいが",,Jan
+何か危険な目に遭ってないといいが",,Jan,,Jan,,Jan
 "あら、覚者さん！
-今夜も諜報任務中なの？",,Karen
+今夜も諜報任務中なの？",,Karen,,Karen,,Karen
 "そうねぇ、私も
 特に目新しい情報は得られてないけど――
-――そうだわ！",,Karen
+――そうだわ！",,Karen,,Karen,,Karen
 "最近ね、大階段横の路地に
 王国兵が集まってサボっているみたいよ
 もしかしたら、一般市民じゃ知り得ない情報を
-持ってるかもしれないと思ったんだけど――",,Karen
-――――私、役に立てたかしら？,,Karen
+持ってるかもしれないと思ったんだけど――",,Karen,,Karen,,Karen
+――――私、役に立てたかしら？,,Karen,,Karen,,Karen
 "あ、覚者さん、メフィスさん――
-こんばんは",,Esen
+こんばんは",,Esen,,Esen,,Esen
 "な、何も変わったことなんて――
-ないです――",,Esen
-――――本当です,,Esen
-――――,,Esen
+ないです――",,Esen,,Esen,,Esen
+――――本当です,,Esen,,Esen,,Esen
+――――,,Esen,,Esen,,Esen
 "ごめんなさい、嘘ついちゃって
-誰にも言うなって口止めされて――",,Esen
+誰にも言うなって口止めされて――",,Esen,,Esen,,Esen
 "実は、さっき女の人が大慌てで
 走ってきて、わたしとぶつかったの
 「私に会ったことは誰にも言うな」って――
-何かを大事そうに抱えて、大門の方へ行ったみたい",,Esen
+何かを大事そうに抱えて、大門の方へ行ったみたい",,Esen,,Esen,,Esen
 "その――覚者さんなら、言っても
-あの人を痛めつけたりしないかなって",,Esen
+あの人を痛めつけたりしないかなって",,Esen,,Esen,,Esen
 "あら、どうしたんです覚者さん
 きょろきょろして――
-どなたかお探しですか？",,Muget
+どなたかお探しですか？",,Muget,,Muget,,Muget
 "ガクシャさん――あぁ、あの人なら
 バザールの方でいつも飲んだくれてますよ
-最近物騒だってのに、よくやりますよね～",,Muget
+最近物騒だってのに、よくやりますよね～",,Muget,,Muget,,Muget
 "あの人、酔うと通行人に絡んで
 ものすごく面倒なんです――
 覚者さんも、会いに行くなら
-気を付けてくださいね",,Muget
+気を付けてくださいね",,Muget,,Muget,,Muget
 "おう、お二人さん
 あれか、えーと――
-諜報任務ってやつ？",,Basit
+諜報任務ってやつ？",,Basit,,Basit,,Basit
 "俺はブラブラ――あ、いや
 情報収集してたんだよ！
 昔のツテは頼れないからさ――
-地道に足を使って、な！",,Basit
+地道に足を使って、な！",,Basit,,Basit,,Basit
 "何か分かったら連絡するぜ～
-またな",,Basit
+またな",,Basit,,Basit,,Basit
 "あら、覚者さんとメフィスさん
 諜報中なの？
-ご苦労さま！",,Karen
+ご苦労さま！",,Karen,,Karen,,Karen
 "私は今、集会所に備蓄しておく
 食料を買ってきたところなのよ
-この先、何があるかわからないでしょ？",,Karen
+この先、何があるかわからないでしょ？",,Karen,,Karen,,Karen
 "私も、何か情報を手に入れたら
-一番に知らせるわね！",,Karen
+一番に知らせるわね！",,Karen,,Karen,,Karen
 "おう、覚者さんにメフィスさん
-諜報活動中かい？",,Jan
+諜報活動中かい？",,Jan,,Jan,,Jan
 "俺も周りの奴らに
 探りを入れたりしてるんだが――
-今の所、有力な情報は無いな",,Jan
+今の所、有力な情報は無いな",,Jan,,Jan,,Jan
 "引き続き、聞き込みしてみるぜ
-何かあったら伝えるよ",,Jan
+何かあったら伝えるよ",,Jan,,Jan,,Jan
 "あ、こんばんは
 もしかして今、諜報中ですか？
-憲兵には気を付けてくださいね",,Shem
+憲兵には気を付けてくださいね",,Shem,,Shem,,Shem
 "僕も、一応周りの知り合いに
-探りを入れたりして調べてるんです",,Shem
+探りを入れたりして調べてるんです",,Shem,,Shem,,Shem
 "何か、有用そうなことを聞いたら
-覚者さんにお知らせしますね！",,Shem
+覚者さんにお知らせしますね！",,Shem,,Shem,,Shem
 "あ――覚者さんとメフィスさん
-こんばんは",,Esen
+こんばんは",,Esen,,Esen,,Esen
 "あの、わたし――1人で出歩いたら
 ダメって言われてるんだけど
 どうしても、皆さんみたいに
-情報収集をして、役に立ちたくて――",,Esen
+情報収集をして、役に立ちたくて――",,Esen,,Esen,,Esen
 "大丈夫、友達に話を聞いたらすぐ戻るから
-――何か分かったら、すぐ伝えますね",,Esen
+――何か分かったら、すぐ伝えますね",,Esen,,Esen,,Esen
 "覚者さん、メフィスさん、こんばんは
-諜報任務ご苦労様です",,Muget
+諜報任務ご苦労様です",,Muget,,Muget,,Muget
 "わたしも今、メガドでいろいろ
 聞いて回ろうかな～と思っていたところだったんです
-本当ですよ",,Muget
-何か分かったらお伝えしますね,,Muget
+本当ですよ",,Muget,,Muget,,Muget
+何か分かったらお伝えしますね,,Muget,,Muget,,Muget
 "やぁやぁお二人さん、任務中かい？
-わざわざ訪ねてくれるとは感激だね",,Raksha
+わざわざ訪ねてくれるとは感激だね",,Raksha,,Raksha,,Raksha
 "僕はずっと集会所にいるよ
 なにせ頭脳派だから、足を使うのは
-得意じゃないんだ",,Raksha
+得意じゃないんだ",,Raksha,,Raksha,,Raksha
 "今は、どうしたら<NPC 681>侯爵を
 縛り上げられるか、戦略を練っていたのさ
 ずる賢い彼のことだ、ただ告発するだけじゃ
-上手く逃げられてしまうだろうからね",,Raksha
+上手く逃げられてしまうだろうからね",,Raksha,,Raksha,,Raksha
 "ま、考えがまとまったらメフィスくんから
-伝えてもらうことにするよ",,Raksha
-油断するな、迅速に片付けよう,,Mephis
-仲間を呼ばれる前に、確実に息の根を止めよう,,Mephis
-さすがは覚者サマ、といったところだな,,Mephis
+伝えてもらうことにするよ",,Raksha,,Raksha,,Raksha
+油断するな、迅速に片付けよう,,Mephis,,Mephis,,Mephis
+仲間を呼ばれる前に、確実に息の根を止めよう,,Mephis,,Mephis,,Mephis
+さすがは覚者サマ、といったところだな,,Mephis,,Mephis,,Mephis
 "おい、そろそろ＜オーク軍の密通文書＞の
-　　　　　翻訳が終わった頃じゃないか？",,Mephis
-まずはエニスとオークの密談現場へ行ってみよう――,,Mephis
+　　　　　翻訳が終わった頃じゃないか？",,Mephis,,Mephis,,Mephis
+まずはエニスとオークの密談現場へ行ってみよう――,,Mephis,,Mephis,,Mephis
 "はいはい、何を知りたいのかい？
 アンタはお得意様だし
 たまには誰かに肩入れするのもいいかと思ってね――
-今回は特別に無償で聞いてやろう",,Johoya
-オーク軍の暗号文書に関して,,Johoya
-なんでもない,Nothing,Johoya
+今回は特別に無償で聞いてやろう",,Johoya,,Johoya,,Johoya
+オーク軍の暗号文書に関して,,Johoya,,Johoya,,Johoya
+なんでもない,Nothing,Johoya,,Johoya,,Johoya
 "へぇ、珍しい物を持っているじゃないかい
 アンタたち、また面白いことをしてるようだね――
-売ってくれるのかい？",,Johoya
+売ってくれるのかい？",,Johoya,,Johoya,,Johoya
 "このオークの暗号文書を、翻訳したいって？
 オークの暗号に詳しい人間ねぇ――
-あぁ、心当たりが無い訳じゃないよ",,Johoya
+あぁ、心当たりが無い訳じゃないよ",,Johoya,,Johoya,,Johoya
 "ここいらじゃ《<NPC 697>》って呼ばれてんだが
 なんでも、オークやゴブリンどもの生態やら言語やらの
 研究をやってたとかで、一時は情報兵として
-働いたこともあるって噂だけど――",,Johoya
+働いたこともあるって噂だけど――",,Johoya,,Johoya,,Johoya
 "ま、アタシに言わせりゃただの飲んだくれさ
-それでも良いってんなら場所を教えてやるよ",,Johoya
+それでも良いってんなら場所を教えてやるよ",,Johoya,,Johoya,,Johoya
 "そのオークの暗号文書を
 翻訳したいんだろう？
-心当たりのある男を紹介してやろうかねぇ",,Johoya
+心当たりのある男を紹介してやろうかねぇ",,Johoya,,Johoya,,Johoya
 "ここいらじゃ《<NPC 697>》って呼ばれてんだが
 なんでも、オークやゴブリンどもの生態やら言語やらの
 研究をやってたとかで、一時は情報兵として
-働いたこともあるって噂だけど――",,Johoya
+働いたこともあるって噂だけど――",,Johoya,,Johoya,,Johoya
 "ま、アタシに言わせりゃただの飲んだくれさ
-それでも良いってんなら場所を教えてやるよ",,Johoya
+それでも良いってんなら場所を教えてやるよ",,Johoya,,Johoya,,Johoya
 "あ――危ないところだった
 奴ら、私の顔を見た途端襲ってきてさ！
 まだ私のことを覚えているオークも残ってるんだな
-――あぁ、いやいやこっちの話",,Raksha
+――あぁ、いやいやこっちの話",,Raksha,,Raksha,,Raksha
 "ところで、君たち最高のタイミングだったね？
 あと一分遅ければ、私はミンチになっていたよ
-お礼に、一杯おごらせてくれ――",,Raksha
+お礼に、一杯おごらせてくれ――",,Raksha,,Raksha,,Raksha
 "――へ
 <NPC 698>の紹介で来たって？
-オークの暗号を解読してほしいって！？",,Raksha
-――――,,Raksha
+オークの暗号を解読してほしいって！？",,Raksha,,Raksha,,Raksha
+――――,,Raksha,,Raksha,,Raksha
 "――――
-――はぁ",,Raksha
+――はぁ",,Raksha,,Raksha,,Raksha
 "いかにも、確かに私が<NPC 697>だ
 情報兵をやっていたのは昔の話だがね
 血みどろの争いの渦中にいることが嫌で
-辞めてからずっと、酒浸りの軟弱野郎さ――",,Raksha
+辞めてからずっと、酒浸りの軟弱野郎さ――",,Raksha,,Raksha,,Raksha
 "――だが、君には命を救われた
 その借りを返さないまま追い返すほど
-冷たい人間じゃないんでね",,Raksha
+冷たい人間じゃないんでね",,Raksha,,Raksha,,Raksha
 "――少し時間をくれ
 強いのを一杯やって、それから翻訳作業に入る
-なに、これくらいの文量ならそんなにかからない",,Raksha
-な、なんなんだ貴様ら――！！,,Raksha
-そこの君、助けてくれ！！,,Raksha
+なに、これくらいの文量ならそんなにかからない",,Raksha,,Raksha,,Raksha
+な、なんなんだ貴様ら――！！,,Raksha,,Raksha,,Raksha
+そこの君、助けてくれ！！,,Raksha,,Raksha,,Raksha
 "待たせたな
-――はい、これが翻訳した例の文書さ",,Raksha
+――はい、これが翻訳した例の文書さ",,Raksha,,Raksha,,Raksha
 "かなり久しぶりだったが、なんとかなったよ
 いくつか見慣れない言葉もあったが
-勘と経験で訳してみた",,Raksha
+勘と経験で訳してみた",,Raksha,,Raksha,,Raksha
 "これで貸し借りは無しだ
 しかし、こんなとんでもない文書――
-世に出たら大変なことになるぞ",,Raksha
+世に出たら大変なことになるぞ",,Raksha,,Raksha,,Raksha
 "ま、何に使おうが私の知ったことじゃないがね
-任務――上手く行くよう祈ってるよ",,Raksha
+任務――上手く行くよう祈ってるよ",,Raksha,,Raksha,,Raksha
 "くれぐれも、翻訳した文書の扱いには気をつけろ
-間違っても私の存在を出すんじゃないぞ",,Raksha
+間違っても私の存在を出すんじゃないぞ",,Raksha,,Raksha,,Raksha
 "――あと、できれば<NPC 697>というあだ名も
-やめてほしいと<NPC 698>に伝えてくれ",,Raksha
+やめてほしいと<NPC 698>に伝えてくれ",,Raksha,,Raksha,,Raksha
 "酔ったときに話した私の身の上話を
 聞いた子供たちが、勝手に呼び出したって
 ことらしいが――
-どうも馬鹿にされている気がして恥ずかしいんだ",,Raksha
-可哀想になぁ――,,Megado Guard
-<NPC 3269>ちゃん、家族をオークに殺されたんだろ？,,Megado Guard
-メガドでできた友達まで、なんてなぁ,,Megado Guard
+どうも馬鹿にされている気がして恥ずかしいんだ",,Raksha,,Raksha,,Raksha
+可哀想になぁ――,,Megado Guard,,Megado Guard,,Megado Guard
+<NPC 3269>ちゃん、家族をオークに殺されたんだろ？,,Megado Guard,,Megado Guard,,Megado Guard
+メガドでできた友達まで、なんてなぁ,,Megado Guard,,Megado Guard,,Megado Guard
 "あれから<NPC 3269>ちゃん、オークの情報を集めてるんだって
-目標が出来たのはいいことだけどさ――",,Megado Guard
-オークの奴ら、一体何が目的でまた集まって来たんだろうな,,Megado Guard
-おっと、そろそろ時間だ――行こうぜ,,Megado Guard
+目標が出来たのはいいことだけどさ――",,Megado Guard,,Megado Guard,,Megado Guard
+オークの奴ら、一体何が目的でまた集まって来たんだろうな,,Megado Guard,,Megado Guard,,Megado Guard
+おっと、そろそろ時間だ――行こうぜ,,Megado Guard,,Megado Guard,,Megado Guard
 "か、覚者様――
 自分はサボってなどおりません！
-嘘ではありません！",,Megado Guard
-サボっていたのは、コイツだけです！,,Megado Guard
+嘘ではありません！",,Megado Guard,,Megado Guard,,Megado Guard
+サボっていたのは、コイツだけです！,,Megado Guard,,Megado Guard,,Megado Guard
 "覚者様、なぜここに！？
-私は、決してサボっていた訳ではありません！",,Megado Guard
-先輩がサボっていたので注意してたんです！,,Megado Guard
-誰だ！　オークか！？,,Megado Guard
-――気のせいか？,,Megado Guard
-オークの被害を受けた<NPC 3269>とやらを探してみるか――,,Mephis
-覚者さんがあたしに話しかけるなんて――,,Esen
+私は、決してサボっていた訳ではありません！",,Megado Guard,,Megado Guard,,Megado Guard
+先輩がサボっていたので注意してたんです！,,Megado Guard,,Megado Guard,,Megado Guard
+誰だ！　オークか！？,,Megado Guard,,Megado Guard,,Megado Guard
+――気のせいか？,,Megado Guard,,Megado Guard,,Megado Guard
+オークの被害を受けた<NPC 3269>とやらを探してみるか――,,Mephis,,Mephis,,Mephis
+覚者さんがあたしに話しかけるなんて――,,Esen,,Esen,,Esen
 "――もしかして
 ここ最近、増えてきたオークのこと？
-誰かから聞いたの？",,Esen
+誰かから聞いたの？",,Esen,,Esen,,Esen
 "村も、大好きなパパやママも
 それから友達まで――
 あたしの大事なものは全部オークが
-めちゃくちゃにしていったんだ",,Esen
+めちゃくちゃにしていったんだ",,Esen,,Esen,,Esen
 "あたしもオークをやっつけたい
 ――そのために、街中を駆け回って調べたよ
 覚者さんの役に立つなら――
-分かったこと、全部教えるね",,Esen
+分かったこと、全部教えるね",,Esen,,Esen,,Esen
 "奴ら――街を徘徊しているオーク達は
-“何かを探している”みたい",,Esen
+“何かを探している”みたい",,Esen,,Esen,,Esen
 "街には兵隊さんたちもたくさんいるから
 オークだって動きにくいはずなのに――
-“探しているもの”、よっぽど大切なのかな",,Esen
+“探しているもの”、よっぽど大切なのかな",,Esen,,Esen,,Esen
 "もしかして、奴らが探しているもの
-覚者さんには――心当たりがある？",,Esen
+覚者さんには――心当たりがある？",,Esen,,Esen,,Esen
 "――――あの、覚者さん
 あたしも覚者さんたちの手伝いを
-させてもらえたり、しない？",,Esen
+させてもらえたり、しない？",,Esen,,Esen,,Esen
 "あのオーク達を退治するために
 メガドでいろいろ調べ物をしてるってこと
-子供――あたしたちには全部筒抜けだよ",,Esen
+子供――あたしたちには全部筒抜けだよ",,Esen,,Esen,,Esen
 "お願い――
 パパやママを焼いたやつら
 オークを退治する手伝いを――
-覚者さんの手伝いをさせてください",,Esen
-<NPC 3269>をレジスタンスに迎える,,Esen
-少し考えさせてほしい,,Esen
+覚者さんの手伝いをさせてください",,Esen,,Esen,,Esen
+<NPC 3269>をレジスタンスに迎える,,Esen,,Esen,,Esen
+少し考えさせてほしい,,Esen,,Esen,,Esen
 "やったぁ！
-ありがとう！",,Esen
+ありがとう！",,Esen,,Esen,,Esen
 "あたし――戦うことはまだできないけど
 それ以外ならなんでもやるよ
-情報収集だってがんばる！",,Esen
+情報収集だってがんばる！",,Esen,,Esen,,Esen
 "――うふふ、一緒に遊ぼうよ！
-もし私たちに勝ったら、良いものあげるよ",,Child
+もし私たちに勝ったら、良いものあげるよ",,Child,,Child,,Child
 "キラキラ光る、綺麗なネックレスとか
 すっごく上手な<NPC 681>さまの絵とか――
-いっぱい拾って集めてるの",,Child
-ねぇ、いいでしょ？,,Child
-遊ぶ,,Child
-断る,,Child
+いっぱい拾って集めてるの",,Child,,Child,,Child
+ねぇ、いいでしょ？,,Child,,Child,,Child
+遊ぶ,,Child,,Child,,Child
+断る,,Child,,Child,,Child
 "わぁーい、やったぁ
 大人のひとって、誘っても聞いてくれないから――
-あなたは優しいんだね！",,Child
+あなたは優しいんだね！",,Child,,Child,,Child
 "それじゃ――かくれんぼでいい？
-わたしたち、それが一番得意なの",,Child
+わたしたち、それが一番得意なの",,Child,,Child,,Child
 "わたしたちが隠れるから
 あなたは５つ数えたら探しにきてね
-簡単でしょ？",,Child
-準備ができたら教えてね,,Child
+簡単でしょ？",,Child,,Child,,Child
+準備ができたら教えてね,,Child,,Child,,Child
 "準備はいい？
-始めるよー！",,Child
-準備はOK,,Child
-少し待ってほしい,,Child
+始めるよー！",,Child,,Child,,Child
+準備はOK,,Child,,Child,,Child
+少し待ってほしい,,Child,,Child,,Child
 "ありがとな――
-　　　　　子供たちの良い思い出になる",,Mephis
+　　　　　子供たちの良い思い出になる",,Mephis,,Mephis,,Mephis
 "――ふあぁ
 なにかおもしろいことないかなぁ
-“オークからかいゲーム”に行こうかなぁ――",,Child
+“オークからかいゲーム”に行こうかなぁ――",,Child,,Child,,Child
 "――へへ、最近ぼくたちの中で流行ってるんだ！
 街のなかでオークを見つけたら
-みんなで色んな方向からからかうの！",,Child
+みんなで色んな方向からからかうの！",,Child,,Child,,Child
 "オークは足が遅いから、ぼくらに追いつけないんだ
-１度もつかまったことないんだよ？",,Child
+１度もつかまったことないんだよ？",,Child,,Child,,Child
 "覚者さん、みんなに付き合ってあげてよ
 ――変な遊びに夢中になって
-怪我でもされたら困るからね",,Child
+怪我でもされたら困るからね",,Child,,Child,,Child
 "かくれんぼ、いっしょにやってくれるのー？
-わーい、ぜったい負けないからね！",,Child
+わーい、ぜったい負けないからね！",,Child,,Child,,Child
 "かくれんぼかぁ――久しぶりだな
-昔入ってた施設じゃ、負け無しだったんだ",,Child
+昔入ってた施設じゃ、負け無しだったんだ",,Child,,Child,,Child
 "どうせ僕らの宝物目当てで受けたんだろうけど――
-覚者さん、覚悟しなよ",,Child
+覚者さん、覚悟しなよ",,Child,,Child,,Child
 "――見つかっちゃった？
 えへへ、見つけてくれてありがとう
-ひとりで隠れるの、ちょっと心細かったの",,Child
+ひとりで隠れるの、ちょっと心細かったの",,Child,,Child,,Child
 "――みんな楽しかったみたい
 あなたのおかげだね
-いっしょに遊んでくれてありがとう",,Child
+いっしょに遊んでくれてありがとう",,Child,,Child,,Child
 "それじゃあお礼、あげなきゃね
-どれにしようかな――？",,Child
-うーんと――はいこれ、あげる！,,Child
+どれにしようかな――？",,Child,,Child,,Child
+うーんと――はいこれ、あげる！,,Child,,Child,,Child
 "知らない大人のひとがくれたの
 “あなたも<NPC 681>さまを尊敬しなさい”って――
 でもこんなの貰っても、お腹いっぱいにならないもの
-だから、あなたにあげる！",,Child
+だから、あなたにあげる！",,Child,,Child,,Child
 "――え！？
-みつけちゃったの？",,Child
+みつけちゃったの？",,Child,,Child,,Child
 "もう、オトナゲないんだから～
-――もう一回やろうよ、もう一回！",,Child
+――もう一回やろうよ、もう一回！",,Child,,Child,,Child
 "かくれんぼ、とっても楽しかったよ！
-また一緒にあそぼうね！",,Child
-僕は草――僕は草――僕は草――,,Child
+また一緒にあそぼうね！",,Child,,Child,,Child
+僕は草――僕は草――僕は草――,,Child,,Child,,Child
 "――――あれ
 見つかっちゃった？
-なかなかやるじゃん覚者さん",,Child
+なかなかやるじゃん覚者さん",,Child,,Child,,Child
 "なかなか楽しかったよ――
 覚者さん、子供相手に本気で探しに来るんだもの
-その大人げの無さ、嫌いじゃないよ",,Child
+その大人げの無さ、嫌いじゃないよ",,Child,,Child,,Child
 "みんなも、楽しめたようで良かったよ
 最近、他の縄張りの子供がオークに捕まった事件が
-あったみたいで――少しは気晴らしになったかな",,Child
+あったみたいで――少しは気晴らしになったかな",,Child,,Child,,Child
 "とっても楽しかったよ
 覚者さんは、私たちの初めての
-“大人の友達”――だね！",,Child
-またこの５人で、一緒に遊べたら嬉しいな,,Child
-――助太刀お願いいたします！,,Megado Guard
-逃げますよ！　被害が出る前に追いましょう！,,Megado Guard
+“大人の友達”――だね！",,Child,,Child,,Child
+またこの５人で、一緒に遊べたら嬉しいな,,Child,,Child,,Child
+――助太刀お願いいたします！,,Megado Guard,,Megado Guard,,Megado Guard
+逃げますよ！　被害が出る前に追いましょう！,,Megado Guard,,Megado Guard,,Megado Guard
 "メガドの英雄、覚者殿にご助力いただけるとは――
-感謝いたします！",,Megado Guard
+感謝いたします！",,Megado Guard,,Megado Guard,,Megado Guard
 "しかし、いくら覚者殿がいるとは言え
 この人数で深追いするのは避けたいですね
 罠だという可能性もあります――
-一度、侯爵様への報告をいたします！",,Megado Guard
+一度、侯爵様への報告をいたします！",,Megado Guard,,Megado Guard,,Megado Guard
 "――あっ
 もちろん、覚者殿のお手を煩わせる気はありません
-侯爵様への進言は、私にお任せください",,Megado Guard
+侯爵様への進言は、私にお任せください",,Megado Guard,,Megado Guard,,Megado Guard
 "実は私、<NPC 681>様とはパイプがありまして
 ――メガド占領時、<NPC 681>様の右腕として
-直接指示を受けて働いていたんです！",,Megado Guard
+直接指示を受けて働いていたんです！",,Megado Guard,,Megado Guard,,Megado Guard
 "メガド占領下では、私が一番<NPC 681>様に
 貢献していたと言っても過言ではない――
 そう自負しております
-きっと、話を聞いてくださるはず",,Megado Guard
+きっと、話を聞いてくださるはず",,Megado Guard,,Megado Guard,,Megado Guard
 "そうと決まれば、善は急げです
-覚者殿、私はこれにて失礼いたします！",,Megado Guard
+覚者殿、私はこれにて失礼いたします！",,Megado Guard,,Megado Guard,,Megado Guard
 "あ――覚者殿――
 先日のオーク掃討作戦の件
-気にかけてくださっていたのですか？",,Megado Guard
+気にかけてくださっていたのですか？",,Megado Guard,,Megado Guard,,Megado Guard
 "実はあのオークを逃がした件の後、<NPC 681>侯爵に
 進言に伺ったのですが――
 “証拠が無いため協力できない”と
-門前払いを食らってしまったのです",,Megado Guard
+門前払いを食らってしまったのです",,Megado Guard,,Megado Guard,,Megado Guard
 "少なくとも、共に占領中の苦難を味わっていた
 あの頃の<NPC 681>侯爵ならば
-こんな問題、絶対に放置はしないはずなのです",,Megado Guard
+こんな問題、絶対に放置はしないはずなのです",,Megado Guard,,Megado Guard,,Megado Guard
 "こうなれば、この命に代えてでも
-私一人でオークどもを追い詰めるしか――！？",,Megado Guard
-<NPC 681>について詳しく知りたい,,Megado Guard
-応援する,,Megado Guard
+私一人でオークどもを追い詰めるしか――！？",,Megado Guard,,Megado Guard,,Megado Guard
+<NPC 681>について詳しく知りたい,,Megado Guard,,Megado Guard,,Megado Guard
+応援する,,Megado Guard,,Megado Guard,,Megado Guard
 "えっ！？
-あ――はい、ありがとうございます――",,Megado Guard
+あ――はい、ありがとうございます――",,Megado Guard,,Megado Guard,,Megado Guard
 "<NPC 681>様について知りたい、ですか――？
 えぇ、確かに――メガド占領時に限定すれば
 <NPC 681>様を一番知っているのは
-私かもしれません",,Megado Guard
+私かもしれません",,Megado Guard,,Megado Guard,,Megado Guard
 "良いでしょう、昔話をして差し上げます
 ――ただ、その代わりと言っては難ですが
-お願いがございます",,Megado Guard
+お願いがございます",,Megado Guard,,Megado Guard,,Megado Guard
 "例のオーク共を追い詰める
-手伝いをしていただけませんか？",,Megado Guard
-協力する,,Megado Guard
-断る,,Megado Guard
+手伝いをしていただけませんか？",,Megado Guard,,Megado Guard,,Megado Guard
+協力する,,Megado Guard,,Megado Guard,,Megado Guard
+断る,,Megado Guard,,Megado Guard,,Megado Guard
 "えっ
 ほ、本当ですか！
-よかった――",,Megado Guard
+よかった――",,Megado Guard,,Megado Guard,,Megado Guard
 "放って置くことはできないけれど
 さすがに、一人で挑むのは無謀だと
-感じていたところだったんです！",,Megado Guard
+感じていたところだったんです！",,Megado Guard,,Megado Guard,,Megado Guard
 "――それでは、手遅れになる前に奴らを探しましょう
 昔話ならば、後でゆっくりと
-お聞かせして差し上げます！",,Megado Guard
+お聞かせして差し上げます！",,Megado Guard,,Megado Guard,,Megado Guard
 "恐らく、これは激戦となるでしょう――
-準備はよろしいですか？",,Megado Guard
-準備はOK,,Megado Guard
-――少し待ってほしい,...I want to wait awhile,Megado Guard
+準備はよろしいですか？",,Megado Guard,,Megado Guard,,Megado Guard
+準備はOK,,Megado Guard,,Megado Guard,,Megado Guard
+――少し待ってほしい,...I want to wait awhile,Megado Guard,,Megado Guard,,Megado Guard
 "奴らが逃げ込んだ地区は、先日から
 市民通行止めにしております！
-心おきなく大暴れできましょう――",,Megado Guard
+心おきなく大暴れできましょう――",,Megado Guard,,Megado Guard,,Megado Guard
 "こちらです！
-さぁ、ついて来てください！",,Megado Guard
-いました、奴らです！,,Megado Guard
-ど、どうしてこんな危険な魔物が――！？,,Megado Guard
+さぁ、ついて来てください！",,Megado Guard,,Megado Guard,,Megado Guard
+いました、奴らです！,,Megado Guard,,Megado Guard,,Megado Guard
+ど、どうしてこんな危険な魔物が――！？,,Megado Guard,,Megado Guard,,Megado Guard
 "どうして街中にこのような魔物の群れが――
 と、とにかく、なんとか倒せましたね
-ご助力、誠にありがとうございました！",,Megado Guard
+ご助力、誠にありがとうございました！",,Megado Guard,,Megado Guard,,Megado Guard
 "ええと、確か
 <NPC 681>侯爵についての話をご所望でしたよね
-メガド占領時代のナヴィド侯爵ですか――",,Megado Guard
+メガド占領時代のナヴィド侯爵ですか――",,Megado Guard,,Megado Guard,,Megado Guard
 "簡単に言うと
 市民から見ても、兵士から見ても
-あの方は “英雄”ですね――",,Megado Guard
+あの方は “英雄”ですね――",,Megado Guard,,Megado Guard,,Megado Guard
 "オークに占領された後、メガドは地獄でした
 無抵抗な人々が残虐なオークに蹂躙される日々――
-戦おうとした兵は、ことごとく死にました",,Megado Guard
+戦おうとした兵は、ことごとく死にました",,Megado Guard,,Megado Guard,,Megado Guard
 "見かねた侯爵が、危険も顧みず
 オークに交渉を持ちかけられたのです
 捕虜の統率と、労働力や物資の提供を行う代わりに
-残虐な扱いは止めるようにと――",,Megado Guard
+残虐な扱いは止めるようにと――",,Megado Guard,,Megado Guard,,Megado Guard
 "それからは、処刑やいたぶりは激減しました
 オーク軍を援助する屈辱に耐え、生きてさえいれば
 いつかきっと反逆の時が来る――
-我々は希望を抱くことができるようになったのです",,Megado Guard
+我々は希望を抱くことができるようになったのです",,Megado Guard,,Megado Guard,,Megado Guard
 "我々が生きていられるのは、全てあの方のおかげ
 ――ですので、憎きオークに対する先日の対応は
-どうも不可解で――",,Megado Guard
+どうも不可解で――",,Megado Guard,,Megado Guard,,Megado Guard
 "――ですが、ひとまずは問題解決、ですね
-ご協力ありがとうございました！",,Megado Guard
+ご協力ありがとうございました！",,Megado Guard,,Megado Guard,,Megado Guard
 "捕虜たちへの残虐行為を見かねた侯爵が
 オークに交渉を持ちかけられたのです
 捕虜の統率と、労働力や物資の提供を行う代わりに
-残虐な扱いは止めるようにと―",,Megado Guard
+残虐な扱いは止めるようにと―",,Megado Guard,,Megado Guard,,Megado Guard
 "我々が生きていられるのは、全てあの方のおかげ
 ――ですので、憎きオークに対する先日の対応は
-どうも不可解で――",,Megado Guard
+どうも不可解で――",,Megado Guard,,Megado Guard,,Megado Guard
 "――ですが、ひとまずは問題解決、ですね
-ご協力ありがとうございました！",,Megado Guard
-キャッ！,,Muget
-ダメなんですぅ――！,,Muget
-ついてこないでください～！,,Muget
+ご協力ありがとうございました！",,Megado Guard,,Megado Guard,,Megado Guard
+キャッ！,,Muget,,Muget,,Muget
+ダメなんですぅ――！,,Muget,,Muget,,Muget
+ついてこないでください～！,,Muget,,Muget,,Muget
 "なんなんですか、しつこすぎます！！
 まさか、わたしが<STG 473>で手に入れてしまった
-あの“危険すぎるアレ”をもう察知して――？",,Muget
+あの“危険すぎるアレ”をもう察知して――？",,Muget,,Muget,,Muget
 "わかりました――
 <NPC 681>侯爵に言いつけるならどうぞ！
-煮るなり焼くなり揚げるなり燻すなりしてください！",,Muget
-何があったか聞く,,Muget
-そっとしておく,Keep silent,Muget
+煮るなり焼くなり揚げるなり燻すなりしてください！",,Muget,,Muget,,Muget
+何があったか聞く,,Muget,,Muget,,Muget
+そっとしておく,Keep silent,Muget,,Muget,,Muget
 "――覚者さま、あなたまさか
 <NPC 681>侯爵の手先じゃないですよねぇ
 散々おつかいだなんだと
-仲良くしていたようですけどぉ――？",,Muget
+仲良くしていたようですけどぉ――？",,Muget,,Muget,,Muget
 "ともかく――
-信じられませんね",,Muget
+信じられませんね",,Muget,,Muget,,Muget
 "たとえ本当に侯爵とは無関係だったとしても
 危険を冒して手に入れた“アレ”を
-よく知りもしない方に見せるって訳には――",,Muget
-――――,,Muget
+よく知りもしない方に見せるって訳には――",,Muget,,Muget,,Muget
+――――,,Muget,,Muget,,Muget
 "――――
-――いや、覚者さまなら――",,Muget
+――いや、覚者さまなら――",,Muget,,Muget,,Muget
 "わたし、聞いたことがあります
 覚者さまが、“レジスタンス”と関係があると――
-そちらの方がメフィスさん、ですね？",,Muget
+そちらの方がメフィスさん、ですね？",,Muget,,Muget,,Muget
 "――そうよ
-覚者さまならきっと――",,Muget
+覚者さまならきっと――",,Muget,,Muget,,Muget
 "これを見ていただけますか？
-この《謎の帳簿》を――",,Muget
+この《謎の帳簿》を――",,Muget,,Muget,,Muget
 "<STG 473>の警備をしているときに
 たまたま見つけたんです
-いかにも怪しいでしょう、この《謎の帳簿》",,Muget
+いかにも怪しいでしょう、この《謎の帳簿》",,Muget,,Muget,,Muget
 "これ、ただの出納帳簿じゃないんです
 日付を見ると、つい先日まで
 記入され続けていたようで――
-しかも所々に「オーク」という字があるんです",,Muget
+しかも所々に「オーク」という字があるんです",,Muget,,Muget,,Muget
 "なんだかすごくきな臭い香りがしたので
 つい持ち出しちゃったんですけど――
-なんだか持て余してしまって",,Muget
+なんだか持て余してしまって",,Muget,,Muget,,Muget
 "覚者さま！　よろしければこれ、差し上げます！
 あなたの方が、これの扱いに詳しいと思うんです
 その代わり――
-このことは絶対に他言しないでくださいな",,Muget
+このことは絶対に他言しないでくださいな",,Muget,,Muget,,Muget
 "ところでこれって<NPC 681>様や
 憲兵に知られたら
-確実に牢獄行きですよね――？",,Muget
+確実に牢獄行きですよね――？",,Muget,,Muget,,Muget
 "ハァ
 これから一生、憲兵の視線に警戒しながら
-生きて行かなきゃいけないんでしょうか",,Muget
-<NPC 3255>をレジスタンスに迎える,,Muget
-そっとしておく,Keep silent,Muget
+生きて行かなきゃいけないんでしょうか",,Muget,,Muget,,Muget
+<NPC 3255>をレジスタンスに迎える,,Muget,,Muget,,Muget
+そっとしておく,Keep silent,Muget,,Muget,,Muget
 "レジスタンス――
-うふふ、なんだか秘密結社的な響きですね",,Muget
+うふふ、なんだか秘密結社的な響きですね",,Muget,,Muget,,Muget
 "剣の心得ならば少々ありますけれど――
 それ以外はあまり期待しすぎないでくださいね
-よろしくおねがいします～",,Muget
+よろしくおねがいします～",,Muget,,Muget,,Muget
 "レジスタンスに入らないかって？
-もう嫌ですよぉ、これ以上面倒なゴタゴタは――",,Muget
+もう嫌ですよぉ、これ以上面倒なゴタゴタは――",,Muget,,Muget,,Muget
 "あれ、でも――
 <NPC 681>侯爵がいなくなれば
 憲兵隊も無くなるんでしょうか？
-そうすれば大手を振って歩けるようになる？",,Muget
-――――,,Muget
+そうすれば大手を振って歩けるようになる？",,Muget,,Muget,,Muget
+――――,,Muget,,Muget,,Muget
 "――わかりました
-わたしにできることなら、お手伝いします",,Muget
+わたしにできることなら、お手伝いします",,Muget,,Muget,,Muget
 "まぁ、剣の心得ならば少々ありますけれど――
 それ以外はあまり期待しすぎないでくださいね
-よろしくおねがいします～",,Muget
-元王国軍兵士の、通称 “ガクシャ” だな？,,Military Police
+よろしくおねがいします～",,Muget,,Muget,,Muget
+元王国軍兵士の、通称 “ガクシャ” だな？,,Military Police,,Military Police,,Military Police
 "おやおや――
-　　　　　憲兵さんが酔っ払いに何の用です？",,Raksha
-キサマ、レジスタンスと繋がりがあるな？,,Military Police
+　　　　　憲兵さんが酔っ払いに何の用です？",,Raksha,,Raksha,,Raksha
+キサマ、レジスタンスと繋がりがあるな？,,Military Police,,Military Police,,Military Police
 "れじすたんす――はて
-　　　　　そのような酒は聞いたことありませんな",,Raksha
+　　　　　そのような酒は聞いたことありませんな",,Raksha,,Raksha,,Raksha
 "とぼけるな！
-　　　一緒に来てもらおうか？",,Military Police
-構いませんよ――この一杯を飲んだらね,,Raksha
+　　　一緒に来てもらおうか？",,Military Police,,Military Police,,Military Police
+構いませんよ――この一杯を飲んだらね,,Raksha,,Raksha,,Raksha
 "おお――覚者クン！
 いいところに来たね
-僕に何か用事があったんだろう？",,Raksha
+僕に何か用事があったんだろう？",,Raksha,,Raksha,,Raksha
 "ちょうど今、そちらの憲兵さんに
 連行されそうになっているところだったんだ
-何とかしてくれないか？",,Raksha
+何とかしてくれないか？",,Raksha,,Raksha,,Raksha
 "お、お前はレスタニアの覚者――と
-メフィス！？",,Military Police
+メフィス！？",,Military Police,,Military Police,,Military Police
 "指名手配犯がノコノコと捕まりにくるとは
 間抜けなヤツめ！
-覚悟しろ！",,Military Police
+覚悟しろ！",,Military Police,,Military Police,,Military Police
 "いやぁ、助かったよ！
 僕もついに、要注意人物として
-目をつけられたって訳だ――君たちのおかげでね",,Raksha
+目をつけられたって訳だ――君たちのおかげでね",,Raksha,,Raksha,,Raksha
 "ところで、わざわざ訪ねて来るなんて
 また僕に用事があったんだろう？
 見返りの話は置いといて――
-まずは話を聞いてみようじゃないか",,Raksha
+まずは話を聞いてみようじゃないか",,Raksha,,Raksha,,Raksha
 "なになに――オークの口を割らせる
 打開策は何か無いかって？
-そう言われてもねぇ",,Raksha
-――――,,Raksha
-救援を期待するオーク――,,Raksha
-裏切りを許さぬ性質――――,,Raksha
-――――,,Raksha
+そう言われてもねぇ",,Raksha,,Raksha,,Raksha
+――――,,Raksha,,Raksha,,Raksha
+救援を期待するオーク――,,Raksha,,Raksha,,Raksha
+裏切りを許さぬ性質――――,,Raksha,,Raksha,,Raksha
+――――,,Raksha,,Raksha,,Raksha
 "――――
-――そうだ",,Raksha
+――そうだ",,Raksha,,Raksha,,Raksha
 "やっぱり、酒を飲んだ後の
 ひらめきってのはすごいな！
-悪魔的なアイデアが浮かんだぞ！",,Raksha
+悪魔的なアイデアが浮かんだぞ！",,Raksha,,Raksha,,Raksha
 "聞きたいのか？
-僕のアイデアが聞きたいのか？",,Raksha
-グフフフ――――,,Raksha
+僕のアイデアが聞きたいのか？",,Raksha,,Raksha,,Raksha
+グフフフ――――,,Raksha,,Raksha,,Raksha
 "そのオークを、裏切らせる！
 いや――正確には
- “裏切ったと思われている”と錯覚させるんだ",,Raksha
+ “裏切ったと思われている”と錯覚させるんだ",,Raksha,,Raksha,,Raksha
 "つまり、助けに来たオーク軍は
 本当は、助けに来たんじゃない――
 人間どもに寝返った伝令兵を捕えるために
-メガドへ来た――そう思わせるんだ",,Raksha
+メガドへ来た――そう思わせるんだ",,Raksha,,Raksha,,Raksha
 "あぁ、仲間たちの誤解に縮み上がるオーク君の
 なんと哀れなこと！
 オークだって生き物だ、恐怖する瞬間は作れるよ
-そして――怯えたら最後、思うがままさ",,Raksha
+そして――怯えたら最後、思うがままさ",,Raksha,,Raksha,,Raksha
 "どうだい、裏切りの恐ろしさを知っている
-オークだからこそ効きそうな作戦だろ？",,Raksha
+オークだからこそ効きそうな作戦だろ？",,Raksha,,Raksha,,Raksha
 "だが、どうやって偽の手配書を作るかだ
 オーク文字の模造が出来そうな
-器用な人物が必要だが――",,Raksha
-――――,,Raksha
+器用な人物が必要だが――",,Raksha,,Raksha,,Raksha
+――――,,Raksha,,Raksha,,Raksha
 "――１人だけ心当たりがあるぞ！
-紹介してやってもいいが、一つ条件がある",,Raksha
-――僕を、君たち秘密結社の仲間にしてくれ！,,Raksha
-<NPC 697>をレジスタンスに迎える,,Raksha
-考えさせてほしい,,Raksha
+紹介してやってもいいが、一つ条件がある",,Raksha,,Raksha,,Raksha
+――僕を、君たち秘密結社の仲間にしてくれ！,,Raksha,,Raksha,,Raksha
+<NPC 697>をレジスタンスに迎える,,Raksha,,Raksha,,Raksha
+考えさせてほしい,,Raksha,,Raksha,,Raksha
 "そうだろう、そうだろう！
-僕と覚者クンの仲だものな！",,Raksha
+僕と覚者クンの仲だものな！",,Raksha,,Raksha,,Raksha
 "僕は働くことや、戦うことは苦手だ！
 ――だがまぁ、頭脳労働なら
-多少できないこともない",,Raksha
+多少できないこともない",,Raksha,,Raksha,,Raksha
 "さて――それじゃあ約束だ
 メガドいち、繊細で美しい仕事をする
-職人の元に案内しよう",,Raksha
-お待たせ！,,Serine
+職人の元に案内しよう",,Raksha,,Raksha,,Raksha
+お待たせ！,,Serine,,Serine,,Serine
 "ねぇこれ、指名手配書にみえるんだけどぉ
 しかも――オークの！
-いったい何をする気なの？",,Serine
+いったい何をする気なの？",,Serine,,Serine,,Serine
 "ま、いいわ、お得意さんだし
 あんまり詮索しないであげる
 覚者さんが関わってるってことは――
-きっと重要なんでしょ？",,Serine
+きっと重要なんでしょ？",,Serine,,Serine,,Serine
 "さ、どうぞ持って行って
-今度はちゃんと、オシャレのために来てよねぇ！",,Serine
+今度はちゃんと、オシャレのために来てよねぇ！",,Serine,,Serine,,Serine
 "やだ、ガクシャのおじさん――
-なぁに？　メイクしに来たの？",,Serine
+なぁに？　メイクしに来たの？",,Serine,,Serine,,Serine
 "――って、あら覚者さん！
-珍しい組み合わせじゃな～い、どうしたの？",,Serine
+珍しい組み合わせじゃな～い、どうしたの？",,Serine,,Serine,,Serine
 "へ？
-偽造してもらいたい文書があるぅ？",,Serine
+偽造してもらいたい文書があるぅ？",,Serine,,Serine,,Serine
 "そりゃたしかに、あたしがメガドで
 一番手先が器用だと思うわぁ
 だけど、文字を書くのとアイラインを描くの
-一緒にしないでもらえる？",,Serine
+一緒にしないでもらえる？",,Serine,,Serine,,Serine
 "――まぁ、そこまで言うなら
 試しにやってみてもいいけどねぇ
-あんまり期待しないでよ？",,Serine
+あんまり期待しないでよ？",,Serine,,Serine,,Serine
 "じゃ――ささっと終わらせちゃうから
-少しだけ待っててちょうだいね！",,Serine
+少しだけ待っててちょうだいね！",,Serine,,Serine,,Serine
 "――だ、そうだ
 <NPC 3270>クンの邪魔をしないで
-大人しく待っていたまえ",,Raksha
+大人しく待っていたまえ",,Raksha,,Raksha,,Raksha
 "――え？
-なんで彼女と知り合いなのかって？",,Raksha
-――――,,Raksha
-――――なんだっていいじゃないか,,Raksha
+なんで彼女と知り合いなのかって？",,Raksha,,Raksha,,Raksha
+――――,,Raksha,,Raksha,,Raksha
+――――なんだっていいじゃないか,,Raksha,,Raksha,,Raksha
 "いいかい、人の趣味嗜好というものはね
 他人にとやかく言う権利は無いんだ
-詮索するのはおすすめできないな",,Raksha
+詮索するのはおすすめできないな",,Raksha,,Raksha,,Raksha
 "どうだい、<NPC 3270>クンの腕は！
 まるで本当にオークが書いたかのような
-リアルな手配書だろう？　ん？",,Raksha
+リアルな手配書だろう？　ん？",,Raksha,,Raksha,,Raksha
 "ところで、君らのアジトに
-酒場なんかはあるのかな？",,Raksha
+酒場なんかはあるのかな？",,Raksha,,Raksha,,Raksha
 "――え？　秘密結社と言ったら
 衣食住の一通りが揃っていて
 合言葉を言わないと入れない秘密基地が
-あるって相場が決まっているじゃないか！",,Raksha
+あるって相場が決まっているじゃないか！",,Raksha,,Raksha,,Raksha
 "なんだか最近、メガドでもオークを
 見かけることが増えてきたけど――
-もしかしてそれと関係してる？",,Serine
+もしかしてそれと関係してる？",,Serine,,Serine,,Serine
 "はぁ、オークと一緒に憲兵隊も
 どこかへ行ってくれないかしら～
 ――まぁ、覚者さんならきっと良いように
-してくれるわよねぇ",,Serine
-うふふ、期待してるんだから～！,,Serine
+してくれるわよねぇ",,Serine,,Serine,,Serine
+うふふ、期待してるんだから～！,,Serine,,Serine,,Serine
 "ここが<NPC 586>とオークの密通現場だが――
-憲兵に先を越されたか、片付けるぞ",,Mephis
-よし、《証拠》が無いか調べてみよう,,Mephis
+憲兵に先を越されたか、片付けるぞ",,Mephis,,Mephis,,Mephis
+よし、《証拠》が無いか調べてみよう,,Mephis,,Mephis,,Mephis
 "呑んだくれのガクシャ、だと――
-　　　　　ここは話を信じて、行ってみるか",,Mephis
+　　　　　ここは話を信じて、行ってみるか",,Mephis,,Mephis,,Mephis
 "ガクシャに翻訳依頼はできた――
-　　　　　さて、作業完了まで待つか",,Mephis
+　　　　　さて、作業完了まで待つか",,Mephis,,Mephis,,Mephis
 "3人見つければいいんだな――
-　　　　　さぁどこから探す？",,Mephis
-――１人、見つけたぞ,,Mephis
-子供を見つけたぞ,,Mephis
-――わかった,,Mephis
+　　　　　さぁどこから探す？",,Mephis,,Mephis,,Mephis
+――１人、見つけたぞ,,Mephis,,Mephis,,Mephis
+子供を見つけたぞ,,Mephis,,Mephis,,Mephis
+――わかった,,Mephis,,Mephis,,Mephis
 "よし――これで約束は果たしたな
-　　　　　<NPC 681>の話を聞かせてもらおう",,Mephis
-誰かが戦っているようだな――,,Mephis
+　　　　　<NPC 681>の話を聞かせてもらおう",,Mephis,,Mephis,,Mephis
+誰かが戦っているようだな――,,Mephis,,Mephis,,Mephis
 "この件は気になるな――
-　　　　　また後日、会いに行ってみよう",,Mephis
+　　　　　また後日、会いに行ってみよう",,Mephis,,Mephis,,Mephis
 "な――なんなんだコイツは？
-　　　　　怪しすぎる",,Mephis
+　　　　　怪しすぎる",,Mephis,,Mephis,,Mephis
 "<STG 473>で見つけた、“アレ”――？
-　　　　　気になるな",,Mephis
-ガクシャが憲兵に捕まるのはまずいぞ！,,Mephis
+　　　　　気になるな",,Mephis,,Mephis,,Mephis
+ガクシャが憲兵に捕まるのはまずいぞ！,,Mephis,,Mephis,,Mephis
 "よし、邪魔者はいなくなったな
-　　　　　オークの件をガクシャに相談しよう",,Mephis
-勿体ぶりやがって、一体なんなんだ？,,Mephis
+　　　　　オークの件をガクシャに相談しよう",,Mephis,,Mephis,,Mephis
+勿体ぶりやがって、一体なんなんだ？,,Mephis,,Mephis,,Mephis
 "待ち伏せだと――！
-　　　　　動きを読まれていたらしいな",,Mephis
+　　　　　動きを読まれていたらしいな",,Mephis,,Mephis,,Mephis
 "もう証拠は十分だ、早いところ戻ろう
-　　　　　これ以上の諜報活動は危険だ",,Mephis
+　　　　　これ以上の諜報活動は危険だ",,Mephis,,Mephis,,Mephis
 "そんなにかからないらしい――この辺りで
-　　　　　<NPC 3270>の作業完了を待とう",,Mephis
-あれは<NPC 697>と――憲兵か！？,,Mephis
-胡散臭いが、ついて行ってみるか,,Mephis
-そろそろ、<NPC 3270>と約束した時間じゃないか？,,Mephis
+　　　　　<NPC 3270>の作業完了を待とう",,Mephis,,Mephis,,Mephis
+あれは<NPC 697>と――憲兵か！？,,Mephis,,Mephis,,Mephis
+胡散臭いが、ついて行ってみるか,,Mephis,,Mephis,,Mephis
+そろそろ、<NPC 3270>と約束した時間じゃないか？,,Mephis,,Mephis,,Mephis
 "もうすぐガクシャと約束した時間だな
-　　　　　あとで立ち寄るのを、忘れるなよ",,Mephis
+　　　　　あとで立ち寄るのを、忘れるなよ",,Mephis,,Mephis,,Mephis
 "もうすぐセリンと約束した時間だな
-　　　　　あとで立ち寄るのを、忘れるなよ",,Mephis
-さぁ、今日もやるか,,Mephis
+　　　　　あとで立ち寄るのを、忘れるなよ",,Mephis,,Mephis,,Mephis
+さぁ、今日もやるか,,Mephis,,Mephis,,Mephis

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_384","名声度《エリアランク》が一定に達すると
+key,old,new,english,speaker
+TUTORIAL_STEP_384,"名声度《エリアランク》が一定に達すると
 地域の問題により深く関わるパーソナルクエスト
 <COL ffdc78>《エリア試練クエスト》</COL>が発生します
 
@@ -12,4 +12,4 @@
 
 To increase your Area Reputation, it is not just about accumulating points. Clearing Area Quests is also necessary.
 
-Prepare adequately and take on challenges such as defeating powerful enemies and conquering sealed dungeons."
+Prepare adequately and take on challenges such as defeating powerful enemies and conquering sealed dungeons.",,

@@ -1,12 +1,12 @@
-"key","old","new"
-"TUTORIAL_STEP_665","十分に身を隠せる高さの障害物がない場所では
+key,old,new,english,speaker
+TUTORIAL_STEP_665,"十分に身を隠せる高さの障害物がない場所では
 <COL ffdc78>伏せて進む</COL>必要があります
 
 伏せると<COL ffdc78>低い障害物にも隠れる</COL>ことができますが
 周囲の状況が把握しづらくなるので注意が必要です","In places where there are no obstacles of sufficient height to conceal yourself, it is necessary to <COL ffdc78>crawl forward.</COL>
 
-While crawling, you can also <COL ffdc78>hide behind low obstacles</COL>, but be cautious as it will be difficult to assess the surrounding conditions."
-"TUTORIAL_STEP_709","＜伏せる方法＞
+While crawling, you can also <COL ffdc78>hide behind low obstacles</COL>, but be cautious as it will be difficult to assess the surrounding conditions.",,
+TUTORIAL_STEP_709,"＜伏せる方法＞
 
 　【<KC UI_GAME_MENU>】ゲームメニュー《コミュニケーション》から
 《エモート》を選択し、左に表示される《<COL ffdc78>Category</COL>》から
@@ -22,4 +22,4 @@ From the <KC UI_GAME_MENU>Game Menu, select <Emotes> in the <Communication> sect
 
 Select <COL ffdc78>Crawl</COL> from the list on the right to get into a crawling position. <COL ffdc78>You can also move while crawling.</COL>
 
-<COL ffdc78>※ Registering shortcuts will be convenient.</COL>"
+<COL ffdc78>※ Registering shortcuts will be convenient.</COL>",,

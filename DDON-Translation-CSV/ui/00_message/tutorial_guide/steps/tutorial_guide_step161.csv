@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_157","<COL ffdc78>《ジョブ修練ログ》</COL>では、あなたがこれまでに
+key,old,new,english,speaker
+TUTORIAL_STEP_157,"<COL ffdc78>《ジョブ修練ログ》</COL>では、あなたがこれまでに
 ジョブマスターから受けた修練の状況が
 記録されています
 
@@ -11,8 +11,8 @@
 
 Here, you can check the current tasks you are working on and the level of achievement for each job.
 
-You can also report completed job trainings by checking the Job Training Log."
-"TUTORIAL_STEP_287","《ジョブ修練》に取り組む上で、いくつか
+You can also report completed job trainings by checking the Job Training Log.",,
+TUTORIAL_STEP_287,"《ジョブ修練》に取り組む上で、いくつか
 覚えておくべきことがあります
 
 ＜注意点＞
@@ -25,8 +25,8 @@ You can also report completed job trainings by checking the Job Training Log."
 <Notes>
 ① Perform training tasks with the corresponding job.
 ② The method of subjugation is irrelevant, and it is okay not to use skill in the task.
-③ If it is the same combat area, it is okay for other party members to subjugate."
-"TUTORIAL_STEP_411","<COL ffdc78>また、実際にレベルアップするには
+③ If it is the same combat area, it is okay for other party members to subjugate.",,
+TUTORIAL_STEP_411,"<COL ffdc78>また、実際にレベルアップするには
 戦技補佐に話しかけ、それまでの
 レベルアップ同様にジョブポイントを
 支払う必要があります</COL>
@@ -34,4 +34,4 @@ You can also report completed job trainings by checking the Job Training Log."
 パーティーの仲間と協力し、
 多くの課題をこなして技のレベルアップを
 目指しましょう","<COL ffdc78>Also, in order to actually level up, you will need to talk to Arts Support ano pay job points, just like leveling up before.</COL>
-Work together with your party members and complete many tasks to aim for leveling up of your skills."
+Work together with your party members and complete many tasks to aim for leveling up of your skills.",,

@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_78,"野外には危険な場所も存在します
 以下の場所には注意して進みましょう
 
@@ -15,7 +15,7 @@ You will take damage or status abnormalities,
 like ""Poison"" and ""Caught Fire"".
 
 Which will deal additional damage over time.
-Always prepare ways to recover from those."
+Always prepare ways to recover from those.",,
 TUTORIAL_STEP_77,"＜水辺＞
 　レスタニアの水辺にはヒュージブルという
 　魔物が潜み、深みに入ると引きずり込まれます
@@ -30,7 +30,7 @@ The Brine hides in the water and drags victims into the depths.
 If that happens you will be returned to land.
 
 However, if you fall into a deep pool or stream.
-You may die."
+You may die.",,
 TUTORIAL_STEP_229,"＜高所からの落下＞
 　高所から落下すると、高さに応じて
 　ダメージを受けてしまいます
@@ -41,4 +41,4 @@ When you fall, the damage you take
 depends on the height which you fell.
 	
 Fall from too high and you may die.
-Be careful around cliffs."
+Be careful around cliffs.",,

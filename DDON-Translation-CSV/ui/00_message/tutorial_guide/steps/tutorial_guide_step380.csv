@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_715","各防衛区画の奥には門があり
+key,old,new,english,speaker
+TUTORIAL_STEP_715,"各防衛区画の奥には門があり
 序盤は<COL ffdc78>かなり強力な敵と設備</COL>で守りを固めています
 
 しかし、同じ防衛区画内の
@@ -15,8 +15,8 @@ However, the <COL ffdc78>strength gradually weakens</COL> due to the damage infl
 If you feel that the enemy is too strong, do not force it.
 
 <COL ffdc78>Advance the capture of other facilities within the same zone and accumulate damage,</COL>
-Gradually weakening their strength."
-"TUTORIAL_STEP_716","＜門の攻略の失敗＞
+Gradually weakening their strength.",,
+TUTORIAL_STEP_716,"＜門の攻略の失敗＞
 
 戦闘の最中に
 <COL ffdc78>ソネルの《ごきげんゲージ》が０</COL>になると
@@ -32,4 +32,4 @@ During combat, if <COL ffdc78>Sonel's Mood Gauge reaches 0</COL>, he will automa
 However, even if he retreats, the <COL ffdc78>damage inflicted on other facilities will not be in vain.</COL>
 
 Even if things don't go well, the accumulation of missions <COL ffdc78>will eventually lead to the conquest of the gate.</COL>
-So let's do our best without giving up!"
+So let's do our best without giving up!",,

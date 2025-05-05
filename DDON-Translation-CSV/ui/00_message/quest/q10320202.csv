@@ -1,210 +1,210 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "今日も引き続き、<NPC 681>の元へ
-《潜入調査》を頼む",,Mephis
+《潜入調査》を頼む",,Mephis,,Mephis,,Mephis
 "ヤツはお前を信頼しているような面をしているが
 腹の底では邪魔だと思っていることを忘れるな
-特に、憲兵には用心しろ――",,Mephis
-準備ができたら、声をかけてくれ,,Mephis
+特に、憲兵には用心しろ――",,Mephis,,Mephis,,Mephis
+準備ができたら、声をかけてくれ,,Mephis,,Mephis,,Mephis
 "さて、それでは――
-昼の《潜入調査》を開始するか？",,Mephis
-はい,Yes,Mephis
-いいえ,No,Mephis
+昼の《潜入調査》を開始するか？",,Mephis,,Mephis,,Mephis
+はい,Yes,Mephis,,Mephis,,Mephis
+いいえ,No,Mephis,,Mephis,,Mephis
 "よし、分かった
 <STG 473>までの近道を教えてやろう
-それから、これは大事なことだが――",,Mephis
+それから、これは大事なことだが――",,Mephis,,Mephis,,Mephis
 "この任務中に<COL ff2600>《リム転移》を行うと
 任務領域範囲外へ出たことになり、任務は失敗する </COL>
 目立つ行動は避ける必要があるんだ――
-気を付けてくれ ",,Mephis
+気を付けてくれ ",,Mephis,,Mephis,,Mephis
 "だが、<COL ff2600>任務を中断したいときは例外だ
 覚者の力を使って、自力で帰ってきてくれ
-</COL>俺には導いてやることができないからな",,Mephis
+</COL>俺には導いてやることができないからな",,Mephis,,Mephis,,Mephis
 "十分な準備をしておけ
-場合によっては戦闘の可能性もある",,Mephis
+場合によっては戦闘の可能性もある",,Mephis,,Mephis,,Mephis
 "これはこれは覚者殿！
 本日もお立ち寄りいただき
-ありがとうございます",,Navido
+ありがとうございます",,Navido,,Navido,,Navido
 "今日お願いしたい仕事は
 街のパトロールです
-どうも、街の住民たちの元気が無いようでして――",,Navido
+どうも、街の住民たちの元気が無いようでして――",,Navido,,Navido,,Navido
 "きっと住民たちも、英雄である覚者殿が
 訪ねてくだされば喜びましょう
-――よろしいですかな？",,Navido
+――よろしいですかな？",,Navido,,Navido,,Navido
 "此度も、パトロール中に何かございましたら
-ご報告お願いいたしますぞ",,Navido
+ご報告お願いいたしますぞ",,Navido,,Navido,,Navido
 "今日お願いしたい仕事は
 街のパトロールです
-どうも、街の住民たちの元気が無いようでして――",,Navido
+どうも、街の住民たちの元気が無いようでして――",,Navido,,Navido,,Navido
 "きっと住民たちも、英雄である覚者殿が
-訪ねてくだされば喜びましょう",,Navido
+訪ねてくだされば喜びましょう",,Navido,,Navido,,Navido
 "此度も、パトロール中に何かございましたら
-ご報告お願いいたしますぞ",,Navido
+ご報告お願いいたしますぞ",,Navido,,Navido,,Navido
 "あ、覚者さん！
 ――例の潜入任務中ですか？
-お勤めご苦労様です",,Shem
+お勤めご苦労様です",,Shem,,Shem,,Shem
 "僕の方は、普段通り生活しながら
 <NPC 681>様のこととか、憲兵隊の動きを
-探るようにしてます",,Shem
+探るようにしてます",,Shem,,Shem,,Shem
 "あ、そうだ――
 最近憲兵の数が増えているせいで
-取締りも、厳しくなってきているそうです",,Shem
+取締りも、厳しくなってきているそうです",,Shem,,Shem,,Shem
 "覚者さんは大丈夫かと思いますけど――
 何かの手違いで投獄されちゃうことが
-ないとも限りませんからね",,Shem
+ないとも限りませんからね",,Shem,,Shem,,Shem
 "出来る限り、憲兵とは揉めない方がいいですよ
-――メフィスさんは目立つのを嫌いますから",,Shem
+――メフィスさんは目立つのを嫌いますから",,Shem,,Shem,,Shem
 "僕も、出来る限り
 憲兵とは関わらないように気をつけます
 僕が捕まっちゃったりしたら
-姉さんたちが悲しみますから",,Shem
+姉さんたちが悲しみますから",,Shem,,Shem,,Shem
 "――え？
 なんで僕がレジスタンスにいるかって？
-うーん、そうだなぁ",,Shem
+うーん、そうだなぁ",,Shem,,Shem,,Shem
 "メフィスさんとは元々ちょっとした
 知り合いだったんですけど
 メガドに来てから少しお世話になったんです
-なので今度は僕がお手伝いしようかと――",,Shem
+なので今度は僕がお手伝いしようかと――",,Shem,,Shem,,Shem
 "正直、なぜメフィスさんがあんなに
 <NPC 681>様を嫌うのかはわかりませんけど
-――憲兵隊が嫌いなのは僕も一緒ですから！",,Shem
+――憲兵隊が嫌いなのは僕も一緒ですから！",,Shem,,Shem,,Shem
 "メガドはいかがです？
 みな――<NPC 681>様の元、団結して
-頑張っているところです",,Ilmaz
-――――,,Ilmaz
+頑張っているところです",,Ilmaz,,Ilmaz,,Ilmaz
+――――,,Ilmaz,,Ilmaz,,Ilmaz
 "なぜ我々が<NPC 681>様を慕っているか
-奇妙にお思いですか――？",,Ilmaz
+奇妙にお思いですか――？",,Ilmaz,,Ilmaz,,Ilmaz
 "メガドがあっさりと陥落した後
 生き残った人々は命を弄ばれ
-それは悲惨なものでした",,Ilmaz
+それは悲惨なものでした",,Ilmaz,,Ilmaz,,Ilmaz
 "しかし、元々メガドを治めていた
 <NPC 681>様が危険を顧みずオークと交渉し
 どのような手段でかはわかりませんが――
-それを変えてくださったんです",,Ilmaz
+それを変えてくださったんです",,Ilmaz,,Ilmaz,,Ilmaz
 "だから元々の住民たちはみな
 憲兵隊に志願したり、無償で資材を提供して
-それぞれに恩返しをしたいと思ってるんです",,Ilmaz
+それぞれに恩返しをしたいと思ってるんです",,Ilmaz,,Ilmaz,,Ilmaz
 "おっと、引き止めてしまいましたね
 覚者さまのパトロール、心強いことです
-――あ、そういえばさっきお客さんに聞いたのですが",,Ilmaz
+――あ、そういえばさっきお客さんに聞いたのですが",,Ilmaz,,Ilmaz,,Ilmaz
 "あっちの方で、騒ぎが起きてるみたいですよ
-ええと、西の庭園の方だったか――",,Ilmaz
+ええと、西の庭園の方だったか――",,Ilmaz,,Ilmaz,,Ilmaz
 "だから元々の住民たちはみな
 憲兵隊に志願したり、無償で資材を提供して
 <NPC 681>さまに対して
-それぞれに恩返しをしたいと思っているのですが――",,Ilmaz
+それぞれに恩返しをしたいと思っているのですが――",,Ilmaz,,Ilmaz,,Ilmaz
 "地方から派遣されてきた兵の皆さんは
 どうも懐疑的な見方をされているようです
-――特に憲兵隊に対しては",,Ilmaz
+――特に憲兵隊に対しては",,Ilmaz,,Ilmaz,,Ilmaz
 "実際、街で横暴なふるまいをする憲兵がいたり
 活動内容にも謎が多いところはあります
 一部、入隊後に連絡が取れなくなった人も
-いるんだとか――",,Ilmaz
+いるんだとか――",,Ilmaz,,Ilmaz,,Ilmaz
 "――あぁ、そんなことより
 あっちの方で騒ぎが起きているようです
-ええと、西の庭園の方だったか――",,Ilmaz
+ええと、西の庭園の方だったか――",,Ilmaz,,Ilmaz,,Ilmaz
 "ヒッ
 た、助けてくれ！
-俺は無実なんだ",,Scared Man
+俺は無実なんだ",,Scared Man,,Scared Man,,Scared Man
 "牢に戻らずに済むならなんでもする！
-頼む――",,Scared Man
-――――,,Scared Man
-――くそぉ！,,Scared Man
-くそぉ！,,Scared Man
+頼む――",,Scared Man,,Scared Man,,Scared Man
+――――,,Scared Man,,Scared Man,,Scared Man
+――くそぉ！,,Scared Man,,Scared Man,,Scared Man
+くそぉ！,,Scared Man,,Scared Man,,Scared Man
 "あ、あんたなんで追いかけて来るんだ！
 憲兵の手先なのか！？
-――待て、あんたの顔見たことある",,Scared Man
+――待て、あんたの顔見たことある",,Scared Man,,Scared Man,,Scared Man
 "あ！
 あの、よそから来たとかいう覚者の――
-そうだよな！？",,Scared Man
+そうだよな！？",,Scared Man,,Scared Man,,Scared Man
 "あんた、<NPC 3273>は知ってるだろ？
 この街で武器屋をやってるんだ
-頼む、あいつを――",,Scared Man
-――――,,Scared Man
-くそ、追いつきやがったか！,,Scared Man
+頼む、あいつを――",,Scared Man,,Scared Man,,Scared Man
+――――,,Scared Man,,Scared Man,,Scared Man
+くそ、追いつきやがったか！,,Scared Man,,Scared Man,,Scared Man
 "お、お前ら良心が痛まないのか――！？
-元々は一緒に働いた仲じゃないか",,Scared Man
+元々は一緒に働いた仲じゃないか",,Scared Man,,Scared Man,,Scared Man
 "憲兵隊も<NPC 681>の野郎も
 クソくらえだ！
-全員悪しき竜の炎に焼かれちまえ！！",,Scared Man
-うう――なぜこんなことに,,Scared Man
+全員悪しき竜の炎に焼かれちまえ！！",,Scared Man,,Scared Man,,Scared Man
+うう――なぜこんなことに,,Scared Man,,Scared Man,,Scared Man
 "なんだ？
-我々は今脱獄囚を追う任務中だ",,Military Police
+我々は今脱獄囚を追う任務中だ",,Military Police,,Military Police,,Military Police
 "急務が無いのであれば協力するのが
 市民の務めだろう
-――つまり、邪魔をするな！",,Military Police
+――つまり、邪魔をするな！",,Military Police,,Military Police,,Military Police
 "――うわ！
 あなた、メガドを解放したとかいう――
-おっと",,Military Police
+おっと",,Military Police,,Military Police,,Military Police
 "今、任務中なので
-すみませんが後で握手してください",,Military Police
+すみませんが後で握手してください",,Military Police,,Military Police,,Military Police
 "――任務？
 見れば分かると思いますけど
-脱獄囚を捕まえようとしているんです",,Military Police
+脱獄囚を捕まえようとしているんです",,Military Police,,Military Police,,Military Police
 "逃げても無駄だぞ！
-――これ以上罪を重くしないでくれ",,Military Police
-――何か？,,Military Police
+――これ以上罪を重くしないでくれ",,Military Police,,Military Police,,Military Police
+――何か？,,Military Police,,Military Police,,Military Police
 "脱獄囚が逃走した！
-急いで追跡し、今度こそ捕獲するぞ！",,Military Police
+急いで追跡し、今度こそ捕獲するぞ！",,Military Police,,Military Police,,Military Police
 "逃げましたよ！
-追いかけましょう！",,Military Police
+追いかけましょう！",,Military Police,,Military Police,,Military Police
 "覚者さん、あなた足が速いんでしょう
-追跡に協力してください！",,Military Police
+追跡に協力してください！",,Military Police,,Military Police,,Military Police
 "脱獄囚を追い詰めたぞ
-速やかに再逮捕する",,Military Police
+速やかに再逮捕する",,Military Police,,Military Police,,Military Police
 "――元は共に働いた仲間を
 このような形で捕えることになるとは
-残念だ",,Military Police
+残念だ",,Military Police,,Military Police,,Military Police
 "なんですか？
 メガドの英雄も、憲兵の仕事に
-興味があるんですか？",,Military Police
+興味があるんですか？",,Military Police,,Military Police,,Military Police
 "彼――元憲兵だったんですけど
 ちょっとやらかしましてね
-投獄されちまってたんですよ",,Military Police
+投獄されちまってたんですよ",,Military Police,,Military Police,,Military Police
 "昔はあんなにブイブイ言わせてたのに
 今や追い詰められた脱獄囚か――
-俺も気をつけないと",,Military Police
+俺も気をつけないと",,Military Police,,Military Police,,Military Police
 "昔の同僚を捕まえるのは心苦しいが――
-脱獄なんて馬鹿なことしやがって",,Military Police
+脱獄なんて馬鹿なことしやがって",,Military Police,,Military Police,,Military Police
 "――覚者さん
-あまりジロジロ見てもいいことないですよ",,Military Police
+あまりジロジロ見てもいいことないですよ",,Military Police,,Military Police,,Military Police
 "覚者殿――
-協力、感謝する",,Military Police
-貴殿が奴の足止めをしてくださったおかげだ,,Military Police
+協力、感謝する",,Military Police,,Military Police,,Military Police
+貴殿が奴の足止めをしてくださったおかげだ,,Military Police,,Military Police,,Military Police
 "なんですか？
 メガドの英雄も、憲兵の仕事に
-興味があるんですか？",,Military Police
+興味があるんですか？",,Military Police,,Military Police,,Military Police
 "彼――元憲兵だったんですけど
 ちょっとやらかしましてね
-投獄されちまってたんですよ",,Military Police
+投獄されちまってたんですよ",,Military Police,,Military Police,,Military Police
 "昔はあんなにブイブイ言わせてたのに
 今や追い詰められた脱獄囚か――
-俺も気をつけないと",,Military Police
+俺も気をつけないと",,Military Police,,Military Police,,Military Police
 "昔の同僚を捕まえるのは心苦しいが――
-脱獄なんて馬鹿なことしやがって",,Military Police
+脱獄なんて馬鹿なことしやがって",,Military Police,,Military Police,,Military Police
 "――覚者さん
-あまりジロジロ見てもいいことないですよ",,Military Police
+あまりジロジロ見てもいいことないですよ",,Military Police,,Military Police,,Military Police
 "なんと、そのようなことが――
 お見苦しいところをお見せいたしましたな
-失礼いたしました",,Navido
+失礼いたしました",,Navido,,Navido,,Navido
 "我が憲兵隊には大きな権限を与えている反面
 それに値する働きではないと判断した場合
-厳しく処分することもあります",,Navido
+厳しく処分することもあります",,Navido,,Navido,,Navido
 "――まぁ、このような裏側は覚者殿に
-ご心配いただくことでもありますまい！",,Navido
+ご心配いただくことでもありますまい！",,Navido,,Navido,,Navido
 "ともかく、本日もお勤めご苦労様でした
-お帰りならばお送りしましょう",,Navido
-――――――,,Navido
+お帰りならばお送りしましょう",,Navido,,Navido,,Navido
+――――――,,Navido,,Navido,,Navido
 "エニス、エニス！
 お客人がお帰りだ！
-――送迎の用意を！！",,Navido
-――――,,Mephis
+――送迎の用意を！！",,Navido,,Navido,,Navido
+――――,,Mephis,,Mephis,,Mephis
 "――――
-――なんだと",,Mephis
+――なんだと",,Mephis,,Mephis,,Mephis
 "<NPC 681>め――
-どこまで冷酷な男なんだ",,Mephis
+どこまで冷酷な男なんだ",,Mephis,,Mephis,,Mephis
 "直属の配下である憲兵ですら
 使い捨ての駒に過ぎないということか
-その脱獄囚は気の毒だが――",,Mephis
+その脱獄囚は気の毒だが――",,Mephis,,Mephis,,Mephis
 "引き続き、潜入を頼む
 ――メガドの諜報任務と
-<NPC 691>の尋問も忘れるなよ",,Mephis
+<NPC 691>の尋問も忘れるなよ",,Mephis,,Mephis,,Mephis

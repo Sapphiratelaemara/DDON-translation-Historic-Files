@@ -1,264 +1,264 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "【ヒント：新たなメインクエストについて】
 新たな<COL ff7575>メインクエスト＜和解の使者＞</COL>が受注可能になりました
 謁見の間にいるレオに話しかけて受注しましょう","[Tip: About New Main Quests]
 New <COL ff7575>Main Quest (Envoy of Reconciliation)</COL>
 Gain new orders by speaking to Leo, who is in
-the Audience Chamber.",Leo
+the Audience Chamber.",Leo,,Leo,,Leo
 "まず《謁見の間》へ行くこと
 そのあとでまた会おう
 少し話そうぜ","First go to the ""Audience Chamber"". We'll talk again
-when we meet later on.",Fabio
+when we meet later on.",Fabio,,Fabio,,Fabio
 "画面右上のミニマップを見て、赤いマーカーが示す
 《謁見の間》へ向かいましょう","Look at the minimap on the top-right of
 the screen, and head for the ""Audience Chamber""
-indicated by the red marker.",Fabio
+indicated by the red marker.",Fabio,,Fabio,,Fabio
 マップを拡大すると見やすくなります,"Expanding the map out makes it easier
-to see everything.",Fabio
-【ヒント：ミニマップのサイズ変更】,[Tip: Resizing the Minimap],Fabio
+to see everything.",Fabio,,Fabio,,Fabio
+【ヒント：ミニマップのサイズ変更】,[Tip: Resizing the Minimap],Fabio,,Fabio,,Fabio
 <COL ff7575><KCT UI_MINIMAP>を押しながら<KCT UI_MINIMAP_SCALING></COL>でサイズ変更,"<COL ff7575>While holding <KCT UI_MINIMAP>, change minmap
-size by pressing <KCT UI_MINIMAP_SCALING></COL>",Fabio
+size by pressing <KCT UI_MINIMAP_SCALING></COL>",Fabio,,Fabio,,Fabio
 ついてきな――謁見の間の前まで案内してやるよ,"Follow me. I'll show you around
-the Audience Chamber.",Fabio
+the Audience Chamber.",Fabio,,Fabio,,Fabio
 この神殿は白竜の守護のもと――神官によって統治されてるんだ,"This temple is under the
 protection of the White Dragon, and governed
-by the priests.",Fabio
+by the priests.",Fabio,,Fabio,,Fabio
 砦戦はどうだった？レオとイリスに相当いわれたようだな,"How went the battle? It seems
-it went fairly well according to Leo and Iris.",Fabio
+it went fairly well according to Leo and Iris.",Fabio,,Fabio,,Fabio
 一人前の覚者になるためには――まだまだ戦い方を知る必要があるぜ,"In order to become an Arisen,
-you still need to know how to properly fight.",Fabio
+you still need to know how to properly fight.",Fabio,,Fabio,,Fabio
 今のジョブが自分に合ってないと思うなら<COL ff7575>いつでも他のジョブに転職</COL>も可能だ,"If you feel your current
 vocation does not suit you, <COL ff7575>it is possible to change
-to another vocation at any time.</COL>",Fabio
+to another vocation at any time.</COL>",Fabio,,Fabio,,Fabio
 <COL ff7575>装備を強くしたりスキルの使い方</COL>などいろいろ教える事があるが――まずは白竜に挨拶が先だ,"There are many things to be
 taught, such as <COL ff7575>enhancing equipment and
 properly utilizing skills.</COL>
 Before that however, it is time to greet the
-former White Dragon.",Fabio
+former White Dragon.",Fabio,,Fabio,,Fabio
 <COL ff7575>他の覚者と一緒に冒険に出る</COL>――これもお前がもう少し一人前になってからだ,"<COL ff7575>Go out and adventure with
 other Arisen</COL>, even if you feel you can handle
-things on your own.",Fabio
+things on your own.",Fabio,,Fabio,,Fabio
 あと自分の容姿が気に入らないようなら<COL ff7575>＜商店区＞にある美容院</COL>にいくといいぜ,"If you're unsatisfied with your
 appearance, seek out the hairdresser
-<COL ff7575>located in the Shopping District's beauty salon.</COL>",Fabio
+<COL ff7575>located in the Shopping District's beauty salon.</COL>",Fabio,,Fabio,,Fabio
 ついたぞ――この先が謁見の間だ,"We've arrived. Beyond this
-point lies the Audience Chamber.",Fabio
+point lies the Audience Chamber.",Fabio,,Fabio,,Fabio
 "今さら自己紹介でもないが
 俺は覚者の統率――まとめ役のレオだ","Albeit a bit late for an introduction,
-I am Leo, leader of the Arisen.",Leo
+I am Leo, leader of the Arisen.",Leo,,Leo,,Leo
 "俺が重要だと考えている
 覚者の務めは、ふたつ","I would like to think myself important,
-as are the duties of the Arisen.",Leo
+as are the duties of the Arisen.",Leo,,Leo,,Leo
 "ひとつは――
 石化した白竜の回復を助け
 完全なる復活への後押しをすること","First of which, is to reverse the petrification of
 the White Dragon, and strive towards its complete
-revival.",Leo
+revival.",Leo,,Leo,,Leo
 "心臓を捧げた俺たちと
 その心臓を預かる白竜は一心同体だ","We who dedicated our hearts, and the
 White Dragon whom safeguards the heart,
-are all of one mind.",Leo
+are all of one mind.",Leo,,Leo,,Leo
 "白竜が力を取り戻せば、俺たち覚者の
 力も増す――もちろん、その逆もしかり","If the White Dragon regains their strength, so
 too shall our strength increase, and of
-course, the reverse is also true.",Leo
+course, the reverse is also true.",Leo,,Leo,,Leo
 "加えて――
 白竜はこのレスタニアの大地とも
 深くつながっている","Additionally, the White Dragon is also deeply
-connected to this land of Lestania.",Leo
+connected to this land of Lestania.",Leo,,Leo,,Leo
 "つまり、レスタニアと、人々の未来は
 我々の双肩にかかっているというわけだ","In other words, Lestania and the people's
-future, rests upon our shoulders.",Leo
+future, rests upon our shoulders.",Leo,,Leo,,Leo
 "もうひとつの務めは
 白竜の砦となり、盾として戦うこと","Another duty of ours is to become a bulwark of
-the White Dragon, to fight as their shield.",Leo
+the White Dragon, to fight as their shield.",Leo,,Leo,,Leo
 "このところ、オークどもの勢いが増している
 防衛隊はあちこちの小競り合いで敗走を重ね
 グリッテン砦への侵入まで許してしまった","Recently, the Orc's offensive momentum has
 increased, and the Defense Corps have been
 repeatedly driven to defeat in skirmishes against
 them. We've allowed this to continue, that is,
-until the invasion of Gritten Fort.",Leo
+until the invasion of Gritten Fort.",Leo,,Leo,,Leo
 "このきびしい季節の到来に合わせるように
 覚者になった意味を考えてくれ
 そうすれば、生き方が見えてくるだろう","As this harsh season arrives,
 consider the meaning of becoming an Arisen.
-Then, you'll see a way to live.",Leo
+Then, you'll see a way to live.",Leo,,Leo,,Leo
 "もちろん、苦難に背を向ける生き方もある
 だが、おまえは誇り高き道を選ぶ――","Of course, there are ways to live that keep one
 away from suffering, but you chose a way to
-live proudly...",Leo
-ああ、俺の目にくるいはない,Ah... there's nothing in my eye.,Leo
-（白竜は半ば石になっている――）,(The White Dragon is partially turned to stone--),The White Dragon
+live proudly...",Leo,,Leo,,Leo
+ああ、俺の目にくるいはない,Ah... there's nothing in my eye.,Leo,,Leo,,Leo
+（白竜は半ば石になっている――）,(The White Dragon is partially turned to stone--),The White Dragon,,The White Dragon,,The White Dragon
 "グリッテン砦からのお帰りですね？
 初陣、お疲れさまでした","I see you are back from Fort Gritten?
-Good job on your first mission!",Mysial
+Good job on your first mission!",Mysial,,Mysial,,Mysial
 ここであらためてお話ししたいことがあります,"There is something I would like to 
-talk about again here.",Mysial
+talk about again here.",Mysial,,Mysial,,Mysial
 "白竜様がここにいらっしゃる経緯と
 現在の状況は知っていますね？","Do you know the background and current situation 
-of Lord White Dragon being here?",Mysial
+of Lord White Dragon being here?",Mysial,,Mysial,,Mysial
 "白竜様は３００年前に竜力の大部分を使い果たし
 残されていたのは
 あなたたち覚者を生み出す力だけでした","Lord White Dragon exhausted the majority of his 
 Dragon Force 300 years ago. 
 
 What remained was only 
-the power to create you Arisen.",Mysial
+the power to create you Arisen.",Mysial,,Mysial,,Mysial
 "白竜様は最後の力を振り絞って
 幾人もの――異例なことですが――幾人もの
 覚者を誕生させたのです","Lord White Dragon exerted his last 
 remaining strength, and remarkably, 
 he gave birth to numerous Arisen,
-despite it being an unusual occurrence.",Mysial
+despite it being an unusual occurrence.",Mysial,,Mysial,,Mysial
 "全身の石化が始まったのはその後のことで
 今では時折目覚めては覚者を生み出すくらい――","The petrification of the whole body began 
 afterwards, and now he only occasionally 
-wakes up and produces an Arisen--",Mysial
+wakes up and produces an Arisen--",Mysial,,Mysial,,Mysial
 "竜力の減退で野山の活力までもが弱まり
 それに乗じてオークや魔物が力をつけています","With the decline of Dragon Force, 
 even the vigor of the 
 fields and mountains has weakened. 
 Taking advantage of this, 
-the Orcs and enemies have grown stronger.",Mysial
+the Orcs and enemies have grown stronger.",Mysial,,Mysial,,Mysial
 "白竜様に心臓を預けたあなたたちは
 時の流れから解放され、老いることはありません","Those of you who have entrusted your hearts 
 to Lord White Dragon are liberated from the flow 
-of time and do not age.",Mysial
+of time and do not age.",Mysial,,Mysial,,Mysial
 "でも、忘れないでください
 レスタニアの大地、そこに暮らす人々――
 その上を、時は変わらず流れているのです","But don't forget the land of Lestania, 
 or the people who live there--
-over which time flows unchanged!",Mysial
+over which time flows unchanged!",Mysial,,Mysial,,Mysial
 "白竜様の復活がどうか間に合いますように
 わたしはそう願わずにはいられません
 あなたの力を、ぜひ、貸してください","I hope that the resurrection of 
 Lord White Dragon will be in time.
 I cannot help but wish for it.
-Please, lend me your power.",Mysial
-わたしは神官のジョゼフだ,"I am Joseph, a priest.",Joseph
+Please, lend me your power.",Mysial,,Mysial,,Mysial
+わたしは神官のジョゼフだ,"I am Joseph, a priest.",Joseph,,Joseph,,Joseph
 "神官と言ってもぴんと来ないだろうが
 この神殿を中心とする政（まつりごと）の
 取りまとめが主な仕事だ","Even if I say ""priest"", 
 you probably won't understand, 
 but the main job is to manage the ceremonies 
-centered around this temple.",Joseph
+centered around this temple.",Joseph,,Joseph,,Joseph
 "オークどもとの戦争に加えて
 味方同士である覚者と騎士団の反目もあってな――","In addition to the war with the orcs,
 there is also tension between the Arisen and 
-the Knight's Order, who are allies...",Joseph
+the Knight's Order, who are allies...",Joseph,,Joseph,,Joseph
 "部隊編成やら任務の分担、あらゆる事に
 口を出すことにしている","I make it a point to involve myself
 in everything, from forming squads
-to assigning missions.",Joseph
+to assigning missions.",Joseph,,Joseph,,Joseph
 ところで、この神殿の歴史は知っているか？,"By the way, 
-do you know the history of this temple?",Joseph
+do you know the history of this temple?",Joseph,,Joseph,,Joseph
 "ふむ――簡単に説明しておこう
 かれこれ、３００年前のことだ――","Hmm―― let me explain it briefly. 
-This happened about 300 years ago――",Joseph
+This happened about 300 years ago――",Joseph,,Joseph,,Joseph
 "この地に墜落し、身動きもならない白竜――
 その身を案じたレスタニアの民が力を合わせ
 長い時間をかけて造りあげたのがこの神殿だ","The people of Lestania, 
 concerned about the white dragon that crashed here
 and was unable to move, joined forces
-and built this temple over a long period of time.",Joseph
+and built this temple over a long period of time.",Joseph,,Joseph,,Joseph
 "堅牢な神殿、覚者、騎士団――
 そして戦えない者たちが捧げる祈り――
 すべてが白竜を守る力となるのだ","A solid temple, the Arisen, the Knight Order――
 And the prayers offered by those who cannot fight―
-All become the power to protect the White Dragon.",Joseph
+All become the power to protect the White Dragon.",Joseph,,Joseph,,Joseph
 "どれひとつとして、欠けてはいけない
 ――いいな？
 すべてを尊重し、慈しむのだ","None of them should be missing.
 -- alright?
-Respect and care for all of them.",Joseph
+Respect and care for all of them.",Joseph,,Joseph,,Joseph
 "僕はクラウス
 ジョゼフ様の助手さ
 まあ、使いっ走りみたいなものだね","I am Klaus,
 the assistant of Master Joseph.
-Well, I suppose I'm more like a errand boy.",Klaus
+Well, I suppose I'm more like a errand boy.",Klaus,,Klaus,,Klaus
 "え？　
-いやいや、僕は覚者じゃないんだ","Huh? No, no, I'm not an Arisen.",Klaus
+いやいや、僕は覚者じゃないんだ","Huh? No, no, I'm not an Arisen.",Klaus,,Klaus,,Klaus
 "覚者たちのほとんどは神殿の外――
 レスタニアのあちこちを駆け巡っているよ","Most of the Arisen are outside the temple - 
-running around Lestania.",Klaus
+running around Lestania.",Klaus,,Klaus,,Klaus
 "もちろん、レオが一声かければ
 大勢の覚者が集まるわけだけど","Of course, if Leo were to call out,
-many Arisen would gather together.",Klaus
+many Arisen would gather together.",Klaus,,Klaus,,Klaus
 "ところで君は《ブラッドオーブ》を知ってるかい？
 白竜様に捧げると石化の進行を
 食い止めることができるんだ","By the way, do you know about the ""Blood Orb""? 
 If you offer it to Lord White Dragon, 
-you can halt the progression of petrification.",Klaus
+you can halt the progression of petrification.",Klaus,,Klaus,,Klaus
 "でも、なかなか手に入らなくてさ
 《ブラッドオーブ》のことは
 いつでも頭の片隅で気にしておくといい","But, it's quite hard to get, you know.
 It's good to always keep the thought 
 of the 《Blood Orb》
-in the back of your mind.",Klaus
+in the back of your mind.",Klaus,,Klaus,,Klaus
 "わたしは白衛騎士団――通称白騎団の
 団長を拝命しているゲルトだ","I am Gerd, 
 the Commander of the White Guard Knights, 
-also known as the White Knights.",Gerd
+also known as the White Knights.",Gerd,,Gerd,,Gerd
 見たところ、貴殿は覚者になって日も浅いようだ,"From what I can see, 
-t seems that you have recently become an Arisen.",Gerd
+t seems that you have recently become an Arisen.",Gerd,,Gerd,,Gerd
 "これから見聞を広げるのだろうが、
 先輩たち――特に覚者から、くだらない偏見を
 吹き込まれないようにな","You're about to broaden your horizons,
 but make sure not to let the seniors,
 especially among the Arisen, instill
-foolish prejudices in you.",Gerd
+foolish prejudices in you.",Gerd,,Gerd,,Gerd
 "残念なことに覚者の中には
 我々騎士団を下に見る者もいる
 例えば、こんな陰口をきいたことはないか？","Unfortunately, among the Arisen, there are 
 those who look down upon our knight order. 
-Have you ever heard such slander such as this?",Gerd
+Have you ever heard such slander such as this?",Gerd,,Gerd,,Gerd
 "ミミズのフンほどのわずかな報酬のために
 騎士になった者がいる――","There are those who become knights 
-for the sake of a reward as meager as worm dung.",Gerd
-違うぞ！　断じて違う！,That's not true! Absolutely not true!,Gerd
+for the sake of a reward as meager as worm dung.",Gerd,,Gerd,,Gerd
+違うぞ！　断じて違う！,That's not true! Absolutely not true!,Gerd,,Gerd,,Gerd
 "我々は全て、白竜様のために
 レスタニアのために！
 そこに生きる人々のために剣と命を捧げたのだ","For the sake of the White Dragon,
 and for the sake of Lestania!
 We have devoted our swords and lives
-for the people who live there.",Gerd
-貴殿たち覚者のように、運命でも使命でもなく――,"Like you, noble Arisen, not bound by fate or purpose--",Gerd
+for the people who live there.",Gerd,,Gerd,,Gerd
+貴殿たち覚者のように、運命でも使命でもなく――,"Like you, noble Arisen, not bound by fate or purpose--",Gerd,,Gerd,,Gerd
 "戦いに背を向けることもできたのに
 それをいさぎよしとせず、騎士になる道を選んだ
 意志と奉仕の塊が、我々白衛騎士団なのだ","Even though we could have turned 
 our backs on the fight,
 we chose the path to become knights.
 The embodiment of will and service, 
-we are the White Guard Knights.",Gerd
+we are the White Guard Knights.",Gerd,,Gerd,,Gerd
 "もし、貴殿の態度にナめた様子があれば
 容赦なく思い知らせてやるからな","If I see any nonsense in your attitude,
-I will show you no mercy.",Gerd
+I will show you no mercy.",Gerd,,Gerd,,Gerd
 "ええと――
 自己紹介はしたんだっけ？　まだだっけ？
 ま、いいか――わたしはイリス","Um... Did I introduce myself? Or not yet?
-Well, it's okay... I'm Iris.",Iris
+Well, it's okay... I'm Iris.",Iris,,Iris,,Iris
 "たいていはレオとつるんでいて
 あちこち走り回っているの","I usually hang out with Leo and 
-run around here and there.",Iris
+run around here and there.",Iris,,Iris,,Iris
 "覚者の連絡係みたいなものだね
 結構大変な仕事だから頼りになりそうなら
 仕事、譲ってもいいよ","It's like I'm the Arisen's liaison.
 It's quite a demanding job,
 so if you seem reliable,
-I might pass it on to you.",Iris
+I might pass it on to you.",Iris,,Iris,,Iris
 "覚者ってさ、みんな基本的に、バラバラに
 生きているんだよね","The Arisen, you know, everyone basically lives
-their own lives, scattered all over the place.",Iris
+their own lives, scattered all over the place.",Iris,,Iris,,Iris
 "心臓が時を刻まないから、時間が幾らでも
 あるでしょ？
 だからさ、いろんなこと考えちゃうんだ","Since your heart doesn't beat time, 
 you have all the time in the world, right?
-That's why you think about all sorts of things.",Iris
+That's why you think about all sorts of things.",Iris,,Iris,,Iris
 覚者とは？人生とは？自分って何？とかさ,"What is an Arisen? 
 What is life? 
 What is self? 
-I wonder.",Iris
+I wonder.",Iris,,Iris,,Iris
 "もちろん、白竜を守るのが本業だけど
 その守り方も、ただ戦うだけじゃなくて
 覚者ならではの方法を探すべき――とか
@@ -269,95 +269,95 @@ fighting.
 
 As Arisen, 
 we should seek out methods unique to us――
-there are various ways of thinking, you know.",Iris
+there are various ways of thinking, you know.",Iris,,Iris,,Iris
 "覚者も騎士団みたいにビシッと組織にした方が
 いいって意見もあるけど――
 どうなんだろうね","There are also opinions that it would be better 
 to organize the Arisen like a knight order and 
 be more organized.
-I wonder how that would be.",Iris
+I wonder how that would be.",Iris,,Iris,,Iris
 あ、わたしは深く考えない派なので、よろしく！,"Ah, I'm not the type to think deeply, so, 
-nice to meet you!",Iris
+nice to meet you!",Iris,,Iris,,Iris
 "白竜様が力を取り戻すまで
 わたしたちが世の理を守らねばなりません","Until Lord White Dragon regains his power,
-we must protect the order of the world.",Mysial
+we must protect the order of the world.",Mysial,,Mysial,,Mysial
 "特に、覚者の皆さんの責任は重大です
 白竜様のご期待をゆめゆめお忘れなく","In particular, the responsibility of 
 all the Arisen is significant. 
 Please never forget the 
-expectations of Lord White Dragon.",Mysial
+expectations of Lord White Dragon.",Mysial,,Mysial,,Mysial
 "他の連中とも話して
 顔を覚えてもらうんだな","I'll talk to the others
-and make sure they remember your face.",Leo
+and make sure they remember your face.",Leo,,Leo,,Leo
 "レオがこんなに世話をやくなんて
 どういう風の吹き回しだろうね
 よっぽどあんたが気に入ったらしいよ","Leo is really taking care of you.
 I wonder what's got into him.
-Seems like he really likes you.",Iris
-あのさぁ――,"Hey, you know...",Klaus
+Seems like he really likes you.",Iris,,Iris,,Iris
+あのさぁ――,"Hey, you know...",Klaus,,Klaus,,Klaus
 "神殿以外にも《拠点》があるのは
 知っているよね？","Did you know that there are 
-other locations outside of the temple?",Klaus
+other locations outside of the temple?",Klaus,,Klaus,,Klaus
 "村だったり、特別な施設があったり――
 そこの住人が助けを求めていたり――","It could be a village, or a special facility,
-where the residents are looking for help--",Klaus
+where the residents are looking for help--",Klaus,,Klaus,,Klaus
 "いろいろあるから、時間があるなら
 あちこち行ってみた方がいいよ","There's a lot going on, so if you have the time,
-you should go all over the place.",Klaus
+you should go all over the place.",Klaus,,Klaus,,Klaus
 "ここんところジョゼフ様が老け込んじゃって
 結構重要な仕事を任せてもらえるようになったんだ","Master Joseph has been getting old these days,
-so I've been entrusted with quite important tasks.",Klaus
+so I've been entrusted with quite important tasks.",Klaus,,Klaus,,Klaus
 "うれしいけど――重圧もあってさ――
 時々、話しを聞いてくれるとうれしいな","I'm glad you're here -- 
 but I'm also under a lot of pressure.
-I'd love it if you'd talk to me from time to time.",Klaus
+I'd love it if you'd talk to me from time to time.",Klaus,,Klaus,,Klaus
 "レオに期待されるということは――
 危険な場所に行く機会が多いということだ
 精進と用心を忘れなさんな","What Leo expects is that you have a lot 
 of opportunities to go to dangerous places.
-Do not forget diligence and caution.",Joseph
+Do not forget diligence and caution.",Joseph,,Joseph,,Joseph
 "オークどもとの戦争が続く限り
 背中を預け合って戦う機会がすぐに来る
 貴殿の力はその時に見せてもらおう","As long as the war with the Orcs continues,
 the opportunity to fight 
 shoulder to shoulder will come soon.
 I look forward to seeing your strength 
-at that time.",Gerd
+at that time.",Gerd,,Gerd,,Gerd
 "白竜様は一日の多くを眠って過ごしますが
 ごくわずかながらお目覚めの時もあります
 そんな時は、お話だってできますよ","Lord White Dragon spends much of the day sleeping,
 but there are also moments when he wakes up,
 and during those times, 
-he can have a conversation with you.",Mysial
+he can have a conversation with you.",Mysial,,Mysial,,Mysial
 "まあ、最初のうちは言われるがままに
 戦っていればいいさ","Well, in the beginning, 
-just do as you're told and fight.",Leo
+just do as you're told and fight.",Leo,,Leo,,Leo
 "そのうち、自分なりの生き方が
 見えてくるはずだ","Eventually, 
-you should be able to see your own way of living.",Leo
-どれどれどれ？,"Hmm, I wonder...",Iris
+you should be able to see your own way of living.",Leo,,Leo,,Leo
+どれどれどれ？,"Hmm, I wonder...",Iris,,Iris,,Iris
 "レオはあんたのどこが気に入ったのかな？
 それともただの気まぐれか――なんてね","What does Leo like about you?
-Or is it just a whim?",Iris
+Or is it just a whim?",Iris,,Iris,,Iris
 君はどんな覚者人生を歩むんだろうね,"I wonder what kind of life as an 
-Arisen you will lead.",Klaus
+Arisen you will lead.",Klaus,,Klaus,,Klaus
 "冒険者みたいな生き方もいいけど
 僕としては神殿のために尽力して欲しい――","You can live like an adventurer,
 but for my part, 
-I want you to do your best for the temple--",Klaus
-いや、最近、少ないんだよね、そういう覚者,"No, there aren't many of those Arisen these days.",Klaus
+I want you to do your best for the temple--",Klaus,,Klaus,,Klaus
+いや、最近、少ないんだよね、そういう覚者,"No, there aren't many of those Arisen these days.",Klaus,,Klaus,,Klaus
 "ここで見聞したことを外で話す時は
 その判断を慎重に行うようにな","Be careful about your judgment when 
-talking about what you have seen here outside.",Joseph
+talking about what you have seen here outside.",Joseph,,Joseph,,Joseph
 "秘密は可能な限り少なくしたいが
 内容によってはそうもいかん","I want to minimize the secretkeeping 
 as much as possible, 
 but depending on the subject, 
-it may not be possible.",Joseph
+it may not be possible.",Joseph,,Joseph,,Joseph
 "どうした？　時間を持て余しているのなら
 オークの一匹でも倒してくるがいい","What's wrong? If you're just wasting time, 
-go ahead and defeat even one Orc.",Gerd
+go ahead and defeat even one Orc.",Gerd,,Gerd,,Gerd
 "戦士に大切なことは
 百の無駄口より剣のひと振り――忘れるな","The important thing for a warrior is 
 the swing of a sword, not empty words――
-don't forget.",Gerd
+don't forget.",Gerd,,Gerd,,Gerd

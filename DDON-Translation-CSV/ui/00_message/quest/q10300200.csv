@@ -1,62 +1,62 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "はぁ、食堂っていっても
 マトモな設備が一つも残ってないんだよね
 調理台にできそうなものも見当たらないから
-料理できないしさ",,Carrie
+料理できないしさ",,Carrie,,Carrie,,Carrie
 "実はさ、解放軍の人が
 「材料さえあれば調理台や棚を
-作ってもいい」って言ってくれたんだ！",,Carrie
+作ってもいい」って言ってくれたんだ！",,Carrie,,Carrie,,Carrie
 "でも、調理台にできるような材料というと
-大きい木材だとか、あとは石とかでしょ？",,Carrie
+大きい木材だとか、あとは石とかでしょ？",,Carrie,,Carrie,,Carrie
 "そういうのって、今は全部
 砦の外壁だとかの修理に使われるから――
 調理台のために材料を分けてください、なんて
-言えない雰囲気なんだよね――",,Carrie
+言えない雰囲気なんだよね――",,Carrie,,Carrie,,Carrie
 "あなたが木材を採ってきてくれるっていうの！？
-ほ、本当に頼んじゃって――いいの？",,Carrie
+ほ、本当に頼んじゃって――いいの？",,Carrie,,Carrie,,Carrie
 "ちょっと待ってて！
 どのくらい木材がいるのかを
-書いておいたメモが――！",,Carrie
+書いておいたメモが――！",,Carrie,,Carrie,,Carrie
 "調理台や棚を作ってもらうためには
 <COL ff2600>ラスニテ産ハードウッド</COL>が<COL ff2600>10個</COL>要るみたい
 全部頼んじゃって悪いけど、何とかお願い！
-このままじゃ料理もできないから――",,Carrie
+このままじゃ料理もできないから――",,Carrie,,Carrie,,Carrie
 "ありがとう！
-これで調理台とか棚、作ってもらえるよ！",,Carrie
+これで調理台とか棚、作ってもらえるよ！",,Carrie,,Carrie,,Carrie
 "どんな風に作ってくれるのかはわからないけど
 調理台ができるのは楽しみだなぁ
-きっと、一気に食堂らしくなると思う！",,Carrie
+きっと、一気に食堂らしくなると思う！",,Carrie,,Carrie,,Carrie
 "調理台や棚を作ってもらうためには
 <COL ff2600>自然木炭</COL>が<COL ff2600>3個</COL>要るみたい
 全部頼んじゃって悪いけど、何とかお願い！
-このままじゃ料理もできないから――",,Carrie
+このままじゃ料理もできないから――",,Carrie,,Carrie,,Carrie
 "ありがとう！
-これで調理台とか棚、作ってもらえるよ！",,Carrie
+これで調理台とか棚、作ってもらえるよ！",,Carrie,,Carrie,,Carrie
 "どんな風に作ってくれるのかはわからないけど
 調理台ができるのは楽しみだなぁ
-きっと、一気に食堂らしくなると思う！",,Carrie
+きっと、一気に食堂らしくなると思う！",,Carrie,,Carrie,,Carrie
 "使う木材によって、必要な数が違うみたい
 <COL ff2600>ラスニテ産ハードウッド</COL>は<COL ff2600>10個</COL>
 <COL ff2600>自然木炭</COL>なら<COL ff2600>3個</COL>だって！
-採りやすい方か、少なくてもすむ方か――",,Carrie
-ラスニテ産ハードウッドを納品したい,Deliver Rathnite Local Hardwood,Carrie
-自然木炭を納品したい,Deliver Natural Charcoal,Carrie
+採りやすい方か、少なくてもすむ方か――",,Carrie,,Carrie,,Carrie
+ラスニテ産ハードウッドを納品したい,Deliver Rathnite Local Hardwood,Carrie,,Carrie,,Carrie
+自然木炭を納品したい,Deliver Natural Charcoal,Carrie,,Carrie,,Carrie
 "うん、やっぱり手に入りやすい物を
 探してきてもらう方が
-アタシとしても気が楽かな",,Carrie
+アタシとしても気が楽かな",,Carrie,,Carrie,,Carrie
 "個数は多くても、採集してるうちに
-すぐに揃えられると思うし――",,Carrie
+すぐに揃えられると思うし――",,Carrie,,Carrie,,Carrie
 "でも、いくらあなたが強くても
 魔物がいっぱいいるところを木材かついで
 歩くわけだから――
-気を付けていってきてね",,Carrie
+気を付けていってきてね",,Carrie,,Carrie,,Carrie
 "うん、やっぱり個数が少なくて済む方を
 探してきてもらう方が
-アタシとしても気が楽かな",,Carrie
+アタシとしても気が楽かな",,Carrie,,Carrie,,Carrie
 "ちょっと手に入りにくくても
 3個だったら、運が良ければ
-すぐに揃えられると思うし――",,Carrie
+すぐに揃えられると思うし――",,Carrie,,Carrie,,Carrie
 "でも、いくらあなたが強くても
 魔物がいっぱいいるところを木材かついで
 歩くわけだから――
-気を付けていってきてね",,Carrie
+気を付けていってきてね",,Carrie,,Carrie,,Carrie

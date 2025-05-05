@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_358","<COL ffdc78>パーティーでクエストを進行する際は
+key,old,new,english,speaker
+TUTORIAL_STEP_358,"<COL ffdc78>パーティーでクエストを進行する際は
 優先クエストの表示はパーティーリーダーの
 進行状態に切り替わります</COL>
 
@@ -12,8 +12,8 @@
 
 If you are solo or only have a pawn, your progress log will appear on the right side of the screen.
 
-If another player is the leader, their log will be shared with you, so check your progress as you go along!"
-"TUTORIAL_STEP_320","またソロでもパーティーでもイベント進行時は
+If another player is the leader, their log will be shared with you, so check your progress as you go along!",,
+TUTORIAL_STEP_320,"またソロでもパーティーでもイベント進行時は
 確認を求められることがあります
 
 ＜進行マーカー＞
@@ -28,8 +28,8 @@ If another player is the leader, their log will be shared with you, so check you
 This function allows you to check the status of the party during the progression of the quest. Only the leader can make the judgment.
 
 <Listen to the Conversation>
-The conversations related to the progress of the quest are important information. Whether you are playing solo or in a party, make sure to always listen to them."
-"TUTORIAL_STEP_321","<COL ffdc78>またパーティークエストにおいては
+The conversations related to the progress of the quest are important information. Whether you are playing solo or in a party, make sure to always listen to them.",,
+TUTORIAL_STEP_321,"<COL ffdc78>またパーティークエストにおいては
 自分とパーティーリーダーの進行状態によって
 クリアした時の報酬が変化します</COL>
 
@@ -44,12 +44,12 @@ The conversations related to the progress of the quest are important information
 You will receive the regular rewards, just like the leader.
 
 <If the progression is different>
-Instead of regular rewards, it will be considered as cooperation, and you will receive assist rewards and party rewards."
-"TUTORIAL_STEP_322","パーティー内のレベル差や
+Instead of regular rewards, it will be considered as cooperation, and you will receive assist rewards and party rewards.",,
+TUTORIAL_STEP_322,"パーティー内のレベル差や
 どこまで一緒に進行したかによって受け取る
 ことができる報酬も変わることがあります
 
 なるべく一から同じクエストを
 一緒にクリアしましょう","Depending on the level difference in your party and how far you have progressed together, you may receive different rewards.
 
-Try to complete the same quest from scratch together!"
+Try to complete the same quest from scratch together!",,

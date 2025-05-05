@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_343","敵から受けた攻撃に耐え、《リベンジゲージ》を
+key,old,new,english,speaker
+TUTORIAL_STEP_343,"敵から受けた攻撃に耐え、《リベンジゲージ》を
 溜めることができます
 
 リベンジゲージを溜める事で【<KC ATTACK2>】魔人斬りの
@@ -14,4 +14,4 @@ By accumulating the Revenge Gauge, the destructive power of the <KC ATTACK2> ""S
 
 【<KC AVOID>】Brace for Magic Resistance (Increase Revenge Gauge).
 
-You can also forcefully launch allies into the air with the <KC CATAPULT>Linking Throw skill."
+You can also forcefully launch allies into the air with the <KC CATAPULT>Linking Throw skill.",,

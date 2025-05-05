@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_395","他のプレイヤーから《パーティー要請》を
+key,old,new,english,speaker
+TUTORIAL_STEP_395,"他のプレイヤーから《パーティー要請》を
 受けた場合は【<KC UI_GAME_MENU>】で
 受諾するかどうか返答できます
 
@@ -12,4 +12,4 @@
 
 Check the requesting party member on the party screen, and if there are no issues, choose ""Join Party"".
 
-Note that if there is no response within a certain period of time, the request will be canceled."
+Note that if there is no response within a certain period of time, the request will be canceled.",,

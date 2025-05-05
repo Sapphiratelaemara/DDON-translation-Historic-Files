@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_486","敵スタミナゲージ の減少量が一時的に増加する
+key,old,new,english,speaker
+TUTORIAL_STEP_486,"敵スタミナゲージ の減少量が一時的に増加する
 <COL ffdc78>《特殊状態》</COL>が新たに追加されました
 
 この特殊状態が発生すると
@@ -11,8 +11,8 @@
 
 When this special state occurs, the Stamina Gauge will turn blue.
 
-While it is blue, shaking will cause a significant increase in the amount of decrease in the enemy's Stamina Gauge, contributing greatly to shortening the time until the enemy is down."
-"TUTORIAL_STEP_487","なお、<COL ffdc78>スタミナゲージが
+While it is blue, shaking will cause a significant increase in the amount of decrease in the enemy's Stamina Gauge, contributing greatly to shortening the time until the enemy is down.",,
+TUTORIAL_STEP_487,"なお、<COL ffdc78>スタミナゲージが
 青色に変色する条件は敵ごとに異なります</COL>
 
 怒った敵に攻撃を加えて敵の体勢を崩したとき
@@ -25,4 +25,4 @@ While it is blue, shaking will cause a significant increase in the amount of dec
 For example, when attacking an enraged enemy and disrupting their posture, or when winged beasts are flying in the sky. 
 The conditions for the color change are diverse.
 
-When the enemy's stamina gauge turns blue, actively cling to them and aim to shake them up."
+When the enemy's stamina gauge turns blue, actively cling to them and aim to shake them up.",,

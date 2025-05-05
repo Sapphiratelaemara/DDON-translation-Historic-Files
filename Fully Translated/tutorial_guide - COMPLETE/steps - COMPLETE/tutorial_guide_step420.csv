@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_795","<COL 78f5ff>絶望の大陸 第四節：「竜を継ぐ者」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_795,"<COL 78f5ff>絶望の大陸 第四節：「竜を継ぐ者」到達！</COL>
 
 　“母との絆を信じ、一人ひた走る王子
 　 しかしその先に待っていたのは
@@ -17,8 +17,8 @@ However, what awaited him beyond was a dragon created to find pleasure in destru
 After the battle, the power of the fire dragon returned to its rightful place. 
 Acre Selund began to carve out a new history.
 
-Meanwhile, a decision was made at The White Dragon Temple."""
-"TUTORIAL_STEP_803","悪しき竜を滅ぼし王家を助け
+Meanwhile, a decision was made at The White Dragon Temple.""",,
+TUTORIAL_STEP_803,"悪しき竜を滅ぼし王家を助け
 あなたはアッカーシェラン王国という
 一つの国と、そこに芽生えた希望を
 守り通しました
@@ -33,4 +33,4 @@ you are recognized as the next dragon by the White Dragon.
 
 The future battles will become even more fierce.
 
-Strive to strengthen yourself, your equipment, and the Myrmidons who support your journey."
+Strive to strengthen yourself, your equipment, and the Myrmidons who support your journey.",,

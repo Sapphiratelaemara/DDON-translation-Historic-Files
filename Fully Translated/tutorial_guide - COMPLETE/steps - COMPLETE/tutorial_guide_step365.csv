@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_634","《ボーナスダンジョン》とは、
+key,old,new,english,speaker
+TUTORIAL_STEP_634,"《ボーナスダンジョン》とは、
 特別なチケットを使用することで
 入れるようになるダンジョンです
 
@@ -9,4 +9,4 @@
 チケットは《マンドラゴラ・ガーデニング》を
 行うことで入手できます","""The 'Bonus Dungeon' is a dungeon that can be entered by using special tickets. 
 The rewards and dungeons that can be challenged vary depending on the type of ticket used. 
-Tickets can be obtained by engaging in 'Mandragora Gardening'."
+Tickets can be obtained by engaging in 'Mandragora Gardening'.",,

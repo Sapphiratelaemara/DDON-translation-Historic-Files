@@ -1,36 +1,36 @@
-Jp,En,speaker
+Jp,En,speaker,english,speaker,english,speaker
 "ふふ――そろそろ来る頃だと思ってたわ
 新たな力が欲しいんでしょう？","Mmm... knew you'd show up soon.
-Seeking new strength, aren't you?",Emerada
+Seeking new strength, aren't you?",Emerada,,Emerada,,Emerada
 "あなたにこの魔術を得る資格があるか
 あたくしが傍について見極めてあげるわ
 試練の場へいらっしゃい","Let me assess if you deserve this sorcery -
 I'll be watching closely.
-To the trial arena with you.",Emerada
+To the trial arena with you.",Emerada,,Emerada,,Emerada
 "あなたにこの魔術を得る資格があるか
 あたくしが傍について見極めてあげるわ
 試練の場へいらっしゃい","Let me assess if you deserve this sorcery -
 I'll be watching closely.
-To the trial arena with you.",Emerada
+To the trial arena with you.",Emerada,,Emerada,,Emerada
 "――あたくしはその気になれば
 すぐに行けるもの
 気にしないでいいのよ","...I can travel there anytime if I feel like it.
-Don't worry about me.",Emerada
+Don't worry about me.",Emerada,,Emerada,,Emerada
 "待ってたわ
 それじゃあ、あなたがどれだけ腕を上げたか
 傍で見せてもらうわよ
 ――行きましょう","I've been waiting.
 Time to show me your progress -
 I'll observe personally.
-....Well, you may begin.",Emerada
-あなたの織り上げる魔術、見せてちょうだい,Show me the magic you weave.,Emerada
-いたわね、最初の試練よ,"There you are, the first trial.",Emerada
+....Well, you may begin.",Emerada,,Emerada,,Emerada
+あなたの織り上げる魔術、見せてちょうだい,Show me the magic you weave.,Emerada,,Emerada,,Emerada
+いたわね、最初の試練よ,"There you are, the first trial.",Emerada,,Emerada,,Emerada
 その調子――さぁ、次の試練に向かいましょう,"That's the spirit... 
-Now, head to the next trial.",Emerada
-そうよ、まだまだ集中して,"Yes, stay focused.",Emerada
+Now, head to the next trial.",Emerada,,Emerada,,Emerada
+そうよ、まだまだ集中して,"Yes, stay focused.",Emerada,,Emerada,,Emerada
 魔力を制御するのが上手くなったわね、さぁ次に行きましょう,"You've gotten better at controlling magick. 
-Now, let's move on.",Emerada
-ごらんなさい、これが最後の試練よ,"Behold, the the final trial.",Emerada
+Now, let's move on.",Emerada,,Emerada,,Emerada
+ごらんなさい、これが最後の試練よ,"Behold, the the final trial.",Emerada,,Emerada,,Emerada
 "ずいぶん磨かれたじゃない、見違えたわ
 ――ふふふ、合格よ
 戦技の継承は私の家で行おうかしら
@@ -38,39 +38,39 @@ Now, let's move on.",Emerada
 I barely recognize you... 
 Heheh, you pass.
 We will perform the rite
-at my house. Come, let us go back.",Emerada
+at my house. Come, let us go back.",Emerada,,Emerada,,Emerada
 "ふふふ、合格よ
 戦技の継承は私の家で行うわ
 さぁ、帰りましょう","Heheh, you pass.
 We will perform the rite
 at my house. 
-Come, let us go back.",Emerada
+Come, let us go back.",Emerada,,Emerada,,Emerada
 "今のあなたなら、この術を
 使いこなすことができるはずよ
 さぁ、あなた自身が試練の場で織り上げたこの術
 存分にお使いなさい――","You're finally ready for this sorcery.
 Use the technique you crafted
 during your trials -
-make it your own.",Emerada
+make it your own.",Emerada,,Emerada,,Emerada
 "それにしても、あなたったら
 あたくしに隠れてどれほど修行したのかしら？
 まだ若鳥かと思っていたのに、いつのまにか
 美しい羽が揃い始めていたのね","Still, how much have you been
 training behind my back? I thought
 you were still a fledgling, but you've
-already begun growing beautiful wings.",Emerada
-魔力の奔流を感じて――,Feel the torrent of magickal power...,Emerada
-あなたの得意とする魔術は何かしら？,What magick are you good at?,Emerada
+already begun growing beautiful wings.",Emerada,,Emerada,,Emerada
+魔力の奔流を感じて――,Feel the torrent of magickal power...,Emerada,,Emerada,,Emerada
+あなたの得意とする魔術は何かしら？,What magick are you good at?,Emerada,,Emerada,,Emerada
 詠唱には時間がかかるわ、敵との間合いに気を付けて,"Chanting takes time, so mind
-your distance from the enemy.",Emerada
+your distance from the enemy.",Emerada,,Emerada,,Emerada
 スペリングの修行は続けているかしら？　大切なことよ,"Are you continuing your chanting
-practice? It's important.",Emerada
+practice? It's important.",Emerada,,Emerada,,Emerada
 ソーサリーとは万物を理解する、学問に近いものなの,"Sorcery is something close to a discipline 
-that seeks to understand all things.",Emerada
-スペリングで威力を上昇させるのを忘れないで,Do not forget to increase power with chanting.,Emerada
+that seeks to understand all things.",Emerada,,Emerada,,Emerada
+スペリングで威力を上昇させるのを忘れないで,Do not forget to increase power with chanting.,Emerada,,Emerada,,Emerada
 人であることを忘れ、力に身を委ねなさい,"Forget that you are human 
-and surrender yourself to power.",Emerada
+and surrender yourself to power.",Emerada,,Emerada,,Emerada
 ふふ、戦うあたくしは滅多に見られなくてよ,"Hehe.
-It's not often you get to see me fight.",Emerada
-敵の様子を見ながら詠唱するのよ,Chant while observing the enemy's movements.,Emerada
-ほらほら、間合いには気を付けなさいな,"Now now, mind your distance.",Emerada
+It's not often you get to see me fight.",Emerada,,Emerada,,Emerada
+敵の様子を見ながら詠唱するのよ,Chant while observing the enemy's movements.,Emerada,,Emerada,,Emerada
+ほらほら、間合いには気を付けなさいな,"Now now, mind your distance.",Emerada,,Emerada,,Emerada

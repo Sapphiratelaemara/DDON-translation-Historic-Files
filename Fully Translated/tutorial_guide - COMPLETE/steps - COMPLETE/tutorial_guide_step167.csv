@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_163","<COL ffdc78>装備品に《クレスト装着》を行うことで、
+key,old,new,english,speaker
+TUTORIAL_STEP_163,"<COL ffdc78>装備品に《クレスト装着》を行うことで、
 性能を高めたり、属性や追加効果を持たせる
 ことができます</COL>
 
@@ -7,8 +7,8 @@
 《ポーン郷》のアルヴァーからブラッドオーブと
 交換で入手可能です","<COL ffdc78>By ""Mounting a Crest"" to your equipment, you can enhance its performance, attributes, and additional effects.</COL>
 
-Special material<COL ffdc78>""Crests""</COL>can be obtained as rewards for certain quests or in exchange for Blood Orbs from Alvar in ""Pawn Cathedral""."
-"TUTORIAL_STEP_313","《クレスト装着》が可能なのは、下記の装備品です
+Special material<COL ffdc78>""Crests""</COL>can be obtained as rewards for certain quests or in exchange for Blood Orbs from Alvar in ""Pawn Cathedral"".",,
+TUTORIAL_STEP_313,"《クレスト装着》が可能なのは、下記の装備品です
 
 武器用クレスト：
 　　メイン武器（最大スロット数４）
@@ -22,8 +22,8 @@ Main Weapon (maximum of 4 slots)
 
 Armor Crest：
 Torso Armor (maximum of 4 slots)
-Headgear/Armguards/Leg Armor (maximum of 3 slots)"
-"TUTORIAL_STEP_314","メイン武器、胴アーマーや一部の特殊装備は
+Headgear/Armguards/Leg Armor (maximum of 3 slots)",,
+TUTORIAL_STEP_314,"メイン武器、胴アーマーや一部の特殊装備は
 クレストスロットが最初から１つあります
 
 <COL ffdc78>他の防具や、同じ装備に２つ以上のクレストを
@@ -36,4 +36,4 @@ Headgear/Armguards/Leg Armor (maximum of 3 slots)"
 
 <COL ffdc78>If you want to attach more than one Crest to other armor or the same equipment, you can create high-quality equipment (+1 to +3) that allows you to attach more Crests by synthesizing Refined Materials during Item Crafting.</COL>
 
-Additionally, equipment with attached Crests can be reattached by destroying the Crests."
+Additionally, equipment with attached Crests can be reattached by destroying the Crests.",,

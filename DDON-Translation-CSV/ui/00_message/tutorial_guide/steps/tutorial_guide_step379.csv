@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_668","１つのテントの細工に成功すると
+key,old,new,english,speaker
+TUTORIAL_STEP_668,"１つのテントの細工に成功すると
 ソネルから次の作戦の提案があります
 
 　①《兵舎》に残って作戦を続ける
@@ -18,4 +18,4 @@ Begin the work on the next tent.
 Move to the ""First Gate"" and battle the gatekeeper.
 
 ③ Withdraw and review the results
-Interrupt the mission and return to ""Lookout Castle""."
+Interrupt the mission and return to ""Lookout Castle"".",,

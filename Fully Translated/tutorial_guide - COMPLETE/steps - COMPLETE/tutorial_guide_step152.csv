@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_69","ゲームを中断したいときは
+key,old,new,english,speaker
+TUTORIAL_STEP_69,"ゲームを中断したいときは
 【<KC UI_GAME_MENU>】ゲームメニュー《オプション》
 から<COL ffdc78>《ゲーム中断》</COL>を選んでください
 
@@ -13,4 +13,4 @@ and select<COL ffdc78>《Exit Game》</COL>
 
 When you log out, the game will automatically save your previous play record.
 
-When you restart the game, you will start from the White Dragon Temple 《Central Square》, not from your last location."
+When you restart the game, you will start from the White Dragon Temple 《Central Square》, not from your last location.",,

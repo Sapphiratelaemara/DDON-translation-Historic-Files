@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_152","<COL ffdc78>《アチーブメント》</COL>は、
+key,old,new,english,speaker
+TUTORIAL_STEP_152,"<COL ffdc78>《アチーブメント》</COL>は、
 あなたがゲーム内で行ったさまざまな行動に
 対して送られる達成の証です
 
@@ -12,4 +12,4 @@
 
 It includes defeating enemies, completing quests, crafting, and more, so please try to find them.
 
-The achievements you have earned can be checked in the <KC UI_GAME_MENU>Game Menu under ""Character"" -> ""Achievements""."
+The achievements you have earned can be checked in the <KC UI_GAME_MENU>Game Menu under ""Character"" -> ""Achievements"".",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_433","<COL 78f5ff>《戦技の継承》が解放されました！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_433,"<COL 78f5ff>《戦技の継承》が解放されました！</COL>
 
 各ジョブレベルをLV40以上にすると
 ジョブマスターから新たな試練を受けることが
@@ -14,4 +14,4 @@ you can undergo a new trial from the Job Masters and open up new possibilities.
 
 By clearing this new trial,
 the White Dragon will unlock the Skill Augmentation,
-allowing you to enhance the abilities of each job."
+allowing you to enhance the abilities of each job.",,

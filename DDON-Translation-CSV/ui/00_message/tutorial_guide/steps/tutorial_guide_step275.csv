@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_446","大型の侵食魔には
+key,old,new,english,speaker
+TUTORIAL_STEP_446,"大型の侵食魔には
 パーティで協力して戦いましょう
 
 大型の侵食魔は戦闘中に時間が経過することで
@@ -12,8 +12,8 @@
 
 During battle, the Large enemy will gradually increase its number of <COL ffdc78>""Corruption Cores,""</COL> which may appear as horns or spikes.
 
-The Corrupted becomes more powerful as the number of ""Corruption Cores"" increases, so caution is necessary."
-"TUTORIAL_STEP_468","侵食核が存在しているときは
+The Corrupted becomes more powerful as the number of ""Corruption Cores"" increases, so caution is necessary.",,
+TUTORIAL_STEP_468,"侵食核が存在しているときは
 通常攻撃でのダメージを与えにくくなります
 
 まずは侵食核を破壊することが
@@ -27,8 +27,8 @@ The Corrupted becomes more powerful as the number of ""Corruption Cores"" increa
 It is efficient to destroy the Corruption Core first as it leads to efficient defeat.
 
 By destroying all Corruption Cores, you can bring the enemy down and create an opportunity for safe attacks.
-Let's actively destroy them."
-"TUTORIAL_STEP_447","侵食魔が放出する<COL ffdc78>《侵食胞子》</COL>は
+Let's actively destroy them.",,
+TUTORIAL_STEP_447,"侵食魔が放出する<COL ffdc78>《侵食胞子》</COL>は
 敵をのけぞらせることで
 一定時間放出を止めることが可能です
 
@@ -40,12 +40,12 @@ Let's actively destroy them."
 
 While the release of the Corruption Spores is halted, it is the best time to destroy the Corruption Core.
 
-<COL ffdc78>Striking and slashing are effective against the Corruption Core, while magic and shooting are effective against other parts.</COL>"
-"TUTORIAL_STEP_448","また、タンク職が侵食魔の注目を集めることで
+<COL ffdc78>Striking and slashing are effective against the Corruption Core, while magic and shooting are effective against other parts.</COL>",,
+TUTORIAL_STEP_448,"また、タンク職が侵食魔の注目を集めることで
 しがみついているプレイヤーへの攻撃頻度を
 下げることが可能です
 
 それぞれのジョブの特性を活かし
 強敵に挑みましょう","In addition, by drawing the attention of the Corruption Infected to Tanks, it is possible to decrease the frequency of attacks on clinging players. 
 
-Let us make use of the unique characteristics of each job and challenge formidable enemies."
+Let us make use of the unique characteristics of each job and challenge formidable enemies.",,

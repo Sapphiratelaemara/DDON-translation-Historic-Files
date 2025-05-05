@@ -1,20 +1,20 @@
-old,speaker
+old,speaker,english,speaker,english,speaker
 "ああ――ちょっと古くからの友人のためにな
 俺は便利屋じゃねえからよ
-普段はこんなことしないんだが――",Gunther
+普段はこんなことしないんだが――",Gunther,,Gunther,,Gunther
 "最近、顔も見てねぇから心配なんだよ
 様子を見るついでに、欲しがってる物を
-渡してきてくれねぇか？",Gunther
+渡してきてくれねぇか？",Gunther,,Gunther,,Gunther
 "わりいな、こんな事ばっかりあんたに
-頼んじまってさ",Gunther
+頼んじまってさ",Gunther,,Gunther,,Gunther
 "数少ない旧友の一人なんだ
-元気にしてるといいが――",Gunther
-ま、相変わらずのんきにやってるだろうよ,Gunther
+元気にしてるといいが――",Gunther,,Gunther,,Gunther
+ま、相変わらずのんきにやってるだろうよ,Gunther,,Gunther,,Gunther
 "いやー、今日もいい湯だった
-ん？　僕に何か用事かい？",Kennec
+ん？　僕に何か用事かい？",Kennec,,Kennec,,Kennec
 "おお、ちょうど探していたんだ――
-でも、なんで欲しいって分かったんだい？",Kennec
-え？　渡せってお願いされた？,Kennec
+でも、なんで欲しいって分かったんだい？",Kennec,,Kennec,,Kennec
+え？　渡せってお願いされた？,Kennec,,Kennec,,Kennec
 "そうか、彼が――
 いや、なんでもない
-また近いうちに便りでも出してみるかな――",Kennec
+また近いうちに便りでも出してみるかな――",Kennec,,Kennec,,Kennec

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_437","スピリットランサーは、精霊槍により
+key,old,new,english,speaker
+TUTORIAL_STEP_437,"スピリットランサーは、精霊槍により
 攻撃と味方支援の両方を行う
 森羅の加護を得た槍士です
 
@@ -9,4 +9,4 @@
 
 <Basic Controls>
 Press <KC ATTACK1> to perform a Thrust (a series of spear attacks).
-Press <KC ATTACK2> to deploy an Aid (healing area)."
+Press <KC ATTACK2> to deploy an Aid (healing area).",,

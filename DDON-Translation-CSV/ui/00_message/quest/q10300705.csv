@@ -1,69 +1,69 @@
-old,new,speaker
+old,new,speaker,english,speaker,english,speaker
 "大変なの！
 各村に配分するために集めた食料が
-ごっそり無くなってて――！",,Carrie
+ごっそり無くなってて――！",,Carrie,,Carrie,,Carrie
 "食料を盗んだ犯人の足跡は
 どうやらゴブリンのものみたい！
-お願い、ブラッドと協力して取り返してきて！",,Carrie
+お願い、ブラッドと協力して取り返してきて！",,Carrie,,Carrie,,Carrie
 "さて、ゴブリンの目撃情報があったらしいから
 まずはそこへ行ってみよう
-それじゃあ出発するか？",,Brad
-出発する,Depart,Brad
-――少し待ってほしい,...I want to wait awhile,Brad
+それじゃあ出発するか？",,Brad,,Brad,,Brad
+出発する,Depart,Brad,,Brad,,Brad
+――少し待ってほしい,...I want to wait awhile,Brad,,Brad,,Brad
 "目撃情報によるとここらへんみたいだな
 ――お、いたぞ
-見るからに怪しげなゴブリンどもじゃないか",,Brad
-やつらが逃げたぞ！　追いかけろ！,,Brad
-援護に来たよ！　こいつらが犯人？,,Lorna
-あっ、逃げるな！,,Lorna
-スニーカー！　なんでここに？,,Brad
+見るからに怪しげなゴブリンどもじゃないか",,Brad,,Brad,,Brad
+やつらが逃げたぞ！　追いかけろ！,,Brad,,Brad,,Brad
+援護に来たよ！　こいつらが犯人？,,Lorna,,Lorna,,Lorna
+あっ、逃げるな！,,Lorna,,Lorna,,Lorna
+スニーカー！　なんでここに？,,Brad,,Brad,,Brad
 "戦士の兄さん方、助太刀に来てくれたんですね！
-残党共なんざ、さっさとやっちまいましょう",,Sunika
+残党共なんざ、さっさとやっちまいましょう",,Sunika,,Sunika,,Sunika
 "スニーカーの言う“首領”――本当にいたのか？
 盗賊の言うことは信用できないからな
 ――食料は後で回収するとして
-俺達は先に戻ろうか？",,Brad
-砦に戻る,Return to the fort,Brad
-――少し待ってほしい,...I want to wait awhile,Brad
+俺達は先に戻ろうか？",,Brad,,Brad,,Brad
+砦に戻る,Return to the fort,Brad,,Brad,,Brad
+――少し待ってほしい,...I want to wait awhile,Brad,,Brad,,Brad
 "スニーカーの言う“首領”に逃げられちゃったのは
 残念だけど――ひとまずはやったね
 食料は後で回収するとして
-疲れもあるし、砦に戻ろうよ",,Lorna
-砦に戻る,Return to the fort,Lorna
-――少し待ってほしい,...I want to wait awhile,Lorna
+疲れもあるし、砦に戻ろうよ",,Lorna,,Lorna,,Lorna
+砦に戻る,Return to the fort,Lorna,,Lorna,,Lorna
+――少し待ってほしい,...I want to wait awhile,Lorna,,Lorna,,Lorna
 "皆さんの助太刀に感謝しやす！
 実はさっきまで、奴らの首領がいたんです
-逃げられちまいましたが――",,Sunika
+逃げられちまいましたが――",,Sunika,,Sunika,,Sunika
 "俺がいながら、不甲斐無くてすんません――
 実は、奴ら俺らのアジトも荒らしていきまして
 なんとか首領の奴をとっちめたかったんですがね
-――おっと、お帰りなら近道を案内しますぜ？",,Sunika
-砦に戻る,Return to the fort,Sunika
-――少し待ってほしい,...I want to wait awhile,Sunika
+――おっと、お帰りなら近道を案内しますぜ？",,Sunika,,Sunika,,Sunika
+砦に戻る,Return to the fort,Sunika,,Sunika,,Sunika
+――少し待ってほしい,...I want to wait awhile,Sunika,,Sunika,,Sunika
 "やっぱり、犯人はゴブリンたちだったんだね！
-行ってきてくれてありがとう！",,Carrie
+行ってきてくれてありがとう！",,Carrie,,Carrie,,Carrie
 "ふう、やれやれ――
 倉庫の警備を強化したほうが
-いいんじゃないのか？",,Brad
+いいんじゃないのか？",,Brad,,Brad,,Brad
 "んー、一汗かいたらお腹すいたよ！
-今日のメニューは何かな",,Lorna
+今日のメニューは何かな",,Lorna,,Lorna,,Lorna
 "なんだか、この砦に来るのも慣れちまって
 衛兵とも顔見知りになっちまいました
-いっそ俺もここに置いてもらうってのはどうです？",,Sunika
+いっそ俺もここに置いてもらうってのはどうです？",,Sunika,,Sunika,,Sunika
 "犯人の足跡がべったり残ってたの！
-犯人は――ゴブリンよ！",,Carrie
+犯人は――ゴブリンよ！",,Carrie,,Carrie,,Carrie
 "ねぇ、覚者さん
-ブラッドたちと一緒に食料を取り返してきて！",,Carrie
+ブラッドたちと一緒に食料を取り返してきて！",,Carrie,,Carrie,,Carrie
 "やつらが逃げたぞ！
-くそ――先に追いかけてくれ！",,Brad
+くそ――先に追いかけてくれ！",,Brad,,Brad,,Brad
 "俺は奴らが何者か、痕跡を調べてから行く
-大丈夫だ、すぐ追いつくからな！",,Brad
+大丈夫だ、すぐ追いつくからな！",,Brad,,Brad,,Brad
 "また逃げやがった！
-――奴ら、どこに向かっているんだ？",,Brad
+――奴ら、どこに向かっているんだ？",,Brad,,Brad,,Brad
 "すまないが、先に追いかけてくれ！
-俺はローナの手当てをしてから行く――",,Brad
+俺はローナの手当てをしてから行く――",,Brad,,Brad,,Brad
 "ねぇ、ちょっと待って
-奴らが逃げて行った方向って――痛っ！",,Lorna
+奴らが逃げて行った方向って――痛っ！",,Lorna,,Lorna,,Lorna
 "だ、大丈夫――こんなのかすり傷
 布で縛ればすぐ動けるようになるから――
-先に行ってていいよ、すぐ追いつくから",,Lorna
+先に行ってていいよ、すぐ追いつくから",,Lorna,,Lorna,,Lorna

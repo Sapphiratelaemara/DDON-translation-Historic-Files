@@ -1,12 +1,12 @@
-"key","old","new"
-"TUTORIAL_STEP_174","プリーストは、自身の周囲に展開した
+key,old,new,english,speaker
+TUTORIAL_STEP_174,"プリーストは、自身の周囲に展開した
 ヒールオーラやセイントオーラを、
 味方全員へ転送することもできます
 
 　【<KC SKILL_NORMAL2>】フィールドシフト（味方に陣を転送）","Priests can also transfer the Heal Aura and Holy Aura that they have deployed around themselves to all allies.
 
-【<KC SKILL_NORMAL2>】Field Shift (transfers the formation to allies)."
-"TUTORIAL_STEP_326","ヒールオーラやセイントオーラなど、周囲に
+【<KC SKILL_NORMAL2>】Field Shift (transfers the formation to allies).",,
+TUTORIAL_STEP_326,"ヒールオーラやセイントオーラなど、周囲に
 展開した陣を個別に解除することができます
 
 　【発動したスキルと同じコマンド】
@@ -23,4 +23,4 @@ Release individual deployed auras
 You can also simultaneously release all deployed auras.
 
 【<KC WEAPON_SUB>】+【<KC WEAPON_MAIN>】+【<KC JUMP>】
-Simultaneously release all deployed auras."
+Simultaneously release all deployed auras.",,

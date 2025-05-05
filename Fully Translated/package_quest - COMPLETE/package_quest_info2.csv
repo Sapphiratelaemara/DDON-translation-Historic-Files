@@ -1,5 +1,5 @@
-"key","old","new"
-"PACKAGE_QUEST_INFO_2","展望城の奪還に成功した解放軍
+key,old,new,english,speaker
+PACKAGE_QUEST_INFO_2,"展望城の奪還に成功した解放軍
 しかし――
 魔軍の残党は、城外の防衛区画へ逃げ込み
 今もなお、籠城を続けていた――
@@ -20,8 +20,8 @@ However, the remnants of the Demon Army escaped into the outer defense zone of t
 It was believed that the Liberation Army could not possibly reclaim the castle as they could not allocate sufficient forces for its defense. However, there is one person who can break through such a situation. 
 A genius staff officer named Sonel, who is a member of the Liberation Army. 
 The Arisen who played a significant role in the recapture of Lookout Castle will join him in the ""impossible recapture mission.""
-"
-"","解放軍の天才参謀官
+",,
+,"解放軍の天才参謀官
 作戦の立案だけでなく
 自らもソーサラーとして戦う","Genius Staff Officer of the Liberation Army.
-Not only does he plan operations, he also fights as a Sorcerer himself."
+Not only does he plan operations, he also fights as a Sorcerer himself.",,

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_369","ワールドクエストは常に起こっている
+key,old,new,english,speaker
+TUTORIAL_STEP_369,"ワールドクエストは常に起こっている
 わけではありません
 配信期間が終了すると
 自動的にクエストは破棄されます
@@ -9,4 +9,4 @@
 つくことがあるため、ぜひ狙ってみましょう<COL ffdc78>","World Quests are not constantly happening. They will be automatically discarded when the event period ends. 
 
 <COL ffdc78>However, you can accept and clear them as many times as you want during the period. 
-By attempting them repeatedly, you may receive a ""Repeat Bonus"" as a reward, so let's aim for it! </COL>"
+By attempting them repeatedly, you may receive a ""Repeat Bonus"" as a reward, so let's aim for it! </COL>",,

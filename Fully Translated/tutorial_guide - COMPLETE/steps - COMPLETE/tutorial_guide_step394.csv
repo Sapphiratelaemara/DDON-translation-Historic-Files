@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_737","<COL 78f5ff>パーティーメンバーの
+key,old,new,english,speaker
+TUTORIAL_STEP_737,"<COL 78f5ff>パーティーメンバーの
 自室へ訪問できるようになりました！</COL>
 
 パーティーメンバーがいる状態で
@@ -12,4 +12,4 @@
 
 While party members are present, speak to Barton at the inn in the White Dragon Temple, and select <COL ffdc78>""Visit Another's Room""</COL> to visit their rooms.
 
-Alternatively, you can select <COL ffdc78>""My Room Visit Setup""</COL> to determine whether visits to your own room are allowed."
+Alternatively, you can select <COL ffdc78>""My Room Visit Setup""</COL> to determine whether visits to your own room are allowed.",,

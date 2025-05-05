@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_539,"覚者として日々を過ごしていると、メールを通して
 様々なイベントの通知などが送られてきます
 
@@ -12,7 +12,7 @@ TUTORIAL_STEP_539,"覚者として日々を過ごしていると、メールを�
 
 The content can be checked from the<COL ffdc78>《Communication》, ""Mail""</COL> section of the ""Game Menu"" 【<KC UI_GAME_MENU>】.
 
-<COL ffdc78>If an item is attached to the mail, you can receive it from the section of the ""Character"" menu labeled 《Item Post》</COL> in the game menu【<KC UI_GAME_MENU>】."
+<COL ffdc78>If an item is attached to the mail, you can receive it from the section of the ""Character"" menu labeled 《Item Post》</COL> in the game menu【<KC UI_GAME_MENU>】.",,
 TUTORIAL_STEP_540,"イベントによっては<COL ffdc78>《イベントコード入力》</COL>による
 アイテムの受け取り方法もあります
 
@@ -26,4 +26,4 @@ TUTORIAL_STEP_540,"イベントによっては<COL ffdc78>《イベントコー�
 
 If you have obtained an event code, try entering it from the <KC UI_GAME_MENU>""Game Menu""<COL ffdc78>""Online Shop""</COL> and see what happens.
 
-Additionally, you can confirm the receipt of items through the mail from the <COL ffdc78>""Item Post""</COL>."
+Additionally, you can confirm the receipt of items through the mail from the <COL ffdc78>""Item Post""</COL>.",,

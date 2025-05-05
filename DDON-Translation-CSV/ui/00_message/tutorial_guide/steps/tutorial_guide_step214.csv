@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_342","エレメントアーチャ―の魔矢は、攻撃だけで
+key,old,new,english,speaker
+TUTORIAL_STEP_342,"エレメントアーチャ―の魔矢は、攻撃だけで
 なく自身や味方の回復・支援も行えます
 
 ＜基本操作／支援＞
@@ -16,4 +16,4 @@
 <PADM>Hold [<KC WEAPON_MAIN>] + move right stick for Magick Eye: True Aid, which can lock onto multiple allies.
 <KEYM><KC HOLD_BOW> for Magick Eye: True Aid (Support Arrow Stance)</KEYM>
 While in stance, press [<KC SHOOT>] to shoot True Aid Arrows.
-Press [<KC CHANGE_ARROW>] for Healing Shroud and self-recovery."
+Press [<KC CHANGE_ARROW>] for Healing Shroud and self-recovery.",,

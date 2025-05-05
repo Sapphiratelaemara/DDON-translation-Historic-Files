@@ -1,81 +1,81 @@
-old,,speaker
+old,,speaker,english,speaker,english,speaker
 "おまえはもちろん最前線を楽しんでくれ
 準備でき次第グリッテン砦へ急げ","Of course, enjoy the front lines.
-Hurry to Fort Gritten as soon as you're ready.",Leo
+Hurry to Fort Gritten as soon as you're ready.",Leo,,Leo,,Leo
 "どうやらグリッテン砦とは縁が深いようだな
 存分に戦ってくれ","Looks like you've got a strong 
 connection to Fort Gritten.
-Fight as hard as you can.",Vanessa
+Fight as hard as you can.",Vanessa,,Vanessa,,Vanessa
 "ヴァネッサ殿の公平さは
 すべての覚者が見習ってほしいものだ――","Vanessa's fairness is something that all 
-Arisen should emulate.",Gerd
+Arisen should emulate.",Gerd,,Gerd,,Gerd
 "ご武運をお祈りします
 皆さん、ご無事で帰ってくださいね","I pray for your fortunes of war. 
-Everyone, please return safely.",Mysial
+Everyone, please return safely.",Mysial,,Mysial,,Mysial
 "留守は居残り部隊にまかせて
 心おきなく戦ってくるんだな","Leave it to the remaining troops to hold the fort,
-and fight without worry.",Joseph
-一匹でも多く敵をぶっ倒して――,-Defeat as many enemies as possible--,Klaus
+and fight without worry.",Joseph,,Joseph,,Joseph
+一匹でも多く敵をぶっ倒して――,-Defeat as many enemies as possible--,Klaus,,Klaus,,Klaus
 "と言いたいところだけど
 無事に帰ってくることが一番大事だからね
 とにかく、気をつけて！","I want to say it, but the most important thing 
 is to come back safely.
-Anyway, take care!",Klaus
-遠征か――腕が鳴るな,"An expedition, huh—my skills are itching for action.",Heinz
-オークども！　かかってこい！,Orcs!　Come and get it!,Vanessa
-来い！　こっちだ！,Come on!　This way!,Vanessa
+Anyway, take care!",Klaus,,Klaus,,Klaus
+遠征か――腕が鳴るな,"An expedition, huh—my skills are itching for action.",Heinz,,Heinz,,Heinz
+オークども！　かかってこい！,Orcs!　Come and get it!,Vanessa,,Vanessa,,Vanessa
+来い！　こっちだ！,Come on!　This way!,Vanessa,,Vanessa,,Vanessa
 どうした！　怖じ気づいたか！,"What's wrong! 
-Are you scared!",Vanessa
-おりゃあああああ！,Oryaaaaaah!,Dikka
-覚者はどんどん行ってくれ！,"Keep going, Arisen!",Dikka
-オーク、くせええ！,Stinking Orcs!,Scherzo
-さっさと倒さないと臭いが染みつくぞ！,"Need to defeat it quickly, or the smell will seep in!",Scherzo
-ここはいいから！,Leave this to me!,Heston
-最前線はもっと先だ！,The front line is further ahead!,Heston
-ヴァネッサさん、見ててください！,"Vanessa, witness me!",Arisen Corps Regimental Soldier
-ヴァネッサさん！　おれ、ここですよ！,Vanessa! I'm here!,Arisen Corps Regimental Soldier
+Are you scared!",Vanessa,,Vanessa,,Vanessa
+おりゃあああああ！,Oryaaaaaah!,Dikka,,Dikka,,Dikka
+覚者はどんどん行ってくれ！,"Keep going, Arisen!",Dikka,,Dikka,,Dikka
+オーク、くせええ！,Stinking Orcs!,Scherzo,,Scherzo,,Scherzo
+さっさと倒さないと臭いが染みつくぞ！,"Need to defeat it quickly, or the smell will seep in!",Scherzo,,Scherzo,,Scherzo
+ここはいいから！,Leave this to me!,Heston,,Heston,,Heston
+最前線はもっと先だ！,The front line is further ahead!,Heston,,Heston,,Heston
+ヴァネッサさん、見ててください！,"Vanessa, witness me!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
+ヴァネッサさん！　おれ、ここですよ！,Vanessa! I'm here!,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 統率のお気に入りめ――調子のるなよ！,"The commander's favorite, huh—
-don't get too cocky!",Arisen Corps Regimental Soldier
-おまえになんか負けるか！,I'm not going to let you beat me!,Arisen Corps Regimental Soldier
+don't get too cocky!",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
+おまえになんか負けるか！,I'm not going to let you beat me!,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 "ここはもう大丈夫だ
 救援に感謝する
 引き続き、白竜を頼んだぞ","We're good to go here.
 Thanks for the rescue.
-Keep up the good work, for the White Dragon!",Vanessa
+Keep up the good work, for the White Dragon!",Vanessa,,Vanessa,,Vanessa
 "ふう――結構厳しかったよ――
 ありがとう","Whew--that was pretty tough--
-Thanks!",Dikka
+Thanks!",Dikka,,Dikka,,Dikka
 "さーて、激戦の後は恒例の大掃除だ
 オーク臭を洗い流さないとな！","Well, after the fierce battle, 
 it's time for the usual big cleanup.
-Got to wash away that Orc smell!",Scherzo
+Got to wash away that Orc smell!",Scherzo,,Scherzo,,Scherzo
 "さすが覚者さんだ
 あんた、大活躍だったな！","As expected, it's the Arisen. 
-You really made a great contribution!",Heston
-ヴァネッサさん、見ていてくれたかなぁ――,"Vanessa, I hope you've been watching--",Arisen Corps Regimental Soldier
+You really made a great contribution!",Heston,,Heston,,Heston
+ヴァネッサさん、見ていてくれたかなぁ――,"Vanessa, I hope you've been watching--",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 "くぅ――やっぱり、おまえは強いな
 目標にさせてもらうよ","Damn--I knew you were strong.
-I'll have to aim for you.",Arisen Corps Regimental Soldier
+I'll have to aim for you.",Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier,,Arisen Corps Regimental Soldier
 "身体と武具を洗わないと――
 少々臭うな","I need to wash my body and equipment...
-It's starting to smell a bit.",Heinz
+It's starting to smell a bit.",Heinz,,Heinz,,Heinz
 "華々しい戦果――何よりだ
 ご苦労だった","A splendid achievement――
-above all else, well done.",Gerd
+above all else, well done.",Gerd,,Gerd,,Gerd
 "オークとの戦いは果てが見えない――
 終結のための知恵を出さねばな","The battle with the Orcs seems endless--
-We must come up with a plan for its end.",Joseph
+We must come up with a plan for its end.",Joseph,,Joseph,,Joseph
 "心なしかレオが沈んでいるようですね
 戦いは大勝利と聞きましたが――","It seems like Leo is a bit down.
-I heard that the battle was a great victory, but...",Mysial
+I heard that the battle was a great victory, but...",Mysial,,Mysial,,Mysial
 "いや、ご苦労さま
 ゆっくり休むといいよ","No, thank you for your hard work. 
-Take your time to rest.",Klaus
+Take your time to rest.",Klaus,,Klaus,,Klaus
 "ご苦労だった
 後でいい――少し顔を貸してくれ","You've worked hard.
-Later—could you lend me your ear for a moment?",Leo
-準備できたら声を掛けてくれ,Give me a shout when you're ready.,Leo
+Later—could you lend me your ear for a moment?",Leo,,Leo,,Leo
+準備できたら声を掛けてくれ,Give me a shout when you're ready.,Leo,,Leo,,Leo
 "一緒にやりたいこと、相談したいこと――
 頼みたいことが山ほどある","There are so many things I want to do with you, 
 things I want to talk to you about-- 
-so much I want to ask you for help with.",Leo
+so much I want to ask you for help with.",Leo,,Leo,,Leo

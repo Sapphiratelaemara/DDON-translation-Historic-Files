@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_97","【<KC UI_GAME_MENU>】ゲームメニュー《キャラクター》の
+key,old,new,english,speaker
+TUTORIAL_STEP_97,"【<KC UI_GAME_MENU>】ゲームメニュー《キャラクター》の
 <COL ffdc78>《ステータス・装備》</COL>から
 装備品の付け替えや詳細確認ができます
 
@@ -14,8 +14,8 @@ you can switch equipment and check its details.
 Equipment can be equipped on different body parts such as the head, arms, and torso,
 and it greatly affects your strength and health.
 
-You can purchase equipment at shops like the Equipment Shop."
-"TUTORIAL_STEP_235","装備できる品はジョブやレベル、性別により
+You can purchase equipment at shops like the Equipment Shop.",,
+TUTORIAL_STEP_235,"装備できる品はジョブやレベル、性別により
 制限があります
 
 <COL ffdc78>ジョブとレベルに見合った武器や防具を
@@ -26,4 +26,4 @@ You can purchase equipment at shops like the Equipment Shop."
 
 <COL ffdc78>It is important to equip weapons and armor that match your job and level.</COL>
 
-Make sure to carefully check the parameters of each item and go on an adventure with the best equipment."
+Make sure to carefully check the parameters of each item and go on an adventure with the best equipment.",,

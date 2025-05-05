@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_752","<COL ffdc78>《霧の森の死闘》</COL>は
+key,old,new,english,speaker
+TUTORIAL_STEP_752,"<COL ffdc78>《霧の森の死闘》</COL>は
 最大８人のパーティーを結成して
 悪しき竜軍に占領された霧の森を
 進攻するウォーミッションです
@@ -13,8 +13,8 @@ is a War Mission where you form a party of up to eight people to advance into th
 
 When each subjugated area is reclaimed, your army's flag will be placed, but it may be destroyed by enemy attacks.
 
-To prevent the enemy from invading the areas you have recaptured, always pay attention to the mini map for reference."
-"TUTORIAL_STEP_754","ミッションの途中には
+To prevent the enemy from invading the areas you have recaptured, always pay attention to the mini map for reference.",,
+TUTORIAL_STEP_754,"ミッションの途中には
 悪しき竜軍によって繰り出される
 <COL ffdc78>襲撃イベント</COL>が発生します
 
@@ -26,8 +26,8 @@ To prevent the enemy from invading the areas you have recaptured, always pay att
 
 These raids include concentrated attacks on our own flag and the appearance of powerful enemies, all aimed at hindering the Arisen's advancement with various strategies. 
 
-Overcome all challenges and aim to conquer the deepest area."
-"TUTORIAL_STEP_775","エリアの征圧や襲撃イベントの結果に応じて
+Overcome all challenges and aim to conquer the deepest area.",,
+TUTORIAL_STEP_775,"エリアの征圧や襲撃イベントの結果に応じて
 覚者のパラメーターに変化が起きることがあります
 
 変化したパラメータは
@@ -39,4 +39,4 @@ Overcome all challenges and aim to conquer the deepest area."
 
 The changed status can be confirmed through announcements and chat logs, and the effects will disappear as soon as the mission ends.
 
-Let's progress through the missions while aiming for better performance."
+Let's progress through the missions while aiming for better performance.",,

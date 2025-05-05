@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_463","<COL 78f5ff>侵食の大災 第二節：「託されし者」到達！</COL>
+key,old,new,english,speaker
+TUTORIAL_STEP_463,"<COL 78f5ff>侵食の大災 第二節：「託されし者」到達！</COL>
 
 　”崇高なる志は
 　　その身をもって黒き脅威を退けた
@@ -15,8 +15,8 @@ Having lost a friend and gained new bonds,
 the Arisen continues to move forward-- 
 
 Different dragons, different orders ruling 
-the two continents are now on the verge of connecting--"""
-"TUTORIAL_STEP_467","あなたが率いた覚者隊は
+the two continents are now on the verge of connecting--""",,
+TUTORIAL_STEP_467,"あなたが率いた覚者隊は
 黒騎士を退けることに成功しました
 
 侵食という災禍の根源を探るべく
@@ -28,8 +28,8 @@ the two continents are now on the verge of connecting--"""
 
 In order to investigate the source of the calamity called Corruption, a story is about to begin in Cecily's homeland, the Phindym continent.
 
-Let us train our equipment and prepare for a new battle in a land with different cultures."
-"TUTORIAL_STEP_478","また、エクストリームミッションに参加するための
+Let us train our equipment and prepare for a new battle in a land with different cultures.",,
+TUTORIAL_STEP_478,"また、エクストリームミッションに参加するための
 必須クエスト『混沌の兆し』が解放されました
 
 クエストは謁見の間にいるジョゼフから
@@ -39,4 +39,4 @@ Let us train our equipment and prepare for a new battle in a land with different
 ぜひ新たなミッションに挑戦してください","Furthermore, the required quest ""Signs of Chaos"" to participate in the Extreme Missions has been unlocked. 
 
 You can receive the quest from Joseph in the Audience Chamber. 
-Skilled Arisen, please challenge this new mission."
+Skilled Arisen, please challenge this new mission.",,

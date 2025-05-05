@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_137","シールドセージにとって大盾は
+key,old,new,english,speaker
+TUTORIAL_STEP_137,"シールドセージにとって大盾は
 自身の身を守るものではなく、仲間を守り
 味方の攻撃チャンスを得るための武器です
 
@@ -12,8 +12,8 @@
 
 When facing multiple enemies or when comrades are targeted by the enemy, take the initiative to step forward and use the Attract skill to steal the enemy's attention.
 
-When using the Attract skill, the stronger the enemy's focus, the more prominently the ""Attention Icon"" will be displayed."
-"TUTORIAL_STEP_136","大盾で受けたダメージは、攻力に変換し
+When using the Attract skill, the stronger the enemy's focus, the more prominently the ""Attention Icon"" will be displayed.",,
+TUTORIAL_STEP_136,"大盾で受けたダメージは、攻力に変換し
 《フォースゲージ》にストックすることができます
 
 フォースを魔法属性に変化させることで
@@ -24,4 +24,4 @@ When using the Attract skill, the stronger the enemy's focus, the more prominent
 
 By transforming the force into a magic attribute, you can enchant allies or perform magic attacks that exploit the enemy's weaknesses.
 
-For a Shield Sage, defense is their offense."
+For a Shield Sage, defense is their offense.",,

@@ -1,36 +1,36 @@
-old,speaker
+old,speaker,english,speaker,english,speaker
 "ぼ、僕に話しかけてるんですか？
 そりゃ、採掘場キャンプ地の件は感謝してるし
-あなたの活躍の話は、嫌と言うほど聞いてます",Finbar
+あなたの活躍の話は、嫌と言うほど聞いてます",Finbar,,Finbar,,Finbar
 "僕の話なんて聞いても仕方ないと思いますけど――
 実はあの一件以来
-村人が襲撃される事件が相次いでいるそうで",Finbar
+村人が襲撃される事件が相次いでいるそうで",Finbar,,Finbar,,Finbar
 "恐らく、魔物の群れのボスをなんとかしないと
 解決しないだろうって――村の人たちは
-好き勝手にウワサしてます",Finbar
+好き勝手にウワサしてます",Finbar,,Finbar,,Finbar
 "覚者さん――あの、お願いがあります
 その魔物を追い払って来てほしいんです
-あなたくらい強い人じゃないと頼めないし――",Finbar
+あなたくらい強い人じゃないと頼めないし――",Finbar,,Finbar,,Finbar
 "また戻って来られると困るので、
 一度も倒れずに、叩きのめしてほしいんです
 もちろん、でき――ますよね？
-すみませんが、よろしくおねがいします",Finbar
+すみませんが、よろしくおねがいします",Finbar,,Finbar,,Finbar
 "覚者さんが良かったらですけど――
 魔物の群れのボスを追い払って来てくれませんか
-一度も倒れずに、圧倒的な力で",Finbar
+一度も倒れずに、圧倒的な力で",Finbar,,Finbar,,Finbar
 "本当にボスなんかいたんですね
 あ、いや、嘘ついたつもりは無くて――
-ただの噂じゃなかったのかと",Finbar
+ただの噂じゃなかったのかと",Finbar,,Finbar,,Finbar
 "用意したお礼がムダにならなくて
 よかったです――
-ありがとうございました",Finbar
+ありがとうございました",Finbar,,Finbar,,Finbar
 "ああっ、覚者さん――
 討伐中に膝をついたみたいですね
 だ、大丈夫ですか？
-侵食胞子にやられちゃってませんか？",Finbar
+侵食胞子にやられちゃってませんか？",Finbar,,Finbar,,Finbar
 "あんなお願いしちゃった僕のせいかな――
 す、すみません
 あの、これ、少しですけど
-お詫びとして受け取ってください",Finbar
-パーティメンバーが死亡状態になりました,The White Dragon
-依頼者からの報酬が下がります,The White Dragon
+お詫びとして受け取ってください",Finbar,,Finbar,,Finbar
+パーティメンバーが死亡状態になりました,The White Dragon,,The White Dragon,,The White Dragon
+依頼者からの報酬が下がります,The White Dragon,,The White Dragon,,The White Dragon

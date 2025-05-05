@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_379","ワールドクエストやボードクエストをこなして
+key,old,new,english,speaker
+TUTORIAL_STEP_379,"ワールドクエストやボードクエストをこなして
 地域の問題解決に貢献すると、エリアでの
 名声値<COL ffdc78>《エリアポイント》</COL>が溜まります
 
@@ -16,8 +16,8 @@ the <COL ffdc78>Area Rank</COL> of the region will increase.
 <COL ffdc78>As the Area Rank increases, 
 changes such as the opening of blocked areas, 
 improvement of support goods, and the appearance 
-of new powerful enemies will occur.</COL>"
-"TUTORIAL_STEP_380","各エリアのランクと現在のポイントは
+of new powerful enemies will occur.</COL>",,
+TUTORIAL_STEP_380,"各エリアのランクと現在のポイントは
 【<KC UI_GAME_MENU>】ゲームメニュー
 《ワールド》の<COL ffdc78>《エリアリスト》</COL>から確認できます
 
@@ -30,8 +30,8 @@ of new powerful enemies will occur.</COL>"
 
 Once you have accumulated enough points, visit the Area Master and choose ""Area Information"". This will increase your area rank.
 
-Complete quests in various areas to increase your area rank and expand your adventure."
-"TUTORIAL_STEP_412","<COL ffdc78>ただし、エリアランクは自身が
+Complete quests in various areas to increase your area rank and expand your adventure.",,
+TUTORIAL_STEP_412,"<COL ffdc78>ただし、エリアランクは自身が
 パーティーリーダーの時にしか
 ランクアップできません</COL>
 
@@ -44,4 +44,4 @@ Complete quests in various areas to increase your area rank and expand your adve
 
 In some cases, clearing Area Quests may be a requirement.
 
-Please note that if you are joining another player's party as a guest, the leader's Area Rank will be reflected."
+Please note that if you are joining another player's party as a guest, the leader's Area Rank will be reflected.",,

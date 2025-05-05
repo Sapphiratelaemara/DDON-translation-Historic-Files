@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_778","一部の石碑の試練をクリアすると
+key,old,new,english,speaker
+TUTORIAL_STEP_778,"一部の石碑の試練をクリアすると
 <COL ffdc78>《英霊の加護》</COL>が得られ、一時的に
 プレイヤーキャラクターの能力を
 強化することが可能です
@@ -13,4 +13,4 @@
 
 The enhancements include various stat boosts and resistance increases, and you can freely choose one from the options presented. 
 
-※This enhancement is only valid within the Epitaph Road and will reset upon moving to a different area."
+※This enhancement is only valid within the Epitaph Road and will reset upon moving to a different area.",,

@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 TUTORIAL_STEP_45,"まずは基本操作です
 
 
@@ -15,7 +15,7 @@ TUTORIAL_STEP_45,"まずは基本操作です
 <COL ffdc78>Sprint: </COL><PADM>Press [<KC DASH>] while moving<KEYM>Double tap movement key
 (By default)</KEYM>
 
-<COL ffdc78>Jump: </COL>[<KC JUMP>]"
+<COL ffdc78>Jump: </COL>[<KC JUMP>]",,
 TUTORIAL_STEP_46,"次にカメラ操作です
 
 
@@ -30,4 +30,4 @@ TUTORIAL_STEP_46,"次にカメラ操作です
 
 <COL ffdc78>Reset View: </COL>[<KC CAMERA_RESET>]
 
-<COL ffdc78>Change View Distance：</COL><PADM>[<KC CAMERA_RESET>]Double click<KEYM>[<ICON MOUSE_WHL_4>up and down]</KEYM>"
+<COL ffdc78>Change View Distance：</COL><PADM>[<KC CAMERA_RESET>]Double click<KEYM>[<ICON MOUSE_WHL_4>up and down]</KEYM>",,

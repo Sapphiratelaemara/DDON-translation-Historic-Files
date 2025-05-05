@@ -1,47 +1,47 @@
-Jp,En,speaker
+Jp,En,speaker,english,speaker,english,speaker
 "白竜様からの力を受け取ったわ
 竜力の恩恵を受けて、形にならなかった
 新しい技をまとめ上げることができたの","I've received power from Lord White Dragon.
 With the dragon's blessing, I've perfected
-techniques that were once formless.",Ringdeel
+techniques that were once formless.",Ringdeel,,Ringdeel,,Ringdeel
 "この技、今回も君に伝授していいか
 私が見極めろってことだよね――","Can I teach you this technique this time?
-It means I have to assess you...",Ringdeel
+It means I have to assess you...",Ringdeel,,Ringdeel,,Ringdeel
 "よし、それじゃあまた私も一緒に
 戦いながら、君の腕前を見せてもらおうかな
 試練の場で落ち合いましょう","Alright, then I'll join you again
 and see your skills in battle.
-Let's meet at the trial grounds.",Ringdeel
+Let's meet at the trial grounds.",Ringdeel,,Ringdeel,,Ringdeel
 "――そうそう
 合流場所の＜<STG 730>＞だけど
 <AREA 9>のエリアランクが
 足りないと入れないから、注意してね","―Oh yeah. About the meeting point <STG 730>,
 you can't enter if your <AREA 9> area rank
-isn't high enough, so be careful.",Ringdeel
+isn't high enough, so be careful.",Ringdeel,,Ringdeel,,Ringdeel
 "それじゃあ今回も一緒に戦いながら
 君の腕前を見せてもらおうかな
 試練の場で落ち合いましょう","Then this time I'll fight alongside you
 and see what you're made of.
-Let's meet at the trial grounds.",Ringdeel
+Let's meet at the trial grounds.",Ringdeel,,Ringdeel,,Ringdeel
 "――そうそう
 合流場所の＜<STG 730>＞だけど
 <AREA 9>のエリアランクが
 足りないと入れないから、注意してね","―Oh yeah. About the meeting point <STG 730>,
 you can't enter if your <AREA 9> area rank
-isn't high enough, so be careful.",Ringdeel
+isn't high enough, so be careful.",Ringdeel,,Ringdeel,,Ringdeel
 "待ってたわ！
 それじゃ、行きましょうか","I've been waiting!
-Alright, let's go.",Ringdeel
-さぁ、敵を見据えて――,"Now, set your sights on the enemy...",Ringdeel
-いた――あれが最初の試練よ,There--that's the first trial.,Ringdeel
-いい感じね、第二の試練の場所へ向かいましょう,"Good, let's head to the second trial.",Ringdeel
-見えた？　あれが第二の試練よ,See that? That's the second trial.,Ringdeel
+Alright, let's go.",Ringdeel,,Ringdeel,,Ringdeel
+さぁ、敵を見据えて――,"Now, set your sights on the enemy...",Ringdeel,,Ringdeel,,Ringdeel
+いた――あれが最初の試練よ,There--that's the first trial.,Ringdeel,,Ringdeel,,Ringdeel
+いい感じね、第二の試練の場所へ向かいましょう,"Good, let's head to the second trial.",Ringdeel,,Ringdeel,,Ringdeel
+見えた？　あれが第二の試練よ,See that? That's the second trial.,Ringdeel,,Ringdeel,,Ringdeel
 "ふふ、誰かと一緒に魔矢を放つっていうのも楽しいね――
 それじゃ、最後の試練へと向かいましょう","Hehe, turns out shooting magick arrows
 with a partner is fun—
-Time to move to the final test.",Ringdeel
+Time to move to the final test.",Ringdeel,,Ringdeel,,Ringdeel
 これが最後の試練よ、いっそう集中して,"Here comes the last challenge—
-give it your full focus.",Ringdeel
+give it your full focus.",Ringdeel,,Ringdeel,,Ringdeel
 "ふふ、やっぱり誰かと一緒に
 魔矢を放つのって新鮮な感覚だわ
 ――さて、ここじゃなんだから、一度
@@ -49,50 +49,50 @@ give it your full focus.",Ringdeel
 loosing magick arrows with a partner
 is wonderfully fresh.
 —Anyway, we shouldn't stay here,
-let's go back to my place.",Ringdeel
+let's go back to my place.",Ringdeel,,Ringdeel,,Ringdeel
 "ふふ、誰かと一緒に魔矢を放つことってないから
 新鮮な気持ちになるわ
 たまにはこういうのもいいものね","How novel - I rarely get to loose magick arrows
 with another. Quite refreshing, really.
-We should do this more often.",Ringdeel
+We should do this more often.",Ringdeel,,Ringdeel,,Ringdeel
 "――さて、ここじゃなんだから、一度
 私の住まいに帰りましょうか","Well, this place won't do -
-Let's return to my dwelling.",Ringdeel
+Let's return to my dwelling.",Ringdeel,,Ringdeel,,Ringdeel
 "うん、すごく鋭くて力強い魔矢だったわ！
 君の魔力が研ぎ澄まされている証拠よ
 この技も、君ならきっと使いこなせるわ
 ぜひ試してみて","That was a very sharp and powerful magick arrow!
 It's proof your magick is refined.
 You'll surely master this technique too.
-Please give it a try.",Ringdeel
+Please give it a try.",Ringdeel,,Ringdeel,,Ringdeel
 "もしかしたら私が扱うよりも
 君が扱う方がサマになる技かもね
 そう思うとちょっと悔しいけど――
 私もより修行を積まなきゃ","Maybe this technique suits you
 better than me. That stings a bit--
-I need to train harder.",Ringdeel
+I need to train harder.",Ringdeel,,Ringdeel,,Ringdeel
 "普段は一人で狩りや研究をしてるけど
 こうして研鑽できる相手がいるって
 やっぱり嬉しいな
 これからも一緒にがんばろうね","I usually hunt and do research alone,
 but having someone to train with like this
 really does make me happy.
-Let’s keep doing our best together.",Ringdeel
+Let’s keep doing our best together.",Ringdeel,,Ringdeel,,Ringdeel
 エルフが残した弓術、その輝きは褪せないわ,"The archery the elves left behind
-hasn't lost its brilliance.",Ringdeel
-霊弓に捉えられない的はないわよ,No target escapes the magick bow.,Ringdeel
+hasn't lost its brilliance.",Ringdeel,,Ringdeel,,Ringdeel
+霊弓に捉えられない的はないわよ,No target escapes the magick bow.,Ringdeel,,Ringdeel,,Ringdeel
 念じることで魔矢は癒しの力にもなる、それを忘れないでね,"Through focus, the magick arrow can
-become a force of healing too. Do not forget this.",Ringdeel
+become a force of healing too. Do not forget this.",Ringdeel,,Ringdeel,,Ringdeel
 仲間がいる時は、彼らの状態にも気を付けてあげて,"When you have companions, 
-pay attention to their condition as well.",Ringdeel
+pay attention to their condition as well.",Ringdeel,,Ringdeel,,Ringdeel
 魔道弓は穿ち、護り、支える――誇り高き武器よ,"The Magick Bow pierces, protects, and supports—
-a proud weapon indeed.",Ringdeel
-狙う敵の数を把握してね,Keep track of how many enemies you're aiming at.,Ringdeel
+a proud weapon indeed.",Ringdeel,,Ringdeel,,Ringdeel
+狙う敵の数を把握してね,Keep track of how many enemies you're aiming at.,Ringdeel,,Ringdeel,,Ringdeel
 狙いを定めて！　より長く見据えるほどに魔矢は強力になるわ,"Take aim! 
 The longer you focus, 
-the more powerful the magick arrow becomes.",Ringdeel
-敵の弱点を見据えて攻撃よ,Strike the enemy's weak points.,Ringdeel
+the more powerful the magick arrow becomes.",Ringdeel,,Ringdeel,,Ringdeel
+敵の弱点を見据えて攻撃よ,Strike the enemy's weak points.,Ringdeel,,Ringdeel,,Ringdeel
 もしここに護るべき仲間がいたら――想像してみて,"Picture this—if you had
-allies here worth defending...",Ringdeel
+allies here worth defending...",Ringdeel,,Ringdeel,,Ringdeel
 集中することで矢の霊的強度を高めるのよ,"By focusing, you can increase the 
-arrow's spiritual strength.",Ringdeel
+arrow's spiritual strength.",Ringdeel,,Ringdeel,,Ringdeel

@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_475","アチーブメントの達成に応じて
+key,old,new,english,speaker
+TUTORIAL_STEP_475,"アチーブメントの達成に応じて
 <COL ffdc78>≪家具レシピ≫</COL>を獲得できます
 
 宿場区のジュリアに話しかけ
@@ -9,8 +9,8 @@
 
 Talk to Julia in the Relay Station District and choose
 ≪Achievements≫
-to see the conditions for getting furniture recipes and to receive them!"
-"TUTORIAL_STEP_476","家具レシピを手に入れることができたら
+to see the conditions for getting furniture recipes and to receive them!",,
+TUTORIAL_STEP_476,"家具レシピを手に入れることができたら
 クラフトルームで家具を作成してみましょう
 
 作成した家具は
@@ -22,4 +22,4 @@ to see the conditions for getting furniture recipes and to receive them!"
 You can install or change the furniture you created by talking to your partner pawn in the ""Arisen's Room"".
 
 
-Set up your favorite furniture and decorate your room!"
+Set up your favorite furniture and decorate your room!",,

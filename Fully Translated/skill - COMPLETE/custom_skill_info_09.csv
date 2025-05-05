@@ -1,4 +1,4 @@
-key,old,new
+key,old,new,english,speaker
 CUSTOM_SKILL_INFO_09_105,"拳を地面に突き立て、自身を囲むように
 柱状の錬成物質を生成する。高所から行うことで
 威力が上昇する。空中でも発動可能
@@ -9,7 +9,7 @@ from high altitudes, the power of the attack rises.
 Can be activated even while in the air.
 <COL ffdc78>LV UP: Increases amount of stakes
 planted upon contact.
-LV.6: Increases the times the pillars raise (1→2).</COL>"
+LV.6: Increases the times the pillars raise (1→2).</COL>",,
 CUSTOM_SKILL_INFO_09_104,"掌を地面に添え、振り上げると同時に
 地を這う錬成物質の波を放つ
 <COL ffdc78>LV UP毎に錬成値の上昇
@@ -20,7 +20,7 @@ up along the ground.
 <COL ffdc78>LV UP: Increases amount of stakes
 planted upon contact.
 LV.6: Increases number of waves (3→5) and adds the
-ability to juggle enemies.</COL>"
+ability to juggle enemies.</COL>",,
 CUSTOM_SKILL_INFO_09_108,"炎、氷、雷の主要３属性を纏った
 錬成式を地面から生成し空中に配置する
 <COL ffdc78>LV UP毎に錬成式の継続時間が延長
@@ -28,7 +28,7 @@ LV.６で聖・闇の２属性追加</COL>","Create an elemental orb that bestow
 three main attributes of fire, ice, or lightning,
 from the ground and place it in the air.
 <COL ffdc78>LV UP: Increases duration of the skill.
-LV.6: Unlocks the final two elements, Holy and Darkness.</COL>"
+LV.6: Unlocks the final two elements, Holy and Darkness.</COL>",,
 CUSTOM_SKILL_INFO_09_109,"乗った者を高所へ跳ね上げる効果を持つ
 錬成式を地面に配置する
 <COL ffdc78>LV UP毎に錬成式の継続時間が延長
@@ -37,7 +37,7 @@ LV.６で空中にも設置可能になり、
 that launches those who jump on it to high altitudes.
 <COL ffdc78>LV UP: Increases duration of the skill.
 LV.6: Allows placement in the air. When placed
-mid-air, you can be launched horizontally.</COL>"
+mid-air, you can be launched horizontally.</COL>",,
 CUSTOM_SKILL_INFO_09_107,"風を纏った錬成物質を生成し配置する
 後退後に風の錬成球を叩くと、風圧が発生する
 <COL ffdc78>LV UP毎に錬成球の継続時間が延長
@@ -46,7 +46,7 @@ Wind pressure is generated when striking the ball
 after placement.
 <COL ffdc78>LV UP: Increases duration of the skill.
 LV.6: Increases range of wind pressure generated
-when struck.</COL>"
+when struck.</COL>",,
 CUSTOM_SKILL_INFO_09_106,"素早く敵との間合いを詰め、錬成杭を打ち込む
 杭を叩くと錬成値が増加する
 <COL ffdc78>LV UP毎に杭の継続時間が延長
@@ -56,7 +56,7 @@ their aggression. If a pile is struck, the amount of
 stakes on it will increase.
 <COL ffdc78>LV UP: Increases duration of the skill.
 LV.6: Increases chase range of skill, and amount of
-alchemical stakes gained upon striking the pile.</COL>"
+alchemical stakes gained upon striking the pile.</COL>",,
 CUSTOM_SKILL_INFO_09_110,"錬成物質で罠を生成する。この罠に敵が
 近付くと自動的に棘が放出され、対象を貫く
 <COL ffdc78>LV UP毎に錬成罠の起動回数増加
@@ -64,7 +64,7 @@ LV.６で棘の本数が増加（１→３）</COL>","Generate a trap from an al
 When enemies approach the trap, pillars spike out
 from it and penetrate them.
 <COL ffdc78>LV UP: Increases number of trap activations.
-LV.6: Increases the number of pillar spikes (1→3).</COL>"
+LV.6: Increases the number of pillar spikes (1→3).</COL>",,
 CUSTOM_SKILL_INFO_09_111,"自身の体を金で覆い、敵の攻撃を遮断する
 さらに攻撃した敵に対し黄金化の異常値を与える
 空中でも発動可能
@@ -73,7 +73,7 @@ LV.６でダウン、拘束中を除きいつでも発動可能</COL>","Coat you
 that attack will build up the ""Gilded"" status abnormality.
 Can be activated even while in the air.
 <COL ffdc78>LV UP: Increases rate of Gilding build-up.
-LV.6: Can activate the skill at anytime except when grabbed.</COL>"
+LV.6: Can activate the skill at anytime except when grabbed.</COL>",,
 CUSTOM_SKILL_INFO_09_112,"敵を直接攻撃し、攻撃対象に付着している錬成物質を
 解放して大爆発を起こす。しがみつき状態から発動可
 <COL ffdc78>LV UP毎に攻撃威力の上昇
@@ -81,14 +81,14 @@ LV.６でヒット数増加／爆発に周囲の敵を巻き込む</COL>","Direc
 target, creating a large explosion. Can be used when climbing.
 <COL ffdc78>LV UP: Increases damage of skill.
 LV.6: Increases number of hits and the surrounding
-enemies are affected by the explosion.</COL>"
+enemies are affected by the explosion.</COL>",,
 CUSTOM_SKILL_INFO_09_113,"垂直に跳び上がり、空中に錬成物質で生成した罠を
 配置する。その後、後方に素早く身を引く
 <COL ffdc78>LV UP毎に罠の攻撃回数上昇
 LV.６で空中でも発動可能</COL>","Jump up and form a trap from an alchemical substance
 in the air. When deployed, quickly launch backwards.
 <COL ffdc78>LV UP: Increases number of trap activations.
-LV.6: Allows activation while mid-air.</COL>"
+LV.6: Allows activation while mid-air.</COL>",,
 CUSTOM_SKILL_INFO_09_114,"放射状に錬成物質の粒を発射する
 近距離で複数ヒットすると敵を弾き飛ばす
 空中でも発動可能
@@ -97,7 +97,7 @@ LV.６で攻撃範囲拡大／ヒット数増加（３→５）</COL>","Shoot al
 If you are close to the enemies, all substances will hit.
 Can be activated in mid-air.
 <COL ffdc78>LV UP: Increases damage.
-LV.6: Increases range and the number of substances (3→5).</COL>"
+LV.6: Increases range and the number of substances (3→5).</COL>",,
 CUSTOM_SKILL_INFO_09_115,"味方へのダメージを無効化し、敵へエリクシルの
 状態異常を付与する支援エリアを生成する
 タイミングよくボタンを押すと展開時間が延長する
@@ -106,20 +106,20 @@ LV.６で最大入力回数が増加し、展開時間が延長</COL>","Generate
 Enemies within the area are affected by your chosen Elixir.
 The duration is greatly increased with correct timing.
 <COL ffdc78>LV UP: Increases debilitation rate.
-LV.6: Number of inputs increased, extending the duration.</COL>"
+LV.6: Number of inputs increased, extending the duration.</COL>",,
 CUSTOM_SKILL_INFO_09_189,"【ＥＸ追加効果】
 ダメージ量が増加
 打ち込まれた錬成杭の錬成値が徐々に増加する
 しがみついた状態で発動可能","EX Additional Effects:
 Increase damage.
 The stake struck by this skill slowly builds up automatically.
-Can be used when climbing."
+Can be used when climbing.",,
 CUSTOM_SKILL_INFO_09_190,"【ＥＸ追加効果】
 錬成杭を打ち込んだ敵へ放った
 エリクシル／アルケム・バーストの
 状態異常値が上昇","EX Additional Effects:
 Increase status effect accumulation when detonating the
-stake struck by this skill using Elixir/Alchemical Burst."
+stake struck by this skill using Elixir/Alchemical Burst.",,
 CUSTOM_SKILL_INFO_09_191,"【ＥＸ追加効果】
 ダメージ量が増加
 黄金化の状態異常を付与
@@ -127,7 +127,7 @@ CUSTOM_SKILL_INFO_09_191,"【ＥＸ追加効果】
 Increase damage.
 Add Gilded status abnormality.
 <COL ff7878>Further increase damage against
-Human/Dragonkin/Alchemized enemies.</COL>"
+Human/Dragonkin/Alchemized enemies.</COL>",,
 CUSTOM_SKILL_INFO_09_192,"【ＥＸ追加効果】
 発動中は物理防御力と魔法防御力が増加しつつ
 攻撃を受けても体勢を崩されにくくなる
@@ -136,7 +136,7 @@ CUSTOM_SKILL_INFO_09_192,"【ＥＸ追加効果】
 Increase physical and magick defense during execution.
 Increase endurance during execution.
 Increase the amount of alchemical substance and blow force.
-Possible to use when being knocked back."
+Possible to use when being knocked back.",,
 CUSTOM_SKILL_INFO_09_229,"【ＥＸ追加効果】
 錬成物質が強化されダメージ量と錬成値が増加
 強化される錬成物質の数は一定確率で変化するが
@@ -145,7 +145,7 @@ May employ strengthened alchemical substances that deal
 more damage and has faster alchemical buildup.
 Normal alchemical substance has a chance to be strengthened.
 If used in conjunction with Counterra Aurum, all substances
-are strengthened."
+are strengthened.",,
 CUSTOM_SKILL_INFO_09_230,"【ＥＸ追加効果】
 錬成物質の生成数と生成速度が増加し
 攻撃距離が延長される
@@ -153,14 +153,14 @@ CUSTOM_SKILL_INFO_09_230,"【ＥＸ追加効果】
 Increase the number of alchemical waves created and
 generation speed.
 Increase attack distance.
-Inflict Physic/Magick Defense Down effects."
+Inflict Physic/Magick Defense Down effects.",,
 CUSTOM_SKILL_INFO_09_231,"【ＥＸ追加効果】
 エンチャントの効果を受けると
 自身のみエンチャント属性の状態異常蓄積値が
 大幅に増加","EX Additional Effects:
 When you receive the enchant from this skill, elemental
-debilitation is greatly increased only on yourself."
+debilitation is greatly increased only on yourself.",,
 CUSTOM_SKILL_INFO_09_232,"【ＥＸ追加効果】
 設置時のみ広範囲にエンチャント効果を付与","EX Additional Effects:
 Grant enchantment to surrounding allies when you place the
-orb."
+orb.",,

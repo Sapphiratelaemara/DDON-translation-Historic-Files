@@ -1,5 +1,5 @@
-"key","old","new"
-"TUTORIAL_STEP_764","＜《証拠》入手イベントについて＞
+key,old,new,english,speaker
+TUTORIAL_STEP_764,"＜《証拠》入手イベントについて＞
 
 諜報活動中、マップ上にマーカーがある場所では
 様々なイベントが発生します
@@ -9,8 +9,8 @@
 
 During intelligence operations, various events will occur at locations marked on the map.
 
-In addition, new changes may occur by progressing through other missions."
-"TUTORIAL_STEP_781","＜イベント：盗み聞きについて＞
+In addition, new changes may occur by progressing through other missions.",,
+TUTORIAL_STEP_781,"＜イベント：盗み聞きについて＞
 
 夜のメガドの路地では、住人たちが
 ヒソヒソと内緒話をしていることがあります
@@ -27,4 +27,4 @@ In the alleys of Megado at night, residents sometimes engage in whispered conver
 If you approach them, you can eavesdrop on their secret talks, but be careful not to get too close and arouse suspicion.
 <COL ffdc78>Let's try to stealthily eavesdrop on the information by hiding effectively.</COL>
 
-Also, when eavesdropping, pay attention to the <COL ffdc78>chat logs</COL>."
+Also, when eavesdropping, pay attention to the <COL ffdc78>chat logs</COL>.",,
