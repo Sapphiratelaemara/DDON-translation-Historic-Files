@@ -1,0 +1,92 @@
+"old","new"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《破斬》で敵を攻撃せよ」","Teachings carved by someone emerge―
+
+""Attack the enemy with Hack."""
+"「<ICON STG_ATTACK_0>を連続して押す」","""Press <ICON STG_ATTACK_0> repeatedly"""
+"「大剣による連撃で敵を攻撃できる
+　初撃を当てることで連続斬りが可能である」","""Allows attacking enemies with an onslaught
+of Greatsword strikes. Landing the first hit
+enables consecutive slashes."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《耐魔の身構え》で敵の攻撃を受けろ」","Teachings carved by someone emerge―
+
+""Stand firm against the foe's attack with Brace."""
+"「<ICON STG_SUB_WEP>または<ICON STG_MAIN_WEP>を押しながら<ICON STG_JUMP>を押して
+　敵の攻撃を受ける」","Press <ICON STG_JUMP> while holding <ICON STG_SUB_WEP> or
+<ICON STG_MAIN_WEP> to take the enemy's attack."
+"「構え中に攻撃を受けることにより
+　反撃の糧となるリベンジゲージを蓄積できる」","""Absorbing attacks while guarding 
+accumulates the Revenge Gauge 
+for counterattacks."""
+"《剛剣の証》を手に入れた！","You have obtained the 《Warrior's Mark》!"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「リベンジゲージ最大時に魔陣斬りで攻撃せよ」","Teachings carved by someone emerge―
+
+""Attack with Savage Lash when 
+the Revenge gauge is full."""
+"「<ICON STG_SUB_WEP>または<ICON STG_MAIN_WEP>を押しながら<ICON STG_JUMP>を押して
+　敵の攻撃を受けてリベンジゲージを貯めた状態で
+　<ICON STG_ATTACK_1>長押し後、離す」","""Hold <ICON STG_SUB_WEP> or <ICON STG_MAIN_WEP>,
+ then press <ICON STG_JUMP> to receive attacks
+ and fill the Revenge Gauge. Hold <ICON STG_ATTACK_1>,
+ then release."""
+"「蓄積した力を一気に解き放つ大技だ
+　渾身の痛撃を敵に見舞うことができる」","""A powerful technique that unleashes stored 
+energy. Deals a devastating blow to enemies."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《魔人斬り》で敵を攻撃せよ」","Teachings carved by someone emerge―
+
+""Attack the enemy with Savage Lash."""
+"「<ICON STG_ATTACK_1>長押し後、離すと発動」","""Hold <ICON STG_ATTACK_1>, then release to activate"""
+"「最も威力の高い剣技のひとつだ
+　発動時にボタンを押下したままで力を溜め、
+　一気に放つことで脅威的な威力を得られる」","""One of the most powerful sword techniques.
+Hold the button during activation to charge power,
+then release it all at once for devastating force."""
+"「リベンジゲージの蓄積量に応じて
+　さらに威力が増大する」","""Damage increases further based on
+ the amount of Revenge Gauge accumulated."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《真・魔人斬り》で敵を攻撃せよ」","Teachings carved by someone emerge―
+
+""Attack the enemy with Indomitable Lash."""
+"「<ICON STG_ATTACK_1>長押し後、貯めが
+　MAX時に離すと発動」","""Hold <ICON STG_ATTACK_1> and release
+ at MAX charge to activate."""
+"「大剣を振り上げて、力を貯めて
+　振り下ろす攻撃で威力が大幅に
+　増大した攻撃を放つ事ができる」","""By raising the Greatsword and storing power,
+ you can unleash a massively enhanced attack
+ with a downward swing."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《魔倒斬り》で敵を攻撃せよ」","Teachings carved by someone emerge―
+
+""Attack the enemy with Inverse Slash."""
+"「しがみつき中に<ICON STG_ATTACK_0>押しっぱなしで発動」","""While clinging, 
+hold down <ICON STG_ATTACK_0> to activate."""
+"「敵にしがみついた状態から力を貯め
+　破壊力のある一撃を放てる
+　リベンジゲージの蓄積量が多いほど
+　威力が増大する攻撃である」","""While clinging to an enemy, you can store power
+and unleash a devastating strike. The more the
+Revenge gauge is accumulated, the greater the
+attack's power becomes."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「カウンター《破斬》で敵を攻撃せよ」","Teachings carved by someone emerge―
+
+""Counter enemy attacks with Hack."""
+"「敵の攻撃にあわせて<ICON STG_ATTACK_0>を連続して押す」","""Press <ICON STG_ATTACK_0> repeatedly
+ in sync with enemy attacks."""
+"「敵の攻撃にあわせて破斬を
+　成功させる事で効率的に
+　リベンジゲージを蓄積可能である」","""Successfully countering with Hack
+ efficiently accumulates the
+ Revenge Gauge."""

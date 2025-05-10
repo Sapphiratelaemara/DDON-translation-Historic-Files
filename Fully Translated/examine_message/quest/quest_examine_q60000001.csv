@@ -1,0 +1,67 @@
+"old","new"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「一つ――敵を《怒り状態》にせよ」","Teachings carved by someone emerge—
+
+""First...put the enemy in an enraged state."""
+"「大型敵に一定以上のダメージを与える」","""Deal significant damage to large enemies."""
+"「巨大な敵を倒すには一人では困難である
+　そのためにパーティーで挑む事が大事で
+　敵を怒らせてスキを作る必要がある」","""Defeating giant enemies alone is difficult.
+That's why it's important to challenge them
+as a party and create openings by enraging them."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「二つ――敵は《揺さぶり》にて崩すべし」","Teachings carved by someone emerge—
+
+""Two—break the enemy with shaking."""
+"「怒り状態の大型敵に近づいて、
+　<ICON STG_TOUCH>でしがみついた状態で<ICON STG_ATTACK_1>を押す」","""Approach a large enemy in an enraged state,
+hold onto it with <ICON STG_TOUCH>, 
+then press <ICON STG_ATTACK_1>."""
+"「怒った敵にしがみつき揺さぶる事で
+　疲れさせてダウン状態に持っていく
+　ことで倒す事ができる」","""By clinging to and shaking an enraged enemy,
+you can exhaust it and bring it down,
+making it possible to defeat."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「五つ――しがみついて《えぐり突き》を仕掛けよ」","Teachings carved by someone emerge—
+
+""Five—cling on and execute Gouge."""
+"「しがみつき中に<ICON STG_ATTACK_0>を押す」","""Press <ICON STG_ATTACK_0> while clinging."""
+"「敵にしがみついてる時でも
+　直接ダメージを与える事ができる」","""You can deal direct damage even
+while clinging to an enemy."""
+"《破攻の証》を手に入れた！","You have obtained the 《Mark of Breaking》!"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「三つ――敵の振り解き攻撃から耐えるべし」","Teachings carved by someone emerge—
+
+""Three—endure the enemy's attempts to shake you off."""
+"「怒り状態の敵にしがみついた状態で
+　振り払いアイコン（黄色）が出たら
+　<ICON STG_TOUCH>を押す」","""While clinging to an enemy in an enraged state,
+when the yellow shake-off warning appears,
+press <ICON STG_TOUCH>."""
+"「怒った敵が振り払い行動が出す時は
+　耐えて回避して揺さぶりを継続できる」","""When an enraged enemy attempts to shake you off,
+endure it to continue shaking them."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「四つ――敵の引き剥がし攻撃から離脱せよ」","Teachings carved by someone emerge—
+
+""Four—avoid the enemy's Struggle attacks."""
+"「怒り状態の敵にしがみつき中に
+　敵の体力ゲージ上にバーストアイコン（赤色）が
+　出たら<ICON UI_DECIDE>or<ICON UI_CANCEL>を押す」","""When clinging to enraged enemies,
+press <ICON UI_DECIDE> or <ICON UI_CANCEL>
+when the red Struggle icon appears on
+their gauge."""
+"「怒り状態の敵はしがみつき中に
+　引き剥がす行動に出る時がある
+　その時はしがみつきから離脱して
+　回避する事が重要である」","""Enraged enemies may try to shake you off
+while you're clinging to them. When this
+happens, break free immediately and
+focus on evasion."""

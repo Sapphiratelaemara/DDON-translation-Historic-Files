@@ -1,0 +1,105 @@
+"old","new"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《闘波の魔眼》で敵を捉えよ」","Teachings carved by someone emerge―
+
+""Lock onto the enemy with Magick Eye: Seeker."""
+"「<ICON STG_SUB_WEP>を押す」","""Press <ICON STG_SUB_WEP>."""
+"「複数の攻撃対象を確定させる技だ
+　構え中に、攻撃したい敵を魔道照準でなぞれ」","""A technique to lock onto multiple targets.
+ While aiming, look at enemies you wish to 
+ attack with the magic targeting reticle."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《助真の魔眼》で味方を捉えよ」","Teachings carved by someone emerge―
+
+""Lock onto your ally with Magick Eye: True Aid."""
+"「<ICON STG_MAIN_WEP>を押す」","""Press <ICON STG_MAIN_WEP>."""
+"「複数の回復対象を確定させる技だ
+　構え中に、回復させたい味方を魔道照準でなぞれ」","""A technique to lock onto multiple targets.
+ While aiming, look at allies you wish to 
+ heal with the magic targeting reticle."""
+"《魔弓の証》を手に入れた！","You have obtained the 《Element Archer's Mark》!"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《闘波の矢》で敵を攻撃せよ」","Teachings carved by someone emerge―
+
+""Attack the enemy with Seeker Arrow."""
+"「<ICON STG_SUB_WEP>を押しながら<STG_SHOT>
+　または<STG_SHOT>を押す」","""Press <STG_SHOT> or 
+<STG_SHOT> while holding down <ICON STG_SUB_WEP>"""
+"「複数の攻撃対象を狙い魔矢で射る技だ
+　捉えた敵の数が多いほど威力は上昇する」","""A technique that shoots multiple targets 
+ with magick arrows. The more enemies struck, 
+ the greater its power becomes."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《助真の矢》を味方に当てよ」","Teachings carved by someone emerge―
+
+""Hit your ally with True Aid Arrow."""
+"「<ICON STG_MAIN_WEP>を押しながら<STG_SHOT>
+　または<STG_SHOT>を押す」","""Press <STG_SHOT> or 
+<STG_SHOT> while holding down <ICON STG_MAIN_WEP>."""
+"「照準で捉えた味方を回復させる技だ
+　捉えた数が多いほど回復量が上昇する」","""A technique that heals allies locked 
+ in the sights. The more targets locked, 
+ the greater the recovery amount."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《癒しの装》を成功させよ」","Teachings carved by someone emerge―
+
+""Successfully activate Healing Shroud."""
+"「<ICON STG_ATTACK_1>を押す」","""Press <ICON STG_ATTACK_1>."""
+"「癒しの装を発動させる事で
+　自身の体力を癒すことができる」","""Activating the Healing Shroud allows
+you to restore your own Health Points."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《魔眼》で敵を捕捉したまま集中し、
+　ジャストタイミングで放て」","Teachings carved by someone emerge――
+
+""Concentrate on the enemy with Magick Eye, 
+and release with perfect timing."""
+"「敵に<ICON STG_SUB_WEP>を押しながら
+　集中ゲージが上がるのを待ち、ゲージが
+　２周目満了のタイミングを狙って魔矢を放て」","""Hold <ICON STG_SUB_WEP> on the enemy and wait
+for the focus gauge to rise. Time your magick
+arrow when the gauge completes its second cycle."""
+"「闘波の矢であれば攻撃力が上昇し、
+　助真の矢であれば味方への回復力が上昇する」","""The Seeker Arrow boosts attack power,
+while the True Aid Arrow enhances healing for allies."""
+"「また、魔眼で捉えた敵の数が多いほど
+　ゲージの上昇速度は上がる」","""Additionally, the more foes you capture 
+within your Magick Eye, 
+the faster the gauge will increase."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「コアポイント検索を成功させよ」","Teachings carved by someone emerge―
+
+""Successfully unmask the foes weakness."""
+"「大型敵に<ICON STG_MAIN_WEP>を押して
+　詠唱カーソル内にとらえる」","""Hold <ICON STG_MAIN_WEP> at the large foe to
+ capture it within your targeting reticle."""
+"「大型敵に敵の弱点を
+　あぶり出す事ができる」","""You can expose the weak points
+of large enemies."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「敵に零距離射撃を成功させよ」","Teachings carved by someone emerge―
+
+""Successfully execute a 
+point-blank shot on the enemy."""
+"「しがみつき中に<ICON STG_ATTACK_0>を押す」","""Press <ICON STG_ATTACK_0> while clinging."""
+"「大きな敵の場合、しがみついた状態の
+　至近距離において攻撃も可能である」","""For large enemies, attacks are possible even
+at point-blank range while clinging to them."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《前蹴り》で敵を蹴り離せ」","Teachings carved by someone emerge―
+
+""Kick the enemy away with a Front Kick."""
+"「<ICON STG_ATTACK_0>を押す」","""Press <ICON STG_ATTACK_0>."""
+"「威力は弱いが、接近した敵から素早く離れられる
+　弓攻撃に有利な間合いを調整できる」","""Weak in power, but allows quick retreat
+from close enemies. Adjust your distance
+to gain an advantage for ranged attacks."""

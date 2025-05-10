@@ -1,0 +1,114 @@
+"old","new"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「五つ――《ヒールオーラ》にて弱点を探れ」","Teachings carved by someone emerge―
+
+""Five―Seek out enemy weak spots via Heal Aura."""
+"「<ICON STG_ATTACK_0>を押し、
+　ヒールオーラ効果内に敵を接触させる」","""Press <ICON STG_ATTACK_0>, then bring the 
+enemy within the healing aura's effect."""
+"「敵の弱点《シークレットコア》をあぶり出す
+　事ができ、他の仲間に敵の狙いどころを
+　伝えることができる」","""Exposes the enemy's weak point, the Secret Core,
+revealing it to all party members"""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「六つ――しがみつきからの
+《ライドヒールオーラ》を展開せよ」","Teachings carved by someone emerge—
+
+""Six—Activate Ride Heal Aura while clinging."""
+"「しがみつき中に<ICON STG_ATTACK_0>を押す、再度押すと解除」","""Press <ICON STG_ATTACK_0> while clinging.
+Press again to cancel."""
+"「しがみつき中にヒールオーラで
+　仲間の回復と敵の弱点発見を同時にできる」","""While clinging, Heal Aura can simultaneously
+heal allies and reveal enemy weaknesses."""
+"《破攻の証》を手に入れた！","You have obtained the 《Mark of Breaking》!"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「一つ――敵を《怒り状態》にせよ」","Teachings carved by someone emerge—
+
+""First...put the enemy in an enraged state."""
+"「大型敵に一定以上のダメージを与える」","""Deal significant damage to large enemies."""
+"「巨大な敵を倒すには一人では困難である
+　そのためにパーティーで挑む事が大事で
+　敵を怒らせてスキを作る必要がある」","""Defeating giant enemies alone is difficult.
+That's why it's important to challenge them
+as a party and create openings by enraging them."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「二つ――敵は《揺さぶり》にて崩すべし」","Teachings carved by someone emerge—
+
+""Two—break the enemy with shaking."""
+"「怒り状態の大型敵に近づいて、
+　<ICON STG_TOUCH>でしがみついた状態で<ICON STG_ATTACK_1>を押す」","""Approach a large enemy in an enraged state,
+hold onto it with <ICON STG_TOUCH>, 
+then press <ICON STG_ATTACK_1>."""
+"「怒った敵にしがみつき揺さぶる事で
+　疲れさせてダウン状態に持っていく
+　ことで倒す事ができる」","""By clinging to and shaking an enraged enemy,
+you can exhaust it and bring it down,
+making it possible to defeat."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「四つ――敵の引き剥がし攻撃から離脱せよ」","Teachings carved by someone emerge—
+
+""Four—avoid the enemy's Struggle attacks."""
+"「怒り状態の敵にしがみつき中に
+　敵の体力ゲージ上にバーストアイコン（赤色）が
+　出たら<ICON UI_DECIDE>or<ICON UI_CANCEL>を押す」","""When clinging to enraged enemies,
+press <ICON UI_DECIDE> or <ICON UI_CANCEL>
+when the red Struggle icon appears on
+their gauge."""
+"「怒り状態の敵はしがみつき中に
+　引き剥がす行動に出る時がある
+　その時はしがみつきから離脱して
+　回避する事が重要である」","""Enraged enemies may try to shake you off
+while you're clinging to them. When this
+happens, break free immediately and
+focus on evasion."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「三つ――敵の振り解き攻撃から耐えるべし」","Teachings carved by someone emerge—
+
+""Three—endure the enemy's attempts to shake you off."""
+"「怒り状態の敵にしがみついた状態で
+　振り払いアイコン（黄色）が出たら
+　<ICON STG_TOUCH>を押す」","""While clinging to an enemy in an enraged state,
+when the yellow shake-off warning appears,
+press <ICON STG_TOUCH>."""
+"「怒った敵が振り払い行動が出す時は
+　耐えて回避して揺さぶりを継続できる」","""When an enraged enemy attempts to shake you off,
+endure it to continue shaking them."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「七つ――しがみつきからの
+《ライドセイントオーラ》を展開せよ」","Teachings carved by someone emerge—
+
+""Seven—Activate Ride Holy Aura while clinging."""
+"「しがみつき中に<ICON STG_MAIN_WEP>を押しながら<ICON STG_TOUCH>を押す、再度押すと解除」","""While clinging, hold <ICON STG_MAIN_WEP>, 
+ then press <ICON STG_TOUCH>.
+ Press again to cancel."""
+"「巨大な敵にしがみついた状態でも
+　セイントオーラで攻撃もできる」","""Even while clinging to a giant enemy,
+you can attack with Holy Aura."""
+"ライドセイントオーラは敵にしがみつき中に攻撃できるぞ","Ride Holy Aura can attack while 
+you're clinging to your enemy."
+"ライドヒールオーラは敵にしがみついて行うスキルで敵が怒り状態だとシークレットコアを発見もできるぞ","Ride Heal Aura can be used while clinging.
+If the enemy is enraged, 
+you can also expose Secret Cores."
+"敵にしがみつき中に敵の体力ゲージ下に出るアイコン（黄）が出たら耐えろ――失敗するとレバガチャで振りほどかれないように注意しろ","While clinging, if a yellow icon appears below
+the enemy's health gauge, endure—if you fail,
+avoid being shaken off by mashing buttons."
+"敵にしがみつき中に敵が体力ゲージ下に出るアイコン（赤）の時に離れろー失敗するとダメージを負うぞ","While clinging, if a red icon appears below
+the enemy's health gauge, let go—
+failure will cause you to take damage."
+"敵を攻撃してダメージを与えろーそうする事で敵を怒らせることができる","Attack the enemy to deal damage—
+doing so can enrage them."
+"敵が怒り中にヒールオーラの発動範囲にいれるとシークレットコアを発見できるぞ","You can expose Secret Cores if an enemy is within 
+the Heal Aura's range while they are enraged."
+"怒り状態の敵にしがみつき揺さぶるんだ――ゲージを０にすると敵が疲労状態になるのでダメージを与えるチャンスだ","Climb onto an enraged enemy and shake them—
+reducing the gauge to 0 exhausts them,
+creating a chance to deal damage."
+"今まで学んだ事を生かして敵を倒せ","Use what you've learned to defeat the enemy."
+"よくやった――あとは最奥にある証を手に入れて試練は終わりだ","Well done—now retrieve the mark at the end 
+to complete the trial."

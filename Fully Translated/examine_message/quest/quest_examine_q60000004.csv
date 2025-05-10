@@ -1,0 +1,49 @@
+"old","new"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《ブラストビット》にて敵を3回当てよ」","Teachings carved by someone emerge―
+
+""Hit the enemy 3 times with Blast Bit."""
+"「<ICON STG_ATTACK_1>を押す」","""Press <ICON STG_ATTACK_1>."""
+"「敵に向かって魔法球を放つ事ができる
+　ボタンを長押しする事で弾数と威力を増大できる」","""You can shoot magic orbs at enemies.
+Holding down the button increases the
+number and power of shots."""
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《ヒールオーラ》で味方に使用せよ」","Teachings carved by someone emerge―
+
+""Use Heal Aura on allies."""
+"「<ICON STG_ATTACK_0>を押す、再度押すと解除」","""Press <ICON STG_ATTACK_0>, press again to cancel."""
+"「発動した範囲に傷ついた仲間を入れる事で
+　自分だけでなく仲間の体力も回復できる
+　ただし回復は体力の白いゲージ幅までである」","""Injured allies within the activated area will
+ recover HP, not just you. Recovery is limited
+ to the white gauge portion of their HP."""
+"「また使用中はスタミナが消費するので
+　状況を見てキャンセルも可能である」","""Stamina is consumed while active, so you can
+ cancel it depending on the situation."""
+"《浄化の証》を手に入れた！","You have obtained the 《Priest's Mark》!"
+"何者かが刻んだ教えの言葉が浮かび上がっている――
+
+「《セイントオーラ》を展開して敵を攻撃せよ」","Teachings carved by someone emerge―
+
+""Attack the enemy with Holy Aura."""
+"「<ICON STG_MAIN_WEP>を押しながら<ICON STG_TOUCH>を押す、再度押すと解除」","""Hold <ICON STG_MAIN_WEP>, then press <ICON STG_TOUCH>.
+ Press again to cancel."""
+"「展開された魔法波の範囲内に
+　敵が入ると聖属性ダメージを与える事ができる
+　複数の敵に対しても有効である」","""When an enemy enters the range of the aura, 
+Holy Attribute damage will be dealt.
+It is effective against multiple enemies."""
+"　ブラストピットの攻撃は自動追尾で敵に当てることができるぞ","Blast Bit's attacks can automatically 
+track and hit enemies."
+"ヒールオーラで発動した光の範囲内に仲間を入れることで回復できるぞ","Allies recover HP when standing
+inside Heal Aura's glowing
+area of effect."
+"発動したセイントサークルは発動中スタミナが減るから注意して使え","Holy Aura consumes stamina while active, 
+so use it carefully."
+"最後の仕上げだ――最奥のゴブリンを今までの課題を生かして全滅させるんだ","The final test—use what you've learned to
+ eliminate all the goblins at the far end."
+"よくやった――最奥にある証を探して試練は終わりだ","Well done—find the mark at the end
+ to complete the trial."
