@@ -2900,7 +2900,7 @@ ui\00_message\pw\pwtlk06.gmd",,,,
 ui\00_message\pw\pwtlk06.gmd",,,,
 ,"庭に何かいますよ！
 ふふ、可愛いな～！","There's something in the garden!
-Hehe, how cute~!","
+Hehe, how cute～!","
 ui\00_message\pw\pwtlk06.gmd",,,,
 ,こうかな？　あっ――入れ過ぎたかも――,Like this?　I think I may have put too much in.,"
 ui\00_message\pw\pwtlk06.gmd",,,,
@@ -3436,7 +3436,7 @@ ui\00_message\pw\pwtlk08.gmd",,,,
 ,何があっても、マスターの側にいるわ,"No matter what happens, I'll stay by your side, Master.","
 ui\00_message\pw\pwtlk08.gmd",,,,
 ,"あたし、もっとマスターのお役にたちたいの
-ねぇ――“お願い”聞いてくれないかしら","Hey--could you do me a favor?
+ねぇ――"お願い"聞いてくれないかしら","Hey--could you do me a favor?
 I want to be of more help to the master.","
 ui\00_message\pw\pwtlk08.gmd",,,,
 ,"マスター、この新しい力で
@@ -3571,7 +3571,7 @@ ui\00_message\pw\pwtlk07.gmd",,,,
 ui\00_message\pw\pwtlk07.gmd",,,,
 ,覚者様、今回のエリア探索は大収穫ですぜ！,"Dear Arisen, this exploration of the area has been a great success!","
 ui\00_message\pw\pwtlk07.gmd",,,,
-,ふーむ、ん？　ん～――,"Hmm, huh? Hmm~","
+,ふーむ、ん？　ん～――,"Hmm, huh? Hmm～","
 ui\00_message\pw\pwtlk07.gmd",,,,
 ,おっ、覚者様！　庭に何かいますぜ！,"Oh, Master Arisen!　There's something in the garden!","
 ui\00_message\pw\pwtlk07.gmd",,,,
@@ -6089,7 +6089,7 @@ common_level,レベル,Level,"common_level
 ui\00_message\ui\common_message.gmd",,,,
 common_mymsg,マイ定型文セット,My Phrase,"common_mymsg
 ui\00_message\ui\common_message.gmd",,,,
-common_above,～,~,"common_above
+common_above,～,～,"common_above
 ui\00_message\ui\common_message.gmd",,,,
 common_open_bracket,(,(,"common_open_bracket
 ui\00_message\ui\common_message.gmd",,,,
@@ -7295,20 +7295,20 @@ ui\00_message\npc\base\n0001.gmd",,,,
 彼の地の竜力は焼けた匂いがする","Hmm... The smell has changed. 
 The dragon force of this land smells burnt.","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"“悪しき竜”の気配はないか――
+,""悪しき竜"の気配はないか――
 気の乱れを見逃すなよ","No sign of the evil dragon...
 ","
 ui\00_message\npc\base\n0001.gmd",,,,
 ,"王子は、黒い竜に倒されたとする火竜と
 如何ほどの時を過ごしたのだろうか――","How much time did the prince spend with the fire dragon, who was supposedly slain by the black dragon?","
 ui\00_message\npc\base\n0001.gmd",,,,
-,“悪しき竜”からの接触はないのか？,"No contact from the ""evil dragon""?","
+,"悪しき竜"からの接触はないのか？,"No contact from the ""evil dragon""?","
 ui\00_message\npc\base\n0001.gmd",,,,
 ,"アッカーシェランの習わしでは
 王子が竜を継ぐはずだ","According to Acre Selund custom,
 the prince is supposed to inherit the dragon.","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"おまえが“悪しき竜”ならどうする
+,"おまえが"悪しき竜"ならどうする
 野放しにしておくだろうか――","What if you were an ""evil dragon""?
 I wouldn't let it run wild.","
 ui\00_message\npc\base\n0001.gmd",,,,
@@ -7318,48 +7318,48 @@ ui\00_message\npc\base\n0001.gmd",,,,
 and teach them the path of the Arisen,
 there is no one else but you.","
 ui\00_message\npc\base\n0001.gmd",,,,
-,“悪しき竜”の目的が見えぬ,"The purpose of the ""evil dragon"" is unclear","
+,"悪しき竜"の目的が見えぬ,"The purpose of the ""evil dragon"" is unclear","
 ui\00_message\npc\base\n0001.gmd",,,,
 ,"よもやとは思うが――
 ネド王子の言動に気をつけるがよい","While it may seem unlikely, it is advisable to be wary of Prince Nedo's demeanor and actions.","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"“悪しき竜”が竜力を手放すとは思えん
+,""悪しき竜"が竜力を手放すとは思えん
 となれば力尽くで奪うことになるのだろうか
 果たして可能だろうか――","I find it hard to believe that the ""evil dragon"" would willingly relinquish its power.
 If that is the case, would it be possible to forcefully take it with all our strength?
 Is it truly feasible...?","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"“悪しき竜”が持つ竜力の行方が
+,""悪しき竜"が持つ竜力の行方が
 アッカーシェランの未来を決めることに
 なるだろう","The whereabouts of the ""Evil Dragon"" and its Dragon Force will determine the future of Acre Selund.","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"“悪しき竜”の思惑がどうであれ
+,""悪しき竜"の思惑がどうであれ
 その竜力はネド王子が継承可能となれば
 目指す道はひとつだな","Regardless of the motives of the ""Evil Dragon"",
 if Prince Nedo becomes capable of inheriting the Dragon Force,
 there is only one path to pursue.","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"“悪しき竜”にはおごりがあるようだ
+,""悪しき竜"にはおごりがあるようだ
 まるで人間のようだな
 それがあやつの弱点かもしれない","It seems that the ""Evil Dragon"" is conceited,
 just like a human
 That could be its weakness","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"“悪しき竜”にはおごりがあるようだ
+,""悪しき竜"にはおごりがあるようだ
 まるで人間のようだな
 それがあやつの弱点かもしれない","It seems that the ""Evil Dragon"" is conceited,
 just like a human
 That could be its weakness","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"大きな戦いの時は“悪しき竜”の動向に
+,"大きな戦いの時は"悪しき竜"の動向に
 気を配るのだ","In the great battle, you must watch out for the ""evil dragon.""","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"おまえたちの勝利は“悪しき竜”の思惑に
+,"おまえたちの勝利は"悪しき竜"の思惑に
 どう影響するのか――",How will your victory affect the evil dragon's agenda...,"
 ui\00_message\npc\base\n0001.gmd",,,,
 ,そろそろ姿を現すかもしれないぞ,Maybe they'll show themselves soon.,"
 ui\00_message\npc\base\n0001.gmd",,,,
-,"いよいよ“悪しき竜”の本拠を目指すと聞く
+,"いよいよ"悪しき竜"の本拠を目指すと聞く
 気の変化を見逃すなよ","I hear you're finally heading to the home of the ""evil dragons""
 Keep an eye out for disturbances in nature.","
 ui\00_message\npc\base\n0001.gmd",,,,
@@ -7397,7 +7397,7 @@ ui\00_message\npc\base\n0001.gmd",,,,
 そうは思わないか？","The prince's actions are filled with confidence and conviction.
 Don't you think so?","
 ui\00_message\npc\base\n0001.gmd",,,,
-,“悪しき竜”はまだ動かぬか――,"The ""Evil Dragon"" has not yet moved.","
+,"悪しき竜"はまだ動かぬか――,"The ""Evil Dragon"" has not yet moved.","
 ui\00_message\npc\base\n0001.gmd",,,,
 ,"王子の持つ笛とはいかなる理が
 はたらくものなのだろうか――","What logic is there in knowing that the prince has a flute...
@@ -7410,7 +7410,7 @@ ui\00_message\npc\base\n0001.gmd",,,,
 理に傷を付け何を求めるのか――","The enemy's aim is unclear--
 What do they seek by undermining order?--","
 ui\00_message\npc\base\n0001.gmd",,,,
-,"“悪しき竜”をよく見ておいてくれ
+,""悪しき竜"をよく見ておいてくれ
 同じことがこの地に起こらないとは
 言えないからな","Be sure to take a good look at the 'Evil Dragon,' as we cannot say for certain that the same thing will not happen in this land.","
 ui\00_message\npc\base\n0001.gmd",,,,
@@ -8059,7 +8059,7 @@ ui\00_message\npc\base\n0003.gmd",,,,
 敵の警戒も厳しくなるだろうね","Prince Nedo and the liberation army have joined forces
 Enemy vigilance will also intensify, I suppose.","
 ui\00_message\npc\base\n0003.gmd",,,,
-,"アッカーシェランで“悪しき竜”との
+,"アッカーシェランで"悪しき竜"との
 全面戦争が始まるのかな","Is a full-scale war against the ""Evil Dragon"" about to begin in Acre Selund?","
 ui\00_message\npc\base\n0003.gmd",,,,
 ,"アッカーシェランとも、フィンダムのような
@@ -8073,7 +8073,7 @@ ui\00_message\npc\base\n0003.gmd",,,,
 Please do not forget that.","
 ui\00_message\npc\base\n0003.gmd",,,,
 ,"ひとつだけわかったのは――
-“悪しき竜”はすぐに君たちを亡き者に
+"悪しき竜"はすぐに君たちを亡き者に
 するつもりはないということ","The only thing I understood is that the ""Evil Dragon"" has no intention of taking you out immediately.","
 ui\00_message\npc\base\n0003.gmd",,,,
 ,これは悪くない事だと思うよ,I think this is not a bad thing.,"
@@ -8091,7 +8091,7 @@ ui\00_message\npc\base\n0003.gmd",,,,
 How about taking a walk for a change of mood?","
 ui\00_message\npc\base\n0003.gmd",,,,
 ,"奪回した城を拠点に力を蓄えて
-“悪しき竜”の討伐を目指すのだよね？","To gather strength at the recaptured castle
+"悪しき竜"の討伐を目指すのだよね？","To gather strength at the recaptured castle
 and aim to defeat the ""Evil Dragon,"" right?","
 ui\00_message\npc\base\n0003.gmd",,,,
 ,"道のりはまだまだありそうだから
@@ -8163,7 +8163,7 @@ I wonder what expression they will have
 when they return to their comrades.
 I wonder if they haven't thought about it much.","
 ui\00_message\npc\base\n0003.gmd",,,,
-,火垂れ山は“悪しき竜”の住み処だよね,"Firefall Mountain is the dwelling place of the ""Evil Dragon,"" right?","
+,火垂れ山は"悪しき竜"の住み処だよね,"Firefall Mountain is the dwelling place of the ""Evil Dragon,"" right?","
 ui\00_message\npc\base\n0003.gmd",,,,
 ,"いつ襲撃されてもおかしくないから
 四方八方、気を抜かないようにね","Since we could be attacked at any time, let's stay on high alert in all directions","
@@ -8177,7 +8177,7 @@ ui\00_message\npc\base\n0003.gmd",,,,
 ,"早くアッカーシェランへ向かった方がいいよ
 状況は王子の動き次第で変わるんだから",It would be better to quickly head towards Acre Selund; the situation can change depending on the prince's movements.,"
 ui\00_message\npc\base\n0003.gmd",,,,
-,"“悪しき竜”は力だけを与えられた子供――
+,""悪しき竜"は力だけを与えられた子供――
 そんなふうに考えられないかな？","Can't we consider the ""Evil Dragon"" as a child who has been bestowed with power alone?","
 ui\00_message\npc\base\n0003.gmd",,,,
 ,"力だけで知識も経験も与えられなかったから
@@ -8614,7 +8614,7 @@ ui\00_message\npc\base\n0004.gmd",,,,
 ui\00_message\npc\base\n0004.gmd",,,,
 ,次の動きが気になるところだな,I'm curious about the next move.,"
 ui\00_message\npc\base\n0004.gmd",,,,
-,"“悪しき竜”の討伐が解放軍の目的とすれば
+,""悪しき竜"の討伐が解放軍の目的とすれば
 次はいかなる道を進むのか――","If the goal of the Liberation Army is to defeat the ""evil dragon,""
 what path will it take next?","
 ui\00_message\npc\base\n0004.gmd",,,,
@@ -8634,7 +8634,7 @@ ui\00_message\npc\base\n0004.gmd",,,,
 しのぎきれば未来は明るいぞ","General Meirova is also likely taking measures
 If we endure, the future will be bright","
 ui\00_message\npc\base\n0004.gmd",,,,
-,"“悪しき竜”め！
+,""悪しき竜"め！
 アッカーシェランの次はこのレスタニア――","""Evil Dragon,"" beware!
 After Acre Selund, is Lestania--","
 ui\00_message\npc\base\n0004.gmd",,,,
@@ -8642,13 +8642,13 @@ ui\00_message\npc\base\n0004.gmd",,,,
 思い上がりも甚だしいわい","If that's your intention,
 it's extremely presumptuous.","
 ui\00_message\npc\base\n0004.gmd",,,,
-,"“悪しき竜”の言葉を文字通りに信じても
+,""悪しき竜"の言葉を文字通りに信じても
 良いのだろうか","Can we take the words of the ""Evil Dragon"" literally?
 I don't know if I believe it.","
 ui\00_message\npc\base\n0004.gmd",,,,
 ,あぁ――疑念の沼は底なしだな,Ah--the swamp of doubt is bottomless.,"
 ui\00_message\npc\base\n0004.gmd",,,,
-,"“悪しき竜”の言葉を文字通りに信じても
+,""悪しき竜"の言葉を文字通りに信じても
 良いのだろうか","Can we take the words of the ""Evil Dragon"" literally?
 I don't know if I believe it.","
 ui\00_message\npc\base\n0004.gmd",,,,
@@ -8668,7 +8668,7 @@ I'm sure the liberation army is very happy to see you.","
 ui\00_message\npc\base\n0004.gmd",,,,
 ,想像するとわたしまで頬が緩むわ,I can't help but smile when I think about it.,"
 ui\00_message\npc\base\n0004.gmd",,,,
-,"“悪しき竜”が絶望の大陸と呼んだ
+,""悪しき竜"が絶望の大陸と呼んだ
 アッカーシェランの状況は大いに変わった","The ""Evil Dragon"" referred to as the Land of Despair.
 The situation of Acre Selund has greatly changed.","
 ui\00_message\npc\base\n0004.gmd",,,,
@@ -8678,7 +8678,7 @@ ui\00_message\npc\base\n0004.gmd",,,,
 黒い鎧の騎士でいっぱいだ","You guys are the same, right? But inside my head,
 it's filled with black-clad knights.","
 ui\00_message\npc\base\n0004.gmd",,,,
-,"“悪しき竜”といい黒い騎士といい
+,""悪しき竜"といい黒い騎士といい
 姿を見せずに我々を翻弄するとは――
 なんと卑劣な者たちだ","""Evil Dragon"" and the black knight, for that matter,
 To manipulate us without showing their true forms—
@@ -11240,7 +11240,7 @@ Here's a spell that will help you have good dreams--",,,,,
 ,へぇ～――　ふぅん――,"Oh, wow-- hmmm--",,,,,
 ,"庭に何かいますよ！
 ふふ、可愛いな～！","There's something in the garden!
-Hehe, how cute~!",,,,,
+Hehe, how cute～!",,,,,
 ,こうかな？　あっ――入れ過ぎたかも――,Like this?　I think I may have put too much in.,,,,,
 ,やったぁ！　こういうの欲しかったんです！,Yay!　I wanted something like this!,,,,,
 ,これで覚者さまをばっちりお守りしますからね！,"With this, we will protect the Arisen perfectly, you know!",,,,,
@@ -11534,7 +11534,7 @@ Perhaps there's a chance for you.",,,,,
 ,掘り出し物、見つかるといいわね,Good luck finding a bargain.,,,,,
 ,何があっても、マスターの側にいるわ,"No matter what happens, I'll stay by your side, Master.",,,,,
 ,"あたし、もっとマスターのお役にたちたいの
-ねぇ――“お願い”聞いてくれないかしら","Hey--could you do me a favor?
+ねぇ――"お願い"聞いてくれないかしら","Hey--could you do me a favor?
 I want to be of more help to the master.",,,,,
 ,"マスター、この新しい力で
 いままで以上にあなたに尽くすつもりよ
@@ -11606,7 +11606,7 @@ The enemy won't run away.",,,,,
 ,へぇ、模様替えってのもいいもんですね,"Wow, it's nice to redecorate, isn't it?",,,,,
 ,先ほどエリア探索から戻りました,I just returned from exploring the area.,,,,,
 ,覚者様、今回のエリア探索は大収穫ですぜ！,"Dear Arisen, this exploration of the area has been a great success!",,,,,
-,ふーむ、ん？　ん～――,"Hmm, huh? Hmm~",,,,,
+,ふーむ、ん？　ん～――,"Hmm, huh? Hmm～",,,,,
 ,おっ、覚者様！　庭に何かいますぜ！,"Oh, Master Arisen!　There's something in the garden!",,,,,
 ,よし　これくらいか――,"Alright, this should be enough--",,,,,
 ,これで大暴れしてみせますぜ,I'm going to go on a rampage with this.,,,,,
@@ -13000,7 +13000,7 @@ according to enemy condition",pawn_growtalk_title_010,,,,
 ,名前,Name,common_name,,,,
 ,レベル,Level,common_level,,,,
 ,マイ定型文セット,My Phrase,common_mymsg,,,,
-,～,~,common_above,,,,
+,～,～,common_above,,,,
 ,(,(,common_open_bracket,,,,
 ,),),common_close_bracket,,,,
 ,★,★,common_grade,,,,
@@ -13685,16 +13685,16 @@ What is going to happen--?",,,,,
 ,"ふむ――匂いが変わったな
 彼の地の竜力は焼けた匂いがする","Hmm... The smell has changed. 
 The dragon force of this land smells burnt.",,,,,
-,"“悪しき竜”の気配はないか――
+,""悪しき竜"の気配はないか――
 気の乱れを見逃すなよ","No sign of the evil dragon...
 ",,,,,
 ,"王子は、黒い竜に倒されたとする火竜と
 如何ほどの時を過ごしたのだろうか――","How much time did the prince spend with the fire dragon, who was supposedly slain by the black dragon?",,,,,
-,“悪しき竜”からの接触はないのか？,"No contact from the ""evil dragon""?",,,,,
+,"悪しき竜"からの接触はないのか？,"No contact from the ""evil dragon""?",,,,,
 ,"アッカーシェランの習わしでは
 王子が竜を継ぐはずだ","According to Acre Selund custom,
 the prince is supposed to inherit the dragon.",,,,,
-,"おまえが“悪しき竜”ならどうする
+,"おまえが"悪しき竜"ならどうする
 野放しにしておくだろうか――","What if you were an ""evil dragon""?
 I wouldn't let it run wild.",,,,,
 ,"アッカーシェランの幼き覚者を守り
@@ -13702,38 +13702,38 @@ I wouldn't let it run wild.",,,,,
 おまえたちの他にはいない","To protect the young Arisen of Acre Selund,
 and teach them the path of the Arisen,
 there is no one else but you.",,,,,
-,“悪しき竜”の目的が見えぬ,"The purpose of the ""evil dragon"" is unclear",,,,,
+,"悪しき竜"の目的が見えぬ,"The purpose of the ""evil dragon"" is unclear",,,,,
 ,"よもやとは思うが――
 ネド王子の言動に気をつけるがよい","While it may seem unlikely, it is advisable to be wary of Prince Nedo's demeanor and actions.",,,,,
-,"“悪しき竜”が竜力を手放すとは思えん
+,""悪しき竜"が竜力を手放すとは思えん
 となれば力尽くで奪うことになるのだろうか
 果たして可能だろうか――","I find it hard to believe that the ""evil dragon"" would willingly relinquish its power.
 If that is the case, would it be possible to forcefully take it with all our strength?
 Is it truly feasible...?",,,,,
-,"“悪しき竜”が持つ竜力の行方が
+,""悪しき竜"が持つ竜力の行方が
 アッカーシェランの未来を決めることに
 なるだろう","The whereabouts of the ""Evil Dragon"" and its Dragon Force will determine the future of Acre Selund.",,,,,
-,"“悪しき竜”の思惑がどうであれ
+,""悪しき竜"の思惑がどうであれ
 その竜力はネド王子が継承可能となれば
 目指す道はひとつだな","Regardless of the motives of the ""Evil Dragon"",
 if Prince Nedo becomes capable of inheriting the Dragon Force,
 there is only one path to pursue.",,,,,
-,"“悪しき竜”にはおごりがあるようだ
+,""悪しき竜"にはおごりがあるようだ
 まるで人間のようだな
 それがあやつの弱点かもしれない","It seems that the ""Evil Dragon"" is conceited,
 just like a human
 That could be its weakness",,,,,
-,"“悪しき竜”にはおごりがあるようだ
+,""悪しき竜"にはおごりがあるようだ
 まるで人間のようだな
-それがあやつの弱点かもしれない","“悪しき竜”にはおごりがあるようだ
+それがあやつの弱点かもしれない",""悪しき竜"にはおごりがあるようだ
 まるで人間のようだな
 それがあやつの弱点かもしれない",,,,,
-,"大きな戦いの時は“悪しき竜”の動向に
+,"大きな戦いの時は"悪しき竜"の動向に
 気を配るのだ","In the great battle, you must watch out for the ""evil dragon.""",,,,,
-,"おまえたちの勝利は“悪しき竜”の思惑に
+,"おまえたちの勝利は"悪しき竜"の思惑に
 どう影響するのか――",How will your victory affect the evil dragon's agenda...,,,,,
 ,そろそろ姿を現すかもしれないぞ,Maybe they'll show themselves soon.,,,,,
-,"いよいよ“悪しき竜”の本拠を目指すと聞く
+,"いよいよ"悪しき竜"の本拠を目指すと聞く
 気の変化を見逃すなよ","I hear you're finally heading to the home of the ""evil dragons""
 Keep an eye out for disturbances in nature.",,,,,
 ,"黒い鎧の騎士――
@@ -13759,7 +13759,7 @@ Here, I'm all right now.",,,,,
 ,"王子の行動は自信と確信に満ちている
 そうは思わないか？","The prince's actions are filled with confidence and conviction.
 Don't you think so?",,,,,
-,“悪しき竜”はまだ動かぬか――,"The ""Evil Dragon"" has not yet moved.",,,,,
+,"悪しき竜"はまだ動かぬか――,"The ""Evil Dragon"" has not yet moved.",,,,,
 ,"王子の持つ笛とはいかなる理が
 はたらくものなのだろうか――","What logic is there in knowing that the prince has a flute...
 I wonder if it works",,,,,
@@ -13768,7 +13768,7 @@ I wonder if it works",,,,,
 ,"敵の狙いが見えぬ――
 理に傷を付け何を求めるのか――","The enemy's aim is unclear--
 What do they seek by undermining order?--",,,,,
-,"“悪しき竜”をよく見ておいてくれ
+,""悪しき竜"をよく見ておいてくれ
 同じことがこの地に起こらないとは
 言えないからな","Be sure to take a good look at the 'Evil Dragon,' as we cannot say for certain that the same thing will not happen in this land.",,,,,
 ,"大切な話がある
@@ -14259,7 +14259,7 @@ be careful with your words and actions.",,,,,
 ,"ネド王子と解放軍が合流したんだ
 敵の警戒も厳しくなるだろうね","Prince Nedo and the liberation army have joined forces
 Enemy vigilance will also intensify, I suppose.",,,,,
-,"アッカーシェランで“悪しき竜”との
+,"アッカーシェランで"悪しき竜"との
 全面戦争が始まるのかな","Is a full-scale war against the ""Evil Dragon"" about to begin in Acre Selund?",,,,,
 ,"アッカーシェランとも、フィンダムのような
 友好的な関係になれるといいね","I hope we can establish a friendly relationship with Acre Selund, just like with Phindym.",,,,,
@@ -14269,7 +14269,7 @@ Enemy vigilance will also intensify, I suppose.",,,,,
 それを忘れないでくれ","You yourselves also have hope,
 Please do not forget that.",,,,,
 ,"ひとつだけわかったのは――
-“悪しき竜”はすぐに君たちを亡き者に
+"悪しき竜"はすぐに君たちを亡き者に
 するつもりはないということ","The only thing I understood is that the ""Evil Dragon"" has no intention of taking you out immediately.",,,,,
 ,これは悪くない事だと思うよ,I think this is not a bad thing.,,,,,
 ,"今のジョゼフ様は猜疑心の塊だよ
@@ -14282,7 +14282,7 @@ Please do not forget that.",,,,,
 気分転換に散歩でもどうだい？","Lestania is a peaceful place.
 How about taking a walk for a change of mood?",,,,,
 ,"奪回した城を拠点に力を蓄えて
-“悪しき竜”の討伐を目指すのだよね？","To gather strength at the recaptured castle
+"悪しき竜"の討伐を目指すのだよね？","To gather strength at the recaptured castle
 and aim to defeat the ""Evil Dragon,"" right?",,,,,
 ,"道のりはまだまだありそうだから
 じっくり行かないとね","The journey seems to still have a long way to go,
@@ -14335,7 +14335,7 @@ It's in his nature to suspect others.",,,,,
 I wonder what expression they will have
 when they return to their comrades.
 I wonder if they haven't thought about it much.",,,,,
-,火垂れ山は“悪しき竜”の住み処だよね,"Firefall Mountain is the dwelling place of the ""Evil Dragon,"" right?",,,,,
+,火垂れ山は"悪しき竜"の住み処だよね,"Firefall Mountain is the dwelling place of the ""Evil Dragon,"" right?",,,,,
 ,"いつ襲撃されてもおかしくないから
 四方八方、気を抜かないようにね","Since we could be attacked at any time, let's stay on high alert in all directions",,,,,
 ,行ったり来たり、ご苦労だね,"Going back and forth, you've had it tough.",,,,,
@@ -14344,7 +14344,7 @@ I wonder if they haven't thought about it much.",,,,,
 But lately ―― ah, I guess I've also gotten older",,,,,
 ,"早くアッカーシェランへ向かった方がいいよ
 状況は王子の動き次第で変わるんだから",It would be better to quickly head towards Acre Selund; the situation can change depending on the prince's movements.,,,,,
-,"“悪しき竜”は力だけを与えられた子供――
+,""悪しき竜"は力だけを与えられた子供――
 そんなふうに考えられないかな？","Can't we consider the ""Evil Dragon"" as a child who has been bestowed with power alone?",,,,,
 ,"力だけで知識も経験も与えられなかったから
 釣り合いが取れなくて――
@@ -14669,7 +14669,7 @@ Take care.",,,,,
 ,"当面の目的であったネド王子の救出は
 思惑通りに終わったわけだが――","The rescue mission of Prince Nedo, which was the immediate objective, has ended as planned.",,,,,
 ,次の動きが気になるところだな,I'm curious about the next move.,,,,,
-,"“悪しき竜”の討伐が解放軍の目的とすれば
+,""悪しき竜"の討伐が解放軍の目的とすれば
 次はいかなる道を進むのか――","If the goal of the Liberation Army is to defeat the ""evil dragon,""
 what path will it take next?",,,,,
 ,"協力を惜しむ必要はないが
@@ -14683,18 +14683,18 @@ but don't forget about the benefit of Lestania.",,,,,
 ,"メイロワ将軍も策を講じていることだろう
 しのぎきれば未来は明るいぞ","General Meirova is also likely taking measures
 If we endure, the future will be bright",,,,,
-,"“悪しき竜”め！
+,""悪しき竜"め！
 アッカーシェランの次はこのレスタニア――","""Evil Dragon,"" beware!
 After Acre Selund, is Lestania--",,,,,
 ,"それが狙いだというのなら
 思い上がりも甚だしいわい","If that's your intention,
 it's extremely presumptuous.",,,,,
-,"“悪しき竜”の言葉を文字通りに信じても
+,""悪しき竜"の言葉を文字通りに信じても
 良いのだろうか","Can we take the words of the ""Evil Dragon"" literally?
 I don't know if I believe it.",,,,,
 ,あぁ――疑念の沼は底なしだな,Ah--the swamp of doubt is bottomless.,,,,,
-,"“悪しき竜”の言葉を文字通りに信じても
-良いのだろうか","“悪しき竜”の言葉を文字通りに信じても
+,""悪しき竜"の言葉を文字通りに信じても
+良いのだろうか",""悪しき竜"の言葉を文字通りに信じても
 良いのだろうか",,,,,
 ,あぁ――疑念の沼は底なしだな,あぁ――疑念の沼は底なしだな,,,,,
 ,"言うまでもないことだろうが――
@@ -14707,14 +14707,14 @@ you must refrain from reckless behavior.",,,,,
 解放軍の面々はさぞ喜んでいるだろう","The fulfillment of the long-held dream of regaining the castle that was taken from us
 I'm sure the liberation army is very happy to see you.",,,,,
 ,想像するとわたしまで頬が緩むわ,I can't help but smile when I think about it.,,,,,
-,"“悪しき竜”が絶望の大陸と呼んだ
+,""悪しき竜"が絶望の大陸と呼んだ
 アッカーシェランの状況は大いに変わった","The ""Evil Dragon"" referred to as the Land of Despair.
 The situation of Acre Selund has greatly changed.",,,,,
 ,こうなると奴の沈黙が不気味だな,"When it comes to this, his silence is eerie.",,,,,
 ,"おまえたちも同じだろうが、わたしの頭の中は
 黒い鎧の騎士でいっぱいだ","You guys are the same, right? But inside my head,
 it's filled with black-clad knights.",,,,,
-,"“悪しき竜”といい黒い騎士といい
+,""悪しき竜"といい黒い騎士といい
 姿を見せずに我々を翻弄するとは――
 なんと卑劣な者たちだ","""Evil Dragon"" and the black knight, for that matter,
 To manipulate us without showing their true forms—

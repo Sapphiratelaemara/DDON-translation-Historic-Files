@@ -245,10 +245,10 @@ old,new,speaker,english,speaker,english,speaker
 覚者さんの役に立つなら――
 分かったこと、全部教えるね",,Esen,,Esen,,Esen
 "奴ら――街を徘徊しているオーク達は
-“何かを探している”みたい",,Esen,,Esen,,Esen
+"何かを探している"みたい",,Esen,,Esen,,Esen
 "街には兵隊さんたちもたくさんいるから
 オークだって動きにくいはずなのに――
-“探しているもの”、よっぽど大切なのかな",,Esen,,Esen,,Esen
+"探しているもの"、よっぽど大切なのかな",,Esen,,Esen,,Esen
 "もしかして、奴らが探しているもの
 覚者さんには――心当たりがある？",,Esen,,Esen,,Esen
 "――――あの、覚者さん
@@ -293,7 +293,7 @@ old,new,speaker,english,speaker,english,speaker
 　　　　　子供たちの良い思い出になる",,Mephis,,Mephis,,Mephis
 "――ふあぁ
 なにかおもしろいことないかなぁ
-“オークからかいゲーム”に行こうかなぁ――",,Child,,Child,,Child
+"オークからかいゲーム"に行こうかなぁ――",,Child,,Child,,Child
 "――へへ、最近ぼくたちの中で流行ってるんだ！
 街のなかでオークを見つけたら
 みんなで色んな方向からからかうの！",,Child,,Child,,Child
@@ -318,7 +318,7 @@ old,new,speaker,english,speaker,english,speaker
 どれにしようかな――？",,Child,,Child,,Child
 うーんと――はいこれ、あげる！,,Child,,Child,,Child
 "知らない大人のひとがくれたの
-“あなたも<NPC 681>さまを尊敬しなさい”って――
+"あなたも<NPC 681>さまを尊敬しなさい"って――
 でもこんなの貰っても、お腹いっぱいにならないもの
 だから、あなたにあげる！",,Child,,Child,,Child
 "――え！？
@@ -339,7 +339,7 @@ old,new,speaker,english,speaker,english,speaker
 あったみたいで――少しは気晴らしになったかな",,Child,,Child,,Child
 "とっても楽しかったよ
 覚者さんは、私たちの初めての
-“大人の友達”――だね！",,Child,,Child,,Child
+"大人の友達"――だね！",,Child,,Child,,Child
 またこの５人で、一緒に遊べたら嬉しいな,,Child,,Child,,Child
 ――助太刀お願いいたします！,,Megado Guard,,Megado Guard,,Megado Guard
 逃げますよ！　被害が出る前に追いましょう！,,Megado Guard,,Megado Guard,,Megado Guard
@@ -366,7 +366,7 @@ old,new,speaker,english,speaker,english,speaker
 気にかけてくださっていたのですか？",,Megado Guard,,Megado Guard,,Megado Guard
 "実はあのオークを逃がした件の後、<NPC 681>侯爵に
 進言に伺ったのですが――
-“証拠が無いため協力できない”と
+"証拠が無いため協力できない"と
 門前払いを食らってしまったのです",,Megado Guard,,Megado Guard,,Megado Guard
 "少なくとも、共に占領中の苦難を味わっていた
 あの頃の<NPC 681>侯爵ならば
@@ -416,7 +416,7 @@ old,new,speaker,english,speaker,english,speaker
 メガド占領時代のナヴィド侯爵ですか――",,Megado Guard,,Megado Guard,,Megado Guard
 "簡単に言うと
 市民から見ても、兵士から見ても
-あの方は “英雄”ですね――",,Megado Guard,,Megado Guard,,Megado Guard
+あの方は "英雄"ですね――",,Megado Guard,,Megado Guard,,Megado Guard
 "オークに占領された後、メガドは地獄でした
 無抵抗な人々が残虐なオークに蹂躙される日々――
 戦おうとした兵は、ことごとく死にました",,Megado Guard,,Megado Guard,,Megado Guard
@@ -447,7 +447,7 @@ old,new,speaker,english,speaker,english,speaker
 ついてこないでください～！,,Muget,,Muget,,Muget
 "なんなんですか、しつこすぎます！！
 まさか、わたしが<STG 473>で手に入れてしまった
-あの“危険すぎるアレ”をもう察知して――？",,Muget,,Muget,,Muget
+あの"危険すぎるアレ"をもう察知して――？",,Muget,,Muget,,Muget
 "わかりました――
 <NPC 681>侯爵に言いつけるならどうぞ！
 煮るなり焼くなり揚げるなり燻すなりしてください！",,Muget,,Muget,,Muget
@@ -460,13 +460,13 @@ old,new,speaker,english,speaker,english,speaker
 "ともかく――
 信じられませんね",,Muget,,Muget,,Muget
 "たとえ本当に侯爵とは無関係だったとしても
-危険を冒して手に入れた“アレ”を
+危険を冒して手に入れた"アレ"を
 よく知りもしない方に見せるって訳には――",,Muget,,Muget,,Muget
 ――――,,Muget,,Muget,,Muget
 "――――
 ――いや、覚者さまなら――",,Muget,,Muget,,Muget
 "わたし、聞いたことがあります
-覚者さまが、“レジスタンス”と関係があると――
+覚者さまが、"レジスタンス"と関係があると――
 そちらの方がメフィスさん、ですね？",,Muget,,Muget,,Muget
 "――そうよ
 覚者さまならきっと――",,Muget,,Muget,,Muget
@@ -511,7 +511,7 @@ old,new,speaker,english,speaker,english,speaker
 "まぁ、剣の心得ならば少々ありますけれど――
 それ以外はあまり期待しすぎないでくださいね
 よろしくおねがいします～",,Muget,,Muget,,Muget
-元王国軍兵士の、通称 “ガクシャ” だな？,,Military Police,,Military Police,,Military Police
+元王国軍兵士の、通称 "ガクシャ" だな？,,Military Police,,Military Police,,Military Police
 "おやおや――
 　　　　　憲兵さんが酔っ払いに何の用です？",,Raksha,,Raksha,,Raksha
 キサマ、レジスタンスと繋がりがあるな？,,Military Police,,Military Police,,Military Police
@@ -555,7 +555,7 @@ old,new,speaker,english,speaker,english,speaker
 グフフフ――――,,Raksha,,Raksha,,Raksha
 "そのオークを、裏切らせる！
 いや――正確には
- “裏切ったと思われている”と錯覚させるんだ",,Raksha,,Raksha,,Raksha
+ "裏切ったと思われている"と錯覚させるんだ",,Raksha,,Raksha,,Raksha
 "つまり、助けに来たオーク軍は
 本当は、助けに来たんじゃない――
 人間どもに寝返った伝令兵を捕えるために
@@ -654,7 +654,7 @@ old,new,speaker,english,speaker,english,speaker
 　　　　　また後日、会いに行ってみよう",,Mephis,,Mephis,,Mephis
 "な――なんなんだコイツは？
 　　　　　怪しすぎる",,Mephis,,Mephis,,Mephis
-"<STG 473>で見つけた、“アレ”――？
+"<STG 473>で見つけた、"アレ"――？
 　　　　　気になるな",,Mephis,,Mephis,,Mephis
 ガクシャが憲兵に捕まるのはまずいぞ！,,Mephis,,Mephis,,Mephis
 "よし、邪魔者はいなくなったな

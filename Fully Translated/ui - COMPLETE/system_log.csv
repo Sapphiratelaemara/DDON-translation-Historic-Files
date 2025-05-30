@@ -361,24 +361,24 @@ syslog_action_summon_enemy01,<NAME TARGET> が魔物を呼び寄せている―�
 syslog_action_summon_enemy_clear,召喚された魔物を一掃した――,Summoned monsters have been eliminated,,
 syslog_action_ensa,怨嗟の声が渦巻いている――,Voice of Resentment is whirling,,
 syslog_action_ensa_target_i,"邪悪な怨念に憑りつかれた
-祓うには、“怨塊”を破壊せよ――","You have been possessed by evil spirits
+祓うには、"怨塊"を破壊せよ――","You have been possessed by evil spirits
 Destroy your Grudge Pillar to purify",,
 syslog_action_ensa_target_p,"仲間が怨念に憑りつかれた
-祓うには、“怨塊”を破壊せよ――","Comrades have been possessed
+祓うには、"怨塊"を破壊せよ――","Comrades have been possessed
 Destroy Grudge Pillars to purify them",,
-syslog_action_ensa_clear,“怨塊”を失い、<NAME TARGET> の力が弱まっていく――,"Grudge Pillars have been destroyed, <NAME TARGET> is weakening",,
+syslog_action_ensa_clear,"怨塊"を失い、<NAME TARGET> の力が弱まっていく――,"Grudge Pillars have been destroyed, <NAME TARGET> is weakening",,
 syslog_action_summon_enemy02,<NAME TARGET> が魔物を召喚しようとしている――,<NAME TARGET> is summoning monsters,,
 syslog_action_ikai_01,<NAME TARGET> が異界に飛ばされた――,<NAME TARGET> was teleported to a different world,,
-syslog_action_ikai_02,“魔物”を倒し、魂を集めて異界の扉を開け――,Defeat monsters and collect their souls to open Door to the Other World,,
-syslog_action_ikai_03,異界から救い出すには、“怨塊”を破壊せよ――,Destroy Grudge Pillars to rescue comrade from the other world,,
+syslog_action_ikai_02,"魔物"を倒し、魂を集めて異界の扉を開け――,Defeat monsters and collect their souls to open Door to the Other World,,
+syslog_action_ikai_03,異界から救い出すには、"怨塊"を破壊せよ――,Destroy Grudge Pillars to rescue comrade from the other world,,
 syslog_action_ikai_04,異界の扉が開かれた――,Door to the Other World has opened,,
-syslog_action_ikai_05,"仲間によって“怨塊”が破壊されたことで
+syslog_action_ikai_05,"仲間によって"怨塊"が破壊されたことで
 異界の扉が開かれた――","Your comrades have destroyed the Grudge Pillars
 and Door to the Other World has opened",,
 syslog_pawn_get_spskill_stack,"<NAME PAWN>が
 <VAL>を閃きました",<NAME PAWN> was inspired with <VAL>.,,
-syslog_action_staff_of_wise,“竜角の杖”の殲滅まで残り<VAL>本,"The number of remaining ""Dragon Horn Staffs"" until extermination: <VAL>.",,
-syslog_action_safety_dome,杖から“護身の結界”が展開された,"A ""protective barrier"" was deployed from the staff.",,
+syslog_action_staff_of_wise,"竜角の杖"の殲滅まで残り<VAL>本,"The number of remaining ""Dragon Horn Staffs"" until extermination: <VAL>.",,
+syslog_action_safety_dome,杖から"護身の結界"が展開された,"A ""protective barrier"" was deployed from the staff.",,
 syslog_gdm_get,<UNTN GDM>を<VAL><UNIT GDM>、入手しました,<UNTN GDM> <UNIT GDM><VAL> obtained.,,
 syslog_sdm_get,<UNTN SDM>を<VAL><UNIT SDM>、入手しました,<UNTN SDM> <UNIT SDM><VAL> obtained.,,
 syslog_rdm_get,<UNTN RDM>を<VAL><UNIT RDM>、入手しました,<UNTN RDM> <UNIT RDM><VAL> obtained.,,
@@ -392,15 +392,15 @@ syslog_action_ikai_07,残り半分の魂を捧げれば、扉は開かれる―�
 syslog_action_ikai_08,残りわずかな魂で、異界の扉が開く――,The door will open after just a few more souls,,
 syslog_bbi_item_embody,<VAL>に<NAME ITEM>を<VAL>個、持ち帰りました,Brought back into <VAL> is <NAME ITEM> x<VAL>.,,
 syslog_kt_possession_max,<UNTN KT>が最大まで補充されました,<UNTN KT> has been replenished to the maximum.,,
-syslog_content_buff_get,“<VAL>”の効果が付与されました,"""<VAL>"" effect has been applied.",,
-syslog_content_buff_lost,“<VAL>”の効果が解除されました,"""<VAL>"" effect has been removed.",,
+syslog_content_buff_get,"<VAL>"の効果が付与されました,"""<VAL>"" effect has been applied.",,
+syslog_content_buff_lost,"<VAL>"の効果が解除されました,"""<VAL>"" effect has been removed.",,
 syslog_action_ikai_09,異界に飛ばされた――,Teleported to a different world,,
 syslog_action_em_escape,周囲から <NAME TARGET> の気配が消えた,The sign of <NAME TARGET> has disappeared from the surroundings.,,
-syslog_action_ikai_10,残っている“怨塊”を、すべて破壊せよ――,"Destroy all of the remaining ""Grudge Pillars""",,
+syslog_action_ikai_10,残っている"怨塊"を、すべて破壊せよ――,"Destroy all of the remaining ""Grudge Pillars""",,
 syslog_item_lockset,アイテムをセーフティ設定しました,Item safety setting enabled.,,
 syslog_item_lockset_off,アイテムのセーフティ設定を解除しました,Item safety setting disabled.,,
-syslog_action_staff_of_wise_break,“竜角の杖”を破壊せよ――,"Destroy the ""Dragon Horn Staff.""",,
-syslog_action_ikai_11,怨塊 残り“<VAL>個”――,"""<VAL>"" Grudge Pillars left",,
+syslog_action_staff_of_wise_break,"竜角の杖"を破壊せよ――,"Destroy the ""Dragon Horn Staff.""",,
+syslog_action_ikai_11,怨塊 残り"<VAL>個"――,"""<VAL>"" Grudge Pillars left",,
 syslog_action_ikai_12,"<NAME TARGET> が凶骨の祭壇へ運ばれた
 助けなければ、全員に厄災が降りかかる――","<NAME TARGET> was taken to the Bone Altar.
 If you don't rescue them, everyone will meet with disaster",,
@@ -411,9 +411,9 @@ syslog_auto_cancel_navigate,"冒険ガイドにクエストが存在しないた
 現在のナビゲート設定を解除しました","Because there is no quest in the Adventure Guide,
 I have now canceled the current navigation settings.",,
 syslog_action_evildra_01,マグマから炎の力を吸収しようとしている――,Trying to absorb the power of flames from magma.,,
-syslog_action_evildra_02,悪しき竜は“火焔の竜晶”を召喚しようとしている――,"The Evil Dragon is about to summon a
+syslog_action_evildra_02,悪しき竜は"火焔の竜晶"を召喚しようとしている――,"The Evil Dragon is about to summon a
 ""Dragon Crystal of Flame"".",,
-syslog_action_evildra_03,"“火焔の竜晶”の出現により
+syslog_action_evildra_03,""火焔の竜晶"の出現により
 マグマが溜まっていく――","Magma is rising because of the ""Dragon Crystal of Flame"".",,
 syslog_action_evildra_04,"大量のマグマが溜まってきている
 悪しき竜が炎の力を吸収する時が近付く――","There is a large amount of magma built up, the time
@@ -421,22 +421,22 @@ the Evil Dragon absorbs the flames power draws near.",,
 syslog_action_evildra_05,死力を尽くした咆哮に、火垂れ山が揺れている――,The fire dripping mountain is shaken by the frantic roar.,,
 syslog_action_evildra_06,マグマが上昇し始めた――,Magma has begun to rise.,,
 syslog_action_evildra_07,ここから、山頂へ脱出せよ――,"From here, escape to the summit.",,
-syslog_action_evildra_08,"“火焔の竜晶”の出現により
+syslog_action_evildra_08,""火焔の竜晶"の出現により
 マグマの滝が流れ出した――","Magma is flowing out from the waterfall because of the
 ""Dragon Crystal of Flame"".",,
-syslog_action_evildra_09,"火口内にある“火焔の竜晶”を破壊したことで
+syslog_action_evildra_09,"火口内にある"火焔の竜晶"を破壊したことで
 マグマの量が減り、戦闘エリアが広がった――","Destroying the ""Dragon Crystals of Flame"" in the crater
 reduces the amount of magma, expanding your foothold.",,
-syslog_action_evildra_10,"火口内にある“火焔の竜晶”をすべて破壊したことで
+syslog_action_evildra_10,"火口内にある"火焔の竜晶"をすべて破壊したことで
 マグマの量が減り、戦闘エリアが大きく広がった――","Destroying all ""Dragon Crystals of Flame"" in the crater has
 reduced the amount of magma, greatly expanding the battle area.",,
-syslog_action_evildra_11,"“魔炎の竜晶”の出現により
+syslog_action_evildra_11,""魔炎の竜晶"の出現により
 地表からマグマが噴き上がる――","Magma is flowing out from the surface because of the
 ""Dragon Crystal of Flame"".",,
-syslog_action_evildra_12,"“魔岩の竜晶”の出現により
+syslog_action_evildra_12,""魔岩の竜晶"の出現により
 空から火山弾が降り注ぐ――","Meteors are falling down because of the
 ""Dragon Crystal of Flame"".",,
-syslog_action_evildra_13,"“魔風の竜晶”の出現により
+syslog_action_evildra_13,""魔風の竜晶"の出現により
 熱風が吹き荒れている――","Hot steam of airs is blowing out because of the
 ""Dragon Crystal of Flame"".",,
 syslog_action_evildra_14,悪しき竜が最後の命を燃やそうとしている――,The Evil Dragon is trying to burn its last fragment of life.,,
@@ -457,8 +457,8 @@ syslog_bo_possession_max,<UNTN BO>が最大に達したため、これ以上獲�
 syslog_ho_possession_max,<UNTN HB>が最大に達したため、これ以上獲得できません,You have reached the maximum amount of <UNTN HB> and cannot earn any more.,,
 syslog_rp_possession_max,<UNTN RP>が最大に達したため、これ以上獲得できません,You have reached the maximum amount of <UNTN RP> and cannot earn any more.,,
 syslog_ms_possession_max,<UNTN MS>が最大に達したため、これ以上獲得できません,You have reached the maximum amount of <UNTN MS> and cannot earn any more.,,
-syslog_darkgauge_rise,"“破滅の力”の高まりを感じる――
+syslog_darkgauge_rise,""破滅の力"の高まりを感じる――
 ゲージが十分に溜まるとすべてが滅びる！","The Power of Destruction is growing...
 When it reaches maximum power, all life will perish!",,
-syslog_darkgauge_growup,“破滅の力”のゲージが徐々に上昇してゆく！,The Power of Destruction is rising!,,
-syslog_darkgauge_spdown,“黄金竜の一撃”によって“破滅の力”のゲージが減少した！,The attack of Golden Dragon has reduced the Power of Destruction!,,
+syslog_darkgauge_growup,"破滅の力"のゲージが徐々に上昇してゆく！,The Power of Destruction is rising!,,
+syslog_darkgauge_spdown,"黄金竜の一撃"によって"破滅の力"のゲージが減少した！,The attack of Golden Dragon has reduced the Power of Destruction!,,

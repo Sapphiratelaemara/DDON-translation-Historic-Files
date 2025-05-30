@@ -3,12 +3,12 @@ old,new,speaker,english,speaker,english,speaker
 我々も方々探しまわっているのですが
 なかなか有益な情報にはつながらず――","Ser Arisen, how is the investigation into the 
 shooting stars coming along? We've been 
-scouring all over, but it’s difficult to find 
+scouring all over, but it's difficult to find 
 any useful leads…",Marco,,Marco,,Marco
 "聞けば、神殿の皆さまをお手伝いする過程で
-“不思議な石の欠片”を入手されたとか","I hear that, while assisting the people of the 
-temple, you obtained a “fragment of a mysterious 
-stone”...",Marco,,Marco,,Marco
+"不思議な石の欠片"を入手されたとか","I hear that, while assisting the people of the 
+temple, you obtained a "fragment of a mysterious 
+stone"...",Marco,,Marco,,Marco
 "この調子でよりたくさんの願いを叶えれば
 いつかは流れ星が見つかるかもしれません","If you continue granting more wishes like this, 
 perhaps one day the falling star will be found.",Marco,,Marco,,Marco
@@ -17,7 +17,7 @@ perhaps one day the falling star will be found.",Marco,,Marco,,Marco
 Master Seabell appears to be in 
 some sort of trouble.",Marco,,Marco,,Marco
 "もっと多くの方の願いを叶えれば
-きっと流れ星が見つかるのではないでしょうか","Perhaps, if we fulfill more wishes, we’ll be 
+きっと流れ星が見つかるのではないでしょうか","Perhaps, if we fulfill more wishes, we'll be 
 able to find the shooting star.",Marco,,Marco,,Marco
 "いえ、もしかしたら
 人々のお願いを叶えるからこそ
@@ -35,7 +35,7 @@ new Christmas song.",Seabell,,Seabell,,Seabell
 そして幸せなホリデーシーズンにふさわしい旋律ッ！
 ああ～どうしてもイメージが湧いてこない～","Songs that uplift and cheer the people! 
 And a melody worthy of a joyful holiday season! 
-Ah, why can't I get the image to come to me~",Seabell,,Seabell,,Seabell
+Ah, why can't I get the image to come to me～",Seabell,,Seabell,,Seabell
 "おお～、素晴らしい応援！
 あなたの応援で、私にイメージがッ！
 どんどんイメージが湧いてきます～
@@ -56,7 +56,7 @@ traveler left behind as payment for my song.",Seabell,,Seabell,,Seabell
 その幸せをあなたにもお裾分けしましょう～","I do not understand its value, 
 but when I hold it, it somehow fills 
 my heart with warmth. I will share 
-this happiness with you as well~",Seabell,,Seabell,,Seabell
+this happiness with you as well～",Seabell,,Seabell,,Seabell
 "おお、これはたくさんの欠片！
 しかも今まで入手したものと全て同じ物
 落ちた流れ星が砕けた欠片ではないでしょうか","Oh, there are so many shards! 
@@ -94,7 +94,7 @@ Merry Christmas! Ho ho ho!",Nicholas,,Nicholas,,Nicholas
 丁度お前に聞いてもらいたいことがあったんだ","Ah, you've come at just the right time. 
 There is something I'd like you to hear.",Craig,,Craig,,Craig
 "リンウッドから調達した鉱石を使って
-“クリスマスツリーのオーナメント”とやらに
+"クリスマスツリーのオーナメント"とやらに
 加工したいと依頼が来たんだ","I received a request to use the ore 
 procured from Lynwood to craft what 
 they call ""Christmas tree ornaments.""",Craig,,Craig,,Craig
@@ -103,7 +103,7 @@ they call ""Christmas tree ornaments.""",Craig,,Craig,,Craig
 だから、どんな形がいいのか意見を聞きたい","But I've never made something as elegant as 
 an ornament before—so, I want to hear your 
 thoughts on what shape would be best.",Craig,,Craig,,Craig
-"“星形”と“丸形”
+""星形"と"丸形"
 お前ならどちらがいい？","""Star-shaped"" or ""Circular."" 
 Which one do you think would be better, Ser?",Craig,,Craig,,Craig
 星形の方が可愛い,The star shape is much prettier.,Craig,,Craig,,Craig
@@ -163,38 +163,38 @@ but it's really quite a beautiful stone.
 It should bring a fair price if sold.",Craig,,Craig,,Craig
 "オーナメントなんて洒落たものは
 作ったことがないんでな
-見本さえあれば、それなりには作れるだろう","I’ve never made something as fancy as an ornament,
+見本さえあれば、それなりには作れるだろう","I've never made something as fancy as an ornament,
 but if I have a sample, I should be able to make 
 something decent.",Craig,,Craig,,Craig
 "ああ、お前か
 丁度いいところに来てくれたな
-急な話で悪いんだが、お前――酒には詳しいか？","Ah, it’s you. 
-You’ve come at just the right time. 
+急な話で悪いんだが、お前――酒には詳しいか？","Ah, it's you. 
+You've come at just the right time. 
 Sorry to ask so suddenly, but are you 
 knowledgeable about wine?",Isaac,,Isaac,,Isaac
 "神殿のクリスマスパーティとやらで
 皆がそれぞれ準備をしているんだが
-――俺は酒の調達担当にされた","At the temple’s Christmas party, 
+――俺は酒の調達担当にされた","At the temple's Christmas party, 
 everyone is preparing in their own way, 
-but I’ve been made responsible 
+but I've been made responsible 
 for acquiring the wine.",Isaac,,Isaac,,Isaac
 "ただ――こう見えて酒は飲まない主義でな
 まぁ、酒好きのアランに話を聞いて
-近頃流行りの酒があるってことまではわかった","Though, as you can see, I don’t drink. 
+近頃流行りの酒があるってことまではわかった","Though, as you can see, I don't drink. 
 I did, however, hear from Alan, a fan of liquor, 
-that there’s a popular drink 
+that there's a popular drink 
 going around these days.",Isaac,,Isaac,,Isaac
 "だが、そこから先が問題だ
 なんせ、パーティに来る人数分の酒だ――
 一人ではなかなか集められん","But the real issue comes after that. 
 The quantity of alcohol needed for the party 
 is more than I can gather alone. 
-It’s simply too much for one person.",Isaac,,Isaac,,Isaac
+It's simply too much for one person.",Isaac,,Isaac,,Isaac
 "そこでお前に、調達を少し
 手伝ってもらいたいって話だ
 ――よくある話だろ","So, I wanted to ask if you could help me gather 
-some of it. It’s a simple request, really. 
-I’m sure it’s not unfamiliar to you.",Isaac,,Isaac,,Isaac
+some of it. It's a simple request, really. 
+I'm sure it's not unfamiliar to you.",Isaac,,Isaac,,Isaac
 "最近流行りの酒があるらしい
 俺はこういう風貌だからか
 どうやら酒好きだと思われたようだ","I've been told there's a popular new drink
@@ -203,7 +203,7 @@ I've been mistaken for someone who enjoys alcohol.",Isaac,,Isaac,,Isaac
 "実際――あれは――頭がぼんやりするだろう
 だから飲まないことにしてるんだがな","The truth is, that stuff,
 it makes your head feel fuzzy.
-That’s why I've decided not to drink it.",Isaac,,Isaac,,Isaac
+That's why I've decided not to drink it.",Isaac,,Isaac,,Isaac
 "あたしたち、クリスマスシーズン以外でも
 いろんな幸せを探したり届けたり
 日々活動してるんですよ！","We search for and bring different kinds of joy, 
@@ -223,20 +223,20 @@ impressive as always.",Isaac,,Isaac,,Isaac
 そう飲めはしないんだが――","Perhaps I should use this opportunity
 to learn about alcohol. 
 Well... even if I gather the knowledge, 
-I still wouldn’t be able to drink much.",Isaac,,Isaac,,Isaac
+I still wouldn't be able to drink much.",Isaac,,Isaac,,Isaac
 "そうだ、お駄賃と言ってはなんだが
 この前ダンジョンの開拓中に見つけた
 変わった石をお前にやろうか
-こういう変わった物、好きだったよな？","I’ve got something for you, though I hesitate to 
+こういう変わった物、好きだったよな？","I've got something for you, though I hesitate to 
 call it a reward. How about a strange stone I 
 found while exploring a dungeon the other day? 
-You’ve always liked odd things, right?",Isaac,,Isaac,,Isaac
+You've always liked odd things, right?",Isaac,,Isaac,,Isaac
 "ホッホッホ、クリスマスの準備は順調かね？
 皆で助け合いながら楽しく準備をする
 何とも素晴らしいことではないか","Ho ho ho, how are the Christmas preparations 
-coming along? It’s truly a wonderful thing, 
-preparing with everyone’s help and having fun. 
-Isn’t it just splendid?",Nicholas,,Nicholas,,Nicholas
+coming along? It's truly a wonderful thing, 
+preparing with everyone's help and having fun. 
+Isn't it just splendid?",Nicholas,,Nicholas,,Nicholas
 "さて、パーティーはどうだったね？
 君のおかげで皆も喜んでいたな","So, how was the party? 
 Thanks to you, everyone 
@@ -267,7 +267,7 @@ I brought some dyes to give to you.
 Here, one each of red and white.",Nicholas,,Nicholas,,Nicholas
 "とはいえ、君や神殿の者たちはクリスマスに
 相応しい恰好をもう持っているからなぁ――
-ううむ、“ペット”でもいればその子らのために
+ううむ、"ペット"でもいればその子らのために
 使ってやってくれと言えるのだが","That said, you and the people of the temple 
 already have clothes fitting for Christmas... 
 Hmm, if you had ""pets,"" I could tell you to 

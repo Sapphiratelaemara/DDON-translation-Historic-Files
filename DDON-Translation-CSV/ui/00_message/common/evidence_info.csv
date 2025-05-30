@@ -14,21 +14,21 @@ Not only regular citizens, but also those who live in the dark, including outcas
 Due to their extraordinary memory abilities, the accuracy of the register is said to be high.",,
 EVIDENCE_INFO_3,"メガドを縄張りにする子供から聞いた目撃証言
 
-“ <NPC 691>は数度にわたって彼らの縄張りに
+" <NPC 691>は数度にわたって彼らの縄張りに
 　踏み込み、覚者たちを尾行するための
-　事前調査を行っていた ”
+　事前調査を行っていた "
 
 という旨の内容","Approximate eyewitness testimony from a child in the Megado's territory:
 
 ""<NPC 691> trespassed into their territory several times, conducting preliminary investigations to tail the Arisen Corps members.""",,
 EVIDENCE_INFO_4,"汚い字でメモが書き込んである
 
-“ ＜20時　対象を確認＞
+" ＜20時　対象を確認＞
 　　場所：メガド居住区侯爵邸前
 　　人数：2名
 　　報告：ターゲットがレジスタンスと接触
 　　　　　隠れ家へ向かうと思われるため
-　　　　　引き続き、追跡監視の任務続行 ”
+　　　　　引き続き、追跡監視の任務続行 "
 
 以下、同じような記録が淡々と続いている","The memo is written in messy handwriting.
 
@@ -42,12 +42,12 @@ EVIDENCE_INFO_5,"憲兵が落とした日々の巡回記録
 複数の憲兵により異なる筆跡で書かれているが
 どれも書式は共通している
 
-“ ＜22時　対象を確認＞
+" ＜22時　対象を確認＞
 　　場所：メガド居住区東小門前
 　　人数：5名
 　　報告：通報のあった結社集会の現場を発見
 　　　　　構成員は全て市民のため
-　　　　　その場で拘束・連行し、任務完了 ”
+　　　　　その場で拘束・連行し、任務完了 "
 
 以下、同じような記録が淡々と続いている","Daily Patrol Records Dropped by the Military Police.
 
@@ -64,8 +64,8 @@ Report: Discovered the site of a reported association gathering
 Following that, similar records continue in a steady manner.",,
 EVIDENCE_INFO_6,"元憲兵の男が、獄中で書いた手記
 
-“ 任務で小さなミスを犯し、侯爵の怒りを
-　買ったために投獄された ”
+" 任務で小さなミスを犯し、侯爵の怒りを
+　買ったために投獄された "
 
 という内容で、獄中の苦しい状況などが
 克明に描写されている
@@ -87,8 +87,8 @@ It is written in Orc code letters and cannot be read.",,
 EVIDENCE_INFO_9,"オークの専門家が人語に翻訳してくれた
 オーク軍の密通文書
 
-“ オーク軍は要請に応え、
-　メガドに援軍を手配した ”
+" オーク軍は要請に応え、
+　メガドに援軍を手配した "
 
 という旨の内容","The Orc specialist has translated the confidential communication documents of the Orc army into human language.
 
@@ -96,9 +96,9 @@ EVIDENCE_INFO_9,"オークの専門家が人語に翻訳してくれた
 EVIDENCE_INFO_10,"オークの被害を受けた少女から聞いた
 街に増加するオークについての目撃証言
 
-“ 近頃急速に街中で目撃数が増加している
+" 近頃急速に街中で目撃数が増加している
 　オークたちは何かを探している様子
-　人なのか物なのか、任務なのかは不明 ”
+　人なのか物なのか、任務なのかは不明 "
 
 という旨の内容で、出没し始めた時期は
 <NPC 586>の死亡・オークの尋問開始と
@@ -117,11 +117,11 @@ There may be some damage due to rough handling, but the facial features are clea
 EVIDENCE_INFO_12,"ある兵士から聞いた、メガド占領時に
 <NPC 681>が行った英雄的行為の証言
 
-“ ナヴィド侯爵は死の危険を冒し、果敢にも
+" ナヴィド侯爵は死の危険を冒し、果敢にも
   人間への残虐な仕打ちを止めるよう
   オーク軍と交渉した
   その後も市民の統率者として、オーク側との
-  橋渡しを行い、犠牲者を抑える功績を残す ”
+  橋渡しを行い、犠牲者を抑える功績を残す "
 
 という旨の内容","Testimony of the heroic deeds performed by <NPC 681> during the Megado occupation, as told by a soldier:
 
@@ -130,16 +130,16 @@ EVIDENCE_INFO_13,"侯爵家を出入りしていた戦士が
 偶然入手した謎の帳簿
 かなり使い込まれているようで
 几帳面な字で文字と数字が羅列されている
-“オーク”という言葉が頻出している","A soldier who frequented the Marquis' household happened to come across a mysterious ledger. 
+"オーク"という言葉が頻出している","A soldier who frequented the Marquis' household happened to come across a mysterious ledger. 
 It appears to have been heavily used, with neat handwriting and a series of characters and numbers listed. 
 The word ""Orc"" is frequently mentioned.",,
 EVIDENCE_INFO_14,"捕えたオークから尋問によって全てを吐かせた
 <NPC 681>とオーク軍の機密についての証言
 
-“ メガド陥落は、悲観した<NPC 681>侯爵の
+" メガド陥落は、悲観した<NPC 681>侯爵の
   手引きによって引き起こされた事件であり
   陥落後も彼はオーク軍と取引し
-  捕虜の統括に対する報酬を受け取っていた ”
+  捕虜の統括に対する報酬を受け取っていた "
 
 という旨の内容となっている","The capture of <NPC 681> and interrogation of the orc revealed the following confidential information:
 
@@ -147,7 +147,7 @@ EVIDENCE_INFO_14,"捕えたオークから尋問によって全てを吐かせ�
 EVIDENCE_INFO_15,"監修ガクシャ・制作セリンで捏造した
 オーク軍の手配書
 
-“ 人間に寝返った伝令兵を捜索中 ”
+" 人間に寝返った伝令兵を捜索中 "
 
 という旨の内容になっており
 尋問で使用すれば

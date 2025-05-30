@@ -1261,54 +1261,54 @@ ABILITY_INFO_308,"弓射ちのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of your basic arrow attacks.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_320,"ヒールオーラ/ヒールオーラエクス/
 ライドヒールオーラの回復量が増加する
 <COL ffdc78>LV UP毎に回復量がより増加
 LV5～6で詠唱速度が上昇</COL>","Increases the healing done by Heal Aura,
 Greater Heal Aura, and Ride Heal Aura.
 <COL ffdc78>LV UP: Further increases resistance.
-LV5~6: Increases cast speed.</COL>",,
+LV5～6: Increases cast speed.</COL>",,
 ABILITY_INFO_332,"シールドブロウのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Shield Blow.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_344,"連斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Carve.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_356,"マジックボールのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Magick Bolt.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_368,"闘波の矢のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Seeker.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_380,"破斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Hack.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_392,"アルケムのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Alchem.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_429,"スラストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Thrust.
 <COL ffdc78>LV UP: Increases damage further.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_499,"四連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Quadruple Slash.
 <COL ffdc78>LV UP: Increases damage further.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_252,"水濡れの状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Drench.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1316,58 +1316,58 @@ ABILITY_INFO_296,"連撃のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Onslaught.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_309,"仕込み爆矢射ちのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で状態異常蓄積値が増加</COL>","Increases the damage of Explosive Arrows.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases status effect rate.</COL>",,
+LV5～6: Increases status effect rate.</COL>",,
 ABILITY_INFO_321,"ブラストビットのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Blast Bit.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_333,"ウィークライトのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で状態異常蓄積値が増加</COL>","Increases the damage of Weaklight.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases status effect rate.</COL>",,
+LV5～6: Increases status effect rate.</COL>",,
 ABILITY_INFO_345,"百裂斬り/阿修羅斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Scarlet Kisses/Hundred Kisses.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_357,"マジックトラップのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Magick Trap.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust attack power.</COL>",,
+LV5～6: Increases chance attack and exhaust attack power.</COL>",,
 ABILITY_INFO_369,"助真の矢の回復量が増加する
 <COL ffdc78>LV UP毎に回復量がより増加
 LV5～6で詠唱速度が上昇</COL>","Increases the healing of True Aid Arrow.
 <COL ffdc78>LV UP: Further increases healing.
-LV5~6: Increases cast speed.</COL>",,
+LV5～6: Increases cast speed.</COL>",,
 ABILITY_INFO_381,"魔倒斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Inverse Slash.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust
+LV5～6: Increases chance attack and exhaust
 attack power.</COL>",,
 ABILITY_INFO_393,"アルケム・フーガのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Alchem Fuga.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_430,"エア・スラストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Air Thrust.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_500,"弧連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Arc Slash.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_253,"油濡れの状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Oil Doused.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1376,60 +1376,60 @@ ABILITY_INFO_297,"斬り崩し/強斬り崩しのダメージ量が増加する
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Guard Break/Strong Guard
 Break.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_311,"矢じり斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で状態異常蓄積値が増加</COL>","Increases the damage of Arrowhead Strike.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases status effect rate.</COL>",,
+LV5～6: Increases status effect rate.</COL>",,
 ABILITY_INFO_323,"セイントオーラ/セイントオーラエクス
 ライドセイントオーラのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Saint Aura,
 Greater Saint Aura, and Ride Saint Aura.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_336,"フォースバーストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Force Burst.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust attack power.</COL>",,
+LV5～6: Increases chance attack and exhaust attack power.</COL>",,
 ABILITY_INFO_348,"乱斬り/大乱斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Scarlet Slashes/Hundred Slashes.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases chance attack and exhaust attack power.</COL>",,
+LV5～6: Increases chance attack and exhaust attack power.</COL>",,
 ABILITY_INFO_363,"マジッククラッカーのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Magick Cracker.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_371,"前蹴りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Forward Kick.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_384,"魔人斬り/真・魔人斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加</COL>","Increases the damage of
 Savage Lash/Indomitable Lash.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stun power.</COL>",,
+LV5～6: Increases stun power.</COL>",,
 ABILITY_INFO_396,"エリクシルのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Elixir.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_432,"フォル・スラストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Fall Thrust.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_502,"空叉斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Sky Slash.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_254,"封印の状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Skill Stifling.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1437,7 +1437,7 @@ ABILITY_INFO_299,"えぐり突きのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加</COL>","Increases the damage of Gouge.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stun power.</COL>",,
+LV5～6: Increases stun power.</COL>",,
 ABILITY_INFO_310,"弓構え中の物理防御力と魔法防御力が上昇する
 <COL ffdc78>LV UP毎に物理/魔法防御力がより上昇</COL>","Increases physical and magic defense while aiming
 your bow.
@@ -1487,7 +1487,7 @@ ABILITY_INFO_501,"昇墜斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Fall Slash.
 <COL ffdc78>LV UP: Increases damage further.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_255,"軟体の状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Subdued.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1499,49 +1499,49 @@ ABILITY_INFO_312,"しじま射ちのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage of Keensight shots.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_324,"フィールドシフト解除時の衝撃波のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases damage dealt by the shockwave
 created when cancelling Field Shift.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_335,"シールドシーケンスのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で状態異常蓄積値が増加</COL>","Increases the damage of Shield Counter.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases chance of inflicting status abnormalities.</COL>",,
+LV5～6: Increases chance of inflicting status abnormalities.</COL>",,
 ABILITY_INFO_347,"回し蹴りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Roundhouse Kick.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_360,"マジッククラッカーのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Magick Cracker.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases stagger power.</COL>",,
+LV5～6: Increases stagger power.</COL>",,
 ABILITY_INFO_372,"奮わせ直魔矢の回復量が増加する
 <COL ffdc78>LV UP毎に回復量がより増加
 LV5～6で魔法陣継続時間が延長</COL>","Increased Stamina recovery amount
 on targets hit by or around recovery field.
 <COL ffdc78>LV UP: Further increases recovered amount.
-LV5~6: Increases effect duration.</COL>",,
+LV5～6: Increases effect duration.</COL>",,
 ABILITY_INFO_383,"広角斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Devastate.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_395,"アルケム・ラディウスのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Alchemical Radius.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_431,"スラスト・モールのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Thrust More.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_497,"全てのノーマルスキルのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>","Increases damage of all core skills.
 <COL ffdc78>LV UP: Further increases damage.</COL>",,
@@ -1552,7 +1552,7 @@ ABILITY_INFO_300,"強連撃のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Dire Onslaught.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_313,"パーティーメンバーを助け起こすと
 自身が受ける物理攻撃ダメージが一定時間軽減される
 <COL ffdc78>LV UP毎に効果持続時間がより延長</COL>","When you revive a party member they will
@@ -1605,54 +1605,54 @@ ABILITY_INFO_314,"弓射ちのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of basic arrow attacks.
 <COL ffdc78>LV UP: Further increases damage.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_326,"ヒールオーラ/ヒールオーラエクス/
 ライドヒールオーラの回復量が増加する
 <COL ffdc78>LV UP毎に回復量がより増加
 LV5～6で展開中の耐久力が増加</COL>","Increases the recovery amount of
 Heal Aura / Greater Heal Aura / Ride Heal Aura.
 <COL ffdc78>LV UP: Further increases recovery amount.
-LV5~6: Increases endurance while aura is deployed.</COL>",,
+LV5～6: Increases endurance while aura is deployed.</COL>",,
 ABILITY_INFO_338,"シールドブロウのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the amount of damage dealt by shield blow.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_350,"連斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the amount of damage dealt by Carve.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_359,"マジックボールのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Magick Bolts.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_374,"闘波の矢のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でジャストタイミングで放った際のダメージ量が増加</COL>","Increases damage of Seeker Arrows.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases the damage gained upon a successful Just Release.</COL>",,
+LV5～6: Increases the damage gained upon a successful Just Release.</COL>",,
 ABILITY_INFO_386,"破斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Hack.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_398,"アルケムのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Alchemy.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_435,"スラストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Thrust.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_493,"四連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>","Increases damage of Quadruple Slash.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases magickal energy absorption.</COL>",,
+LV5～6: Increases magickal energy absorption.</COL>",,
 ABILITY_INFO_258,"炎防低下の状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Fire Defense Down.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1660,58 +1660,58 @@ ABILITY_INFO_302,"連撃のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Onslaught.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_315,"仕込み爆矢射ちのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Exploding Arrows.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_327,"ブラストビットのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Blast Bits.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_339,"ウィークライトのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Weak Light.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increase chance and exhaust attack.</COL>",,
+LV5～6: Increase chance and exhaust attack.</COL>",,
 ABILITY_INFO_351,"百裂斬り/阿修羅斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Scarlet Kisses/Hundred Kisses.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increase chance and exhaust attack.</COL>",,
+LV5～6: Increase chance and exhaust attack.</COL>",,
 ABILITY_INFO_362,"マジックトラップのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で設置時間が延長</COL>","Increases damage of Magick Trap.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases duration of Magick Trap.</COL>",,
+LV5～6: Increases duration of Magick Trap.</COL>",,
 ABILITY_INFO_375,"助真の矢の回復量が増加する
 <COL ffdc78>LV UP毎に回復量がより増加
 LV5～6でジャストタイミングで放った際の回復量が増加</COL>","Increases recovery amount of True Aid Arrow.
 <COL ffdc78>LV UP: Further increases recovery amount.
-LV5~6: Increases recovery amount bonus gained upon a successful 
+LV5～6: Increases recovery amount bonus gained upon a successful 
 Just Release</COL>",,
 ABILITY_INFO_387,"魔倒斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加</COL>","Increases damage of Inverse Slash.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases stun power.</COL>",,
+LV5～6: Increases stun power.</COL>",,
 ABILITY_INFO_399,"アルケム・フーガのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Alchemical Fuga.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_436,"エア・スラストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Air Thrust.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_494,"弧連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>","Increases damage of Arc Slash.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases magickal energy absorption.</COL>",,
+LV5～6: Increases magickal energy absorption.</COL>",,
 ABILITY_INFO_259,"氷防低下の状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Ice Defense Down.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1719,60 +1719,60 @@ ABILITY_INFO_303,"斬り崩し/強斬り崩しのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加</COL>","Increases damage of Guard Break/Strong Guard Break.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases stun power.</COL>",,
+LV5～6: Increases stun power.</COL>",,
 ABILITY_INFO_317,"矢じり斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Arrowhead Strike.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_329,"セイントオーラ/セイントオーラエクス
 ライドセイントオーラのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で状態異常蓄積値が増加</COL>","Increases damage of the following:
 Holy Aura/Greater Holy Aura/Ride Holy Aura.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases status affliction accumulation.</COL>",,
+LV5～6: Increases status affliction accumulation.</COL>",,
 ABILITY_INFO_342,"フォースバーストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>","Increases the damage of Force Burst.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases blow power.</COL>",,
+LV5～6: Increases blow power.</COL>",,
 ABILITY_INFO_354,"乱斬り/大乱斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加</COL>","Increases the damage of Scarlet Slashes/Hundred Slashes.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases stun power.</COL>",,
+LV5～6: Increases stun power.</COL>",,
 ABILITY_INFO_366,"マジッククラッカーのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で詠唱速度が上昇</COL>","Increases the damage of Magick Cracker.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases casting speed.</COL>",,
+LV5～6: Increases casting speed.</COL>",,
 ABILITY_INFO_377,"前蹴りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Front Kick.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_390,"魔人斬り/真・魔人斬りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Savage
 Lash/Indomitable Lash.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_402,"エリクシルのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Elixir.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_438,"フォル・スラストのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Fall Thrust.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_495,"空叉斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>","Increases damage of Sky Slash.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases magickal energy absorption.</COL>",,
+LV5～6: Increases magickal energy absorption.</COL>",,
 ABILITY_INFO_260,"雷防低下の状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Thunder Defense Down.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1780,7 +1780,7 @@ ABILITY_INFO_305,"えぐり突きのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Gouge.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.",,
+LV5～6: Increases chance and exhaust attack.",,
 ABILITY_INFO_316,"最大スタミナが増加する
 <COL ffdc78>LV UP毎に最大スタミナがより増加</COL>","Increases your maximum stamina.
 <COL ffdc78>LV UP: Further increases maximum stamina.</COL>",,
@@ -1820,7 +1820,7 @@ ABILITY_INFO_496,"昇墜斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>","Increases damage of Falling Slash.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases magickal energy absorption.</COL>",,
+LV5～6: Increases magickal energy absorption.</COL>",,
 ABILITY_INFO_261,"聖防低下の状態異常への耐性が増加する
 <COL ffdc78>LV UP毎に耐性がより増加</COL>","Increases resistance to Holy Defense Down.
 <COL ffdc78>LV UP: Further increases resistance.</COL>",,
@@ -1831,49 +1831,49 @@ ABILITY_INFO_318,"しじま射ちのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Keensight shots.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_330,"フィールドシフト解除時の衝撃波のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of the shockwave generated when
 cancelling Field Shift.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.",,
+LV5～6: Increases chance and exhaust attack.",,
 ABILITY_INFO_341,"シールドシーケンスのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases damage of Shield Sequence.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_353,"回し蹴りのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Roundhouse Kick.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_365,"マジックトラップのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で詠唱速度が上昇</COL>","Increases the damage of Magick Trap.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases casting speed.</COL>",,
+LV5～6: Increases casting speed.</COL>",,
 ABILITY_INFO_378,"奮わせ直魔矢の回復量が増加する
 <COL ffdc78>LV UP毎に回復量がより増加
 LV5～6で効果範囲が拡大</COL>","Increases the stamina recovery amount of
 Invigorating Arrow.
 <COL ffdc78>LV UP: Further increases recovery amount.
-LV5~6: Expands range of effect.</COL>",,
+LV5～6: Expands range of effect.</COL>",,
 ABILITY_INFO_389,"広角斬のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Devastate.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_401,"アルケム・ラディウスのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Alchemical Radius.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_437,"スラスト・モールのダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Thrust More.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_498,"発動すると前方へ大きく移動するスキルの
 ダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>","Increases the damage of skills that move you forward.
@@ -1885,7 +1885,7 @@ ABILITY_INFO_306,"強連撃のダメージ量が増加する
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>","Increases the damage of Dire Onslaught.
 <COL ffdc78>LV UP: Further increases damage dealt.
-LV5~6: Increases chance and exhaust attack.</COL>",,
+LV5～6: Increases chance and exhaust attack.</COL>",,
 ABILITY_INFO_319,"達人装填成功時に増加する弓射ちの矢の威力が増加する
 <COL ffdc78>LV UP毎にダメージがより増加</COL>","Increases the damage of the triple shot arrow gained
 upon a perfect reload.
