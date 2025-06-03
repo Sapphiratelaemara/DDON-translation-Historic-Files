@@ -1,0 +1,125 @@
+"Jp","En","english","speaker"
+"まあ、自室を改築されたんですね
+ちょうど良かった――
+実は、ポーン郷からあなたに
+贈り物が届いているんです","Well, your private quarters have been remodeled.
+Perfect timing, actually—
+a gift has arrived for you
+from the Pawn Cathedral.","","Sorcerer"
+"なんでも、“ポーンの叡智を強化する
+不思議なベル”とのことですよ
+お部屋が広くなったのなら、ベルの１つや２つ
+置いても大丈夫そうですね！","They say it's ""a mysterious bell that enhances
+the wisdom of Pawns.""
+Now that your room is larger,
+it should easily accommodate one or two bells!","","Sorcerer"
+"ただ――このベル、神殿で調べたところ
+ずいぶん古いものらしくて
+このままではただの置物も同然――
+本来の用途に使えないようなんです","However... 
+after examining the bell at the temple,
+we found it to be quite ancient.
+In its current state, 
+it's little more than a decoration—
+it can't be used for its original purpose.","","Sorcerer"
+"そこで、多少この手の知識がある私が
+配達を請け負ったというわけです
+私なら、鉱石から力を引き出して
+このベルを目覚めさせることができますから","That's why I, who have some 
+knowledge in this field,
+took on the delivery task. 
+I can draw power from ore
+and awaken this bell.","","Sorcerer"
+"ベルを目覚めさせるには
+希少な鉱石が必要なんです
+鉱石の種類によって、必要な個数が異なるのですが
+どちらが集めやすいですか？","To awaken the bell, we need rare ore.
+The required quantity varies by type.
+Which would be easier for you to gather?","","Sorcerer"
+"<QDEL NAME 1 1>の納品（多め）","Deliver <QDEL NAME 1 1> (Many)","","Sorcerer"
+"<QDEL NAME 2 1>の納品（少）","Deliver <QDEL NAME 2 1> (Few)","","Sorcerer"
+"――少し考えさせてほしい","...I want to think a bit","","Sorcerer"
+"<QDEL NAME 1 1>を
+集めていただけるのですね
+では――鉱石が集まるまでお待ちしていますね","You'll gather <QDEL NAME 1 1> for me?
+Then...
+I'll wait until you've collected the ore.","","Sorcerer"
+"<QDEL NAME 2 1>を
+集めていただけるのですね
+では――鉱石が集まるまでお待ちしていますね","You'll gather <QDEL NAME 2 1> for me?
+Then... 
+I'll wait until you've collected the ore.","","Sorcerer"
+"ええ、もちろんです
+今後どこに冒険に行かれるかの予定もあわせて
+どちらの鉱石が集めやすいか、検討してみて
+ください","Of course. Consider which ore would be easier
+to collect based on your upcoming travels.","","Sorcerer"
+"鉱石が集まりましたね！
+これでベルを目覚めさせることができそうです","You've gathered the ore!
+Now we can awaken the bell.","","Sorcerer"
+"それでは、しばらく儀式のために
+お時間をいただきますね","I'll need some time to perform the ritual.","","Sorcerer"
+"あのベルは長い間使われず
+その能力は休眠状態にあります
+目覚めさせるために必要な鉱石の調達を
+お願いいたします","That bell hasn't been used in ages,
+leaving its abilities dormant.
+Please gather the required ore to awaken it.","","Sorcerer"
+"鉱石が集まりましたね！
+これでベルを目覚めさせることができそうです","You've gathered the ore!
+Now we can awaken the bell.","","Sorcerer"
+"それでは、しばらく儀式のために
+お時間をいただきますね","I'll need some time to perform the ritual.","","Sorcerer"
+"あのベルは長い間使われず
+その能力は休眠状態にあります
+目覚めさせるために必要な鉱石の調達を
+お願いいたします","That bell hasn't been used in ages,
+leaving its abilities dormant.
+Please gather the required ore to awaken it.","","Sorcerer"
+"無事、ベルが使えるようになりましたよ！
+まったく、ポーン郷も贈り物をするなら
+状態を確認してからにしてほしいものですね","The bell is now functional!
+Honestly, the Pawn Cathedral should check
+the condition before sending gifts.","","Sorcerer"
+"では、《語らいのベル》は確かにお届けしましたよ
+《報酬》から受け取った後は
+家具としてお部屋に設置してくださいね","The Chatting Bell has been delivered.
+After claiming it from Rewards,
+place it in your room as furniture.","","Sorcerer"
+"ベルを目覚めさせるための
+儀式を執り行います","I will now perform the ritual
+to awaken the bell.","","Sorcerer"
+"少し時間がかかりますから
+その間、お気遣い無く――","This will take some time,
+so please make yourself comfortable...","","Sorcerer"
+"儀式が無事完了しました","The ritual has been completed successfully.","","Sorcerer"
+"覚者様に面会を求める方がいらしています
+自室にお迎えするかどうか
+検討してもらえないでしょうか？","Someone wishes to meet with the Arisen.
+Would you consider welcoming them
+to your private quarters?","","Barton"
+"何やら荷物を抱えた方が
+覚者さまを訪ねていらっしゃいましたぞ","A visitor carrying luggage
+has come to see the Arisen.","","Barton"
+"ポーン郷から神殿に届いた荷物の中に
+覚者さま宛ての贈り物があったとのことで
+配達に来てくださったそうです
+自室にお通ししてもよろしいですかな？","A gift for the Arisen was found among
+the deliveries from the Pawn Cathedral to the temple.
+The courier is here. May I show them to your room?","","Barton"
+"面会する","Meet","","Barton"
+"――少し考えさせてほしい","...I want to think a bit","","Barton"
+"それでは、自室にお通ししておきます
+覚者さまもどうぞ、二階へ","I'll escort them to your quarters.
+Arisen, please proceed upstairs.","","Barton"
+"わかりました
+それでは、しばらく待っていていただきましょう","Understood. I'll have them wait for now.","","Barton"
+"覚者さま、自室でお客人がお待ちですぞ
+ポーン郷から神殿に届いた荷物の中に
+覚者さま宛ての贈り物があったとのことで
+配達に来てくださったそうです","Master Arisen, a guest awaits in your quarters.
+A gift for you was found among the deliveries
+from the Pawn Cathedral to the temple.
+They came to personally deliver it.","","Barton"
+"＜語らいのベル＞をクエストクリア報酬として手に入れました","You have obtained the Chatting Bell
+as a quest completion reward.","","Sorcerer"

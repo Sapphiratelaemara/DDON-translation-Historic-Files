@@ -1,0 +1,157 @@
+Jp,En,english,speaker
+"<NPC 4>に伝えてくれたか？
+些細なことであっても
+真摯に人の頼みを聞くことは
+覚者として大切なことだ――感謝する","Did you deliver the message to <NPC 4>?
+Even for trivial matters, sincerely
+listening to others' requests is crucial
+for an Arisen—my gratitude.",,Craig
+"礼として――
+ここに新設した我が工房について教えてやる
+必ずお前のためになるだろう
+心して聞いてくれ","As thanks...
+I'll tell you about my newly established workshop.
+It will surely benefit you.
+Listen carefully.",,Craig
+"オレにとって――覚者というのは
+命も物も大事にできて一人前だと思っている
+自分の命を守る武具に愛着を
+持てないヤツは覚者として失格だ","To me, an Arisen is someone who can value
+both life and objects. You're not a true
+Arisen if you can't feel attachment to the
+equipment that protects your life.",,Craig
+"もしお前もそう思うなら
+オレの話をしっかり聞くことだ","If you think so too,
+listen closely to what I have to say.",,Craig
+素性について,Background,,Craig
+カスタムメイド工房について,About Custom-Made Workshop,,Craig
+――後で聞かせてほしい,...Tell me later,,Craig
+"オレの名は<NPC 1047>という
+ただひたすらに白竜に貢献するため
+自分個人だけでなく、周りの覚者たちの力を
+引き出すよう、この腕を磨いてきた","My name is <NPC 1047>.
+To serve the White Dragon wholeheartedly,
+I've honed this craft not just for myself,
+but to draw out the strength of fellow Arisen.",,Craig
+"<NPC 4>からはグリッテンの前線で
+戦ってほしいと言われていたが
+オレは――自分一人で成し遂げられることの
+限界を見たんだ","<NPC 4> asked me to fight on the front lines
+of Gritten, but I... I saw the limits of
+what one person alone can accomplish.",,Craig
+"オレ一人が何体のオークを倒せるか――
+そこに挑むより、覚者たちの装備品に
+より磨きをかけることで、覚者隊全体の
+武力を上げた方がよいのではないか、と――","Rather than testing how many orcs I can
+defeat alone, it would be better to
+enhance the equipment of the Arisen and
+strengthen the Arisen Corps as a whole.",,Craig
+"そして旅に出て、長年に渡り
+あらゆる地域の伝承や技術を追求する日々――
+その果てに、武具の持つ力を
+合成する秘術を体得したのだ","Through years of journeying, pursuing
+each land's traditions and crafts—
+at journey's end, I learned the secret
+of enhancing equipments' strength.",,Craig
+"この秘術――いや、素直に技術といおう――
+磨き抜いた技術で強化した武具で
+お前も一層の働きをみせてくれ","This secret art... no, let's call it a technique—
+With equipment enhanced by this technique,
+you too can perform even greater deeds.",,Craig
+"このカスタムメイド工房では
+クラフトで強化した武具のさらなる強化と
+不要になった物の再利用ができる","In this Custom-Made Workshop,
+you can further strengthen equipment
+and repurpose those no longer needed.",,Craig
+"もし自分の持ち物で
+進化や再利用ができそうな武具があるか
+一度確認してみてくれ","Check if you have any equipment in your
+possession that can be strengthened or reused.",,Craig
+"オレが長年かかって編み出した技術で
+さらなる武具の力を引き出してやろう","I'll use the techniques I've spent years
+developing to draw out even more power from
+your equipment.",,Craig
+"武具のカスタムメイドで
+さらなる武具の強化を行いたければ
+オレの話をよく聞くことだ","If you want to strengthen your equipment
+further with Custom-made Arms,
+you'd better listen to what I have to say.",,Craig
+"きっと、今はその時ではないのだろう
+お前が俺の話を聞きたくなった時でいい
+またここに来るといい――","Perhaps now is not the time.
+Come back when you're ready to listen.
+I'll be here...",,Craig
+"今、お前に話せることは
+これで全部だ、な――",That's all I can tell you for now...,,Craig
+"ここまでオレの話を静かに
+聞いてくれたお前のまなざし――
+その輝きは、昔のオレにそっくりだった","Your patient gaze as you heard
+my whole story through...
+It mirrors how I looked in my youth.",,Craig
+"そうだ――オレが鍛錬に使った
+装備をお前にやろう！！
+ぜひ大切に使ってくれ","Right - I'll give you the gear
+I used for training!!
+Treasure it properly.",,Craig
+"オレに何か用か？
+今は工房の準備で忙しいんだ","Do you need something?
+I'm busy preparing the workshop.",,Craig
+"お前は新人覚者か？
+――丁度いい
+<STG 201>の<NPC 4>に
+<NPC 1047>が長旅から戻ったと伝えてくれ","Are you a new Arisen?
+—Perfect.
+Tell <NPC 4> in <STG 201> that 
+<NPC 1047> has returned from a long journey.",,Craig
+"それだけいえばわかる
+頼んだぞ","That's all you need to say.
+I'm counting on you.",,Craig
+"<STG 201>の<NPC 4>に
+<NPC 1047>が長旅から戻ったと伝えてくれ","Tell <NPC 4> in <STG 201> that 
+<NPC 1047> has returned from a long journey.",,Craig
+"それだけいえばわかる
+頼んだぞ","That's all you need to say.
+I'm counting on you.",,Craig
+"<NPC 1047>が長旅から戻っただと？
+あやつめ、まともに神殿に戻る気があったのか！","So <NPC 1047> finally came back?
+Who knew he'd actually 
+return to the temple!",,Joseph
+"まあいい、神殿に戻ったということは――
+武具強化の秘術を体得してきたということだ
+これはレスタニアの覚者にとって朗報となろう","Very well. Returning to the temple means...
+He's mastered the secret art of enhancement.
+This is good news for Lestania's Arisen.",,Joseph
+"<NPC 1047>に伝えてやってくれ
+これからレスタニアの覚者のために
+武具の探求をサポートするように、とな","Tell <NPC 1047> to support Lestania's Arisen in
+their pursuit of more powerful equipment.",,Joseph
+"<NPC 1047>の素性について
+詳しく聞きたいだと？","You want to know more
+about <NPC 1047>'s background?",,Joseph
+"<NPC 1047>は剛腕でならした覚者だ
+腕っぷしも強かったが、向上心も人一倍強い上に
+職人気質な――要するに、頑固者だ","<NPC 1047> is an Arisen renowned for his strength.
+He was strong, but his drive to improve was even
+stronger—a craftsman at heart. 
+In short, very stubborn.",,Joseph
+"武具についての勉強をしていると思ったら
+ある日、「武具をより強化する術を探る」と
+言い残して勝手に旅立ってしまったのだ","One day, while studying equipment, he declared
+'I'll find a way to make it even stronger,'
+and left on a journey without a word.",,Joseph
+"旅の話は
+<NPC 1047>から直接聞くがいい
+ちなみに――ああ見えて
+話好きだから我慢して聞くようにな","You should hear the tale of the journey
+directly from <NPC 1047>. 
+By the way...
+Despite appearances, he loves to talk.
+Brace yourself.",,Joseph
+"旅の話は
+<NPC 1047>から直接聞くがいい
+ちなみに――ああ見えて
+話好きだから我慢して聞くようにな","You should hear the tale of the journey
+directly from <NPC 1047>. 
+By the way...
+Despite appearances, he loves to talk.
+Brace yourself.",,Joseph
